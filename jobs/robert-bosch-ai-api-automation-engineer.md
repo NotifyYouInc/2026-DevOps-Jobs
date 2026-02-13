@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# AI API Automation Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000107590984-ai-api-automation-engineer) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Robert Bosch was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

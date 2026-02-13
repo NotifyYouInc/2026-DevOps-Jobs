@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# Cloud Engineer at Cboe
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Cboe](https://scoutify.ai/companies/cboe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Cloud-Engineer_R-4290) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Cboe was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

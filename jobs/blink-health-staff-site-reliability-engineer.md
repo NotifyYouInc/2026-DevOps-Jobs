@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# Staff Site Reliability Engineer at Blink Health
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8401065002) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Blink Health was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# Platform Engineer Intern at ResMed
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | San Diego, California, United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Platform-Engineer-Intern_JR_047751) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at ResMed was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

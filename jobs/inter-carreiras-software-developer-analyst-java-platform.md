@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# SOFTWARE DEVELOPER ANALYST JAVA - Platform  at Inter Carreiras
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4646604005?gh_jid=4646604005) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Inter Carreiras was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

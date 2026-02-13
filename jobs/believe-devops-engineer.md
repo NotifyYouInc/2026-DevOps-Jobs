@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# DevOps Engineer at Believe
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Arkansas, US |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000107598965-devops-engineer) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Believe was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

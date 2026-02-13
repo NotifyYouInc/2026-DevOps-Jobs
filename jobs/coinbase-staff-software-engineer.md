@@ -1,16 +1,16 @@
-# Développeur Full Stack - Expertise DevOps H/F at Everience
+# Staff Software Engineer at Coinbase
 
 | Field | Details |
 |-------|---------|
-| Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490955-developpeur-full-stack-expertise-devops-hf) |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/7227603?gh_jid=7227603) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This software engineer position at Coinbase was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
