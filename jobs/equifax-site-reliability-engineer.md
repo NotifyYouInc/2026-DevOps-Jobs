@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Site-Reliability-Engineer_J00174073-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Site-Reliability-Engineer_J00173264) |
 
 ## About This Role
 
-This operations position at Equifax was posted on 2026-02-04.
+This software engineer position at Equifax was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

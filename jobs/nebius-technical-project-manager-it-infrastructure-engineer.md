@@ -1,16 +1,16 @@
-# Technical Project Manager / IT Infrastructure Engineer at Nebius
+# Technical Project Manager / IT Infrastructure Engineer  at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | France |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4753448101) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4756967101) |
 
 ## About This Role
 
-This software engineer position at Nebius was posted on 2026-02-04.
+This software engineer position at Nebius was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

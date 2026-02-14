@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000107267245-working-student-cloud-engineering-mfx) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000107682825-working-student-cloud-engineering-mfx) |
 
 ## About This Role
 
-This devops engineer position at Scalable Capital was posted on 2026-02-04.
+This devops engineer position at Scalable Capital was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
