@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | Quito, Pichincha, Ecuador |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7585732?gh_jid=7585732) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7591314?gh_jid=7591314) |
 
 ## About This Role
 
-This software engineer position at Thoughtworks was posted on 2026-02-04.
+This software engineer position at Thoughtworks was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107271531-senior-devsecops-engineer) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108239753-senior-devsecops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-02-04.
+This devops engineer position at Talan was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

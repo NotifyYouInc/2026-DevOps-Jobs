@@ -1,16 +1,16 @@
-# Associate Systems Engineer  at Visa International Service Association
+# Associate Systems Engineer at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Operations |
+| Location | Basingstoke, England, United Kingdom |
+| Category | Software Engineer |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107497525-associate-systems-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107549725-associate-systems-engineer) |
 
 ## About This Role
 
-This operations position at Visa International Service Association was posted on 2026-02-05.
+This software engineer position at Visa International Service Association was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

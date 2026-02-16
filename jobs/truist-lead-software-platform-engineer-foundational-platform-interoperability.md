@@ -1,16 +1,16 @@
-# Lead Software Platform Engineer – Foundational Platform & Interoperability at Truist
+# Lead Software Platform Engineer-Foundational Platform & Interoperability at Truist
 
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Lead-Software-Platform-Engineer---Foundational-Platform---Interoperability_R0110951) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Lead-Software-Platform-Engineer-Foundational-Platform---Interoperability_R0111042-1) |
 
 ## About This Role
 
-This software engineer position at Truist was posted on 2026-02-04.
+This software engineer position at Truist was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
