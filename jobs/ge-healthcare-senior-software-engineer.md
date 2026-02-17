@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Senior-Software-Engineer_R4035719-1) |
 
 ## About This Role
 
-This software engineer position at GE HealthCare was posted on 2026-02-06.
+This devops engineer position at GE HealthCare was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

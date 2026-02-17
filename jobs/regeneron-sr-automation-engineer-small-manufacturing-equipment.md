@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Limerick, Munster, Ireland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/Limerick/Sr-Automation-Engineer---Small-Manufacturing-Equipment_R44805-1) |
 
 ## About This Role
 
-This software engineer position at Regeneron was posted on 2026-02-06.
+This devops engineer position at Regeneron was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

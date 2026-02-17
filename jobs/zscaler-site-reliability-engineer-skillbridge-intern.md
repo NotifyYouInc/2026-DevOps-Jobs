@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5045817007) |
 
 ## About This Role
 
-This software engineer position at Zscaler was posted on 2026-02-06.
+This devops engineer position at Zscaler was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

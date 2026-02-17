@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Location | Omaha, Nebraska, United States |
+| Category | Operations |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4049208009) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4118250009) |
 
 ## About This Role
 
-This software engineer position at Gallup was posted on 2026-02-05.
+This operations position at Gallup was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

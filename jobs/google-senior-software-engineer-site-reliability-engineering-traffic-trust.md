@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/118822721013326534-senior-software-engineer-site-reliability-engineering-traffic-trust?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-09.
+This devops engineer position at Google was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

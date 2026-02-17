@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taiwan |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Linkou-Taiwan/D-E---DUV-and-YieldStar--YS--Electrical-Design-Engineer---Linkou_J-00320900) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000107677565-senior-google-cloud-devops-engineer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-06.
+This devops engineer position at Devoteam was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

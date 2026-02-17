@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000108151645-test-automation-engineer) |
 
 ## About This Role
 
-This software engineer position at Delivery Hero was posted on 2026-02-09.
+This devops engineer position at Delivery Hero was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intrinsic](https://scoutify.ai/companies/intrinsicrobotics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://boards.greenhouse.io/intrinsicrobotics/jobs/5791409004?gh_jid=5791409004) |
 
 ## About This Role
 
-This software engineer position at Intrinsic was posted on 2026-02-06.
+This devops engineer position at Intrinsic was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ansbach, Bavaria, Germany |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Ansbach/Senior-Data-Engineer--all-genders-_2723400) |
 
 ## About This Role
 
-This data engineer position at Zalando was posted on 2026-02-06.
+This devops engineer position at Zalando was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

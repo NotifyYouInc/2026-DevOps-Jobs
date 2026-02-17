@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ActiveCampaign](https://scoutify.ai/companies/activecampaign-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/activecampaign/ee9c0851-4235-4b2e-a966-ce217c199a0e) |
 
 ## About This Role
 
-This software engineer position at ActiveCampaign was posted on 2026-02-06.
+This devops engineer position at ActiveCampaign was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

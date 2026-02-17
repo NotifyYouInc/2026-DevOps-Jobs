@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Grenoble, Rhône-Alpes, France |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000108244341-automation-engineer-mf) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-09.
+This devops engineer position at ALTEN was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

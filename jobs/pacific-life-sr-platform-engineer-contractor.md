@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Sr-Platform-Engineer---Contractor-_R16207) |
 
 ## About This Role
 
-This software engineer position at Pacific Life was posted on 2026-02-06.
+This devops engineer position at Pacific Life was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

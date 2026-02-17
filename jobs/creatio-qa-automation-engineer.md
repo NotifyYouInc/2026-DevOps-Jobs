@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Creatio](https://scoutify.ai/companies/creatio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ukraine |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.eu.lever.co/creatio/d090a4db-8bd7-45ee-9886-290a939c7939) |
 
 ## About This Role
 
-This software engineer position at Creatio was posted on 2026-02-09.
+This devops engineer position at Creatio was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://www.metacareers.com/profile/job_details/1205149321760935) |
 
 ## About This Role
 
-This software engineer position at Meta was posted on 2026-02-08.
+This devops engineer position at Meta was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

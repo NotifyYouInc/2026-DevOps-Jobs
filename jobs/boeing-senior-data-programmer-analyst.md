@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-Data-Programmer-Analyst_JR2026494074-2) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-07.
+This devops engineer position at Boeing was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bensheim, Hesse, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107676447-software-test-automation-engineer-medizintechnik-all-gender) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-06.
+This devops engineer position at ALTEN was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

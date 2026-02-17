@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108226758-platform-automation-engineer-devops) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-02-09.
+This devops engineer position at Experian was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

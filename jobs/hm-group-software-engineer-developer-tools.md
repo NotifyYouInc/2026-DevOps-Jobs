@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000108131505-software-engineer-developer-tools) |
 
 ## About This Role
 
-This software engineer position at H&M Group was posted on 2026-02-09.
+This devops engineer position at H&M Group was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

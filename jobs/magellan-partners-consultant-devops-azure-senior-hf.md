@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000107766826-consultant-devops-azure-senior-hf) |
 
 ## About This Role
 
-This software engineer position at Magellan Partners was posted on 2026-02-06.
+This devops engineer position at Magellan Partners was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

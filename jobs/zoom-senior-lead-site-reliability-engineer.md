@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-Lead-Site-Reliability-Engineer_R18429) |
 
 ## About This Role
 
-This software engineer position at Zoom was posted on 2026-02-06.
+This devops engineer position at Zoom was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

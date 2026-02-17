@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Diego, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Platform-Engineer-Intern_JR_047751) |
 
 ## About This Role
 
-This software engineer position at ResMed was posted on 2026-02-05.
+This devops engineer position at ResMed was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

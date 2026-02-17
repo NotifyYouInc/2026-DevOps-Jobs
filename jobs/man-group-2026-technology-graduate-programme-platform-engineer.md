@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Man Group](https://scoutify.ai/companies/mangroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/mangroup/jobs/4682393101) |
 
 ## About This Role
 
-This software engineer position at Man Group was posted on 2026-02-06.
+This devops engineer position at Man Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

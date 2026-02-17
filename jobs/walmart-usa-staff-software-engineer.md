@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Denver-CO/XMLNAME--USA--Staff--Software-Engineer_R-2395837-1) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-06.
+This devops engineer position at Walmart was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Grens-Switzerland/Associate-Application-Engineer-I--f-d-m-_R1303908) |
 
 ## About This Role
 
-This software engineer position at Danaher was posted on 2026-02-07.
+This devops engineer position at Danaher was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

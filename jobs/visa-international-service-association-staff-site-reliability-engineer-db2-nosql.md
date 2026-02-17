@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108132225-staff-site-reliability-engineer-db2-nosql) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-09.
+This devops engineer position at Visa International Service Association was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

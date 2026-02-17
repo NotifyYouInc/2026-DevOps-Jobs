@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000107672965-senior-net-developer) |
 
 ## About This Role
 
-This software engineer position at Sportradar was posted on 2026-02-06.
+This devops engineer position at Sportradar was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

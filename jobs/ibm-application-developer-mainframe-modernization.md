@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=91754) |
 
 ## About This Role
 
-This software engineer position at IBM was posted on 2026-02-09.
+This devops engineer position at IBM was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

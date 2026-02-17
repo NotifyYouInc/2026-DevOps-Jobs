@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Gatos, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/Los-Gatos/Software-Engineer-5---Developer-Automation-Platform_JR36528-1) |
 
 ## About This Role
 
-This software engineer position at Netflix was posted on 2026-02-06.
+This devops engineer position at Netflix was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

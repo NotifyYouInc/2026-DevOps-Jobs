@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bucharest/Yocto-and-DevOps-Intern_R-10061743) |
 
 ## About This Role
 
-This software engineer position at NXP Semiconductors was posted on 2026-02-06.
+This devops engineer position at NXP Semiconductors was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

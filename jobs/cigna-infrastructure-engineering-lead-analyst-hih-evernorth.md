@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Infrastructure-Engineering-Lead-Analyst---HIH---Evernorth_25012089) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-08.
+This devops engineer position at Cigna was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

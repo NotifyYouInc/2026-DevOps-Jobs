@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [d-Matrix](https://scoutify.ai/companies/d-matrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/d-matrix/cd0e8cbc-649a-414c-b82a-d82fba417b4b) |
 
 ## About This Role
 
-This software engineer position at d-Matrix was posted on 2026-02-09.
+This devops engineer position at d-Matrix was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

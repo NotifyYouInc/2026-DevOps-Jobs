@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5111745008) |
 
 ## About This Role
 
-This software engineer position at Anthropic was posted on 2026-02-05.
+This devops engineer position at Anthropic was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

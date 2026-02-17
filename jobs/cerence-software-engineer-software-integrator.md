@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Tokyo/Software-Engineer---Software-Integrator_R0005881) |
 
 ## About This Role
 
-This software engineer position at Cerence was posted on 2026-02-09.
+This devops engineer position at Cerence was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

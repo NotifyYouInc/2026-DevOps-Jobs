@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grafana Labs](https://scoutify.ai/companies/grafana-labs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/grafanalabs/jobs/5796105004) |
 
 ## About This Role
 
-This software engineer position at Grafana Labs was posted on 2026-02-06.
+This devops engineer position at Grafana Labs was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

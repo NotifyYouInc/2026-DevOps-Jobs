@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Quality-Automation-Engineer---Career_J00174296) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-06.
+This devops engineer position at Equifax was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

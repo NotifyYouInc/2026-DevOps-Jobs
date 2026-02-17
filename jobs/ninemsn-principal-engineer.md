@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New South Wales, AU |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000107660812-principal-engineer) |
 
 ## About This Role
 
-This software engineer position at Ninemsn was posted on 2026-02-06.
+This devops engineer position at Ninemsn was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

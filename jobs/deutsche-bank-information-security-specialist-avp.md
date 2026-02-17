@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Information-Security-Specialist--AVP_R0410979) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-06.
+This devops engineer position at Deutsche Bank was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

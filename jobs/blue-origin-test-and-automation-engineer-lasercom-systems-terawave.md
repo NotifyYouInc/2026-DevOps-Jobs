@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Los-Angeles-CA/Test-and-Automation-Engineer---Lasercom-Systems----TeraWave_R59818) |
 
 ## About This Role
 
-This software engineer position at Blue Origin was posted on 2026-02-06.
+This devops engineer position at Blue Origin was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

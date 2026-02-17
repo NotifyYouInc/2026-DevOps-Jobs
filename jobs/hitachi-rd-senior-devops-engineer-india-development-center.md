@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/R-D-Engineer--Technical-lead---India-Devlopment-Center_R0093937) |
 
 ## About This Role
 
-This software engineer position at Hitachi was posted on 2026-02-06.
+This devops engineer position at Hitachi was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Hyderabad-Telangana/Principal-Software-Engineer--Java-AWS-_REQ_47838-1) |
 
 ## About This Role
 
-This software engineer position at Cubic was posted on 2026-02-06.
+This devops engineer position at Cubic was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ada](https://scoutify.ai/companies/ada18?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/ada18/jobs/5044605007) |
 
 ## About This Role
 
-This software engineer position at Ada was posted on 2026-02-05.
+This devops engineer position at Ada was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

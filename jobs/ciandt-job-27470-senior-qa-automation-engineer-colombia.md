@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombia |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/4795a8f0-d9ea-4588-89ed-26f211a578aa) |
 
 ## About This Role
 
-This software engineer position at Ciandt was posted on 2026-02-06.
+This devops engineer position at Ciandt was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

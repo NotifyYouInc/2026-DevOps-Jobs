@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000000848899-senior-workday-platform-engineer-open-to-remote-across-anz) |
 
 ## About This Role
 
-This software engineer position at Canva was posted on 2026-02-06.
+This devops engineer position at Canva was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

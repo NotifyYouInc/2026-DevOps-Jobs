@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cystems Logic](https://scoutify.ai/companies/cystemslogic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CystemsLogicInc1/744000107798907-devops-lead-remote-role-but-consultant-must-reside-in-florida) |
 
 ## About This Role
 
-This software engineer position at Cystems Logic was posted on 2026-02-06.
+This devops engineer position at Cystems Logic was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4535870005&gh_jid=4535870005) |
 
 ## About This Role
 
-This software engineer position at SolarWinds was posted on 2026-02-07.
+This devops engineer position at SolarWinds was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sheffield, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011590856-infra-migration-openshift-engineering-tech-lead) |
 
 ## About This Role
 
-This software engineer position at HelloKindred was posted on 2026-02-09.
+This devops engineer position at HelloKindred was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

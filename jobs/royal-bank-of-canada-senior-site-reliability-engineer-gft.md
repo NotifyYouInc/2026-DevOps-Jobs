@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Halifax, Nova Scotia, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Senior-Site-Reliability-Engineer---GFT_R-0000156670-2) |
 
 ## About This Role
 
-This software engineer position at Royal Bank of Canada was posted on 2026-02-06.
+This devops engineer position at Royal Bank of Canada was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

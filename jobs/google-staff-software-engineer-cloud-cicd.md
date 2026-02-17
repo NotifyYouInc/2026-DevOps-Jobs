@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/122661794710725318-staff-software-engineer-cloud-cicd?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-06.
+This devops engineer position at Google was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

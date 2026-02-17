@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Q2](https://scoutify.ai/companies/q2ebanking?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Bangalore-India/Lead-DevOps-Engineer_REQ-12187) |
 
 ## About This Role
 
-This software engineer position at Q2 was posted on 2026-02-09.
+This devops engineer position at Q2 was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

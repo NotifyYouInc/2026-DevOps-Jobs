@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Arkansas, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000107598965-devops-engineer) |
 
 ## About This Role
 
-This software engineer position at Believe was posted on 2026-02-05.
+This devops engineer position at Believe was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

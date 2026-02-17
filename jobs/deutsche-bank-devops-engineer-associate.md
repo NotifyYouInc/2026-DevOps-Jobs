@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/DevOps-Engineer-Associate_R0423033-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-06.
+This devops engineer position at Deutsche Bank was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

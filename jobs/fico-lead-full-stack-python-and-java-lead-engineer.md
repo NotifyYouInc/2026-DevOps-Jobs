@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Lead-Full-Stack-Python-and-Java-Lead-Engineer_31488) |
 
 ## About This Role
 
-This software engineer position at FICO was posted on 2026-02-09.
+This devops engineer position at FICO was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

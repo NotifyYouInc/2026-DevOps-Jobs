@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000107676257-senior-software-engineer-backend-build-automation-team) |
 
 ## About This Role
 
-This software engineer position at Grab was posted on 2026-02-06.
+This devops engineer position at Grab was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

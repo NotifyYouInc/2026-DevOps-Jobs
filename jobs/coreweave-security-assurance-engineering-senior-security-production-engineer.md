@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://coreweave.com/careers/job?4651859006&board=coreweave&gh_jid=4651859006) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108156756-junior-devops-infraestructure-reliability-engineering) |
 
 ## About This Role
 
-This software engineer position at Talan was posted on 2026-02-09.
+This devops engineer position at Talan was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

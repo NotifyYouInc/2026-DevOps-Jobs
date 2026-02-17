@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reading, England, United Kingdom |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Reading---Arena-Office-VB/Service-Reliability-Engineer_R33131) |
 

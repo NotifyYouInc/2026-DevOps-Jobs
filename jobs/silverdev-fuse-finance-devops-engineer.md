@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Silver.dev](https://scoutify.ai/companies/silver-dev?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Argentina |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/silver/49e70524-1a27-4b83-b025-3aa110d85004) |
 
 ## About This Role
 
-This software engineer position at Silver.dev was posted on 2026-02-09.
+This devops engineer position at Silver.dev was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

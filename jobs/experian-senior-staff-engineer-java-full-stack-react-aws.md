@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108166461-senior-staff-engineer-java-full-stack-react-aws) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-02-09.
+This devops engineer position at Experian was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

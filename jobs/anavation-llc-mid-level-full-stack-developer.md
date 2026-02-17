@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AnaVation LLC](https://scoutify.ai/companies/anavationllc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/anavationllc/daa060c8-5e3c-43c6-954a-38ec476a3c72) |
 
 ## About This Role
 
-This software engineer position at AnaVation LLC was posted on 2026-02-06.
+This devops engineer position at AnaVation LLC was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

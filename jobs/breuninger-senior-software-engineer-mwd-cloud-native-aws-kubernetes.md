@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Breuninger](https://scoutify.ai/companies/breuninger?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000107709501-senior-software-engineer-mwd-cloud-native-aws-kubernetes) |
 
 ## About This Role
 
-This software engineer position at Breuninger was posted on 2026-02-06.
+This devops engineer position at Breuninger was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

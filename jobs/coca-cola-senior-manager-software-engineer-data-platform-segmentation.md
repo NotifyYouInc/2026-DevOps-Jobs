@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Software-Engineer--Data-Platform-Segmentation_R-134645-1) |
 
 ## About This Role
 
-This software engineer position at Coca-Cola was posted on 2026-02-06.
+This devops engineer position at Coca-Cola was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

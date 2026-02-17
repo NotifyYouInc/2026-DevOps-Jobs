@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/QA-Test-Automation-Engineer_R0336758) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-05.
+This devops engineer position at Deutsche Bank was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

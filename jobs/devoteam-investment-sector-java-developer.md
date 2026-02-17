@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Porto, Porto, Portugal |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000107770637-investment-sector-java-developer) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-02-06.
+This devops engineer position at Devoteam was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

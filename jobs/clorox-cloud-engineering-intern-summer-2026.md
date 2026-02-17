@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Durham, North Carolina, United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Durham-NC---USA-Strickland-Bldg/Cloud-Engineering-Intern--Summer-2026-_20742) |
 

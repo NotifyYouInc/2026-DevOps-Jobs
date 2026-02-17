@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/Software-Engineer-III_R-2403643) |
+| Location | San Bruno, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Software-Engineer-III_R-2405367) |
 
 ## About This Role
 
-This software engineer position at Walmart was posted on 2026-02-05.
+This devops engineer position at Walmart was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

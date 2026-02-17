@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Newport, Rhode Island, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Newport-DE-MEDAL/Automation-Engineering-Intern_R10084377) |
 
 ## About This Role
 
-This software engineer position at Air Liquide was posted on 2026-02-06.
+This devops engineer position at Air Liquide was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

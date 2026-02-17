@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000107684330-aws-cloud-engineer-ref5066y) |
 
 ## About This Role
 
-This software engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-06.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

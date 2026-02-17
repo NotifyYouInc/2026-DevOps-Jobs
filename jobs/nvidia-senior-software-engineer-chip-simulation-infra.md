@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Israel |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Beer-Sheva/Senior-Software-Engineer--Chip-Simulation-Infra_JR2012810) |
 
 ## About This Role
 
-This software engineer position at Nvidia was posted on 2026-02-09.
+This devops engineer position at Nvidia was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

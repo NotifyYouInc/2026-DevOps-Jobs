@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7571843) |
 
 ## About This Role
 
-This software engineer position at Referrals Only was posted on 2026-02-06.
+This devops engineer position at Referrals Only was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

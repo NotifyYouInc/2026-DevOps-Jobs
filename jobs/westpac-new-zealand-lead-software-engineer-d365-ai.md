@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wellington, Wellington Region, New Zealand |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Lead-Software-Engineer---D365---AI_JR106291-1) |
 
 ## About This Role
 
-This software engineer position at Westpac New Zealand was posted on 2026-02-08.
+This devops engineer position at Westpac New Zealand was posted on 2026-02-08.
 
 ## Get Real-Time Alerts
 

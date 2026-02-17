@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [CDK](https://scoutify.ai/companies/cdk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://cdk.wd1.myworkdayjobs.com/cdk/job/Hyderabad-TG-IND/Sr-Security-Engineer---Platform_JR8008-1) |
 

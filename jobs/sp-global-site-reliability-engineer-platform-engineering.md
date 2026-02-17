@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Hyderabad-Telangana/Site-Reliability-Engineer--Platform-Engineering_323479-2) |
 
 ## About This Role
 
-This software engineer position at S&P Global was posted on 2026-02-09.
+This devops engineer position at S&P Global was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

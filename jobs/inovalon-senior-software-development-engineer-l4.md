@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7607537003) |
 
 ## About This Role
 
-This software engineer position at Inovalon was posted on 2026-02-06.
+This devops engineer position at Inovalon was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

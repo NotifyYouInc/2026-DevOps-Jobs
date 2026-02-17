@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/US---CO---VIRTUAL/Senior-Platform-Engineering_323985-1) |
 

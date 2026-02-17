@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Hyderabad-Telangana/Lead-SME---DevOps_250156W-1) |
 
 ## About This Role
 
-This software engineer position at Qnity was posted on 2026-02-06.
+This devops engineer position at Qnity was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

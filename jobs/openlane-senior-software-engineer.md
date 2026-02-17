@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Openlane](https://scoutify.ai/companies/kar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mesa, Arizona, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://kar.wd1.myworkdayjobs.com/OPENLANE_Careers/job/Mesa-AZ/Senior-Software-Engineer_R-253578) |
 
 ## About This Role
 
-This software engineer position at Openlane was posted on 2026-02-06.
+This devops engineer position at Openlane was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

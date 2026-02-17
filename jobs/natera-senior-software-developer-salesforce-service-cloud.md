@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Carlos, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5795473004) |
 
 ## About This Role
 
-This software engineer position at Natera was posted on 2026-02-06.
+This devops engineer position at Natera was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

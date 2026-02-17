@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bulgaria |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7623265003) |
 
 ## About This Role
 
-This software engineer position at Careers at Tide was posted on 2026-02-09.
+This devops engineer position at Careers at Tide was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Bragg, North Carolina, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-NC-Fort-Bragg/Systems-Engineer_321925) |
 
 ## About This Role
 
-This software engineer position at CACI was posted on 2026-02-06.
+This devops engineer position at CACI was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

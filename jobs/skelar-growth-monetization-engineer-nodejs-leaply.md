@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-07 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/skelar/e23884ce-dc45-468c-a50a-f07a1781fc05) |
 
 ## About This Role
 
-This software engineer position at SKELAR was posted on 2026-02-07.
+This devops engineer position at SKELAR was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

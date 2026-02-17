@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flora Food Group](https://scoutify.ai/companies/flora-food-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kansas, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8408811002?gh_jid=8408811002) |
 
 ## About This Role
 
-This software engineer position at Flora Food Group was posted on 2026-02-06.
+This devops engineer position at Flora Food Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

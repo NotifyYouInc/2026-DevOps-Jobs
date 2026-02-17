@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taylor, Michigan, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/1530-FM-973-Taylor-TX-USA/Robotic-Systems-Integration-Engineer_R114198-1) |
 
 ## About This Role
 
-This software engineer position at Samsung was posted on 2026-02-06.
+This devops engineer position at Samsung was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

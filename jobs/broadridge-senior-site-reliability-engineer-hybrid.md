@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Markham, Ontario, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Markham-ON/Senior-Site-Reliability-Engineer--Hybrid-_JR1080034) |
 
 ## About This Role
 
-This software engineer position at Broadridge was posted on 2026-02-06.
+This devops engineer position at Broadridge was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

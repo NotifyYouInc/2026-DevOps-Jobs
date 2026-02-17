@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Granada, Andalusia, Spain |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000107723965-devops-engineer-mfd) |
 
 ## About This Role
 
-This software engineer position at T-Systems International was posted on 2026-02-06.
+This devops engineer position at T-Systems International was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

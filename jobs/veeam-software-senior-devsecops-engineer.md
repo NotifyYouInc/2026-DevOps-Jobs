@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Poland |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4776987101) |
 

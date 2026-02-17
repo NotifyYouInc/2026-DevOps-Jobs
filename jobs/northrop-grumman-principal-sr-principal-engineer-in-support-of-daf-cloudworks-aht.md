@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rome, Georgia, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Principal--Sr-Principal-Engineer-in-support-of-DAF-CLOUDworks--AHT-_R10220465) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-02-06.
+This devops engineer position at Northrop Grumman was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

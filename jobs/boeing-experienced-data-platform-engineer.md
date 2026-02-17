@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/IND---Bangalore-India/Experienced-Data-Platform-Engineer_JR2026494324-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-02-06.
+This devops engineer position at Boeing was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netflix](https://scoutify.ai/companies/netflix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://netflix.wd1.myworkdayjobs.com/Netflix/job/USA---Remote/Site-Reliability-Engineer-5---Live-Encoding-SRE_JR38261) |
 
 ## About This Role
 
-This software engineer position at Netflix was posted on 2026-02-06.
+This devops engineer position at Netflix was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

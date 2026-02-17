@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000107667075-senior-data-engineer-aws-databricks-terraform) |
 
 ## About This Role
 
-This data engineer position at Cuscal was posted on 2026-02-06.
+This devops engineer position at Cuscal was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

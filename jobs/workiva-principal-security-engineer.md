@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Workiva](https://scoutify.ai/companies/workiva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Principal-Security-Engineer_R11408) |
 

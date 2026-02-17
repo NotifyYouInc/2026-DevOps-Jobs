@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Delhi, Delhi, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000107718801-module-lead-net-angular-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Clifford Chance was posted on 2026-02-06.
+This devops engineer position at Clifford Chance was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

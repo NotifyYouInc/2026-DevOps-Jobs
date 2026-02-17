@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Jersey, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Full-Stack-Developer---BA4_JR-0000089037) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-06.
+This devops engineer position at Barclays was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

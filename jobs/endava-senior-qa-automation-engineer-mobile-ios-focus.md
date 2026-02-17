@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000107624325-senior-qa-automation-engineer-mobile-ios-focus) |
 
 ## About This Role
 
-This software engineer position at Endava was posted on 2026-02-05.
+This devops engineer position at Endava was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

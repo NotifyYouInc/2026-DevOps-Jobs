@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/Lead-Software-Engineer---Typescript---NestJS_260215) |
 
 ## About This Role
 
-This software engineer position at Blue Yonder was posted on 2026-02-06.
+This devops engineer position at Blue Yonder was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

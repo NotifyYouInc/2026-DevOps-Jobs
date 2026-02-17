@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TIAA](https://scoutify.ai/companies/tiaa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redwood City, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://tiaa.wd1.myworkdayjobs.com/Search/job/Redwood-City-CA-USA/Senior-Systems-Engineer_R260100262) |
 
 ## About This Role
 
-This software engineer position at TIAA was posted on 2026-02-09.
+This devops engineer position at TIAA was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

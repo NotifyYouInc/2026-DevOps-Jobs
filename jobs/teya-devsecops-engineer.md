@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Devops Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/teya/b7538eee-4d82-48a9-942e-5f03df565af8) |
 

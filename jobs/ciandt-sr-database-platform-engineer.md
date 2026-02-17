@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://jobs.lever.co/ciandt/401e5ea5-351e-4b45-9f83-f3e49a8514cf) |
 
 ## About This Role
 
-This software engineer position at Ciandt was posted on 2026-02-06.
+This devops engineer position at Ciandt was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

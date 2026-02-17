@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Pune/SRE-engineer--Data-integrations-_JR105302) |
 
 ## About This Role
 
-This software engineer position at TVH was posted on 2026-02-09.
+This devops engineer position at TVH was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

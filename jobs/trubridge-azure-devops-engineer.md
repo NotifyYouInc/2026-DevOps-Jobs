@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TruBridge](https://scoutify.ai/companies/trubridge?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Remote---US/Azure-DevOps-Engineer_JR102160-1) |
 
 ## About This Role
 
-This software engineer position at TruBridge was posted on 2026-02-06.
+This devops engineer position at TruBridge was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
