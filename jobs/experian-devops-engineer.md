@@ -6,7 +6,7 @@
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | DevOps Engineer |
 | Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107797906-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000107852315-devops-engineer) |
 
 ## About This Role
 

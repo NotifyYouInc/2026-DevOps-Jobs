@@ -1,16 +1,16 @@
-# Senior Software Engineer at Walmart
+# SENIOR, SOFTWARE ENGINEER at Walmart
 
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Software-Engineer_R-2408581-1) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-11/SENIOR--SOFTWARE-ENGINEER_R-2410372) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-02-06.
+This devops engineer position at Walmart was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

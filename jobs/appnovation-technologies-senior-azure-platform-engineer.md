@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appnovation Technologies](https://scoutify.ai/companies/appnovation-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8408602002) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appnovation/jobs/8416175002) |
 
 ## About This Role
 
-This devops engineer position at Appnovation Technologies was posted on 2026-02-06.
+This devops engineer position at Appnovation Technologies was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
