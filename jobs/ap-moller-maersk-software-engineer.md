@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Bangalore/Software-Engineer_R162190) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Bangalore/Software-Engineer_R169302-2) |
 
 ## About This Role
 
-This software engineer position at A.P. Moller - Maersk was posted on 2026-02-04.
+This devops engineer position at A.P. Moller - Maersk was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

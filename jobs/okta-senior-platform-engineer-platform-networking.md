@@ -6,7 +6,7 @@
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7591844?gh_jid=7591844) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7599312?gh_jid=7599312) |
 
 ## About This Role
 

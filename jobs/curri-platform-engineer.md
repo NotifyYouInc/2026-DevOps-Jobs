@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curri](https://scoutify.ai/companies/curri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ventura, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.lever.co/curri/8db987e2-1bfc-4ae4-a958-976db5aecd04) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/curri/jobs/uCoZRER-platform-engineer) |
 
 ## About This Role
 
-This software engineer position at Curri was posted on 2026-02-04.
+This devops engineer position at Curri was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | San José, San José, Costa Rica |
 | Category | Operations |
 | Posted | 2026-02-09 |
-| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/India-Bangalore/Operations-Engineer_R0007272) |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/Costa-Rica-San-Jose/Operations-Engineer_R0007268) |
 
 ## About This Role
 

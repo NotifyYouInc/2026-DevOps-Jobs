@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/122329443698909894-software-engineer-iii-site-reliability-engineering-google-cloud?sort_by=date&page=1) |
+| Location | Pittsburgh, Pennsylvania, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138863102840971974-software-engineer-iii-site-reliability-engineering-google-cloud?sort_by=date&page=1) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-05.
+This devops engineer position at Google was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
