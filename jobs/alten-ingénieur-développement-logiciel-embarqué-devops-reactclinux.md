@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107708219-ingenieur-developpement-logiciel-embarque-devops-reactclinux) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109040724-ingenieur-developpement-logiciel-embarque-devops-reactclinux) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-02-06.
+This devops engineer position at ALTEN was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

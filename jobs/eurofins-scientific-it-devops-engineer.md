@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107539900-it-devops-engineer) |
+| Location | Indaiatuba, São Paulo, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108987625-it-devops-engineer) |
 
 ## About This Role
 
-This software engineer position at Eurofins Scientific was posted on 2026-02-05.
+This devops engineer position at Eurofins Scientific was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

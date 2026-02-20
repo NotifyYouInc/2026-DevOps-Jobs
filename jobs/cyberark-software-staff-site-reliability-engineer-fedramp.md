@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107795573-staff-site-reliability-engineer-fedramp) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109035035-staff-site-reliability-engineer-fedramp) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-06.
+This devops engineer position at CyberArk Software was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

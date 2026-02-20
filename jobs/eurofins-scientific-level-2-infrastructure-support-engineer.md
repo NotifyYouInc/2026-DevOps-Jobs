@@ -1,16 +1,16 @@
-# Level 2 Infrastructure Support Engineer	 at Eurofins Scientific
+# Level 2 Infrastructure Support Engineer  at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107300630-level-2-infrastructure-support-engineer) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108985641-level-2-infrastructure-support-engineer) |
 
 ## About This Role
 
-This customer success position at Eurofins Scientific was posted on 2026-02-04.
+This customer success position at Eurofins Scientific was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

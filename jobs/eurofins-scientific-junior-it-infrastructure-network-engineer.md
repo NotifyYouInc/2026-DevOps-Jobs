@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Indaiatuba, São Paulo, Brazil |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107299975-junior-it-infrastructure-network-engineer) |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108987915-junior-it-infrastructure-network-engineer) |
 
 ## About This Role
 
-This operations position at Eurofins Scientific was posted on 2026-02-04.
+This devops engineer position at Eurofins Scientific was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
