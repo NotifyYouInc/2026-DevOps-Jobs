@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/DevOps-Engineer_R-00175725) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Negeve-Israel/DevOps-Engineer_R-00175893) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-10.
+This devops engineer position at Leidos was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

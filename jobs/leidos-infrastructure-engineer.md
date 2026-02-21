@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Huntingdon, England, United Kingdom |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Engineer_R-00175435) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/Infrastructure-Engineer_R-00175843) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-09.
+This devops engineer position at Leidos was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

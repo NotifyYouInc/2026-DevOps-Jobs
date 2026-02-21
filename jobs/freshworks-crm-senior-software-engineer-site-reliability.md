@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108753795-senior-software-engineer-site-reliability) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108955663-senior-software-engineer-site-reliability) |
 
 ## About This Role
 
-This devops engineer position at Freshworks CRM was posted on 2026-02-11.
+This devops engineer position at Freshworks CRM was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 
