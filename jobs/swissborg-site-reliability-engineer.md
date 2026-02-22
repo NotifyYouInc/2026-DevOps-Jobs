@@ -1,16 +1,16 @@
-# Senior Cloud Engineer - ARS Team at CyberArk Software
+# Site Reliability Engineer at SwissBorg
 
 | Field | Details |
 |-------|---------|
-| Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [SwissBorg](https://scoutify.ai/companies/swissborg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
 | Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109349805-senior-cloud-engineer-ars-team) |
+| Apply | [View on company site](https://jobs.lever.co/swissborg/065d42ce-52c5-45a0-ac53-ea4851a2f60b) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-14.
+This devops engineer position at SwissBorg was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 
