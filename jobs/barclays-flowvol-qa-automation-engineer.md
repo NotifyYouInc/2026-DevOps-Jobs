@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# FlowVol QA Automation Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
+| Category | DevOps Engineer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=61583) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/FlowVol-QA-Automation-Engineer_JR-0000092117) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This devops engineer position at Barclays was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

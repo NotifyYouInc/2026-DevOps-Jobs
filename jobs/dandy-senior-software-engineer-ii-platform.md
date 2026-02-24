@@ -1,16 +1,16 @@
-# Stage de fin d'études - Platform Engineer (DevOps) - H/F at SIA
+# Senior Software Engineer II, Platform at Dandy
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Dandy](https://scoutify.ai/companies/dandy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | DevOps Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109580906-stage-de-fin-detudes-platform-engineer-devops-hf) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/dandy/12bed607-fa71-4588-a84b-cae496f8ecf2) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at Dandy was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

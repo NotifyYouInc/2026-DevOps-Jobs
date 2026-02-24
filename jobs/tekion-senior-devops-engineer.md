@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Senior DevOps Engineer at Tekion
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
+| Company | [Tekion](https://scoutify.ai/companies/tekion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=61583) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tekion/jobs/7627913003) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This engineering manager position at Tekion was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

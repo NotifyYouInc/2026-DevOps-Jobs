@@ -1,16 +1,16 @@
-# Stage de fin d'études - Platform Engineer (DevOps) - H/F at SIA
+# Sr Software Engineer - DevOps at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | North Chicago, Illinois, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109580906-stage-de-fin-detudes-platform-engineer-devops-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011700416-sr-software-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at AbbVie was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Stage de fin d'études - Platform Engineer (DevOps) - H/F at SIA
+# Analyst I Software Engineering at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109580906-stage-de-fin-detudes-platform-engineer-devops-hf) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51556099) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at DXC Technology was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

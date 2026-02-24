@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Data Center Technician 2 at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Malaysia |
+| Category | Technical Writer |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=61583) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#323742) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This technical writer position at Oracle was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

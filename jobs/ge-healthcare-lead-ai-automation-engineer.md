@@ -1,16 +1,16 @@
-# Stage de fin d'études - Platform Engineer (DevOps) - H/F at SIA
+# Lead AI Automation Engineer at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Haifa, Haifa, Israel |
 | Category | DevOps Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109580906-stage-de-fin-detudes-platform-engineer-devops-hf) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Lead-AI-Automation-Engineer_R4036332-1) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at GE HealthCare was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

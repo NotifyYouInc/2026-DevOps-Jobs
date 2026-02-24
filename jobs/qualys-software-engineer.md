@@ -1,16 +1,16 @@
-# Stage de fin d'études - Platform Engineer (DevOps) - H/F at SIA
+# Software Engineer at Qualys
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109580906-stage-de-fin-detudes-platform-engineer-devops-hf) |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Software-Engineer--AI-ML_R0004067) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at Qualys was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

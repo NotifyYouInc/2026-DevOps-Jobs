@@ -1,16 +1,16 @@
-# Platform Engineer (DevOps) - H/F at SIA
+# Build Engineer, Turbomachinery at Radiant
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Company | [Radiant](https://scoutify.ai/companies/radiant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581486-platform-engineer-devops-hf) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/radiant/jobs/4663047005) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-02-16.
+This devops engineer position at Radiant was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

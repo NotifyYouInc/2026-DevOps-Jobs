@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Senior Automation Engineer, CX at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
+| Category | Industrial Automation |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=61583) |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4782991101?gh_jid=4782991101) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This industrial automation position at NiCE was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

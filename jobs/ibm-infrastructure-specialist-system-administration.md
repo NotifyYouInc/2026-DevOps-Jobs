@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Infrastructure Specialist-System Administration at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
+| Location | Haryana, IN |
+| Category | Database Administration |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=61583) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93655) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-17.
+This database administration position at IBM was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
