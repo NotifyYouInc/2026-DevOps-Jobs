@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000109179562-devops-engineer-ref4950n) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000109664115-devops-engineer-ref4950n) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-13.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

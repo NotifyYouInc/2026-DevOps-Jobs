@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Devops Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/73b1320f-15ac-4042-b69c-61f4a33c2b60) |
+| Category | Security Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/54310194-769a-4c4b-b045-c3f6637ef2d6) |
 
 ## About This Role
 
-This devops engineer position at Deel was posted on 2026-02-05.
+This security engineer position at Deel was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

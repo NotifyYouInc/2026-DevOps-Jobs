@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Dallas, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/Senior--Software-Engineer_R-2405701) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Dallas-TX/XMLNAME--USA--Senior--Software-Engineer_R-2209620-1) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-02-12.
+This devops engineer position at Walmart was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

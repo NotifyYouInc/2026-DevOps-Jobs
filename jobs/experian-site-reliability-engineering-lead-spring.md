@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108441920-site-reliability-engineering-lead-spring) |
+| Location | Nottingham, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000109652370-site-reliability-engineering-lead-spring) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-02-10.
+This engineering manager position at Experian was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000108420554-staff-systems-engineer) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Database Administration |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109752536-staff-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-02-10.
+This database administration position at ServiceNow was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

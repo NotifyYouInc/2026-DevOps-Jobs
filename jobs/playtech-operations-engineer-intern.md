@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Operations |
 | Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000109191085-operations-engineer-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000109239451-operations-engineer-intern) |
 
 ## About This Role
 
