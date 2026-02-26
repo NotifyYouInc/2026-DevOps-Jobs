@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Platform-Engineer_J00173233-1) |
+| Location | Santiago, Santiago Metropolitan, Chile |
+| Category | DevOps Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CHL-Santiago-Technology-Center/Platform-Engineer_J00174635) |
 
 ## About This Role
 
-This software engineer position at Equifax was posted on 2026-02-05.
+This devops engineer position at Equifax was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

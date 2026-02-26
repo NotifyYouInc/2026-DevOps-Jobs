@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Roseville, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109301127-staff-devops-engineer) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109793548-staff-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Western Digital was posted on 2026-02-13.
+This devops engineer position at Western Digital was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

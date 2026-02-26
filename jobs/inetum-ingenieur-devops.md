@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | La Chapelle-sur-Erdre, Pays de la Loire, France |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000108931875-ingenieur-devops) |
+| Location | Saint-Ouen, Île-de-France, France |
+| Category | Technical Writer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109917396-ingenieur-devops) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-12.
+This technical writer position at Inetum was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

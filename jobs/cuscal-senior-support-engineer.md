@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000109117444-senior-support-engineer) |
+| Category | Technical Writer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000110059778-senior-support-engineer) |
 
 ## About This Role
 
-This customer success position at Cuscal was posted on 2026-02-13.
+This technical writer position at Cuscal was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

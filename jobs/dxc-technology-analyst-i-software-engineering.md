@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51556099) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Analyst-I-Software-Engineering_51569481) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-02-16.
+This devops engineer position at DXC Technology was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

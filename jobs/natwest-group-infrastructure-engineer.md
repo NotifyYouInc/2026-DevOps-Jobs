@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Infrastructure-Engineer_R-00272635) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/London/Infrastructure-Engineer_R-00271434-1) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-06.
+This devops engineer position at NatWest Group was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

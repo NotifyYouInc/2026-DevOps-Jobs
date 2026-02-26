@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107544369-consultant-devops-kubernetes) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109985806-consultant-devops-kubernetes) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-05.
+This devops engineer position at ALTEN was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

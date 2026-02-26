@@ -1,16 +1,16 @@
-# Associate Principal Engineer (Dotnet Fullstack) at Nagarro
+# Associate Principal Engineer, Dotnet Fullstack at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Not specified |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109638025-associate-principal-engineer-dotnet-fullstack) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109900735-associate-principal-engineer-dotnet-fullstack) |
 
 ## About This Role
 
-This frontend engineer position at Nagarro was posted on 2026-02-17.
+This frontend engineer position at Nagarro was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

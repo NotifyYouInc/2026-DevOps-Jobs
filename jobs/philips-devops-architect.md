@@ -1,16 +1,16 @@
-# DevOps Architect at Philips
+# Devops Architect at Philips
 
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/DevOps-Architect_574875-1) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Devops-Architect_575928-1) |
 
 ## About This Role
 
-This devops engineer position at Philips was posted on 2026-02-11.
+This devops engineer position at Philips was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
