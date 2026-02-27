@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Irvine, California, United States |
+| Location | 2 locations |
 | Category | Engineering Manager |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/Platform-Engineering-Manager_JR6176-1) |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/Platform-Engineering-Manager_JR6174-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93941) |
+| Location | Hyderabad, Telangana, India |
+| Category | Frontend Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93952) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-02-13.
+This frontend engineer position at IBM was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

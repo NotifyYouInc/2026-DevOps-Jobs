@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7607953968303982901/detail) |
+| Location | San Jose, California, United States |
+| Category | Security Engineer |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7607953529833572613/detail) |
 
 ## About This Role
 
-This soc & incident response position at TikTok was posted on 2026-02-17.
+This security engineer position at TikTok was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 

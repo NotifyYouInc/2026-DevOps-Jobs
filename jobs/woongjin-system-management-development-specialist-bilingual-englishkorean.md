@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Jersey, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109763115-system-management-development-specialist-bilingual-englishkorean) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110265566-system-management-development-specialist-bilingual-englishkorean) |
 
 ## About This Role
 
-This it & systems administration position at Woongjin was posted on 2026-02-17.
+This devops engineer position at Woongjin was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

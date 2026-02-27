@@ -5,12 +5,12 @@
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000108715096-devops-hf) |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000110168219-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at SEPTEO was posted on 2026-02-11.
+This devops engineer position at SEPTEO was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
