@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Edinburgh-5th-Floor-Exchange-Tower/Senior-DevOps-Engineer_R0112127) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-DevOps-Engineer_R0116592) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-02-18.
+This devops engineer position at LSEG was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

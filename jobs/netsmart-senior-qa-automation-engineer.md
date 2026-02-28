@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Netsmart](https://scoutify.ai/companies/ntst?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Senior-QA-Automation-Engineer_R015037) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://ntst.wd1.myworkdayjobs.com/careers/job/Bengaluru-India/Senior-QA-Automation-Engineer_R014982) |
 
 ## About This Role
 
-This software engineer position at Netsmart was posted on 2026-02-05.
+This devops engineer position at Netsmart was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
