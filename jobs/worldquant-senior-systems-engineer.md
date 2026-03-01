@@ -1,16 +1,16 @@
-# DevOps Engineer at Booz Allen
+# Senior Systems Engineer  at WorldQuant
 
 | Field | Details |
 |-------|---------|
-| Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Company | [WorldQuant](https://scoutify.ai/companies/worldquant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0234440) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/worldquant/jobs/4653103006) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-02-20.
+This devops engineer position at WorldQuant was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
