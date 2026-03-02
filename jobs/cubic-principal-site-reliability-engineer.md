@@ -1,16 +1,16 @@
-# Senior Software Engineer - Site Reliability at Freshworks CRM
+# Principal Site Reliability Engineer at Cubic
 
 | Field | Details |
 |-------|---------|
-| Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110673415-senior-software-engineer-site-reliability) |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/Hyderabad-Telangana/Principal-Site-Reliability-Engineer_REQ_47890-1) |
 
 ## About This Role
 
-This database administration position at Freshworks CRM was posted on 2026-02-23.
+This devops engineer position at Cubic was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
