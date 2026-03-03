@@ -1,0 +1,22 @@
+# HIP Developer Experience Lead for Internal Cloud at HelloKindred
+
+| Field | Details |
+|-------|---------|
+| Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Sheffield, England, United Kingdom |
+| Category | Technical Writer |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011796126-hip-developer-experience-lead-for-internal-cloud) |
+
+## About This Role
+
+This technical writer position at HelloKindred was posted on 2026-02-23.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

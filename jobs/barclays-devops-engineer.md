@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/DevOps-Engineer_JR-0000087171-1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/DevOps-Engineer_JR-0000078037) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-02-11.
+This devops engineer position at Barclays was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

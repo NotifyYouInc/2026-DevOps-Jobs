@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pasco, Washington, United States |
+| Location | Houston, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pasco-WA/Automation-Engineer_REQ488060-1) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Automation-Engineer_REQ488631) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-02-19.
+This industrial automation position at JLL was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

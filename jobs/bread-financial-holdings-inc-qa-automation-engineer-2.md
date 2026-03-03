@@ -1,16 +1,16 @@
-# QA Automation Engineer, 2 at Bread Financial Holdings, Inc.
+# QA Automation Engineer 2 at Bread Financial Holdings, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [Bread Financial Holdings, Inc.](https://scoutify.ai/companies/bread-financial-holdings-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/QA-Automation-Engineer--2_R1012166-1) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_india/job/Bangalore-India/QA-Automation-Engineer-2_R1011858) |
 
 ## About This Role
 
-This devops engineer position at Bread Financial Holdings, Inc. was posted on 2026-02-18.
+This devops engineer position at Bread Financial Holdings, Inc. was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

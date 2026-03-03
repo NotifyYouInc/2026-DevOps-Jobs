@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000109296175-site-reliability-engineer) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000110800977-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-13.
+This devops engineer position at CyberArk Software was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
