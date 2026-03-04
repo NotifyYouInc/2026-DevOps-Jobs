@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Database Administration |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#327365) |
+| Location | India |
+| Category | DevOps Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#308351) |
 
 ## About This Role
 
-This database administration position at Oracle was posted on 2026-02-19.
+This devops engineer position at Oracle was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

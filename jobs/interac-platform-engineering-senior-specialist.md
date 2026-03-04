@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Interac](https://scoutify.ai/companies/interac?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Database Administration |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Platform-Engineering--Senior-Specialist_REQ-2132) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Platform-Services--Specialist_REQ-2031) |
 
 ## About This Role
 
-This database administration position at Interac was posted on 2026-02-20.
+This devops engineer position at Interac was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

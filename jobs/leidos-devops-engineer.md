@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/DevOps-Engineer_R-00176486) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/DevOps-Engineer_R-00176721-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-20.
+This devops engineer position at Leidos was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Automation Engineer at Flora Food Group
+#  Senior Automation Engineer at Flora Food Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Flora Food Group](https://scoutify.ai/companies/flora-food-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kansas, US |
 | Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8431400002?gh_jid=8431400002) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8435284002?gh_jid=8435284002) |
 
 ## About This Role
 
-This industrial automation position at Flora Food Group was posted on 2026-02-20.
+This industrial automation position at Flora Food Group was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

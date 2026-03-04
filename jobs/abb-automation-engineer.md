@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Vaasa-Ostrobothnia-Finland/Automation-Engineer_JR00023288) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Automation-Engineer_JR00023129) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-02-20.
+This industrial automation position at ABB was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

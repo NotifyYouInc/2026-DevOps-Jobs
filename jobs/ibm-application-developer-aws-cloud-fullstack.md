@@ -1,12 +1,12 @@
-# Application Developer-AWS Cloud Fullstack at IBM
+# Application Developer-AWS Cloud FullStack at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Pune, Maharashtra, India |
 | Category | Frontend Engineer |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96013) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95970) |
 
 ## About This Role
 

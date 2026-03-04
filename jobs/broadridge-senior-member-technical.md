@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1080436) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Hyderabad-Hi-Tec-City/Senior-Member-Technical_JR1076546-2) |
 
 ## About This Role
 
-This devops engineer position at Broadridge was posted on 2026-02-17.
+This devops engineer position at Broadridge was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

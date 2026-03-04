@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Bangalore-India/Software-Engineer-II_10141493-1) |
+| Location | New York City, New York, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II_10143239) |
 
 ## About This Role
 
-This frontend engineer position at Disney was posted on 2026-02-17.
+This devops engineer position at Disney was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Senior-Service-Reliability-Engineer_R30410) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Senior-Service-Reliability-Engineer_R33443) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-02-20.
+This devops engineer position at Amadeus was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

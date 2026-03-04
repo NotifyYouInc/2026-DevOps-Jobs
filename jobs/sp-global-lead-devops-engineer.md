@@ -1,16 +1,16 @@
-# Lead DevOps Engineer at S&P Global
+# Lead Devops Engineer at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Amsterdam-NLD/Lead-DevOps-Engineer_323453-2) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Bengaluru-Karnataka/Lead-Devops-Engineer_326083) |
 
 ## About This Role
 
-This devops engineer position at S&P Global was posted on 2026-02-09.
+This devops engineer position at S&P Global was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

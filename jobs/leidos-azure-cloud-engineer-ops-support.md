@@ -1,16 +1,16 @@
-# ​AZURE Cloud Engineer Ops Support at Leidos
+# ​Azure Cloud Engineer Ops Support at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Technical Writer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Montgomery-AL/XMLNAME--AZURE-Cloud-Engineer-Ops-Support_R-00176142) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/XMLNAME--Azure-Cloud-Engineer-Ops-Support_R-00176702) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-02-17.
+This technical writer position at Leidos was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

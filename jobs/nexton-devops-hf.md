@@ -1,16 +1,16 @@
-# DevOps H/F at Nexton
+# Devops H/F at Nexton
 
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000110434345-devops-hf) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000111094501-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Nexton was posted on 2026-02-20.
+This devops engineer position at Nexton was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
