@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000109347235-devops-engineer-nginx-english-speaking) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111305580-devops-engineer-nginx-english-speaking) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-02-14.
+This devops engineer position at Eurofins Scientific was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

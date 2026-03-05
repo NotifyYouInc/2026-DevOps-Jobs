@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dakar, Dakar, Senegal |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000107507355-devops-senior-kubernetes) |
+| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Category | DevOps Engineer |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000111372967-devops-senior-kubernetes) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-02-05.
+This devops engineer position at ALTEN was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Beersheba, Southern District, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000107694805-senior-devops-engineer) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000111386970-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-06.
+This devops engineer position at CyberArk Software was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

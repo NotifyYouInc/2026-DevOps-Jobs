@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000110274446-machine-learning-engineer) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111525865-machine-learning-engineer) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-02-20.
+This devops engineer position at Grab was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

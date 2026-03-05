@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Red-Hat-Ansible-Developer-Engineer_JR00023823) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Red-Hat-Ansible-Developer-Engineer_JR00026069) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-02-18.
+This devops engineer position at ABB was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

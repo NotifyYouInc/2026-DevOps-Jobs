@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000107091442-staff-software-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111535406-staff-software-engineer) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-02-03.
+This devops engineer position at SIA was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

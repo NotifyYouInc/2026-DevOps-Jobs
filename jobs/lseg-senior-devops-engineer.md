@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest---Iuliu-Maniu-Boulevard/Senior-DevOps-Engineer_R0116592) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-DevOps-Engineer_R0117254-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-02-20.
+This devops engineer position at LSEG was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

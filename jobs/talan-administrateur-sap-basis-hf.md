@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Database Administration |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111049286-administrateur-sap-basis-hf) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000111340248-administrateur-sap-basis-hf) |
 
 ## About This Role
 
-This database administration position at Talan was posted on 2026-02-24.
+This database administration position at Talan was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

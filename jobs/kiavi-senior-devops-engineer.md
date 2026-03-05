@@ -5,12 +5,12 @@
 | Company | [Kiavi](https://scoutify.ai/companies/kiavi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/kiavi/jobs/7629196?gh_jid=7629196) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/kiavi/jobs/7629282?gh_jid=7629282) |
 
 ## About This Role
 
-This devops engineer position at Kiavi was posted on 2026-02-18.
+This devops engineer position at Kiavi was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

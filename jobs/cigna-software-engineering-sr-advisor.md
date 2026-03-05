@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bloomington, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Austin-TX/Software-Engineering-Sr-Advisor_26001689) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomington-MN/Software-Engineering-Sr-Advisor_26001690) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-02-23.
+This devops engineer position at Cigna was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

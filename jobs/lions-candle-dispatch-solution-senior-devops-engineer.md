@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Lions Candle-Dispatch Solution
+# Senior DevOps Engineer at Lions Candle-Dispatch Solution
 
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000110729866-senior-devops-engineer) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000111331266-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-23.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

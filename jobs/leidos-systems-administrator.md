@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Brunswick, Ohio, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Systems-Administrator_R-00174658) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Brunswick-GA/Systems-Administrator_R-00176678) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-02-23.
+This it & systems administration position at Leidos was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

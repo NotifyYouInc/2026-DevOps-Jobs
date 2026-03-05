@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000107052022-senior-full-stack-engineer-frontend) |
+| Category | Frontend Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000111536815-senior-full-stack-engineer-frontend) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-02-03.
+This frontend engineer position at SIA was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
