@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Sr-Software-Engineer_R5032808-2) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Sr-Software-Engineer_R5032973-2) |
 
 ## About This Role
 
-This frontend engineer position at GE Vernova was posted on 2026-02-20.
+This frontend engineer position at GE Vernova was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer at Heidi Health
+# Senior Site Reliability Engineer  at Heidi Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/b60cc816-8a82-434d-96c0-38967402fd39) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/5a0d7a56-bfd0-443d-8123-29db65679a59) |
 
 ## About This Role
 
-This devops engineer position at Heidi Health was posted on 2026-02-23.
+This devops engineer position at Heidi Health was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

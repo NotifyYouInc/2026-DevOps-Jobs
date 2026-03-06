@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Maryland, US |
-| Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Application-Engineer_322133) |
+| Location | Laurel, Maryland, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Laurel/Application-Engineer_322440) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-02-20.
+This frontend engineer position at CACI was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

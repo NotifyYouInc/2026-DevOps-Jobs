@@ -1,16 +1,16 @@
-# Site Reliability Engineer  at Barclays
+# Site Reliability Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Site-Reliability-Engineer-_JR-0000045128) |
+| Location | Prague, Prague, Czechia |
+| Category | Engineering Manager |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Site-Reliability-Engineer_JR-0000081498) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-02-04.
+This engineering manager position at Barclays was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

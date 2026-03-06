@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Houston-TX/Automation-Engineer_REQ488631) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Automation-Engineer_REQ489654) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-02-20.
+This industrial automation position at JLL was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

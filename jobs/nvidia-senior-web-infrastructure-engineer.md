@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Web-Infrastructure-Engineer_JR2013400) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Web-Infrastructure-Engineer_JR2013401) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-02-13.
+This devops engineer position at Nvidia was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

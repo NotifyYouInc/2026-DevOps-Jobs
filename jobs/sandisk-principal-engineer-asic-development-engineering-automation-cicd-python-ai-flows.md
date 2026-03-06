@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000107222565-principal-engineer-asic-development-engineering-automation-cicd-python-ai-flows) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000111596972-principal-engineer-asic-development-engineering-automation-cicd-python-ai-flows) |
 
 ## About This Role
 
-This software engineer position at SanDisk was posted on 2026-02-04.
+This semiconductor / chip design position at SanDisk was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

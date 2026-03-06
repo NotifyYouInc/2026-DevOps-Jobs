@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sweden |
+| Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Sweden-Gothenburg/Senior-Cloud-Engineer_JREQ198030) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Germany-Frankfurt/Senior-Cloud-Engineer_JREQ198705) |
 
 ## About This Role
 
-This devops engineer position at Thomson Reuters was posted on 2026-02-24.
+This devops engineer position at Thomson Reuters was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

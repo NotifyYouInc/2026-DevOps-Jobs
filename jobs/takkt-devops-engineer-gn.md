@@ -1,0 +1,22 @@
+# DevOps Engineer (gn) at TAKKT
+
+| Field | Details |
+|-------|---------|
+| Company | [TAKKT](https://scoutify.ai/companies/takkt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Budapest, Budapest, Hungary |
+| Category | DevOps Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://takkt.wd3.myworkdayjobs.com/takkt/job/HUN---Budapest---Neumann-Jnos-utca-1a/DevOps-Engineer--gn-_JR100698) |
+
+## About This Role
+
+This devops engineer position at TAKKT was posted on 2026-02-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

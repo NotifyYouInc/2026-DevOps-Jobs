@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Terrassa, Catalonia, Spain |
-| Category | Technical Writer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000110779315-automation-engineer-hmi) |
+| Category | Industrial Automation |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000111547595-automation-engineer-hmi) |
 
 ## About This Role
 
-This technical writer position at Syntegon Technology was posted on 2026-02-23.
+This industrial automation position at Syntegon Technology was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

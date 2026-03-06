@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/138378568252957382-software-engineering-manager-site-reliability-engineering?sort_by=date&page=1) |
+| Location | London, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/130787291940430534-software-engineering-manager-site-reliability-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-04.
+This engineering manager position at Google was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

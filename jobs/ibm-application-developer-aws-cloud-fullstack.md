@@ -1,16 +1,16 @@
-# Application Developer-AWS Cloud FullStack at IBM
+# Application Developer-AWS Cloud Fullstack at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Hyderabad, Telangana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94430) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96117) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-02-24.
+This frontend engineer position at IBM was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer- Observability at Okta
+# Senior Site Reliability Engineer - Observability  at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/6874616?gh_jid=6874616) |
+| Location | Bellevue, Washington, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254) |
 
 ## About This Role
 
-This software engineer position at Okta was posted on 2026-02-03.
+This devops engineer position at Okta was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/1b835ef9-30fa-404f-aca7-5c8b0c892a32) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/11e1b7aa-4d34-4fd3-a3e4-4fb1baa22319) |
 
 ## About This Role
 
-This devops engineer position at Heidi Health was posted on 2026-02-23.
+This devops engineer position at Heidi Health was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

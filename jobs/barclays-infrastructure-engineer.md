@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Infrastructure-Engineer_JR-0000069680-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Infrastructure-Engineer_JR-0000069727) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-24.
+This engineering manager position at Barclays was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

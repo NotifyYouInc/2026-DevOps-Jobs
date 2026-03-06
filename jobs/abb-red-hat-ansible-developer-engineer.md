@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Red-Hat-Ansible-Developer-Engineer_JR00026069) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Red-Hat-Ansible-Developer-Engineer_JR00026071-1) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-02-25.
+This devops engineer position at ABB was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

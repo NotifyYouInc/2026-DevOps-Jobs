@@ -5,12 +5,12 @@
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4696451101) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4791919101) |
 
 ## About This Role
 
-This devops engineer position at IMC Trading was posted on 2026-02-23.
+This devops engineer position at IMC Trading was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
