@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Basingstoke, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000107549725-associate-systems-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111792208-associate-systems-engineer) |
 
 ## About This Role
 
-This software engineer position at Visa International Service Association was posted on 2026-02-05.
+This devops engineer position at Visa International Service Association was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

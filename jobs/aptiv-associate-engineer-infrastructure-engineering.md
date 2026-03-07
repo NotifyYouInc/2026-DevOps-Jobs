@@ -5,12 +5,12 @@
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Associate-Engineer---Infrastructure---Engineering_J000693969) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/IND-Bangalore-India-2-SEZ---WR/Associate-Engineer---Infrastructure---Engineering_J000693972) |
 
 ## About This Role
 
-This devops engineer position at Aptiv was posted on 2026-02-25.
+This devops engineer position at Aptiv was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

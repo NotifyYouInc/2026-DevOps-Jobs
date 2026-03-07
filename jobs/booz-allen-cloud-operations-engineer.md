@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Florida, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tampa-FL/Cloud-Operations-Engineer_R0234103) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/MacDill-AFB-FL/Cloud-Operations-Engineer_R0234855) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-02-18.
+This devops engineer position at Booz Allen was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

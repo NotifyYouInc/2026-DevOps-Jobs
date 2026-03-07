@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Site-Reliability-Engineer_JREQ195157-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Senior-Site-Reliability-Engineer_JREQ198412) |
 
 ## About This Role
 
-This devops engineer position at Thomson Reuters was posted on 2026-02-25.
+This devops engineer position at Thomson Reuters was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

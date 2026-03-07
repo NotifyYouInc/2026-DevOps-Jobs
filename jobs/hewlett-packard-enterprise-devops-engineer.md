@@ -1,16 +1,16 @@
-# Devops Engineer at Hewlett Packard Enterprise
+# DevOps Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Athens, Attica, Greece |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Devops-Engineer_1199366) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Athens-Attiki-Greece/DevOps-Engineer_1202673) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-02-17.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

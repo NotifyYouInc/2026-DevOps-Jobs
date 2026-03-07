@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Devops-Engineer--AS_R0416887-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/DevOps-Engineer_R0398246-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-02-05.
+This devops engineer position at Deutsche Bank was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

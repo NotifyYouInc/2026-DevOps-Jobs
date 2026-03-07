@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Florida, US |
 | Category | Industrial Automation |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8438598002?gh_jid=8438598002) |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8438665002?gh_jid=8438665002) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# QA automation engineer at Grab
+# QA Automation Engineer at Grab
 
 | Field | Details |
 |-------|---------|
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000108157055-qa-automation-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000111777875-qa-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-02-09.
+This devops engineer position at Grab was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
