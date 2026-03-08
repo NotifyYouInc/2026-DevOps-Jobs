@@ -1,16 +1,16 @@
-# Systems Engineer at Leidos
+# Tech Lead at FrontPage
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Florida, United States |
+| Company | [FrontPage](https://scoutify.ai/companies/frontpage?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Systems-Engineer_R-00177187) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/frontpage/jobs/PxoioQh-tech-lead) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-27.
+This devops engineer position at FrontPage was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

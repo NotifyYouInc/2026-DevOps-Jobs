@@ -1,16 +1,16 @@
-# Systems Engineer at Leidos
+# Site Reliability engineer 2--M365 at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Florida, United States |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Systems-Engineer_R-00177187) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556819784) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-27.
+This devops engineer position at Microsoft was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 
