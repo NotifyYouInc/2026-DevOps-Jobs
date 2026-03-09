@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | DevOps Engineer |
+| Location | 3 locations |
+| Category | Engineering Manager |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Senior-Infrastructure-Specialist--Voice-Services-_152585-2) |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-Infrastructure-Specialist--Voice-Services-_152616-1) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-02-26.
+This engineering manager position at Lloyds Bank was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

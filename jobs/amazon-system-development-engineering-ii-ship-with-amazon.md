@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# System Development Engineering II, Ship With Amazon at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-518615) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3192561/system-development-engineering-ii-ship-with-amazon) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-02-26.
+This devops engineer position at Amazon was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

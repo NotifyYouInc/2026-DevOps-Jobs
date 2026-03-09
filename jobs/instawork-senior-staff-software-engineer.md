@@ -1,16 +1,16 @@
-# DevOps Engineer - AIOps  at Endava
+# Senior / Staff Software Engineer at Instawork
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Instawork](https://scoutify.ai/companies/instawork?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111657241-devops-engineer-aiops) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/instawork/jobs/4658858006) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-26.
+This devops engineer position at Instawork was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

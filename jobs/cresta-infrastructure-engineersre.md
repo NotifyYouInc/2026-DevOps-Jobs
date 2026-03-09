@@ -1,16 +1,16 @@
-# DevOps Engineer - AIOps  at Endava
+# Infrastructure Engineer/SRE  at Cresta
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Cresta](https://scoutify.ai/companies/cresta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Alberta, CA |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111657241-devops-engineer-aiops) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cresta/jobs/5137153008) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-26.
+This devops engineer position at Cresta was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

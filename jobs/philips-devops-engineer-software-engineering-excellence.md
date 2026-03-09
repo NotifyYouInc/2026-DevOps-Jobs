@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# DevOps Engineer - Software Engineering Excellence at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/DevOps-Engineer---Software-Engineering-Excellence_569755) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Philips was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

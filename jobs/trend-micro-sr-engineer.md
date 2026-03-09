@@ -1,16 +1,16 @@
-# DevOps Engineer - AIOps  at Endava
+# Sr. Engineer at Trend Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111657241-devops-engineer-aiops) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Sr-Engineer_R0009209) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-26.
+This devops engineer position at Trend Micro was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

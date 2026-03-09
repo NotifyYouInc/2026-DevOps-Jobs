@@ -1,16 +1,16 @@
-# Senior Software Engineer at Wells Fargo
+# Infrastructure Specialist-IBM Cloud Platform at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Frontend Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer_R-518615) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97459) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-02-26.
+This devops engineer position at IBM was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

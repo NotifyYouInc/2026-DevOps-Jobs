@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# Senior Software Development Engineer - DevOps at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Senior-Software-Development-Engineer---DevOps_R33517) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Amadeus was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

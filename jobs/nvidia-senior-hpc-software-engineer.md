@@ -1,16 +1,16 @@
-# DevOps Engineer - AIOps  at Endava
+# Senior HPC Software Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111657241-devops-engineer-aiops) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-HPC-Software-Engineer_JR2013652) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-26.
+This devops engineer position at Nvidia was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

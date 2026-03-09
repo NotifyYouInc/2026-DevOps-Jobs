@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94765) |
+| Posted | 2026-03-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97515) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-02-18.
+This technology / it consulting position at IBM was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

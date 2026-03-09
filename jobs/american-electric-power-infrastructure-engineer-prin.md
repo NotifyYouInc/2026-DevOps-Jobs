@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gahanna, Ohio, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14056) |
+| Category | IT & Systems Administration |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14048) |
 
 ## About This Role
 
-This devops engineer position at American Electric Power was posted on 2026-02-26.
+This it & systems administration position at American Electric Power was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

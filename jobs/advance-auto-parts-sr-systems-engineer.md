@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# Sr Systems Engineer at Advance Auto Parts
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Advance Auto Parts](https://scoutify.ai/companies/advanceauto?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Hyderabad-India/Sr-Systems-Engineer_R-0573691) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Advance Auto Parts was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

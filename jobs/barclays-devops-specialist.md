@@ -1,4 +1,4 @@
-# Engineering Lead at Barclays
+# DevOps Specialist at Barclays
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Engineering Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Engineering-Lead_JR-0000090619) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/DevOps-Specialist_JR-0000045786) |
 
 ## About This Role
 

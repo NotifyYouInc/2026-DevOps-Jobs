@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# DevOps Technical Lead at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/DevOps-Technical-Lead_R0000353660-1) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Caterpillar was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

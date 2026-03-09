@@ -1,16 +1,16 @@
-# DevOps Engineer - AIOps  at Endava
+# AWS Infrastructure Engineer at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000111657241-devops-engineer-aiops) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AWS-Infrastructure-Engineer_REQ571323) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-26.
+This devops engineer position at Unisys was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

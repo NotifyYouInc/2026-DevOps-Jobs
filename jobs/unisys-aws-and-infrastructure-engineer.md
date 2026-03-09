@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# AWS and Infrastructure Engineer at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AWS-and-Infrastructure-Engineer_REQ571332) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Unisys was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

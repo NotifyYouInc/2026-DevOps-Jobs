@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+#  Staff GenAI Engineer at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
-| Category | DevOps Engineer |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Mumbai, Maharashtra, India |
+| Category | AI / LLM Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000112080487-staff-genai-engineer) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This ai / llm engineer position at SIA was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Site Reliability Engineer, AVP at Barclays
+# Site Reliability Engineer - AVP at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
+| Location | Hong Kong, Hong Kong |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-115-South-Jefferson-Rd-Campus-Whippany/Site-Reliability-Engineer--AVP_JR-0000099544) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Cheung-Kong-Center-Hong-Kong/Site-Reliability-Engineer---AVP_JR-0000092832) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-25.
+This engineering manager position at Barclays was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

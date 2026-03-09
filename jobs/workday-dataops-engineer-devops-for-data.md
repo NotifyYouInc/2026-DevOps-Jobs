@@ -1,16 +1,16 @@
-# Staff Site Reliability Engineer at Zscaler
+# DataOps Engineer (DevOps for Data) at Workday
 
 | Field | Details |
 |-------|---------|
-| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5032048007) |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-ON-Toronto/DataOps-Engineer--DevOps-for-Data-_JR-0104700) |
 
 ## About This Role
 
-This devops engineer position at Zscaler was posted on 2026-03-02.
+This devops engineer position at Workday was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
