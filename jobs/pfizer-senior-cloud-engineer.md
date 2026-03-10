@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Greece |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Senior-Cloud-Engineer_4951637) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/India---Chennai/Senior-Cloud-Engineer_4950480-1) |
 
 ## About This Role
 
-This devops engineer position at Pfizer was posted on 2026-02-12.
+This engineering manager position at Pfizer was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

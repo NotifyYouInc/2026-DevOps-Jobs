@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Jersey, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111670135-was-operations-reliability-engineer) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111893585-was-operations-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Woongjin was posted on 2026-02-26.
+This devops engineer position at Woongjin was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | India |
 | Category | Technical Support Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7640811) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7667959) |
 
 ## About This Role
 
-This technical support engineer position at Referrals Only was posted on 2026-02-26.
+This technical support engineer position at Referrals Only was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

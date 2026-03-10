@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000111841746-amazon-connect-support-engineer) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000112178912-amazon-connect-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-02-27.
+This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

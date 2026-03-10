@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Lisbon/Senior-Service-Reliability-Engineer_R33443) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Senior-Service-Reliability-Engineer_R32815-1) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-02-24.
+This devops engineer position at Amadeus was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

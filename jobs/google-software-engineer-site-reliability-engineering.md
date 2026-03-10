@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/72679804293259974-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85717631713059526-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-13.
+This devops engineer position at Google was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

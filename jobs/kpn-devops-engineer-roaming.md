@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000110798041-devops-engineer-roaming) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000112152838-devops-engineer-roaming) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-02-23.
+This devops engineer position at KPN was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-521601) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-524680) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-02-24.
+This devops engineer position at Wells Fargo was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

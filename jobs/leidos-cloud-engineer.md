@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Cloud-Engineer_R-00176121) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineer_R-00177237) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-17.
+This devops engineer position at Leidos was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

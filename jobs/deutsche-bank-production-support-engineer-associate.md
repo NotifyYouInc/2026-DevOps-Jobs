@@ -1,16 +1,16 @@
-# Production Support Engineer, Associate at Deutsche Bank
+# Production Support Engineer - Associate at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Production-Support-Engineer--Associate_R0419506) |
+| Location | Cary, North Carolina, United States |
+| Category | Technical Support Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Production-Support-Engineer---Associate_R0419494-1) |
 
 ## About This Role
 
-This customer success position at Deutsche Bank was posted on 2026-02-12.
+This technical support engineer position at Deutsche Bank was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

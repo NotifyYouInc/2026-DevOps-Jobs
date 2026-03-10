@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | National Capital Region, PH |
-| Category | Security Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/DevSecOps-Engineer-2_JR00121021) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/DevSecOps-Engineer-2_JR00121121) |
 
 ## About This Role
 
-This security engineer position at Sun Life Financial was posted on 2026-02-26.
+This devops engineer position at Sun Life Financial was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

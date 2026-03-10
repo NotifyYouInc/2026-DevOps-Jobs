@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107404005-staff-engineer-azure-cloudops-expert) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000112192514-staff-engineer-azure-cloudops-expert) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-02-05.
+This devops engineer position at Nagarro was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

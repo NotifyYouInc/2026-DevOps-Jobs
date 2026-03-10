@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montpellier, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000109029625-site-reliabitity-engineer-sre-montpellier-hf) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000112108242-site-reliabitity-engineer-sre-montpellier-hf) |
 
 ## About This Role
 
-This devops engineer position at Iliad-Free was posted on 2026-02-12.
+This devops engineer position at Iliad-Free was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

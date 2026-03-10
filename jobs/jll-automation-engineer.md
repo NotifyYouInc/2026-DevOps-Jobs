@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Wisconsin, US |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Automation-Engineer_REQ489654) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sturtevant-WI/Automation-Engineer_REQ489666) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-02-26.
+This industrial automation position at JLL was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

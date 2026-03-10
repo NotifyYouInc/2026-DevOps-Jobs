@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plume](https://scoutify.ai/companies/plume?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8414308002) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8444615002) |
 
 ## About This Role
 
-This devops engineer position at Plume was posted on 2026-02-12.
+This devops engineer position at Plume was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

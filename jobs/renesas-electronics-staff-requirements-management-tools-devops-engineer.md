@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000111528518-staff-requirements-management-tools-devops-engineer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000112307070-staff-requirements-management-tools-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-02-26.
+This devops engineer position at Renesas Electronics was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
