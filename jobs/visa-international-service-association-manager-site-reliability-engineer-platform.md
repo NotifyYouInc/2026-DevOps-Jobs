@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111384376-manager-site-reliability-engineer-platform) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112516457-manager-site-reliability-engineer-platform) |
 
 ## About This Role
 
-This devops engineer position at Visa International Service Association was posted on 2026-02-25.
+This devops engineer position at Visa International Service Association was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

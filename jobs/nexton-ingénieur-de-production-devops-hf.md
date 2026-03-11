@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000112135402-ingenieur-de-production-devops-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000112210543-ingenieur-de-production-devops-hf) |
 
 ## About This Role
 

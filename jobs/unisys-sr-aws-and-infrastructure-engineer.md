@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York, US |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Sleepy-Hollow-NY-United-States-of-America/Sr-AWS-and-Infrastructure-Engineer_REQ571343) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Sr-AWS-and-Infrastructure-Engineer_REQ571324) |
 
 ## About This Role
 
-This devops engineer position at Unisys was posted on 2026-02-27.
+This devops engineer position at Unisys was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

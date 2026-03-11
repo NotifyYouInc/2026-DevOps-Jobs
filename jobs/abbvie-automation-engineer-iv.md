@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Industrial Automation |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011914656-automation-engineer-iv) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011916476-automation-engineer-iv) |
 
 ## About This Role
 

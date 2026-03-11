@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pensacola, Florida, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pensacola-FL/Network-Reliability-Engineer_R-00176590) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Pearl-Harbor-HI/Network-Reliability-Engineer_R-00177406) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-23.
+This devops engineer position at Leidos was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

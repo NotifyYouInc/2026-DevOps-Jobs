@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | Marketing |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote-Office/Marketing-Automation-Engineer_R20582) |
+| Category | Growth Marketing |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote-Office/Marketing-Automation-Engineer_R20551) |
 
 ## About This Role
 
-This marketing position at Wex was posted on 2026-02-05.
+This growth marketing position at Wex was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

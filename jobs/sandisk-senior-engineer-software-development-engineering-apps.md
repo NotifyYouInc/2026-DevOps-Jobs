@@ -5,12 +5,12 @@
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112178039-senior-engineer-software-development-engineering-apps) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000112585377-senior-engineer-software-development-engineering-apps) |
 
 ## About This Role
 
-This devops engineer position at SanDisk was posted on 2026-03-02.
+This devops engineer position at SanDisk was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

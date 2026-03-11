@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Frontend Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-523630) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Software-Engineer_R-524304) |
 
 ## About This Role
 
-This frontend engineer position at Wells Fargo was posted on 2026-03-01.
+This devops engineer position at Wells Fargo was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

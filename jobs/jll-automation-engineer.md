@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wisconsin, US |
+| Location | North Haven, Connecticut, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sturtevant-WI/Automation-Engineer_REQ489666) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/North-Haven-CT/Automation-Engineer_REQ490534) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-02-27.
+This industrial automation position at JLL was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

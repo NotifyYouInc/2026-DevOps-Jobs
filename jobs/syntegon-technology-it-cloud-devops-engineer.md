@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000111547385-it-cloud-devops-engineer) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000112341777-it-cloud-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Syntegon Technology was posted on 2026-02-26.
+This devops engineer position at Syntegon Technology was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

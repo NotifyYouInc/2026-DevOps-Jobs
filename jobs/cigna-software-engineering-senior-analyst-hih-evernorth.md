@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Senior-Analyst---HIH---Evernorth_25013215) |
+| Category | Database Administration |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-Engineering-Senior-Analyst---HIH---Evernorth_26000881) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-05.
+This database administration position at Cigna was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 
