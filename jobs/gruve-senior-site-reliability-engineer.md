@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer  at Gruve
+# Senior Site Reliability Engineer at Gruve
 
 | Field | Details |
 |-------|---------|
 | Company | [Gruve](https://scoutify.ai/companies/gruve?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5138279008) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://gruve.ai/careers/?gh_jid=5140653008) |
 
 ## About This Role
 
-This devops engineer position at Gruve was posted on 2026-03-02.
+This devops engineer position at Gruve was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

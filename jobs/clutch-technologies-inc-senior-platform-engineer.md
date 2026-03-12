@@ -5,12 +5,12 @@
 | Company | [Clutch Technologies Inc.](https://scoutify.ai/companies/clutch-technologies-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clutch/jobs/5795257004) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clutch/jobs/5819060004) |
 
 ## About This Role
 
-This devops engineer position at Clutch Technologies Inc. was posted on 2026-02-05.
+This devops engineer position at Clutch Technologies Inc. was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

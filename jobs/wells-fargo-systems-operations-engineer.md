@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Technical Writer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Systems-Operations-Engineer_R-523813) |
+| Location | Karnataka, IN |
+| Category | DevOps Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/110380-IND-BENGALURU-INTL-BLR-Twr-12-CARNATION/Systems-Operations-Engineer_R-524049) |
 
 ## About This Role
 
-This technical writer position at Wells Fargo was posted on 2026-02-27.
+This devops engineer position at Wells Fargo was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

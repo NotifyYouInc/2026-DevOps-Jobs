@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112249933-senior-devops-engineer-kubernetes) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112751928-senior-devops-engineer-kubernetes) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-02.
+This devops engineer position at Inetum was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

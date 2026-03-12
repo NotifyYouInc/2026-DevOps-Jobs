@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Lead--Platform-Engineering_R-268045) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead--Platform-Engineering_R-271601-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-02-27.
+This devops engineer position at Mastercard was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

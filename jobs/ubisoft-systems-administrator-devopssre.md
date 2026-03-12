@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112393097-systems-administrator-devopssre) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000112585957-systems-administrator-devopssre) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-03-03.
+This devops engineer position at Ubisoft was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

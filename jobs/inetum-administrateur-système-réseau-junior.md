@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112176748-administrateur-systeme-reseau-junior) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112611397-administrateur-systeme-reseau-junior) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-02.
+This devops engineer position at Inetum was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4793444101) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4795253101) |
 
 ## About This Role
 
-This devops engineer position at Neoris was posted on 2026-03-02.
+This devops engineer position at Neoris was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

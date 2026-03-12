@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/DevOps-Engineer---Site-Reliability-Engineer_R-00175003) |
+| Location | Morgantown, West Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Morgantown-WV/DevOps-Engineer---Site-Reliability-Engineer_R-00177446) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-03.
+This devops engineer position at Leidos was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

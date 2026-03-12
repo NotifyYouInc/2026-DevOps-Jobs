@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Finland |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4753436101) |
+| Location | Israel |
+| Category | DevOps Engineer |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4757015101) |
 
 ## About This Role
 
-This operations position at Nebius was posted on 2026-02-06.
+This devops engineer position at Nebius was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

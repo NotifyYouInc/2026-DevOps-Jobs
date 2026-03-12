@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kochi, Kerala, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99004) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99011) |
 
 ## About This Role
 
-This frontend engineer position at IBM was posted on 2026-03-03.
+This frontend engineer position at IBM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
