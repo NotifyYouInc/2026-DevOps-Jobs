@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Pune/Service-Reliability-Engineer_R33380) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Service-Reliability-Engineer_R33477) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-02-18.
+This devops engineer position at Amadeus was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

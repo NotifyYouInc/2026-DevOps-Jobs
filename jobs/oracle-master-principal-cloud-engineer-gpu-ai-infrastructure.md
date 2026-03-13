@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | China |
 | Category | DevOps Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#329382) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#329381) |
 
 ## About This Role
 

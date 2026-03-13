@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-BizOps-Engineer_R-271855) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-BizOps-Engineer_R-268596-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-02-25.
+This devops engineer position at Mastercard was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

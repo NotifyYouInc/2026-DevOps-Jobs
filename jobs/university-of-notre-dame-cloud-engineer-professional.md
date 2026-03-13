@@ -5,12 +5,12 @@
 | Company | [University of Notre Dame](https://scoutify.ai/companies/universityofnotredame?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011828007-cloud-engineer-professional) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990011990086-cloud-engineer-professional) |
 
 ## About This Role
 
-This devops engineer position at University of Notre Dame was posted on 2026-02-24.
+This devops engineer position at University of Notre Dame was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

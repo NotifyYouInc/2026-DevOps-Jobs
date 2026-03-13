@@ -5,12 +5,12 @@
 | Company | [Bloom Energy](https://scoutify.ai/companies/bloomenergy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fremont, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/AME-Automation-Engineer_JR-21701) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/AME-Automation-Engineer_JR-21700) |
 
 ## About This Role
 
-This industrial automation position at Bloom Energy was posted on 2026-03-03.
+This industrial automation position at Bloom Energy was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

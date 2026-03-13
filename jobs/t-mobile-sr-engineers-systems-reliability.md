@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Frisco, Texas, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-03-04 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Sr-Engineers--Systems-Reliability_REQ346589) |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Sr-Engineers--Systems-Reliability_REQ346906) |
 
 ## About This Role
 

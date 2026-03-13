@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000111851255-senior-site-reliability-engineer) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112897888-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Visa International Service Association was posted on 2026-02-27.
+This devops engineer position at Visa International Service Association was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

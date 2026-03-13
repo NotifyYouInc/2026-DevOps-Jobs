@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/DevOps-Engineer_R18622) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/DevOps-Engineer_R18698) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-02-25.
+This devops engineer position at Zoom was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

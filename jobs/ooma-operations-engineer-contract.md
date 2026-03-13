@@ -5,12 +5,12 @@
 | Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5056661007) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068976007) |
 
 ## About This Role
 
-This devops engineer position at Ooma was posted on 2026-03-03.
+This devops engineer position at Ooma was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
