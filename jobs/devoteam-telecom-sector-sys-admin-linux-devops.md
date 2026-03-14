@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Portugal |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000110345653-telecom-sector-sys-admin-linux-devops) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113246680-telecom-sector-sys-admin-linux-devops) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-02-20.
+This devops engineer position at Devoteam was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

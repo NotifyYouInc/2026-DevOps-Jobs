@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000107670815-cloud-engineer-wmnb) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113140107-cloud-engineer-wmnb) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-02-06.
+This devops engineer position at Ubisoft was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

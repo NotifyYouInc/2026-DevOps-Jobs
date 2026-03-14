@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110419906-tech-lead-java-services-financiers-bordeaux) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113246046-tech-lead-java-services-financiers-bordeaux) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-02-20.
+This frontend engineer position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

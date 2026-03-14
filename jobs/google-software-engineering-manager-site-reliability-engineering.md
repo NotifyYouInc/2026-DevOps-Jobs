@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/130787291940430534-software-engineering-manager-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126238318131061446-software-engineering-manager-site-reliability-engineering?sort_by=date&page=1) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-02-26.
+This engineering manager position at Google was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

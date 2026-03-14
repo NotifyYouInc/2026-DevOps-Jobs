@@ -1,16 +1,16 @@
-# Telecom Sector |DevOps Engineer at Devoteam
+# Telecom Sector | DevOps Engineer at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000110344875-telecom-sector-devops-engineer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000113248237-telecom-sector-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-02-20.
+This devops engineer position at Devoteam was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

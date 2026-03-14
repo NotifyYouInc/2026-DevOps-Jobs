@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Allentown, Pennsylvania, United States |
+| Location | 3 locations |
 | Category | Industrial Automation |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Allentown-Pennsylvania-USA/Automation-Engineer_R-01342346) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Automation-Engineer_R-01326321-1) |
 
 ## About This Role
 
-This industrial automation position at Thermo Fisher Scientific was posted on 2026-02-17.
+This industrial automation position at Thermo Fisher Scientific was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

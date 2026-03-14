@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tartu, Tartu, Estonia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000112715952-operations-engineer) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113153077-operations-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-03-04.
+This devops engineer position at Playtech was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Technical Writer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112700907-architect-technique) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000113201595-architect-technique) |
 
 ## About This Role
 
-This technical writer position at Everience was posted on 2026-03-04.
+This technical writer position at Everience was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

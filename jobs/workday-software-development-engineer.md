@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Software-Development-Engineer_JR-0103318) |
+| Location | Seattle, Washington, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Software-Development-Engineer_JR-0104752) |
 
 ## About This Role
 
-This devops engineer position at Workday was posted on 2026-02-09.
+This frontend engineer position at Workday was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

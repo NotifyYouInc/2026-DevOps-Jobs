@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93035) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Database Administration |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=97761) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-02-11.
+This database administration position at IBM was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

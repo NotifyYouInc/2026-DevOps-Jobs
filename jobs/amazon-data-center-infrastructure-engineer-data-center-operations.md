@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3191374/data-center-infrastructure-engineer-data-center-operations) |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198021/data-center-infrastructure-engineer-data-center-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-02-27.
+This it & systems administration position at Amazon was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

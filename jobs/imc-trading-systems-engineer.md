@@ -1,16 +1,16 @@
-# Systems Engineer at IMC Trading
+# Systems Engineer  at IMC Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4696452101) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4793783101) |
 
 ## About This Role
 
-This devops engineer position at IMC Trading was posted on 2026-02-26.
+This devops engineer position at IMC Trading was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ops Engineer at ING
+# OPS engineer at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Luxembourg-Sige-Lux-House/Ops-Engineer_REQ-10109814-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Paris-Richelieu/OPS-engineer_REQ-10110860) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-02-18.
+This devops engineer position at ING was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

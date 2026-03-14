@@ -1,16 +1,16 @@
-# ​​AWS Cloud Engineer Ops Support (USAF Cloud One) ​ at Leidos
+# AWS Cloud Engineer Ops Support (USAF Cloud One) at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Montgomery-AL/XMLNAME---AWS-Cloud-Engineer-Ops-Support--USAF-Cloud-One---_R-00175871) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AWS-Cloud-Engineer-Ops-Support--USAF-Cloud-One-_R-00177696) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-12.
+This devops engineer position at Leidos was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

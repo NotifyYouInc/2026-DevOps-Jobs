@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Manila-Metro-Manila/Senior-Service-Reliability-Engineer_R32815-1) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Database Administration |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/SRE--NoSQL-_R30294) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-03-03.
+This database administration position at Amadeus was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

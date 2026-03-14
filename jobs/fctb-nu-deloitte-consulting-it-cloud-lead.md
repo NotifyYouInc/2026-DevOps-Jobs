@@ -5,12 +5,12 @@
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000111320486-it-cloud-lead) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000113211646-it-cloud-lead) |
 
 ## About This Role
 
-This engineering manager position at FCTB (nu: Deloitte Consulting) was posted on 2026-02-25.
+This engineering manager position at FCTB (nu: Deloitte Consulting) was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

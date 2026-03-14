@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | North Charleston, South Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Systems-Engineer_R-00177187) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/North-Charleston-SC/Systems-Engineer_R-00177674) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-27.
+This devops engineer position at Leidos was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

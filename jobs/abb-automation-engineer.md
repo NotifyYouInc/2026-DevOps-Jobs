@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Richmond, Virginia, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Automation-Engineer_JR00023129) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Richmond-Virginia-United-States-of-America/Automation-Engineer_JR00024513) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-02-23.
+This industrial automation position at ABB was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

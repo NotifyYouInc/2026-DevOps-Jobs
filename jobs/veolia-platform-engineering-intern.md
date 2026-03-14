@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paramus, New Jersey, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110452520-platform-engineering-intern) |
+| Category | Technical Writer |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113257869-platform-engineering-intern) |
 
 ## About This Role
 
-This devops engineer position at Veolia was posted on 2026-02-20.
+This technical writer position at Veolia was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

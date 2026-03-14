@@ -1,16 +1,16 @@
-# QA Automation Engineer-Nexus HyperFabric - SaaS Team at Cisco
+# QA Automation Engineer- Nexus HyperFabric- SaaS Team at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Milpitas, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/QA-Automation-Engineer-Nexus-HyperFabric---SaaS-Team_1451839) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/QA-Automation-Engineer--Nexus-HyperFabric--SaaS-Team_2007909-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-03-03.
+This devops engineer position at Cisco was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
