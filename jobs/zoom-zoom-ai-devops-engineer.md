@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# Zoom AI DevOps Engineer at Zoom
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Zoom-AI-DevOps-Engineer_R18699-1) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at Zoom was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

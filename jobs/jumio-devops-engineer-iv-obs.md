@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# DevOps Engineer IV (Obs) at Jumio
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [Jumio](https://scoutify.ai/companies/jumio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/jumio/jobs/4640303005) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at Jumio was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

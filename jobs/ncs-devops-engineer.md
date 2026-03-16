@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# DevOps Engineer at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000917940-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at NCS was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

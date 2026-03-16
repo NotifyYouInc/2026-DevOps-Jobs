@@ -1,16 +1,16 @@
-# AI Infrastructure Engineer  at Version 1
+# Senior Cloud Engineer at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113398857-ai-infrastructure-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113403977-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-03-09.
+This devops engineer position at Eurofins Scientific was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# Senior Software Engineer - AI Tools at Airwallex
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/63aeda84-dcf8-4ad0-be04-2771c269ca35) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at Airwallex was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

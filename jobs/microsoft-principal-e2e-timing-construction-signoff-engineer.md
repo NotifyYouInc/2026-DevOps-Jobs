@@ -1,16 +1,16 @@
-# AI Infrastructure Engineer  at Version 1
+# Principal E2E Timing, Construction & Signoff Engineer at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113398857-ai-infrastructure-engineer) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556828111) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-03-09.
+This devops engineer position at Microsoft was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

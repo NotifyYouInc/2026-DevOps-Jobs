@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# Engineer I at TJX
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/Engineer-I_REQ94553) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at TJX was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

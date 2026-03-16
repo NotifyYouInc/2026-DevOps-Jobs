@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Karnataka, IN |
 | Category | Technology / IT Consulting |
 | Posted | 2026-03-05 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99305) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98695) |
 
 ## About This Role
 

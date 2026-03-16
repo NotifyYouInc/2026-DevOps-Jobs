@@ -1,16 +1,16 @@
-# AI Infrastructure Engineer  at Version 1
+# Senior Software Engineer (AWS, Terraform) at Cuscal
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113398857-ai-infrastructure-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000113394147-senior-software-engineer-aws-terraform) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-03-09.
+This devops engineer position at Cuscal was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

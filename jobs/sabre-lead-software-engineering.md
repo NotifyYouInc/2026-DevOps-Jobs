@@ -1,16 +1,16 @@
-# AI Infrastructure Engineer  at Version 1
+# Lead Software Engineering at Sabre
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113398857-ai-infrastructure-engineer) |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Software-Engineering_JR107330-1) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-03-09.
+This devops engineer position at Sabre was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

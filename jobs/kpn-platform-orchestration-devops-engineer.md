@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000112448087-platform-orchestration-devops-engineer) |
+| Posted | 2026-03-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113359427-platform-orchestration-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-03-03.
+This devops engineer position at KPN was posted on 2026-03-08.
 
 ## Get Real-Time Alerts
 

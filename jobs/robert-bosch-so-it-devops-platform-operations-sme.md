@@ -1,16 +1,16 @@
-# AI Infrastructure Engineer  at Version 1
+# SO_IT_DevOps_Platform_Operations_SME at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113398857-ai-infrastructure-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113398252-so-it-devops-platform-operations-sme) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-03-09.
+This devops engineer position at Robert Bosch was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

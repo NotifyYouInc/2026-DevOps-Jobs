@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (AWS) at Endava
+# Technical Lead at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000112845988-senior-devops-engineer-aws) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Technical-Lead_R0293878-1) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-05.
+This devops engineer position at Thales was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

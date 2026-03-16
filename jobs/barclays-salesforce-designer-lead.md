@@ -1,16 +1,16 @@
-# Software Engineer II at Mastercard
+# Salesforce Designer - Lead at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Engineering Manager |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Software-Engineer-II_R-268671) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Salesforce-Designer---Lead_JR-0000087571-2) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-09.
+This engineering manager position at Barclays was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
