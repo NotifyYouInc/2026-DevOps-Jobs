@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Frontend Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111034100-tech-lead-java-angular-services-financiers-ile-de-france) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113439048-tech-lead-java-angular-services-financiers-ile-de-france) |
 
 ## About This Role
 
-This frontend engineer position at Sopra Steria was posted on 2026-02-24.
+This frontend engineer position at Sopra Steria was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

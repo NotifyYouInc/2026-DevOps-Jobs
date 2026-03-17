@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Native-DevOps-Engineer_R-102671) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/India---Gurgaon/Senior-Software-Development-Engineer_R-102669) |
 
 ## About This Role
 
-This devops engineer position at Expedia was posted on 2026-03-03.
+This devops engineer position at Expedia was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

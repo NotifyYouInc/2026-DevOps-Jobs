@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000111836917-junior-devops-engineer-mwd-ferienwohnungen) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000113515247-junior-devops-engineer-mwd-ferienwohnungen) |
 
 ## About This Role
 
-This devops engineer position at CHECK24 was posted on 2026-02-27.
+This devops engineer position at CHECK24 was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

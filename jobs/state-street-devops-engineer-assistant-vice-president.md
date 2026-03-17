@@ -1,16 +1,16 @@
-# Devops Engineer - Assistant Vice President at State Street
+# DevOps Engineer, Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Devops-Engineer---Assistant-Vice-President_R-783556) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/DevOps-Engineer--Assistant-Vice-President_R-784673) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-02-03.
+This devops engineer position at State Street was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

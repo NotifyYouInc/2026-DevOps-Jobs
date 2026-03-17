@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ohio, US |
+| Location | Hesperia, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---OH---West-Jefferson---6400-Oh-29/Automation-Engineer_R307962) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/Automation-Engineer_R309576) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-02-26.
+This industrial automation position at Cushman & Wakefield was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

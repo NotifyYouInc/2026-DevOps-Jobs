@@ -1,16 +1,16 @@
-#  IT Infrastructure Engineer II (ServiceNow Developer) at The Nielsen Company
+# IT Infrastructure Engineer II [ServiceNow Developer] at The Nielsen Company
 
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011630716-it-infrastructure-engineer-ii-servicenow-developer) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Writer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012027866-it-infrastructure-engineer-ii-servicenow-developer) |
 
 ## About This Role
 
-This devops engineer position at The Nielsen Company was posted on 2026-02-11.
+This technical writer position at The Nielsen Company was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

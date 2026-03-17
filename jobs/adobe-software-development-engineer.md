@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Software-Development-Engineer_R165766-1) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166071-1) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-03-05.
+This devops engineer position at Adobe was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

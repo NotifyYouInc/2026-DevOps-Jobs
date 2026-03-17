@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000113188307-desenvolvedor-senior-pyton-pj) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000113263877-desenvolvedor-senior-pyton-pj) |
 
 ## About This Role
 
-This database administration position at SGS was posted on 2026-03-06.
+This devops engineer position at SGS was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

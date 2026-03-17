@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Frontend Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Software-Engineer--VP_R-00273842) |
+| Location | Gurugram, Haryana, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-Engineer--VP_R-00274532) |
 
 ## About This Role
 
-This frontend engineer position at NatWest Group was posted on 2026-02-23.
+This devops engineer position at NatWest Group was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
