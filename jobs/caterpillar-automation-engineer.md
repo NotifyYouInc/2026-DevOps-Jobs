@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Industrial Automation |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Automation-Engineer_R0000353665) |
+| Location | Tucson, Arizona, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000356478) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-02.
+This electrical / hardware engineer position at Caterpillar was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

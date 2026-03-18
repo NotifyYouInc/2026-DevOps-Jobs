@@ -1,16 +1,16 @@
-# Ingénieur DevOps (H/F) at Meritis
+# Ingénieur Devops  (H/F)  at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000112418662-ingenieur-devops-hf) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113724341-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-03-03.
+This devops engineer position at Meritis was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

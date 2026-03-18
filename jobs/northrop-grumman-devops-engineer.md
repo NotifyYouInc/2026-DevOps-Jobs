@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/DevOps-Engineer_R10223481) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/DevOps-Engineer_R10225395) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-02-19.
+This devops engineer position at Northrop Grumman was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

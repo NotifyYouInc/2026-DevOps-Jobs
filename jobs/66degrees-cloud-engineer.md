@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5800209004) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5823003004) |
 
 ## About This Role
 
-This devops engineer position at 66degrees was posted on 2026-02-11.
+This devops engineer position at 66degrees was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Senior-Site-Reliability-Engineer_R-0000161250-1) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/745-THURLOW-STVANCOUVER/Senior-Site-Reliability-Engineer_R-0000157133-1) |
 
 ## About This Role
 
-This devops engineer position at Royal Bank of Canada was posted on 2026-03-02.
+This devops engineer position at Royal Bank of Canada was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

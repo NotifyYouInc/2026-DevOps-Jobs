@@ -1,16 +1,16 @@
-# Ingénieur de Production (H/F) at Meritis
+# Ingénieur de production  (H/F)  at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113207062-ingenieur-de-production-hf) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113523906-ingenieur-de-production-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-03-06.
+This devops engineer position at Meritis was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

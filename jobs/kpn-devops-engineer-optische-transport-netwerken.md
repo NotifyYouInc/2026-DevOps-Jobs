@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113359257-devops-engineer-optische-transport-netwerken) |
+| Category | Technical Writer |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113587742-devops-engineer-optische-transport-netwerken) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-03-08.
+This technical writer position at KPN was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

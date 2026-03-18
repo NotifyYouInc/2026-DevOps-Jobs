@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011999344-senior-automation-engineer-industrial-automation) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012071026-senior-automation-engineer-industrial-automation) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-03-05.
+This industrial automation position at AbbVie was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

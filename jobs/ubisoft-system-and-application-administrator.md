@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000111370757-system-and-application-administrator) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000113749618-system-and-application-administrator) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-02-25.
+This devops engineer position at Ubisoft was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Saudi Arabia |
 | Category | Industrial Automation |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/4839211007) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/4839220007) |
 
 ## About This Role
 
-This industrial automation position at Lucid Motors was posted on 2026-02-17.
+This industrial automation position at Lucid Motors was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

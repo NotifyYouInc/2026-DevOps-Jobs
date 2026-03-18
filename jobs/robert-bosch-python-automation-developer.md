@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000109671055-python-automation-developer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113947057-python-automation-developer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-02-17.
+This devops engineer position at Robert Bosch was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

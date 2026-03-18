@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Windhoek, Khomas Region, Namibia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/DevOps-Engineer_R45909) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/DevOps-Engineer_R47485) |
 
 ## About This Role
 
-This devops engineer position at FirstRand was posted on 2026-02-06.
+This devops engineer position at FirstRand was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

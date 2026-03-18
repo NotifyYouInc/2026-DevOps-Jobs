@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Razorpay Software Private Limited](https://scoutify.ai/companies/razorpay-software-private-limited?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4656394005) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4670294005) |
 
 ## About This Role
 
-This software engineer position at Razorpay Software Private Limited was posted on 2026-02-04.
+This devops engineer position at Razorpay Software Private Limited was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

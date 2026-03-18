@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000112516745-senior-staff-engineer-senior-devops-engineer) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113715607-senior-staff-engineer-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-03-03.
+This devops engineer position at Nagarro was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
