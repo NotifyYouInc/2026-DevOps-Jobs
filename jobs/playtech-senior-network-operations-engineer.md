@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | IT & Systems Administration |
 | Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113674527-senior-network-operations-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000113710307-senior-network-operations-engineer) |
 
 ## About This Role
 

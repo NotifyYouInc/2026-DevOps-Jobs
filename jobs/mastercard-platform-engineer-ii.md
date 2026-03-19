@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kansas City, Missouri, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kansas-City-Missouri/Platform-Engineer-II_R-271740) |
+| Location | Pune, Maharashtra, India |
+| Category | Database Administration |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-272708-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-02-25.
+This database administration position at Mastercard was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

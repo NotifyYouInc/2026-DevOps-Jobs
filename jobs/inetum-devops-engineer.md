@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000110128715-devops-engineer) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114074683-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-19.
+This devops engineer position at Inetum was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

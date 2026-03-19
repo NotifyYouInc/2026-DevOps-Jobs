@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Director--Site-Reliability-Engineering_R-272565) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Site-Reliability-Engineering_R-272765) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-03-06.
+This engineering manager position at Mastercard was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

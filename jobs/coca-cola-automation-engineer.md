@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sānand, Gujarat, India |
+| Location | Cairo, Cairo, Egypt |
 | Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/IN-GJ-Sanand-IRIPL/Automation-Engineer_R-136412) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Egypt---Cairo/Automation-Engineer_R-127535) |
 
 ## About This Role
 
-This industrial automation position at Coca-Cola was posted on 2026-02-20.
+This industrial automation position at Coca-Cola was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

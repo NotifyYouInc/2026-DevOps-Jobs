@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SANTA-BARBARA-1/Devops-Engineer_Req1550985) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Devops-Engineer_Req1552829) |
 
 ## About This Role
 
-This devops engineer position at Santander was posted on 2026-03-09.
+This devops engineer position at Santander was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

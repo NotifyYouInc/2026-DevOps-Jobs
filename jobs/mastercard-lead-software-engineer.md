@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | North Carolina, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Lead-Software-Engineer_R-270903) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Remote---North-Carolina/Lead-Software-Engineer_R-271899) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-03.
+This devops engineer position at Mastercard was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

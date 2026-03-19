@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/Staff-Software-Engineer_R5032790-2) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Frontend Engineer |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Chennai/Staff-Software-Engineer_R5033252-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-02-19.
+This frontend engineer position at GE Vernova was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

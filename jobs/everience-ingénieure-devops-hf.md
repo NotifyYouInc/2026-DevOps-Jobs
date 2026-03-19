@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000113194538-ingenieure-devops-hf) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000114084678-ingenieure-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-03-06.
+This devops engineer position at Everience was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

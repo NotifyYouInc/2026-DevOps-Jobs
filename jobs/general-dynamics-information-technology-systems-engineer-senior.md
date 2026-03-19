@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Virginia, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NE-Offutt-AFB/Systems-Engineer-Senior_RQ208903-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Langley-AFB/Systems-Engineer-Senior_RQ216320-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-02-16.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
