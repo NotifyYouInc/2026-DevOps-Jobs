@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lexington, Kentucky, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5062846007?gh_jid=5062846007) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5074102007?gh_jid=5074102007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-02-25.
+This devops engineer position at Anduril was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

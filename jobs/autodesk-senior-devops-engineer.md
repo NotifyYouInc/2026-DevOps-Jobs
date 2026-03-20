@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Senior-DevOps-Engineer_26WD94967-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Pune-IND/Senior-DevOps-Engineer_26WD96296-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-02-17.
+This devops engineer position at Autodesk was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

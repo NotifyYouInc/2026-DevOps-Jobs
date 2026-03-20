@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Linux-System-Administrator_REQ33648) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL-Arsenal/Linux-System-Administrator_REQ33764) |
 
 ## About This Role
 
-This it & systems administration position at Teledyne was posted on 2026-03-10.
+This it & systems administration position at Teledyne was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
