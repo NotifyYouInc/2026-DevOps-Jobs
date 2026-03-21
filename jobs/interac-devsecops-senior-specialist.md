@@ -5,12 +5,12 @@
 | Company | [Interac](https://scoutify.ai/companies/interac?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/DevSecOps--Senior-Specialist_REQ-2058) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/DevSecOps--Senior-Specialist_REQ-2160) |
 
 ## About This Role
 
-This devops engineer position at Interac was posted on 2026-02-18.
+This devops engineer position at Interac was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

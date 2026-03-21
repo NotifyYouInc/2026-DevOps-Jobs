@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112360412-ingenieure-devops-infrastructure-lille) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114693256-ingenieure-devops-infrastructure-lille) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-03-03.
+This devops engineer position at Sopra Steria was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

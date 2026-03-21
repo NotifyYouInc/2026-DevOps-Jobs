@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000114016112-engineering-manager-site-reliability-engineering) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000114682087-engineering-manager-site-reliability-engineering) |
 
 ## About This Role
 
-This engineering manager position at IFS was posted on 2026-03-11.
+This engineering manager position at IFS was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000112494670-sr-systems-engineer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000114742497-sr-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at The Wonderful Company was posted on 2026-03-03.
+This devops engineer position at The Wonderful Company was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Quebec, CA |
 | Category | Database Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Administrateur-ou-administratrice-systme--cloud-AWS_R2602088-2) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Administrateur-ou-administratrice-systmes-Intergiciels-Windows--Exploitation_R2603603-1) |
 
 ## About This Role
 
-This database administration position at Desjardins was posted on 2026-02-17.
+This database administration position at Desjardins was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

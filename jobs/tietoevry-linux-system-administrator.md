@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Varna, Varna, Bulgaria |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000111347747-linux-system-administrator) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000114676967-linux-system-administrator) |
 
 ## About This Role
 
-This it & systems administration position at Tietoevry was posted on 2026-02-25.
+This it & systems administration position at Tietoevry was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

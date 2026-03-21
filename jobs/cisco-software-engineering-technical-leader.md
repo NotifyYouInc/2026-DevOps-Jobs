@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Milpitas, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-Costa-Rica/Software-Engineering-Technical-Leader_2002892) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2006098) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-02-16.
+This devops engineer position at Cisco was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

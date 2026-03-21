@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hesperia, California, United States |
+| Location | Sacramento, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/Automation-Engineer_R309576) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Sacramento---8035-Metro-Air-Pkwy/Automation-Engineer_R306370-1) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-09.
+This industrial automation position at Cushman & Wakefield was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Moldova |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114099537-internship-programme-devops-engineer) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000114539067-internship-programme-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-11.
+This devops engineer position at Endava was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

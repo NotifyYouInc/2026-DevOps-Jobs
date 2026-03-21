@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Build-Engineer_R-00177480) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Build-Engineer_R-00178345) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-04.
+This devops engineer position at Leidos was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

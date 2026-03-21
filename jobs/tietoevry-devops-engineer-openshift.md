@@ -5,12 +5,12 @@
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000111348995-devops-engineer-openshift) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000114676717-devops-engineer-openshift) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-02-25.
+This devops engineer position at Tietoevry was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

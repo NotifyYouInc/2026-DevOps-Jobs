@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Sr-Systems-Engineer_R0039829) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote-Pune-Baroda-India/Sr-Systems-Engineer_R0039416) |
 
 ## About This Role
 
-This operations position at Altera Digital Health was posted on 2026-02-04.
+This devops engineer position at Altera Digital Health was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

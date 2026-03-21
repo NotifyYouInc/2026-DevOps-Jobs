@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Customer Success |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000109207670-level-2-infrastructure-support-engineer-middlewareiisnginxtomcat-english) |
+| Location | Indaiatuba, São Paulo, Brazil |
+| Category | Technical Support Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000114681496-level-2-infrastructure-support-engineer-middlewareiisnginxtomcat-english) |
 
 ## About This Role
 
-This customer success position at Eurofins Scientific was posted on 2026-02-13.
+This technical support engineer position at Eurofins Scientific was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

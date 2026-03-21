@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Technical-Lead_R0293878-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Technical-Lead_R0295402-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-09.
+This devops engineer position at Thales was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112848626-ingenieure-de-production-digital-platform-services-nantes) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114693746-ingenieure-de-production-digital-platform-services-nantes) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-03-05.
+This devops engineer position at Sopra Steria was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
