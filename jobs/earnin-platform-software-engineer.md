@@ -1,16 +1,16 @@
-# OpenShift Administrator  at VAM Systems
+# Platform Software Engineer at EarnIn
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000114794957-openshift-administrator) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7703547) |
 
 ## About This Role
 
-This devops engineer position at VAM Systems was posted on 2026-03-14.
+This devops engineer position at EarnIn was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 

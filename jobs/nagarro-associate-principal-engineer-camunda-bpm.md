@@ -1,16 +1,16 @@
-# OpenShift Administrator  at VAM Systems
+# Associate Principal Engineer, Camunda BPM at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000114794957-openshift-administrator) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000114793557-associate-principal-engineer-camunda-bpm) |
 
 ## About This Role
 
-This devops engineer position at VAM Systems was posted on 2026-03-14.
+This devops engineer position at Nagarro was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
