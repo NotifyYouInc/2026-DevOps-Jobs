@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Ooma
+# Software Engineer - Core at Easygo Gaming
 
 | Field | Details |
 |-------|---------|
-| Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | Database Administration |
+| Company | [Easygo Gaming](https://scoutify.ai/companies/easygo-gaming?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Melbourne, Victoria, Australia |
+| Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068078007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/easygo/jobs/4693291007) |
 
 ## About This Role
 
-This database administration position at Ooma was posted on 2026-03-16.
+This devops engineer position at Easygo Gaming was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

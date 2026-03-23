@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3188873/data-center-operations-engineer-dco-data-center-operations) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3205047/data-center-operations-engineer-dco-data-center-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-02-25.
+This devops engineer position at Amazon was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

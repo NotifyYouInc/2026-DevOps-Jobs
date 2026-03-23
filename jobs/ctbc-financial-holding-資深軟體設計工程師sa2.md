@@ -1,16 +1,16 @@
-# Staff Software Engineer (Node.js & TypeScript) at SIA
+# 資深軟體設計工程師SA2 at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000114888515-staff-software-engineer-nodejs-typescript) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/SA2_JR6717) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-03-16.
+This devops engineer position at CTBC Financial Holding was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

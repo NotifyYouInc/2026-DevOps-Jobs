@@ -5,12 +5,12 @@
 | Company | [Stibo Systems](https://scoutify.ai/companies/stibo-systems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://stibosystems.wd3.myworkdayjobs.com/careers-at-stibo-systems/job/Bangalore-India/Systems-Engineer_JR2004) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://stibosystems.wd3.myworkdayjobs.com/careers-at-stibo-systems/job/Bangalore-India/Systems-Engineer_JR2019) |
 
 ## About This Role
 
-This devops engineer position at Stibo Systems was posted on 2026-02-11.
+This devops engineer position at Stibo Systems was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

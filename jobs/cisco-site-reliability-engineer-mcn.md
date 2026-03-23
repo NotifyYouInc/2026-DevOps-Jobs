@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Ooma
+# Site Reliability Engineer, MCN at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | Database Administration |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068078007) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Site-Reliability-Engineer--MCN_2005544) |
 
 ## About This Role
 
-This database administration position at Ooma was posted on 2026-03-16.
+This devops engineer position at Cisco was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

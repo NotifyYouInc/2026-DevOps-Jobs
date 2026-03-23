@@ -1,16 +1,16 @@
-# Platform Engineering Engineer 3 at Amadeus
+# Apprenticeship - DevOps Engineer at Amadeus
 
 | Field | Details |
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Platform-Engineering-Engineer-3_R32657-1) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Nice/Apprenticeship---DevOps-Engineer_R34171) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-03-16.
+This devops engineer position at Amadeus was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

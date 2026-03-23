@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Ooma
+# Staff Software Development Engineer - DevOps at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | Database Administration |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068078007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5060438007) |
 
 ## About This Role
 
-This database administration position at Ooma was posted on 2026-03-16.
+This devops engineer position at Zscaler was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

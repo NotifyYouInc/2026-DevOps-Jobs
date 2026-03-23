@@ -1,16 +1,16 @@
-# Staff Software Engineer (Node.js & TypeScript) at SIA
+# Performance Engineer at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000114888515-staff-software-engineer-nodejs-typescript) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Performance-Engineer_JR-0000093380-1) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-03-16.
+This devops engineer position at Barclays was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

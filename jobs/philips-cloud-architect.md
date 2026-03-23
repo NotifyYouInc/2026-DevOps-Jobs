@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Ooma
+# Cloud Architect at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Ooma](https://scoutify.ai/companies/ooma?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | Database Administration |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
+| Category | DevOps Engineer |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ooma/jobs/5068078007) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Cloud-Architect_569986) |
 
 ## About This Role
 
-This database administration position at Ooma was posted on 2026-03-16.
+This devops engineer position at Philips was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
