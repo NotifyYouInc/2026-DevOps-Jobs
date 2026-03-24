@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Zagreb, Zagreb, Croatia |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000113132068-devops-engineer) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115051247-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Avery Dennison Corporation was posted on 2026-03-06.
+This devops engineer position at Avery Dennison Corporation was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

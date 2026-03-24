@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Changchun, Jilin, China |
+| Location | Zhejiang, CN |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Changchun-China/Assistant-Design-Release-Engineer_J000694313) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Jiaxing-City-China/Assistant-Design-Release-Engineer_J000695151) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-02-27.
+This electrical / hardware engineer position at Aptiv was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=98601) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102820) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-06.
+This devops engineer position at IBM was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
