@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000109924816-dev-ops-engineer) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115190447-dev-ops-engineer) |
 
 ## About This Role
 
-This devops engineer position at IQ-EQ was posted on 2026-02-18.
+This devops engineer position at IQ-EQ was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

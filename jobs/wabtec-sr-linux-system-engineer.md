@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012053296-sr-linux-system-engineer) |
+| Location | Contagem, Minas Gerais, Brazil |
+| Category | IT & Systems Administration |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012178616-sr-linux-system-engineer) |
 
 ## About This Role
 
-This devops engineer position at Wabtec was posted on 2026-03-10.
+This it & systems administration position at Wabtec was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

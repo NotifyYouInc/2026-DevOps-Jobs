@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Sacramento---8035-Metro-Air-Pkwy/Automation-Engineer_R306370-1) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Sacramento---8035-Metro-Air-Pkwy/Automation-Engineer_R310150) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-13.
+This industrial automation position at Cushman & Wakefield was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

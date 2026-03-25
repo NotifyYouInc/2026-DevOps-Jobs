@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Production-Support---Director---Reliability---Production-Engineering_PT-JR027449) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Production-Support---Director---Reliability---Production-Engineering_PT-JR030269) |
 
 ## About This Role
 
-This engineering manager position at Morgan Stanley was posted on 2026-02-19.
+This engineering manager position at Morgan Stanley was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

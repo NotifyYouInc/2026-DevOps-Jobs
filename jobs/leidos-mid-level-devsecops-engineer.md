@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gaithersburg, Maryland, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Mid-Level-DevSecOps-Engineer_R-00178306) |
+| Category | Security Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Mid-Level-DevSecOps-Engineer_R-00178559) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-13.
+This security engineer position at Leidos was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

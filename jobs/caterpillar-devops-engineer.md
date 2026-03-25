@@ -1,16 +1,16 @@
-# DevOps Engineer at Caterpillar
+# Devops Engineer at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/DevOps-Engineer_R0000356166) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Devops-Engineer_R0000334111) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-03-11.
+This devops engineer position at Caterpillar was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107490849-ingenieur-systeme-et-reseaux-devops-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000115207497-ingenieur-systeme-et-reseaux-devops-hf) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-05.
+This devops engineer position at Everience was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

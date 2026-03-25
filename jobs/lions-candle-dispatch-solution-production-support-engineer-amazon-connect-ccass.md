@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Canada |
 | Category | Technical Writer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000114312209-production-support-engineer-amazon-connect-ccass) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000115141331-production-support-engineer-amazon-connect-ccass) |
 
 ## About This Role
 
-This technical writer position at Lions Candle-Dispatch Solution was posted on 2026-03-12.
+This technical writer position at Lions Candle-Dispatch Solution was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

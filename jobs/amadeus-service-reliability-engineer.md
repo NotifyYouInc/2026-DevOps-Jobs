@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Service-Reliability-Engineer_R34015) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bogota/Service-Reliability-Engineer_R34024) |
 
 ## About This Role
 
-This technical writer position at Amadeus was posted on 2026-03-10.
+This devops engineer position at Amadeus was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

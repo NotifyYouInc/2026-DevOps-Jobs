@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Staff-Data-Insights-Engineer_R5027166-2) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Remote/Staff-Data-Insights-Engineer_R5030986-1) |
 
 ## About This Role
 
-This devops engineer position at GE Aerospace was posted on 2026-02-26.
+This devops engineer position at GE Aerospace was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
