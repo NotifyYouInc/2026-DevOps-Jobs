@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000356478) |
+| Location | Brisbane, Queensland, Australia |
+| Category | Industrial Automation |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/Automation-Engineer_R0000357751) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Caterpillar was posted on 2026-03-10.
+This industrial automation position at Caterpillar was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

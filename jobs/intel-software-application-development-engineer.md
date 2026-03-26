@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Hillsboro, Oregon, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Texas-Austin/Software-Application-Development-Engineer_JR0281239) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Application-Development-Engineer_JR0282051-1) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-03-03.
+This devops engineer position at Intel was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

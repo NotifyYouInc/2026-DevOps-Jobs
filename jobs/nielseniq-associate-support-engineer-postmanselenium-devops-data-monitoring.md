@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115203495-associate-support-engineer-postmanselenium-devops-data-monitoring) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000115446278-associate-support-engineer-postmanselenium-devops-data-monitoring) |
 
 ## About This Role
 
-This technical support engineer position at NielsenIQ was posted on 2026-03-17.
+This technical support engineer position at NielsenIQ was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

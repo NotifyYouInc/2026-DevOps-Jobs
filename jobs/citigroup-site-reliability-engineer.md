@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Site-Reliability-Engineer_26939384) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Site-Reliability-Engineer_26946494) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-02-26.
+This devops engineer position at Citigroup was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

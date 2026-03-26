@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 6 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Vancouver/Senior-Systems-Engineer--Production_REQ-4376) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/London/Senior-Systems-Engineer--Production_BF-REQ-3885) |
 
 ## About This Role
 
-This software engineer position at Clio was posted on 2026-02-05.
+This devops engineer position at Clio was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | North Carolina, US |
 | Category | DevOps Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Ind--Pune-Sez-2-9Th-And-10Th-Floor/Cloud-Provisioning-Engineer_R27468-1) |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/USA---NC-Remote/Cloud-Provisioning-Engineer_R27181-1) |
 
 ## About This Role
 

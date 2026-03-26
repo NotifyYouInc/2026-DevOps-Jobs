@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | San Diego, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0235479) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/DevOps-Engineer--Mid_R0233970) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-09.
+This devops engineer position at Booz Allen was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

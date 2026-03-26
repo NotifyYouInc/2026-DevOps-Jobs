@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---New-York-United-States-NY-Metro/Storage-Architecture-Leader_R286352) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Remote---New-York-United-States-NY-Metro/Storage-Architecture-Leader_R287920) |
 
 ## About This Role
 
-This devops engineer position at Dell Technologies was posted on 2026-03-02.
+This devops engineer position at Dell Technologies was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

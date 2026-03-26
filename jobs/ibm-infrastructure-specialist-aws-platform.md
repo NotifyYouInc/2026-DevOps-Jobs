@@ -6,7 +6,7 @@
 | Location | Karnataka, IN |
 | Category | DevOps Engineer |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102581) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102585) |
 
 ## About This Role
 

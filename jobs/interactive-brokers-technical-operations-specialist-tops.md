@@ -1,16 +1,16 @@
-# Technical Operations Specialist (TOPS) at Interactive Brokers
+# Technical Operations Specialist (TOPS)  at Interactive Brokers
 
 | Field | Details |
 |-------|---------|
 | Company | [Interactive Brokers](https://scoutify.ai/companies/ibkr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Connecticut, US |
+| Location | Vancouver, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ibkr/jobs/8444732002) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ibkr/jobs/8465047002) |
 
 ## About This Role
 
-This devops engineer position at Interactive Brokers was posted on 2026-03-05.
+This devops engineer position at Interactive Brokers was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

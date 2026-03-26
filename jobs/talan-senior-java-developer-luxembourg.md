@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109654885-senior-java-developer-luxembourg) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000115397252-senior-java-developer-luxembourg) |
 
 ## About This Role
 
-This frontend engineer position at Talan was posted on 2026-02-17.
+This frontend engineer position at Talan was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

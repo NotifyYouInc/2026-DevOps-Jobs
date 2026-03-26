@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/QA-Automation-Engineer_1200626-2) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Aguadilla-Puerto-Rico-Puerto-Rico/QA-Automation-Engineer_1202918-4) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-02-03.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Industrial Automation |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Control-Automation-Engineer_R5032921-2) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Noida/Lead-Control-Automation-Engineer_R5035375-2) |
 
 ## About This Role
 
-This industrial automation position at GE Vernova was posted on 2026-02-19.
+This electrical / hardware engineer position at GE Vernova was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
