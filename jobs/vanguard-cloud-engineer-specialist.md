@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Engineer--Specialist_176207) |
+| Location | Wayne, New Jersey, United States |
+| Category | Technical Writer |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Cloud-Engineer--Specialist_175862-1) |
 
 ## About This Role
 
-This devops engineer position at Vanguard was posted on 2026-03-17.
+This technical writer position at Vanguard was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

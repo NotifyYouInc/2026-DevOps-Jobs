@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Sr-System---Cloud-Engineer_R0135332) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-System---Cloud-Engineer_R0135373-1) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-03-12.
+This devops engineer position at PayPal was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Technical Writer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115310267-software-engineer-financial-accounting) |
+| Category | Accounting |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115447320-software-engineer-financial-accounting) |
 
 ## About This Role
 
-This technical writer position at Visa International Service Association was posted on 2026-03-17.
+This accounting position at Visa International Service Association was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

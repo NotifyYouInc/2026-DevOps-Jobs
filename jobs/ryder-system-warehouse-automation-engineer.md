@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
+| Location | Houston, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Remote-NJ/Warehouse-Automation-Engineer_R166838) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Houston-TX-77028/Warehouse-Automation-Engineer_R167331-1) |
 
 ## About This Role
 
-This industrial automation position at Ryder System was posted on 2026-03-13.
+This industrial automation position at Ryder System was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

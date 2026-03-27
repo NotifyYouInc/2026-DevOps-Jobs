@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000114562187-devops-engineer-nederlands-sprekend) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000115629431-devops-engineer-nederlands-sprekend) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-03-13.
+This devops engineer position at Netcompany was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

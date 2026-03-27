@@ -5,12 +5,12 @@
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Morrisville, North Carolina, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Morrisville-NC/Equipment-Automation-Engineer_0093047) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Morrisville-NC/Equipment-Automation-Engineer_R924836) |
 
 ## About This Role
 
-This industrial automation position at Catalent was posted on 2026-03-10.
+This industrial automation position at Catalent was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

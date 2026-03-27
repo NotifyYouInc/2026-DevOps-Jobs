@@ -5,12 +5,12 @@
 | Company | [Link Solutions](https://scoutify.ai/companies/linksolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sierra Vista, Arizona, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000113478427-systems-engineer-subject-matter-expert-sme) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkSolutionsInc/744000115640738-systems-engineer-subject-matter-expert-sme) |
 
 ## About This Role
 
-This devops engineer position at Link Solutions was posted on 2026-03-09.
+This devops engineer position at Link Solutions was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

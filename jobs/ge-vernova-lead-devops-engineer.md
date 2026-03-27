@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Rugby, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/Lead-DevOps-Engineer_R5033671-2) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Rugby/Lead-DevOps-Engineer_R5034705) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-03-02.
+This devops engineer position at GE Vernova was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

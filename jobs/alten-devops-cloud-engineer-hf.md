@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115255822-devops-cloud-engineer-hf) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115482137-devops-cloud-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-03-17.
+This devops engineer position at ALTEN was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

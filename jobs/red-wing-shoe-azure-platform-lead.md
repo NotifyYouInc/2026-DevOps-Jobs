@@ -5,12 +5,12 @@
 | Company | [Red Wing Shoe](https://scoutify.ai/companies/redwingshoe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Red Wing, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000114858967-azure-platform-lead) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000115684729-azure-platform-lead) |
 
 ## About This Role
 
-This devops engineer position at Red Wing Shoe was posted on 2026-03-15.
+This devops engineer position at Red Wing Shoe was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

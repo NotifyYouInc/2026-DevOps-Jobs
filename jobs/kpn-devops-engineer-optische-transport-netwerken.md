@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | Technical Writer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000113587742-devops-engineer-optische-transport-netwerken) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000115607572-devops-engineer-optische-transport-netwerken) |
 
 ## About This Role
 
-This technical writer position at KPN was posted on 2026-03-09.
+This technical writer position at KPN was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

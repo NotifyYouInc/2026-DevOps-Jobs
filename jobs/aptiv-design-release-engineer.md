@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | Nuevo Laredo, Tamaulipas, Mexico |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Design-Release-Engineer_J000693952) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Nuevo-Laredo-Mexico/Design-Release-Engineer_J000694577) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-02-26.
+This electrical / hardware engineer position at Aptiv was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

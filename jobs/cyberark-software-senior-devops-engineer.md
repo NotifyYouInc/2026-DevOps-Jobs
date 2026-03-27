@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at CyberArk Software
+#  Senior Devops Engineer  at CyberArk Software
 
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Beersheba, Southern District, Israel |
+| Location | Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000111386970-senior-devops-engineer) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000115623347-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-02-25.
+This devops engineer position at CyberArk Software was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

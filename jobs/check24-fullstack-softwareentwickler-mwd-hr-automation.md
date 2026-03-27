@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Frontend Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000109667664-fullstack-softwareentwickler-mwd-hr-automation) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000115649076-fullstack-softwareentwickler-mwd-hr-automation) |
 
 ## About This Role
 
-This frontend engineer position at CHECK24 was posted on 2026-02-17.
+This frontend engineer position at CHECK24 was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

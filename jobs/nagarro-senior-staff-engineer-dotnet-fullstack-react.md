@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000109216225-senior-staff-engineer-dotnet-fullstack-react) |
+| Location | Not specified |
+| Category | Frontend Engineer |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000115723867-senior-staff-engineer-dotnet-fullstack-react) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-02-13.
+This frontend engineer position at Nagarro was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
