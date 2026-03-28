@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer--CREM-_R0009316) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer--CREM-_R0009364) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-16.
+This devops engineer position at Trend Micro was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

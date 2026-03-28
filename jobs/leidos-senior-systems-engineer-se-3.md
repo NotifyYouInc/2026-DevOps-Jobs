@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maryland, US |
-| Category | Technical Writer |
+| Category | DevOps Engineer |
 | Posted | 2026-03-18 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-Systems-Engineer--SE-3-_R-00178718) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Senior-Systems-Engineer--SE-3-_R-00178750) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-03-18.
+This devops engineer position at Leidos was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

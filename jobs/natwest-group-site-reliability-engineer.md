@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Site-Reliability-Engineer_R-00273841) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Site-Reliability-Engineer_R-00273609-1) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-23.
+This devops engineer position at NatWest Group was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

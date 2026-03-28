@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Germany |
+| Location | Goa, IN |
 | Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000112621114-automation-engineer-managed-by-klenzaids-contamination-controls-pvt-ltd) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000115892194-automation-engineer-managed-by-klenzaids-contamination-controls-pvt-ltd) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-03-04.
+This industrial automation position at Syntegon Technology was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

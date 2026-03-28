@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SmartBear](https://scoutify.ai/companies/smartbear?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7644991003) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartbear/jobs/7652573003) |
 
 ## About This Role
 
-This devops engineer position at SmartBear was posted on 2026-03-13.
+This devops engineer position at SmartBear was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

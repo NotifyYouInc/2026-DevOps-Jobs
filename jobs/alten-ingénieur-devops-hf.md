@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115503137-ingenieur-devops-hf) |
+| Location | Rennes, Brittany, France |
+| Category | DevOps Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115819052-ingenieur-devops-hf) |
 
 ## About This Role
 
-This technical writer position at ALTEN was posted on 2026-03-18.
+This devops engineer position at ALTEN was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

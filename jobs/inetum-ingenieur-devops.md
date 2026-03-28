@@ -1,16 +1,16 @@
-# INGENIEUR DEVOPS at Inetum
+# Ingenieur DevOps at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Saint-Ouen, Île-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000109917396-ingenieur-devops) |
+| Location | Rennes, Brittany, France |
+| Category | DevOps Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115851317-ingenieur-devops) |
 
 ## About This Role
 
-This technical writer position at Inetum was posted on 2026-02-18.
+This devops engineer position at Inetum was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000114569942-senior-software-engineer) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116012317-senior-software-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Experian was posted on 2026-03-13.
+This frontend engineer position at Experian was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

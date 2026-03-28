@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEPTEO](https://scoutify.ai/companies/septeo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Montpellier, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000113420648-devops-hf) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Septeo/744000115850737-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at SEPTEO was posted on 2026-03-09.
+This devops engineer position at SEPTEO was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

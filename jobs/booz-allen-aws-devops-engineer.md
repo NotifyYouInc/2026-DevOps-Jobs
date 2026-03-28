@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/AWS-DevOps-Engineer_R0235435) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/AWS-DevOps-Engineer_R0236451) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-09.
+This devops engineer position at Booz Allen was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
