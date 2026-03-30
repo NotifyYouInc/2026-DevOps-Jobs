@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# DevOps Support Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Engineering Manager |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/DevOps-Support-Lead-Analyst---Vice-President_26946631) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This engineering manager position at Citigroup was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

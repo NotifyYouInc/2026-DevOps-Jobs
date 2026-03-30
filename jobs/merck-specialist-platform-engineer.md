@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# Specialist, Platform Engineer at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--Platform-Engineer_R388290-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This devops engineer position at Merck was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# Sr Devops Engineer Platform Engineering at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000116104772-sr-devops-engineer-platform-engineering) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This devops engineer position at Experian was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

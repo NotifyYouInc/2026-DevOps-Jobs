@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# Release and Build Specialist [Unity] at Ubisoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000116096777-release-and-build-specialist-unity) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This devops engineer position at Ubisoft was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Application Consultant-Experience FullStack at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Technology / IT Consulting |
+| Category | Frontend Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103889) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103718) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-03-23.
+This frontend engineer position at IBM was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

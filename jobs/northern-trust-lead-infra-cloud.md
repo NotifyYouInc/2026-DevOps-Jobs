@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# Lead, Infra Cloud at Northern Trust
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Lead--Infra-Cloud_R152583) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This devops engineer position at Northern Trust was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

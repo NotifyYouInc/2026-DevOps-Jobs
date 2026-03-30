@@ -1,16 +1,16 @@
-# Principal BizOps Engineer at Mastercard
+# Site Reliability Engineer (DevOps) at Carousell
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Principal-BizOps-Engineer_R-273203) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000116101978-site-reliability-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-23.
+This devops engineer position at Carousell was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

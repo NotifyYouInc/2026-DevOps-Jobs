@@ -1,16 +1,16 @@
-# HIH - Software Engineering Lead Analyst at Cigna
+# Senior Software Engineer at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | DevOps Engineer |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Software-Engineering-Lead-Analyst_26001630) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Software-Engineer_R-408552) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-03-22.
+This devops engineer position at Humana was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 
