@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Systems-Integration-Engineer--NDA-2-_R-00177292) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Systems-Integration-Engineer--NDA-2-_R-00179028) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-02.
+This devops engineer position at Leidos was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

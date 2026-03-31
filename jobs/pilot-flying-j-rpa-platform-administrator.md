@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Database Administration |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000115696457-rpa-platform-administrator) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000115893795-rpa-platform-administrator) |
 
 ## About This Role
 
-This database administration position at Pilot Flying J was posted on 2026-03-19.
+This database administration position at Pilot Flying J was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

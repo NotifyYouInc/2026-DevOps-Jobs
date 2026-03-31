@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florida, US |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Senior-Site-Reliability-Engineer_R41608) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/London-UK/Senior-Site-Reliability-Engineer_R41550) |
 
 ## About This Role
 
-This devops engineer position at SS&C Technologies was posted on 2026-02-27.
+This devops engineer position at SS&C Technologies was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

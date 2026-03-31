@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012118571-senior-devsecops-engineer-platform-and-tooling-remote) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012271341-senior-devsecops-engineer-platform-and-tooling-remote) |
 
 ## About This Role
 
-This security engineer position at AbbVie was posted on 2026-03-12.
+This security engineer position at AbbVie was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

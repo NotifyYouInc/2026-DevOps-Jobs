@@ -5,12 +5,12 @@
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Senior-Systems-Development-Engineer_R285890-1) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Senior-Systems-Development-Engineer_R285889-2) |
 
 ## About This Role
 
-This devops engineer position at Dell Technologies was posted on 2026-03-10.
+This devops engineer position at Dell Technologies was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Michigan, US |
+| Location | Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-MI-Coopersville/Automation-Engineer_WD216157-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Automation-Engineer_WD217647) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-02-24.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

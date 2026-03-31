@@ -1,16 +1,16 @@
-# Lead, Platform Engineer at Mastercard
+# Lead Platform Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead--Platform-Engineer_R-273348) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Lead-Platform-Engineer_R-273172-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-19.
+This devops engineer position at Mastercard was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

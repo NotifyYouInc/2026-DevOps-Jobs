@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santiago de Compostela, Galicia, Spain |
+| Location | Karnataka, IN |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Santiago-de-Compostel-C-Spain/Intern-Student-Tech_REQ571819) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Intern-Student-Tech_REQ571508) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-03-19.
+This it & systems administration position at Unisys was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

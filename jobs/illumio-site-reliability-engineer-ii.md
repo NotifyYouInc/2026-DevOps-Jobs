@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Illumio](https://scoutify.ai/companies/illumio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Sunnyvale, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/e76ff883-448c-40ff-9b7a-121075b3d289) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/illumio/3a3bf906-2223-49e5-a7b4-c71e549f2eb5) |
 
 ## About This Role
 
-This devops engineer position at Illumio was posted on 2026-02-07.
+This devops engineer position at Illumio was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

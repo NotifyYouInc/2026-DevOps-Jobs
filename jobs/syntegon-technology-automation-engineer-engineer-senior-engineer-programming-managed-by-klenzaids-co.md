@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Goa, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000112651247-automation-engineer-engineer-senior-engineer-programming-managed-by-klenzaids-contamination-controls-pvt-ltd) |
+| Category | Industrial Automation |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000116317637-automation-engineer-engineer-senior-engineer-programming-managed-by-klenzaids-contamination-controls-pvt-ltd) |
 
 ## About This Role
 
-This frontend engineer position at Syntegon Technology was posted on 2026-03-04.
+This industrial automation position at Syntegon Technology was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

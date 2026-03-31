@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Sydney/DevOps-Engineer_REQ-10107412) |
+| Location | Manila, National Capital Region, Philippines |
+| Category | Database Administration |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/DevOps-Engineer_REQ-10110188-1) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-03-11.
+This database administration position at ING was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

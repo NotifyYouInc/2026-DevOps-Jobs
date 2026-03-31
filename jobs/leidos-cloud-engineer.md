@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Antonio, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Cloud-Engineer_R-00178296) |
+| Location | 3 locations |
+| Category | Technical Writer |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Cloud-Engineer_R-00178800) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-13.
+This technical writer position at Leidos was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
