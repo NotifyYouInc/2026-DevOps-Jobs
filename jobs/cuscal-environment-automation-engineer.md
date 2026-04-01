@@ -5,12 +5,12 @@
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Industrial Automation |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000115796987-environment-automation-engineer) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000116506657-environment-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Cuscal was posted on 2026-03-20.
+This industrial automation position at Cuscal was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

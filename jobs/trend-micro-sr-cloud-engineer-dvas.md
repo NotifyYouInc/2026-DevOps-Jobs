@@ -5,12 +5,12 @@
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer--DVAS-_R0009238) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer--DVAS-_R0009391) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-05.
+This devops engineer position at Trend Micro was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

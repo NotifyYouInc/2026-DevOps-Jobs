@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000109250746-senior-devops-engineer-azure-ifs-ultimo) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000116535583-senior-devops-engineer-azure-ifs-ultimo) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-02-13.
+This devops engineer position at IFS was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

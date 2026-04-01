@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Winnipeg, Manitoba, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Alberta-CAN---Remote/Senior-Software-Developer_26WD95615-1) |
+| Location | 2 locations |
+| Category | Frontend Engineer |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Software-Developer_26WD96718) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-02-23.
+This frontend engineer position at Autodesk was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

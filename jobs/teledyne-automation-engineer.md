@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Daytona Beach, Florida, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/Italy---Milan/Automation-Engineer_REQ32020) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Daytona-Beach-FL-TDY/Automation-Engineer_REQ33956) |
 
 ## About This Role
 
-This industrial automation position at Teledyne was posted on 2026-02-17.
+This industrial automation position at Teledyne was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

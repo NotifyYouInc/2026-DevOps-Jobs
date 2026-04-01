@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Principal-Platform-Engineer_31549) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Principal-Platform-Engineer_31545) |
 
 ## About This Role
 
-This devops engineer position at FICO was posted on 2026-02-19.
+This devops engineer position at FICO was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

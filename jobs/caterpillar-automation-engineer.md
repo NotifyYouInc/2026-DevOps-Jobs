@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tianjin, Tianjin, China |
+| Location | Illinois, US |
 | Category | Industrial Automation |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Automation-Engineer_R0000358048) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Automation-Engineer_R0000359028) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-19.
+This industrial automation position at Caterpillar was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

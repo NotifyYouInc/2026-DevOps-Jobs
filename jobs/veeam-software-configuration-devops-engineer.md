@@ -1,16 +1,16 @@
-# Configuration (DevOps) Engineer  at Veeam Software
+# Configuration (DevOps) Engineer at Veeam Software
 
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Prague, Prague, Czechia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4788474101) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4821502101) |
 
 ## About This Role
 
-This devops engineer position at Veeam Software was posted on 2026-02-23.
+This devops engineer position at Veeam Software was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

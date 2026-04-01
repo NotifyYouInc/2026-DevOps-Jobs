@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/132765658029925062-staff-software-engineer-site-reliability-engineering-gcs?sort_by=date&page=1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/79989179890442950-staff-software-engineer-site-reliability-engineering-gcs?sort_by=date&page=1) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-12.
+This devops engineer position at Google was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Galway, Connacht, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Software-Engineer_2010997) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Software-Engineer_2010902) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-03-17.
+This devops engineer position at Cisco was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

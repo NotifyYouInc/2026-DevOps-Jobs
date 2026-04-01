@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Hybrid-Infrastructure-Engineer_REQ571320) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Sr-Eng-Cloud-Eng_REQ571875-1) |
 
 ## About This Role
 
-This it & systems administration position at Unisys was posted on 2026-03-17.
+This it & systems administration position at Unisys was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
