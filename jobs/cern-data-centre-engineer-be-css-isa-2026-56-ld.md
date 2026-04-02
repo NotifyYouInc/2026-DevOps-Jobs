@@ -5,12 +5,12 @@
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000115232848-data-centre-engineer-be-css-isa-2026-56-ld) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000116581388-data-centre-engineer-be-css-isa-2026-56-ld) |
 
 ## About This Role
 
-This devops engineer position at CERN was posted on 2026-03-17.
+This devops engineer position at CERN was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

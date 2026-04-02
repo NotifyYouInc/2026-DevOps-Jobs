@@ -1,16 +1,16 @@
-# Senior Bizops Engineer-1 at Mastercard
+# Senior BizOps Engineer-1 at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Bizops-Engineer-1_R-272937) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-BizOps-Engineer-1_R-271589-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-17.
+This devops engineer position at Mastercard was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

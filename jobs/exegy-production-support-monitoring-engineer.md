@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exegy](https://scoutify.ai/companies/exegy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/exegy/7f4eeeb5-b599-4cc2-b252-815a6ac53c05) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/exegy/664cc8ca-24da-44e1-a4f4-d91ec2341f49) |
 
 ## About This Role
 
-This devops engineer position at Exegy was posted on 2026-03-19.
+This devops engineer position at Exegy was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

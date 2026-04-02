@@ -1,16 +1,16 @@
-# Dev Ops Engineer – Junior (Team 01) at Amentum
+# Dev Ops Engineer - Junior (Team 01) at Amentum
 
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Dev-Ops-Engineer---Junior--Team-01-_R0156408) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Dev-Ops-Engineer---Junior--Team-01-_R0157172) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-03-17.
+This devops engineer position at Amentum was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

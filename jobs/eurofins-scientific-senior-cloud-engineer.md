@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113403977-senior-cloud-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000116872648-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-03-09.
+This devops engineer position at Eurofins Scientific was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

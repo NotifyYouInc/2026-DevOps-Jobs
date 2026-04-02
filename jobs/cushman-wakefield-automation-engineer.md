@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ohio, US |
+| Location | Skokie, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---OH---Lockbourne---6322-Collings-Drive/Automation-Engineer_R310815) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Skokie---7555-Linder-Avenue/Automation-Engineer_R311122) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-18.
+This industrial automation position at Cushman & Wakefield was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Automation-Engineer-Associate-Advisor---HIH---Evernorth_25011739) |
+| Location | Hyderabad, Telangana, India |
+| Category | Industrial Automation |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Automation-Engineer-Associate-Advisor---HIH---Evernorth_26003540) |
 
 ## About This Role
 
-This software engineer position at Cigna was posted on 2026-02-05.
+This industrial automation position at Cigna was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

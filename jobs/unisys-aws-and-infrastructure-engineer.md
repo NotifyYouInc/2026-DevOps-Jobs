@@ -5,12 +5,12 @@
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AWS-and-Infrastructure-Engineer_REQ571332) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/AWS-and-Infrastructure-Engineer_REQ571334) |
 
 ## About This Role
 
-This devops engineer position at Unisys was posted on 2026-03-02.
+This devops engineer position at Unisys was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

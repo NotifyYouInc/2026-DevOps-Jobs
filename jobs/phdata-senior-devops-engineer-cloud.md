@@ -5,12 +5,12 @@
 | Company | [phData](https://scoutify.ai/companies/phdata?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7698392) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://www.phdata.io/jobs?gh_jid=7725371) |
 
 ## About This Role
 
-This devops engineer position at phData was posted on 2026-03-11.
+This devops engineer position at phData was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

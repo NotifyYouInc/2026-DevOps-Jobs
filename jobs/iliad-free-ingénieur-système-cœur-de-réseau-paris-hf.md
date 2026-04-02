@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000115469157-ingenieur-systeme-cur-de-reseau-paris-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000116634036-ingenieur-systeme-cur-de-reseau-paris-hf) |
 
 ## About This Role
 
-This devops engineer position at Iliad-Free was posted on 2026-03-18.
+This devops engineer position at Iliad-Free was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 
