@@ -5,12 +5,12 @@
 | Company | [Vizzia](https://scoutify.ai/companies/vizzia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vizzia/76881c62-f8cb-43f2-986c-fe7354f96785) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vizzia/eb2c4326-a6d6-4ae2-9264-2111cab1e0b5) |
 
 ## About This Role
 
-This devops engineer position at Vizzia was posted on 2026-03-20.
+This devops engineer position at Vizzia was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

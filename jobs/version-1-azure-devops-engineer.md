@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000111094137-azure-devops-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000116916787-azure-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-02-24.
+This devops engineer position at Version 1 was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

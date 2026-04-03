@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 7 locations |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Lead-DevOps-Engineer--GCP---AWS----ML-AI-for-Medical-Imaging--No-OPT-or-H1B-_R4036835-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IL03-01-Chicago-500-W-Monroe-St/Lead-DevOps-Engineer--GCP---AWS----ML-AI-for-Medical-Imaging--No-OPT-or-H1B-_R4038687-2) |
 
 ## About This Role
 
-This devops engineer position at GE HealthCare was posted on 2026-02-26.
+This devops engineer position at GE HealthCare was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

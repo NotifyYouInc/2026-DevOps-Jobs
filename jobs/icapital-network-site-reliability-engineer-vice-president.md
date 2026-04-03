@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [iCapital Network](https://scoutify.ai/companies/icapitalnetwork?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8393368002) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8480787002) |
 
 ## About This Role
 
-This software engineer position at iCapital Network was posted on 2026-02-03.
+This devops engineer position at iCapital Network was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

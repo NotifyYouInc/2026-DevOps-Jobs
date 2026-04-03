@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/95782347479098054-site-reliability-manager-site-reliability-engineering-bigquery-sre?sort_by=date&page=1) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/103694710714835654-site-reliability-manager-site-reliability-engineering-bigquery-sre?sort_by=date&page=1) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-12.
+This engineering manager position at Google was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

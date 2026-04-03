@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Universal City, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116232622-staff-devops-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000116968680-staff-devops-engineer) |
 
 ## About This Role
 
-This engineering manager position at NBCUniversal was posted on 2026-03-23.
+This engineering manager position at NBCUniversal was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

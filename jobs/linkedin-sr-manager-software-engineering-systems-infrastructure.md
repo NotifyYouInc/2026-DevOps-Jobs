@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000109863705-sr-manager-software-engineering-systems-infrastructure) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116885267-sr-manager-software-engineering-systems-infrastructure) |
 
 ## About This Role
 
-This engineering manager position at LinkedIn was posted on 2026-02-18.
+This engineering manager position at LinkedIn was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

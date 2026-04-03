@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000109965805-python-engineer-backend-and-cloud-devops-mfx) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000117006627-python-engineer-backend-and-cloud-devops-mfx) |
 
 ## About This Role
 
-This devops engineer position at Scalable Capital was posted on 2026-02-18.
+This devops engineer position at Scalable Capital was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

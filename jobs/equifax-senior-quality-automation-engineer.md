@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kerala, IN |
+| Location | 2 locations |
 | Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Senior-Quality-Automation-Engineer_J00174477) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Senior-Quality-Automation-Engineer_J00175979) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-03-06.
+This industrial automation position at Equifax was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

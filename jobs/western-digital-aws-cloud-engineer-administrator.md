@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000116175773-aws-cloud-engineer-administrator) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117053907-aws-cloud-engineer-administrator) |
 
 ## About This Role
 
-This devops engineer position at Western Digital was posted on 2026-03-23.
+This devops engineer position at Western Digital was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

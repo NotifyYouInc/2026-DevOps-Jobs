@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Principal-Associate-Software-Engineer----International-Card-Tech---Backend_R237548) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Principal-Associate-Software-Engineer----International-Card-Tech---Backend_R238750) |
 
 ## About This Role
 
-This devops engineer position at Capital One was posted on 2026-03-06.
+This devops engineer position at Capital One was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

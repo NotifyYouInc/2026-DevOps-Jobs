@@ -1,16 +1,16 @@
-# SRE Observability SLO Engineer at GE Vernova
+# SRE Observability & SLO Engineer at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/SRE-Observability-SLO-Engineer_R5036322-2) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad-TS-IN-26/SRE-Observability---SLO-Engineer_R5036320-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-03-24.
+This devops engineer position at GE Vernova was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

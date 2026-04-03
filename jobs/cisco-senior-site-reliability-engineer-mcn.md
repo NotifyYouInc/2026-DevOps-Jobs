@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer--MCN_2005542) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer--MCN_2005543) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-03-20.
+This devops engineer position at Cisco was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

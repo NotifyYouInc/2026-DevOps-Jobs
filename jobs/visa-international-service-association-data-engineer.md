@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000115610432-data-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116906037-data-engineer) |
 
 ## About This Role
 
-This devops engineer position at Visa International Service Association was posted on 2026-03-19.
+This devops engineer position at Visa International Service Association was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

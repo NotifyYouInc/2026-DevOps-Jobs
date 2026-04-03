@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Location | Cali, Valle del Cauca Department, Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000113551307-devops-engineer-aws) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117037078-devops-engineer-aws) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-09.
+This devops engineer position at Endava was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

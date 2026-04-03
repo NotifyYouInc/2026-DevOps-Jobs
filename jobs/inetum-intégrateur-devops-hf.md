@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Niort, Nouvelle-Aquitaine, France |
-| Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107746193-integrateur-devops-hf) |
+| Category | Technical Writer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116913635-integrateur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-06.
+This technical writer position at Inetum was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

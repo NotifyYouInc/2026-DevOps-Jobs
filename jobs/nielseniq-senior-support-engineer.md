@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000110167575-senior-support-engineer) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000116891067-senior-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at NielsenIQ was posted on 2026-02-19.
+This technical support engineer position at NielsenIQ was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

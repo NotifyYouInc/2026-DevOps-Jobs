@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000116435097-infrastructure-systems-engineer) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000116605637-infrastructure-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at bet365 was posted on 2026-03-24.
+This devops engineer position at bet365 was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

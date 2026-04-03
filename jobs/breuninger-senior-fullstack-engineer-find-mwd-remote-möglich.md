@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Breuninger](https://scoutify.ai/companies/breuninger?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Frontend Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000116558782-senior-fullstack-engineer-find-mwd-remote-moglich) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000116877025-senior-fullstack-engineer-find-mwd-remote-moglich) |
 
 ## About This Role
 
-This frontend engineer position at Breuninger was posted on 2026-03-25.
+This frontend engineer position at Breuninger was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
