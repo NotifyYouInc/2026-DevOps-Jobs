@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Restaurant365](https://scoutify.ai/companies/restaurant365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.lever.co/restaurant365/c113e778-75ac-4fa0-ba86-6439263e5454) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.lever.co/restaurant365/ecfaca71-9ab3-4686-a833-58f09385496a) |
 
 ## About This Role
 
-This devops engineer position at Restaurant365 was posted on 2026-02-25.
+This devops engineer position at Restaurant365 was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

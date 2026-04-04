@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000116439177-intern-onetech-services-brighton-hove-2026) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000117319130-intern-onetech-services-brighton-hove-2026) |
 
 ## About This Role
 
-This devops engineer position at Legal & General was posted on 2026-03-24.
+This devops engineer position at Legal & General was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000115528591-analista-de-devops-pleno) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117310856-analista-de-devops-pleno) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-03-18.
+This devops engineer position at Experian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

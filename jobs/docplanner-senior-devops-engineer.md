@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000116229276-senior-devops-engineer) |
+| Category | Engineering Manager |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000117265288-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at DocPlanner was posted on 2026-03-23.
+This engineering manager position at DocPlanner was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

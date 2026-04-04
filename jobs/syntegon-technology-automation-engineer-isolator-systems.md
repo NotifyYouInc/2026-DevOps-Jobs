@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Terrassa, Catalonia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000111548045-automation-engineer-isolator-systems) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000117253387-automation-engineer-isolator-systems) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-02-26.
+This industrial automation position at Syntegon Technology was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

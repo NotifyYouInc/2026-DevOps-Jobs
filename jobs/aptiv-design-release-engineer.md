@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nuevo Laredo, Tamaulipas, Mexico |
+| Location | China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Nuevo-Laredo-Mexico/Design-Release-Engineer_J000694577) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Jingzhou-City-China/Design-Release-Engineer_J000692924) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-03-19.
+This electrical / hardware engineer position at Aptiv was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

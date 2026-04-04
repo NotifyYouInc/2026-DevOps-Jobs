@@ -5,12 +5,12 @@
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://www.esri.com/careers/5057163007?gh_jid=5057163007) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.esri.com/careers/5091620007?gh_jid=5091620007) |
 
 ## About This Role
 
-This frontend engineer position at Esri was posted on 2026-02-20.
+This frontend engineer position at Esri was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

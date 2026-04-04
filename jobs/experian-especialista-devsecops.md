@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112985107-especialista-devsecops) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117325046-especialista-devsecops) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-03-05.
+This security engineer position at Experian was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

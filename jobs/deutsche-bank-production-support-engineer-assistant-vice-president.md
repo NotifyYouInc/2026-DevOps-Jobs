@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cary, North Carolina, United States |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Production-Support-Engineer---Assistant-Vice-President_R0425456-2) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Production-Support-Engineer---Assistant-Vice-President_R0426442-1) |
 
 ## About This Role
 
-This technical support engineer position at Deutsche Bank was posted on 2026-03-03.
+This technical support engineer position at Deutsche Bank was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
