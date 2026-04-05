@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Skokie, Illinois, United States |
+| Location | Los Angeles, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Skokie---7555-Linder-Avenue/Automation-Engineer_R311122) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Los-Angeles---5705-W-98th-St/Automation-Engineer_R297317) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-25.
+This industrial automation position at Cushman & Wakefield was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
