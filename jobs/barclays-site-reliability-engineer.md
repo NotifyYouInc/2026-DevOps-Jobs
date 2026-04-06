@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | New Jersey, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/Site-Reliability-Engineer_JR-0000091871) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Site-Reliability-Engineer_JR-0000091980) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-02.
+This devops engineer position at Barclays was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

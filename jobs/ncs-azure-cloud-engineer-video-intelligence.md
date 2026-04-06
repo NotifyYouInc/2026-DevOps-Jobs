@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# Azure Cloud Engineer, Video Intelligence at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000000964696-azure-cloud-engineer-video-intelligence) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at NCS was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Automation Engineer at NiCE
+# Automation Engineer Advisor - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
-| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4825755101?gh_jid=4825755101) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Automation-Engineer-Advisor---HIH---Evernorth_26002491) |
 
 ## About This Role
 
-This industrial automation position at NiCE was posted on 2026-03-29.
+This industrial automation position at Cigna was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

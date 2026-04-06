@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# Agent RL Infra Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Agent-RL-Infra-Engineer_JR2015309) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at Nvidia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

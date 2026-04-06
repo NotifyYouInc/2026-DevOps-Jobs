@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# Operation Engineer at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Operation-Engineer_51576815) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at DXC Technology was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Automation Engineer at NiCE
+# Automation Engineer - Platform Group at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Reẖovot, Central District, Israel |
 | Category | Industrial Automation |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4825755101?gh_jid=4825755101) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/REHOVOT/Automation-Engineer---Platform-Group_R0320719-1) |
 
 ## About This Role
 
-This industrial automation position at NiCE was posted on 2026-03-29.
+This industrial automation position at Thales was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

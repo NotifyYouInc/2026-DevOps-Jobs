@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# China Cloud Engineer at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Dalian, Liaoning, China |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/China---Liaoning---Dalian/China-Cloud-Engineer_4954461) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at Pfizer was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

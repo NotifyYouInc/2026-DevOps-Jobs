@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# EIS Lab service delivery Bangalore at Dell Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/EIS-Lab-service-delivery-Bangalore_R288135) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at Dell Technologies was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

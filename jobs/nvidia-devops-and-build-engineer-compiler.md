@@ -1,16 +1,16 @@
-# Lead BizOps Engineer at Mastercard
+# DevOps and Build Engineer - Compiler at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-03-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-BizOps-Engineer_R-259027) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Pune/DevOps-and-Build-Engineer---Compiler_JR2014232) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-29.
+This devops engineer position at Nvidia was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Center Operation Technician at Amazon
+# Platform Engineer at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10378759/data-center-operation-technician) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Platform-Engineer_REQ-10112152) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-03-30.
+This devops engineer position at ING was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

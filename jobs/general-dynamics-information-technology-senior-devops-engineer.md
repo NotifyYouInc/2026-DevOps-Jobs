@@ -1,16 +1,16 @@
-# Systems Automation Engineer at General Dynamics Information Technology
+# Senior DevOps Engineer at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
-| Category | Industrial Automation |
+| Location | Not specified |
+| Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Systems-Automation-Engineer_RQ217284-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-DevOps-Engineer_RQ217305-1) |
 
 ## About This Role
 
-This industrial automation position at General Dynamics Information Technology was posted on 2026-03-30.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

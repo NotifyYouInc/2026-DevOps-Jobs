@@ -1,16 +1,16 @@
-# (Sr.) Cloud Engineer at Trend Micro
+# 科技金融_軟體設計工程師( Fintech) at CTBC Financial Holding
 
 | Field | Details |
 |-------|---------|
-| Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | DevOps Engineer |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/XMLNAME--Sr--Cloud-Engineer_R0009398) |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/---Fintech-_JR7018) |
 
 ## About This Role
 
-This devops engineer position at Trend Micro was posted on 2026-03-30.
+This devops engineer position at CTBC Financial Holding was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
