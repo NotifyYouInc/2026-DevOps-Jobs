@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/6165f29b-62d5-4f7b-bab5-413aece9d463) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/227eb679-e57a-46a5-858a-726d243ce528) |
 
 ## About This Role
 
-This devops engineer position at Xsolla was posted on 2026-03-26.
+This devops engineer position at Xsolla was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

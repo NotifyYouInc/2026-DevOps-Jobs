@@ -5,12 +5,12 @@
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Release-Administrator_R-01343580) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Release-Administrator_R-01347643) |
 
 ## About This Role
 
-This devops engineer position at Thermo Fisher Scientific was posted on 2026-03-03.
+This devops engineer position at Thermo Fisher Scientific was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

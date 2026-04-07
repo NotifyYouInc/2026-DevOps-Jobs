@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sterling, Virginia, United States |
 | Category | Technical Writer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling/VDI-Engineer---TS-SCI_RQ215534-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Sterling---45479-Holiday-Dr-VAC455/VDI-Engineer---TS-SCI_RQ217392-2) |
 
 ## About This Role
 
-This technical writer position at General Dynamics Information Technology was posted on 2026-02-24.
+This technical writer position at General Dynamics Information Technology was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

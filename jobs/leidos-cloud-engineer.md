@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Suitland, Maryland, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Cloud-Engineer_R-00179344) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Suitland-MD/Cloud-Engineer_R-00179486) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-26.
+This devops engineer position at Leidos was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

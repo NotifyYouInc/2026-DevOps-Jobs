@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tavily](https://scoutify.ai/companies/tavily?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/tavily/6829aa3b-ffa2-4007-b057-2a22e3593cc6) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tavily/96902937-4896-44cc-b4f3-5d57c3cb8c22) |
 
 ## About This Role
 
-This devops engineer position at Tavily was posted on 2026-03-26.
+This devops engineer position at Tavily was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

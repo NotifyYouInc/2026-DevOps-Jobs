@@ -1,16 +1,16 @@
-# Senior Software Engineer - Site Reliability at Freshworks CRM
+#  Senior Software Engineer - Site Reliability at Freshworks CRM
 
 | Field | Details |
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Database Administration |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000110673415-senior-software-engineer-site-reliability) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000117629681-senior-software-engineer-site-reliability) |
 
 ## About This Role
 
-This database administration position at Freshworks CRM was posted on 2026-02-23.
+This database administration position at Freshworks CRM was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

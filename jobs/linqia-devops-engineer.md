@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Linqia](https://scoutify.ai/companies/linqia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Database Administration |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8475141002?gh_jid=8475141002) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/linqia/jobs/8486080002?gh_jid=8486080002) |
 
 ## About This Role
 
-This database administration position at Linqia was posted on 2026-03-23.
+This database administration position at Linqia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

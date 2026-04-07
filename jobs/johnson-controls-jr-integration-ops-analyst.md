@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Karnataka, IN |
 | Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Hyderabad-Andhra-Pradesh-India/Jr-Integration-Ops-Analyst_WD30265483) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Jr-Integration-Ops-Analyst_WD30265356) |
 
 ## About This Role
 
-This technical writer position at Johnson Controls was posted on 2026-03-26.
+This technical writer position at Johnson Controls was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

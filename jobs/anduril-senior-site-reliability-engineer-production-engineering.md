@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5057941007?gh_jid=5057941007) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5093563007?gh_jid=5093563007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-02-24.
+This devops engineer position at Anduril was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
