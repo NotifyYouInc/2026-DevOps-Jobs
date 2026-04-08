@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000110373806-aws-ai-infra-lead) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000118054057-aws-ai-infra-lead) |
 
 ## About This Role
 
-This devops engineer position at Syngenta was posted on 2026-02-20.
+This devops engineer position at Syngenta was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

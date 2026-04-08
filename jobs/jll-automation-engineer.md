@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Niagara Falls, New York, United States |
+| Location | Iowa, US |
 | Category | Industrial Automation |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Niagara-Falls-NY/Automation-Engineer_REQ482575) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Automation-Engineer_REQ496872) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-03-23.
+This industrial automation position at JLL was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

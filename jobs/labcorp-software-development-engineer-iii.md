@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | Frontend Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bangalore-India/Software-Development-Engineer-III_265867) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Software-Development-Engineer-III_265873) |
 
 ## About This Role
 
-This frontend engineer position at Labcorp was posted on 2026-03-10.
+This frontend engineer position at Labcorp was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

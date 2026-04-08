@@ -1,16 +1,16 @@
-# Automation Engineer at ABB
+# Automation engineer at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Anyang, Henan, China |
+| Location | Plovdiv, BG |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Anyang-Seoul-Republic-of-Korea/Automation-Engineer_JR00024933-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stryama-Plovdiv-Bulgaria/Automation-engineer_JR00030277-1) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-03-10.
+This industrial automation position at ABB was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

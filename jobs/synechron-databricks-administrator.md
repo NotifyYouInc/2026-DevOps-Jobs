@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Databricks-Administrator_JR1036643) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Mississauga-ON/Databricks-Administrator_JR1038239-1) |
 
 ## About This Role
 
-This devops engineer position at Synechron was posted on 2026-03-02.
+This devops engineer position at Synechron was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

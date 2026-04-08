@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Libertyville, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Automation-Engineer_WD218045-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-IL-Libertyville/Automation-Engineer_WD217631) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-03-27.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

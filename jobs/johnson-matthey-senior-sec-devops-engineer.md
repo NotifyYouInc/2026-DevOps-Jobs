@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Matthey](https://scoutify.ai/companies/johnson-matthey?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Skopje, Grad Skopje, North Macedonia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Skopje---MK/Senior-Sec-DevOps-Engineer_R-014621) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Engineering Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Kuala-Lumpur---MY/Senior-Sec-DevOps-Engineer_R-014555-1) |
 
 ## About This Role
 
-This devops engineer position at Johnson Matthey was posted on 2026-03-27.
+This engineering manager position at Johnson Matthey was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

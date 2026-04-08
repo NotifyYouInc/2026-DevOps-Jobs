@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Data-Platform-DevOps-Engineer_R-10062432) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Bangalore/Data-Platform-DevOps-Engineer_R-10062433) |
 
 ## About This Role
 
-This devops engineer position at NXP Semiconductors was posted on 2026-03-25.
+This devops engineer position at NXP Semiconductors was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

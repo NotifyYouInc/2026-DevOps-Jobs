@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Software-Engineer_REQ493550) |
+| Location | Tel Aviv, Tel Aviv, Israel |
+| Category | Frontend Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/TEL-AVIV-ISR/Senior-Software-Engineer_REQ495906) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-03-20.
+This frontend engineer position at JLL was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--ITC_R-81056) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Software-Engineer-II--ITC_R-81818) |
 
 ## About This Role
 
-This devops engineer position at Nike was posted on 2026-03-17.
+This devops engineer position at Nike was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 
