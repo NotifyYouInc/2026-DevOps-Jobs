@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | O'Fallon, Missouri, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--BizOps_R-273913) |
+| Category | Engineering Manager |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--BizOps_R-273086) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-30.
+This engineering manager position at Mastercard was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

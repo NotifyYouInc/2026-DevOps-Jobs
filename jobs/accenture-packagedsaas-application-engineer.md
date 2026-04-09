@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Database Administration |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Packaged-SaaS-Application-Engineer_ATCI-5419703-S1984632-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Packaged-SaaS-Application-Engineer_ATCI-5400229-S1970013-1) |
 
 ## About This Role
 
-This database administration position at Accenture was posted on 2026-03-30.
+This devops engineer position at Accenture was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

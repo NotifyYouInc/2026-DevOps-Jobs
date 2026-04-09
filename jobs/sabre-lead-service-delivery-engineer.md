@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Service-Delivery-Engineer_JR107534) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Lead-Service-Delivery-Engineer_JR107621) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-03-27.
+This devops engineer position at Sabre was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

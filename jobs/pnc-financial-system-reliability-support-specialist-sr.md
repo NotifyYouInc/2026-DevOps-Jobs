@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/System-Reliability---Support-Specialist-Sr_R211632) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/System-Reliability---Support-Specialist-Sr_R215674-1) |
 
 ## About This Role
 
-This devops engineer position at PNC Financial was posted on 2026-02-24.
+This devops engineer position at PNC Financial was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

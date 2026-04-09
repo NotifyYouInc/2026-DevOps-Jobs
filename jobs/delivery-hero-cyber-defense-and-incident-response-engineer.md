@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114394622-cyber-defense-and-incident-response-engineer) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118166177-cyber-defense-and-incident-response-engineer) |
 
 ## About This Role
 
-This soc & incident response position at Delivery Hero was posted on 2026-03-12.
+This soc & incident response position at Delivery Hero was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

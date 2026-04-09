@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Cloud-Security-Automation-Engineer_31710) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/Brazil-Remote/Cloud-Security-Automation-Engineer_31713) |
 
 ## About This Role
 
-This security engineer position at CSG Systems International was posted on 2026-03-30.
+This security engineer position at CSG Systems International was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

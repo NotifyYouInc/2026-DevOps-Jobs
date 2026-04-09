@@ -5,12 +5,12 @@
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Carlos, California, United States |
 | Category | Frontend Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5822600004) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/5830799004) |
 
 ## About This Role
 
-This frontend engineer position at Natera was posted on 2026-03-19.
+This frontend engineer position at Natera was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

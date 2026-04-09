@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000110862405-programmeureuse-outils) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000118238027-programmeureuse-outils) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-02-23.
+This devops engineer position at Ubisoft was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Senior-enterprise-technology-engineer_RQ107429) |
+| Location | India |
+| Category | Mobile Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/IN-Bangalore-Technology-BTC-Office/Senior-enterprise-technology-engineer_RQ105934) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-03-11.
+This mobile engineer position at BP was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

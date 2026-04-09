@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
-| Category | DevOps Engineer |
-| Posted | 2026-03-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-115-South-Jefferson-Rd-Campus-Whippany/Site-Reliability-Engineer_JR-0000091980) |
+| Location | Pune, Maharashtra, India |
+| Category | Engineering Manager |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Site-Reliability-Engineer_JR-0000040674-1) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-29.
+This engineering manager position at Barclays was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

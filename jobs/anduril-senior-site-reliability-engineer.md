@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5093600007?gh_jid=5093600007) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5095017007?gh_jid=5095017007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-03-30.
+This devops engineer position at Anduril was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

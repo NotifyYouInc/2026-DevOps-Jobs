@@ -1,16 +1,16 @@
-# HIH – Automation Engineer Lead Analyst at Cigna
+# HIH - Automation Engineer Lead Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Lead-Analyst_26001315) |
+| Category | Industrial Automation |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Lead-Analyst_26003093-1) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-02-10.
+This industrial automation position at Cigna was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ströer SE & Co. KGaA (Ströer Gruppe)](https://scoutify.ai/companies/strersecokgaastrergruppe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000107452181-senior-backend-engineer-und-devops-java-mwd) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StrerSECoKGaAStrerGruppe/744000118098022-senior-backend-engineer-und-devops-java-mwd) |
 
 ## About This Role
 
-This software engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-02-05.
+This devops engineer position at Ströer SE & Co. KGaA (Ströer Gruppe) was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

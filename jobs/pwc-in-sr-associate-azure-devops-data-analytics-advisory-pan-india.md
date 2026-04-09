@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716951WD-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-DN-57/IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716950WD) |
 
 ## About This Role
 
-This technology / it consulting position at PwC was posted on 2026-03-30.
+This technology / it consulting position at PwC was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

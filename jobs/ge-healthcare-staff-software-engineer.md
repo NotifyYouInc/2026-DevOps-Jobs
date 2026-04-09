@@ -5,12 +5,12 @@
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Staff-Software-Engineer_R4038516-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Software-Engineer_R4038813-1) |
 
 ## About This Role
 
-This devops engineer position at GE HealthCare was posted on 2026-03-25.
+This devops engineer position at GE HealthCare was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

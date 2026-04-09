@@ -1,16 +1,16 @@
-# Devops Engineer Assistant Vice President at Citigroup
+# DevOps Engineer – Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Devops-Engineer-Assistant-Vice-President_26941697) |
+| Location | Irving, Texas, United States |
+| Category | Engineering Manager |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/DevOps-Engineer---Assistant-Vice-President_26946041) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-02-27.
+This engineering manager position at Citigroup was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
