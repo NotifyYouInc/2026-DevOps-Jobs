@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Analyst-Sr-Lead--DevOps_JR0304966) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Analyst-Sr-Lead--DevOps_JR0305960) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-02-19.
+This devops engineer position at Fidelity National Information Services was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

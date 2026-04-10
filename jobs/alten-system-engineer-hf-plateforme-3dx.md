@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110327752-system-engineer-hf-plateforme-3dx) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118365408-system-engineer-hf-plateforme-3dx) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-02-20.
+This devops engineer position at ALTEN was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

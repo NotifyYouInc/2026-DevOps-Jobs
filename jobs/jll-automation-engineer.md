@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Iowa, US |
+| Location | Kenosha, Wisconsin, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Automation-Engineer_REQ496872) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/Automation-Engineer_REQ485270) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-04-01.
+This industrial automation position at JLL was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

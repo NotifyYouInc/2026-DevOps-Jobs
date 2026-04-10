@@ -1,16 +1,16 @@
-# AWS DEVOPS Engineer at LSEG
+# AWS DevOps Engineer at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/AWS-DEVOPS-Engineer_R0116671-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/AWS-DevOps-Engineer_R0116753-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-02-25.
+This devops engineer position at LSEG was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

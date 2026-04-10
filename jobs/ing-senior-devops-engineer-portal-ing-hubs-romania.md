@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Senior-DevOps-Engineer-Portal--ING-Hubs-Romania_REQ-10110509-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bucharest---Dacia-One/Senior-DevOps-Engineer-Portal--ING-Hubs-Romania_REQ-10112684) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-03-04.
+This devops engineer position at ING was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
 | Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000118162166-senior-site-reliability-engineer-ireland) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000118194793-senior-site-reliability-engineer-ireland) |
 
 ## About This Role
 

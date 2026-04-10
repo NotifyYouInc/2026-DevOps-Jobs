@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Site-Reliability-Engineer_R-273656) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Site-Reliability-Engineer_R-273909) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-17.
+This devops engineer position at Mastercard was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

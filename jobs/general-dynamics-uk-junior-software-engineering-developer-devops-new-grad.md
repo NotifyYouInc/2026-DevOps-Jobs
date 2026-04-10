@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000117961921-junior-software-engineering-developer-devops-new-grad) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000118457497-junior-software-engineering-developer-devops-new-grad) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics UK was posted on 2026-03-31.
+This devops engineer position at General Dynamics UK was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

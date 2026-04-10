@@ -1,16 +1,16 @@
-# Automation engineer at ABB
+# Automation Engineer at ABB
 
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Plovdiv, BG |
+| Location | North Carolina, US |
 | Category | Industrial Automation |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stryama-Plovdiv-Bulgaria/Automation-engineer_JR00030277-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Automation-Engineer_JR00030380) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-03-31.
+This industrial automation position at ABB was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000108918715-it-infrastructure-cloud-engineer) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118330938-it-infrastructure-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-02-12.
+This devops engineer position at Eurofins Scientific was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

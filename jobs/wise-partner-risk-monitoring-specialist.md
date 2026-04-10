@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000112282610-partner-risk-monitoring-specialist) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118545097-partner-risk-monitoring-specialist) |
 
 ## About This Role
 
-This compliance & risk management position at WISE was posted on 2026-03-02.
+This compliance & risk management position at WISE was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nagpur/DevOps-Engineer_ATCI-5453824-S1990247-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/DevOps-Engineer_ATCI-5099096-S1885839-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-03-31.
+This engineering manager position at Accenture was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

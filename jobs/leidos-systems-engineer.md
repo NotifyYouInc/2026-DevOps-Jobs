@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Systems-Engineer_R-00179198-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Systems-Engineer_R-00179870) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-27.
+This devops engineer position at Leidos was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

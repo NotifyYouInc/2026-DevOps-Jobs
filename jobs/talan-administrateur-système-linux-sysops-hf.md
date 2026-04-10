@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000113128469-administrateur-systeme-linux-sysops-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118448244-administrateur-systeme-linux-sysops-hf) |
 
 ## About This Role
 
-This technical writer position at Talan was posted on 2026-03-06.
+This devops engineer position at Talan was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

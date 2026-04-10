@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000115700816-teamleiter-mwd-fullstack-softwareentwicklung-ai-forge) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000118393322-teamleiter-mwd-fullstack-softwareentwicklung-ai-forge) |
 
 ## About This Role
 
-This engineering manager position at CHECK24 was posted on 2026-03-19.
+This engineering manager position at CHECK24 was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

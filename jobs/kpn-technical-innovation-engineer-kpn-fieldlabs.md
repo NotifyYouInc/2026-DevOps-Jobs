@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000117550807-technical-innovation-engineer-kpn-fieldlabs) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000118370956-technical-innovation-engineer-kpn-fieldlabs) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-03-30.
+This devops engineer position at KPN was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

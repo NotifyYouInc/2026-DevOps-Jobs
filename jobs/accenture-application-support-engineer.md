@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5484297-S2008953) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5508979-S2010172-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-03-31.
+This engineering manager position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

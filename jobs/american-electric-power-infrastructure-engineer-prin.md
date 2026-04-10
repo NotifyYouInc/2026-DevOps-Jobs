@@ -5,12 +5,12 @@
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gahanna, Ohio, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14048) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Infrastructure-Engineer-Prin_R14036) |
 
 ## About This Role
 
-This it & systems administration position at American Electric Power was posted on 2026-02-27.
+This it & systems administration position at American Electric Power was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 
