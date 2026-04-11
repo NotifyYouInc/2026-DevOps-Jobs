@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Frontend Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000116227090-full-stack-developer-ai-solutions) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000118551732-full-stack-developer-ai-solutions) |
 
 ## About This Role
 
-This frontend engineer position at Psi Cro was posted on 2026-03-23.
+This frontend engineer position at Psi Cro was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arkansas, US |
-| Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2462669) |
+| Location | Bentonville, Arkansas, United States |
+| Category | Frontend Engineer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Software-Engineer-III_R-2458437) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-04-01.
+This frontend engineer position at Walmart was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

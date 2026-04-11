@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | West Jordan, Utah, United States |
+| Location | Massachusetts, US |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---UT---West-Jordan---6835-West-New-Bingham-Highway/Automation-Engineer_R312750) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Charlton---53-Sturbridge-Rd/Automation-Engineer_R308685) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-01.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

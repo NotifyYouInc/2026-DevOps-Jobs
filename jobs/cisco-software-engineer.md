@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Richardson, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Software-Engineer_2010902) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2010272-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-03-24.
+This devops engineer position at Cisco was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

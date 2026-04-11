@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Grand Prairie, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineer-Lead_JR183594) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-300/Engineer-Lead_JR187595) |
 
 ## About This Role
 
-This devops engineer position at Elevance Health was posted on 2026-03-02.
+This devops engineer position at Elevance Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

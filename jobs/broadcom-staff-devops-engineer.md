@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-B/Staff-DevOps-Engineer_R025304) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/IND-Bangalore-Kalyani-Vista-II/Staff-DevOps-Engineer_R025651) |
 
 ## About This Role
 
-This devops engineer position at Broadcom was posted on 2026-03-05.
+This devops engineer position at Broadcom was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

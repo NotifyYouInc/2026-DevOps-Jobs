@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000114720037-devops-cloud-engineer-awsazure-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118624517-devops-cloud-engineer-awsazure-hf) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-03-13.
+This devops engineer position at Everience was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-Cloud-Platform-Engineer_R0116334-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Engineering Manager |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Cloud-Platform-Engineer_R0117983-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-03-17.
+This engineering manager position at LSEG was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

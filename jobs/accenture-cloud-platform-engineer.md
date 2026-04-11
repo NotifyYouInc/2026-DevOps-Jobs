@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Cloud-Platform-Engineer_ATCI-5510357-S2009957-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5467965-S1998199-1) |
 
 ## About This Role
 
-This engineering manager position at Accenture was posted on 2026-04-02.
+This devops engineer position at Accenture was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

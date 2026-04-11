@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Site-Reliability-Engineer--SRE-_HR102054) |
+| Location | Alabama, US |
+| Category | Technical Writer |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/AL---Home/Site-Reliability-Engineer--SRE-_HR102095) |
 
 ## About This Role
 
-This devops engineer position at Radiance Technologies was posted on 2026-03-12.
+This technical writer position at Radiance Technologies was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
