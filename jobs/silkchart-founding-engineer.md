@@ -1,16 +1,16 @@
-# Manager, On Duty Manager at GLOBE
+# Founding Engineer at SilkChart
 
 | Field | Details |
 |-------|---------|
-| Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philippines |
+| Company | [SilkChart](https://scoutify.ai/companies/silkchart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-04-04 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/Manager--On-Duty-Manager_R0000019980) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/silkchart/jobs/Hy6clJz-founding-engineer) |
 
 ## About This Role
 
-This devops engineer position at GLOBE was posted on 2026-04-04.
+This devops engineer position at SilkChart was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 
