@@ -1,16 +1,16 @@
-# Infrastructure Specialist-System Administration at IBM
+# TOL3 - Automation Engineer at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | IT & Systems Administration |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Perrysburg, Ohio, United States |
+| Category | Industrial Automation |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=107858) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10383617/tol3-automation-engineer) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-04-06.
+This industrial automation position at Amazon was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

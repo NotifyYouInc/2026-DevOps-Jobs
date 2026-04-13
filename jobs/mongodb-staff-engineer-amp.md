@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at IQ-EQ
+# Staff Engineer, AMP at MongoDB
 
 | Field | Details |
 |-------|---------|
-| Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118832647-senior-devops-engineer) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7773411) |
 
 ## About This Role
 
-This devops engineer position at IQ-EQ was posted on 2026-04-06.
+This devops engineer position at MongoDB was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

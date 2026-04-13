@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at IQ-EQ
+# Application developer - DevOps Internship at IBM
 
 | Field | Details |
 |-------|---------|
-| Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pasig City, National Capital Region, Philippines |
+| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Giza, Giza, Egypt |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000118832647-senior-devops-engineer) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108219) |
 
 ## About This Role
 
-This devops engineer position at IQ-EQ was posted on 2026-04-06.
+This devops engineer position at IBM was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

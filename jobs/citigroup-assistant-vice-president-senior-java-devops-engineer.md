@@ -1,4 +1,4 @@
-# Senior DevOps Engineer - Assistant Vice President at Citigroup
+# Assistant Vice President - Senior Java Devops Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-DevOps-Engineer---Assistant-Vice-President_26951029) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Assistant-Vice-President---Senior-Java-Devops-Engineer_26950698) |
 
 ## About This Role
 

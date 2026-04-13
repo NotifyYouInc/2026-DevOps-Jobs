@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | DevOps Engineer |
+| Location | Dunstable, England, United Kingdom |
+| Category | Engineering Manager |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead-Site-Reliability-Engineer_R-273909) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dunstable-England-Vocalink/Lead-Site-Reliability-Engineer_R-273903) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-04-02.
+This engineering manager position at Mastercard was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

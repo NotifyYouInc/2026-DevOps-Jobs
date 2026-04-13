@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer I at ChoicePoint
+# Platform Automation- UCoE-DevOps at Ciena
 
 | Field | Details |
 |-------|---------|
-| Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 3 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Chennai/Senior-Site-Reliability-Engineer-I_R111383) |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Platform-Automation--UCoE-DevOps_R030515) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-04-06.
+This devops engineer position at Ciena was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
