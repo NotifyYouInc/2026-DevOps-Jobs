@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Cloud-Infrastructure-Engineer---IT-Systems---Operations--ITE-Headquarters-_JR-10000048242-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Cloud-Infrastructure-Engineer---IT-Systems---Operations--ITE-Headquarters-_JR-10000049089) |
 
 ## About This Role
 
-This it & systems administration position at Economic Development Board was posted on 2026-03-09.
+This it & systems administration position at Economic Development Board was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000109795080-automation-engineer) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118951302-automation-engineer) |
 
 ## About This Role
 
-This robotics engineer position at Eurofins Scientific was posted on 2026-02-17.
+This robotics engineer position at Eurofins Scientific was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

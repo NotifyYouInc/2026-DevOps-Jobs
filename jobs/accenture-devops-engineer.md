@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/DevOps-Engineer_ATCI-5508059-S2010399-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/DevOps-Engineer_ATCI-5501110-S2005603-1) |
 
 ## About This Role
 

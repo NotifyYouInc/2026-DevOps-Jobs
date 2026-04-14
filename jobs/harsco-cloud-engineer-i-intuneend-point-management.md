@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Writer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000116140918-cloud-engineer-i-intuneend-point-management) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000118849287-cloud-engineer-i-intuneend-point-management) |
 
 ## About This Role
 
-This technical writer position at Harsco was posted on 2026-03-23.
+This it & systems administration position at Harsco was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

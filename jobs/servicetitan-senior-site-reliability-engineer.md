@@ -5,12 +5,12 @@
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Yerevan, Yerevan, Armenia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Senior-Manager--Software-Engineering_JR111933) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Senior-Site-Reliability-Engineer_JR114420) |
 
 ## About This Role
 
-This devops engineer position at ServiceTitan was posted on 2026-02-12.
+This devops engineer position at ServiceTitan was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
