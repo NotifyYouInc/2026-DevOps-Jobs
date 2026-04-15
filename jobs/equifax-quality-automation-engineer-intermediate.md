@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Quality-Automation-Engineer---Intermediate_J00174770) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Quality-Automation-Engineer---Intermediate_J00176084) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-04-02.
+This industrial automation position at Equifax was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

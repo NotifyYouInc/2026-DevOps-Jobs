@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Site-Reliability-Engineer_R0318770-1) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mexico-City/Site-Reliability-Engineer_R0313336) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-24.
+This devops engineer position at Thales was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

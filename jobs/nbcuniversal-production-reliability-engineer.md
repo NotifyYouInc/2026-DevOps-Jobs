@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000118433817-production-reliability-engineer) |
+| Location | New York, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000118880834-production-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at NBCUniversal was posted on 2026-04-02.
+This it & systems administration position at NBCUniversal was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

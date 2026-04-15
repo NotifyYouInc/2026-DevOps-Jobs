@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cuscal](https://scoutify.ai/companies/cuscal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Queensland, AU |
+| Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000108318965-systems-devops-engineer) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cuscal1/744000118985268-systems-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Cuscal was posted on 2026-02-09.
+This devops engineer position at Cuscal was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
