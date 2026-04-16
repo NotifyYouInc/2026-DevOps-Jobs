@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Australia |
+| Location | O'Fallon, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Bizops-Engineer-II_R-274251) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Bizops-Engineer-II_R-273490) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-04-06.
+This devops engineer position at Mastercard was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

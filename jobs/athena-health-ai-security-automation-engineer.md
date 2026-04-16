@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Massachusetts, US |
+| Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Remote---MA/AI-Security-Automation-Engineer_R14486) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Remote---MA/AI-Security-Automation-Engineer_R14781) |
 
 ## About This Role
 
-This security engineer position at Athena Health was posted on 2026-03-02.
+This security engineer position at Athena Health was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

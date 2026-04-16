@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Database Administration |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113284187-staff-site-reliability-engineer) |
+| Location | Maplewood, Minnesota, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000119471163-staff-site-reliability-engineer) |
 
 ## About This Role
 
-This database administration position at ServiceNow was posted on 2026-03-06.
+This devops engineer position at ServiceNow was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-02-15 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Canada---Markham/Project-Engineer-III---Auto_2025-19158) |
+| Location | Houston, Texas, United States |
+| Category | Industrial Automation |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Power-Systems-Protection-Engineer_2026-19662) |
 
 ## About This Role
 
-This devops engineer position at Schweitzer Engineering Laboratories was posted on 2026-02-15.
+This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

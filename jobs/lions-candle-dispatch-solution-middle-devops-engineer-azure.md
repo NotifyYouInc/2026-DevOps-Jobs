@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Poland |
+| Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000118863557-middle-devops-engineer-azure) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000118870253-middle-devops-engineer-azure) |
 
 ## About This Role
 

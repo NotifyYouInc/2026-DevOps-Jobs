@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Sr-AWS-Cloud-Engineer_R0045714) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Sr-AWS-Cloud-Engineer_R0045214-1) |
 
 ## About This Role
 
-This devops engineer position at HCSC was posted on 2026-02-23.
+This devops engineer position at HCSC was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

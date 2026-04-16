@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000118595307-staff-devops-engineer) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000119345287-staff-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-04-03.
+This devops engineer position at Renesas Electronics was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

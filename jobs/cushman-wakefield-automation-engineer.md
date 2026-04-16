@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Massachusetts, US |
+| Location | Salt Lake City, Utah, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Charlton---53-Sturbridge-Rd/Automation-Engineer_R308685) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---UT---620-South-5700-West/Automation-Engineer_R313328) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-03.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

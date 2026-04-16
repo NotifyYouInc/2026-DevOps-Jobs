@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000114550077-senior-azure-cloud-engineer) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000119360097-senior-azure-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at SGS was posted on 2026-03-13.
+This devops engineer position at SGS was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 
