@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Not specified |
 | Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648315-3956/site-reliability-engineering-manager?team=SFTWR) |
+| Posted | 2025-08-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200615971/site-reliability-engineering-manager) |
 
 ## About This Role
 
-This engineering manager position at Apple was posted on 2026-02-24.
+This engineering manager position at Apple was posted on 2025-08-14.
 
 ## Get Real-Time Alerts
 

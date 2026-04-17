@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643051-1052/site-reliability-engineer?team=SFTWR) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656049/site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-02-11.
+This devops engineer position at Apple was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Ontario, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---UT---620-South-5700-West/Automation-Engineer_R313328) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---4000-South-Hamner-Ave/Automation-Engineer_R313700) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-07.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

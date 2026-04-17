@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
-| Category | Engineering Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Cloud-Engineer_R0236913) |
+| Location | McLean, Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0237483) |
 
 ## About This Role
 
-This engineering manager position at Booz Allen was posted on 2026-04-01.
+This devops engineer position at Booz Allen was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

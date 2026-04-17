@@ -1,0 +1,22 @@
+# ⚙️ Cloud/DevOps Engineer – Deviens un expert augmenté at Sfeir
+
+| Field | Details |
+|-------|---------|
+| Company | [Sfeir](https://scoutify.ai/companies/sfeir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Luxembourg, Luxembourg, Luxembourg |
+| Category | DevOps Engineer |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.lever.co/sfeir/a9c21c82-bfe6-409b-b0b4-42227680e6e8) |
+
+## About This Role
+
+This devops engineer position at Sfeir was posted on 2026-02-17.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

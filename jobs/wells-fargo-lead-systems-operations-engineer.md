@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Lead-Systems-Operations-Engineer_R-534993) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Systems-Operations-Engineer_R-535110) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-04-04.
+This devops engineer position at Wells Fargo was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

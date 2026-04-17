@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kenosha, Wisconsin, United States |
+| Location | Virginia, US |
 | Category | Industrial Automation |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/Automation-Engineer_REQ485270) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Clear-Brook-VA/Automation-Engineer_REQ498831) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-04-03.
+This industrial automation position at JLL was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
