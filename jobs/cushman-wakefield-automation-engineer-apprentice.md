@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bessemer, Alabama, United States |
+| Location | Fontana, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---AL---Bessemer---975-Powder-Plant-Rd/Automation-Engineer-Apprentice_R309896) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fontana---11263-Oleander-Ave/Automation-Engineer-Apprentice_R299767) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-10.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Automation_R0054883) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Sr-Engineer-Automation_R0054875) |
 
 ## About This Role
 
-This devops engineer position at Empower was posted on 2026-02-24.
+This devops engineer position at Empower was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

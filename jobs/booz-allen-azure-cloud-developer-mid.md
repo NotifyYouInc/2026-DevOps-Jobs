@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Azure-Cloud-Developer--Mid_R0234974) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Azure-Cloud-Developer--Mid_R0237587) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-02.
+This devops engineer position at Booz Allen was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

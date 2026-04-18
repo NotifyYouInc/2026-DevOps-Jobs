@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Westport, Connecticut, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012481727-reliability-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012547387-reliability-engineer) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-04-07.
+This industrial automation position at AbbVie was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

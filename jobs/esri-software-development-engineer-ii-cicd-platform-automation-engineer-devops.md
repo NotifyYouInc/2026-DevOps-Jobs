@@ -1,16 +1,16 @@
-# Software Development Engineer II - CI/CD & Platform Automation Engineer (DevOps) at Esri
+# Software Development Engineer II- CI/CD & Platform Automation Engineer (DevOps) at Esri
 
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Redlands, California, United States |
+| Location | Vienna, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.esri.com/careers/5096392007?gh_jid=5096392007) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://www.esri.com/careers/5104822007?gh_jid=5104822007) |
 
 ## About This Role
 
-This devops engineer position at Esri was posted on 2026-04-01.
+This devops engineer position at Esri was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

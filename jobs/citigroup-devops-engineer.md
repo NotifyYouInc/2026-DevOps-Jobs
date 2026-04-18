@@ -1,16 +1,16 @@
-# DevOps engineer at Citigroup
+# DevOps Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | New Castle, Pennsylvania, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/DevOps-engineer_26950953) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/DevOps-Engineer---Officer_26953115) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-08.
+This devops engineer position at Citigroup was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

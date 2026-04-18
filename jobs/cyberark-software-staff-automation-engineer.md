@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000117053317-staff-automation-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000119991293-staff-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at CyberArk Software was posted on 2026-03-26.
+This industrial automation position at CyberArk Software was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

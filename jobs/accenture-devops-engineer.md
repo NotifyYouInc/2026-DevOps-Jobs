@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/DevOps-Engineer_R00324235-2) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/DevOps-Engineer_ATCI-5516212-S2013234-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-08.
+This devops engineer position at Accenture was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

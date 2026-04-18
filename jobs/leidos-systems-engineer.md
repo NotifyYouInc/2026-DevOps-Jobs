@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Melbourne, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Systems-Engineer_R-00179870) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Systems-Engineer_R-00180516) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-02.
+This devops engineer position at Leidos was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

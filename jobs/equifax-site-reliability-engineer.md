@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alpharetta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00175981) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer_J00176002) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-03-31.
+This devops engineer position at Equifax was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
