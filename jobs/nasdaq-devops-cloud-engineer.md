@@ -1,16 +1,16 @@
-# Openshift Administrator  at VAM Systems
+# DevOps Cloud Engineer at Nasdaq
 
 | Field | Details |
 |-------|---------|
-| Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Doha, Baladīyat ad Dawḩah, Qatar |
+| Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000120196147-openshift-administrator) |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---Toronto---Ontario/DevOps-Cloud-Engineer_R0025678) |
 
 ## About This Role
 
-This devops engineer position at VAM Systems was posted on 2026-04-11.
+This devops engineer position at Nasdaq was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 
