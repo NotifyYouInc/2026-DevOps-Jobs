@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at TD Bank
+# Senior Systems Engineer at Yext
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Yext](https://scoutify.ai/companies/yext?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-DevOps-Engineer_R_1483287) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/yext/jobs/7769921) |
 
 ## About This Role
 
-This devops engineer position at TD Bank was posted on 2026-04-13.
+This devops engineer position at Yext was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

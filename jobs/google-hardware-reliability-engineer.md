@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75761355281310406-hardware-reliability-engineer?sort_by=date&page=1) |
+| Location | Mountain View, California, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS-arnDS8O5paOxXnv5pF6AVX0GujiydvGTtryRdOMISEjsACxwdTPJSNjbmviSlWVuZXJT380UfJuCr3xGQPYVSuaZ4W9talr-0Gr7eafWZ0CVez-vH_J9fMSdD8w%3D%3D_V2&loc=US&title=Hardware+Reliability+Engineer) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-03.
+This electrical / hardware engineer position at Google was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

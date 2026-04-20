@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Technical Writer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000113675708-ai-automation-engineer) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000120311317-ai-automation-engineer) |
 
 ## About This Role
 
-This technical writer position at Version 1 was posted on 2026-03-10.
+This ai / llm engineer position at Version 1 was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

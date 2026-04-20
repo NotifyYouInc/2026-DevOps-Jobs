@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at TD Bank
+# Cloud SRE Architect at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-DevOps-Engineer_R_1483287) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Bengaluru---EC-2-Gateway-campus/Cloud-SRE-Architect_JR1036697) |
 
 ## About This Role
 
-This devops engineer position at TD Bank was posted on 2026-04-13.
+This devops engineer position at Synechron was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

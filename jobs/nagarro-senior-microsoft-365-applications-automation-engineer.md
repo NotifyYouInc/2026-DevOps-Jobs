@@ -1,16 +1,16 @@
-# Quality Automation Engineer at Equifax
+# Senior Microsoft 365 Applications & Automation Engineer at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Philippines |
 | Category | Industrial Automation |
 | Posted | 2026-04-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Quality-Automation-Engineer_J00174831-2) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000120287664-senior-microsoft-365-applications-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-04-13.
+This industrial automation position at Nagarro was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
