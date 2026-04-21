@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108394) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108770) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-04-10.
+This devops engineer position at IBM was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

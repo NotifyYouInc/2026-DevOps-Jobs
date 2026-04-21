@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brest, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112641968-ingenieur-devops-cicd-aws-hf) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120421976-ingenieur-devops-cicd-aws-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-04.
+This devops engineer position at Inetum was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

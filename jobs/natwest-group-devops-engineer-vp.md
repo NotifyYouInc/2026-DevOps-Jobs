@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/DevOps-Engineer--VP_R-00273884) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/DevOps-Engineer--VP_R-00276568) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-25.
+This devops engineer position at NatWest Group was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

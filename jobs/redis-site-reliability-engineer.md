@@ -5,12 +5,12 @@
 | Company | [Redis](https://scoutify.ai/companies/redis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/redis/45b1eedb-7301-4f7e-9bcb-77bfc949ac88) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/redis/c8e09742-d080-46b2-88af-a6bbc1b8947a) |
 
 ## About This Role
 
-This devops engineer position at Redis was posted on 2026-04-09.
+This devops engineer position at Redis was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

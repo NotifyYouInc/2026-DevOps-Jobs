@@ -5,12 +5,12 @@
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Needham, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000117320983-devops-architect) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000120523451-devops-architect) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-03-27.
+This devops engineer position at CyberArk Software was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

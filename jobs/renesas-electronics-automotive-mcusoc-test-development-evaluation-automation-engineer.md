@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kodaira, Tokyo, Japan |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000115147517-automotive-mcusoc-test-development-evaluation-automation-engineer) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000120364577-automotive-mcusoc-test-development-evaluation-automation-engineer) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Renesas Electronics was posted on 2026-03-17.
+This embedded / firmware engineer position at Renesas Electronics was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

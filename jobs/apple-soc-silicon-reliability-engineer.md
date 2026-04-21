@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Semiconductor / Chip Design |
-| Posted | 2025-03-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200597033/soc-silicon-reliability-engineer) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657320/soc-silicon-reliability-engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Apple was posted on 2025-03-26.
+This semiconductor / chip design position at Apple was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

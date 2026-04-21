@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Westlake, Ohio, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Cloud-Engineer_2123700-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Senior-Cloud-Engineer_2125293-1) |
 
 ## About This Role
 
-This devops engineer position at Fidelity was posted on 2026-03-25.
+This devops engineer position at Fidelity was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

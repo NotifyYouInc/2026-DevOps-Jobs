@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dell Technologies](https://scoutify.ai/companies/dell-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Austin-Texas-United-States/Senior-Principal---Kubernetes-Platform-Engineer_R286341-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://dell.wd1.myworkdayjobs.com/External/job/Bangalore-India/Senior-Principal---Kubernetes-Platform-Engineer_R286387) |
 
 ## About This Role
 
-This devops engineer position at Dell Technologies was posted on 2026-03-03.
+This devops engineer position at Dell Technologies was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

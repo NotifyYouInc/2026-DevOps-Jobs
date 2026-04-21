@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | South Africa |
+| Location | Randburg, Gauteng, South Africa |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Specialist-Platform-Engineer_R-15985060-1) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Specialist-Platform-Engineer_R-15985949-2) |
 
 ## About This Role
 
-This devops engineer position at Absa was posted on 2026-03-25.
+This devops engineer position at Absa was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

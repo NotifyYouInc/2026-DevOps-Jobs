@@ -1,16 +1,16 @@
-# Software Engineering Senior Analyst at Cigna
+# Software engineering Senior Analyst at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Software-Engineering-Senior-Analyst_26000609) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Software-engineering-Senior-Analyst_26004167) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-03-09.
+This devops engineer position at Cigna was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

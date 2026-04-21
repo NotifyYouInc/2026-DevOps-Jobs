@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hootsuite](https://scoutify.ai/companies/hootsuite?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hasselt, Flanders, Belgium |
+| Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.hootsuite.com/job/?gh_jid=7717102) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hootsuite/jobs/7582752) |
 
 ## About This Role
 
-This devops engineer position at Hootsuite was posted on 2026-03-16.
+This devops engineer position at Hootsuite was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

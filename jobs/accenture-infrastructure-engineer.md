@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Infrastructure-Engineer_14238279) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infrastructure-Engineer_ATCI-5480160-S2013295) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-04-07.
+This it & systems administration position at Accenture was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

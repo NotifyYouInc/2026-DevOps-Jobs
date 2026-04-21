@@ -5,12 +5,12 @@
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/QA-Automation-Engineer_JR_14411) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/QA-Automation-Engineer_JR_14525) |
 
 ## About This Role
 
-This devops engineer position at Guidewire Software was posted on 2026-02-26.
+This devops engineer position at Guidewire Software was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

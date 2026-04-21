@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0235888) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Annapolis-Junction-MD/Platform-DevOps-Engineer_R0237688) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-13.
+This devops engineer position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

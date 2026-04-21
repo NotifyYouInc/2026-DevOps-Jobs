@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | New York, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Toronto-CAN/DevOps-Engineer_324637-2) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/DevOps-Engineer_327940-1) |
 
 ## About This Role
 
-This devops engineer position at S&P Global was posted on 2026-02-26.
+This devops engineer position at S&P Global was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

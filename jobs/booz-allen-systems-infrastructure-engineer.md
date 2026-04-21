@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Aurora, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Infrastructure-Engineer_R0235350) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/Systems-Infrastructure-Engineer_R0237672) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-06.
+This devops engineer position at Booz Allen was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

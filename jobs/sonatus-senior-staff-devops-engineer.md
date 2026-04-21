@@ -1,16 +1,16 @@
-# Senior Staff DevOps Engineer  at Sonatus
+# Senior Staff DevOps Engineer at Sonatus
 
 | Field | Details |
 |-------|---------|
 | Company | [Sonatus](https://scoutify.ai/companies/sonatus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5069995007) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonatus/jobs/5104292007) |
 
 ## About This Role
 
-This devops engineer position at Sonatus was posted on 2026-03-06.
+This devops engineer position at Sonatus was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

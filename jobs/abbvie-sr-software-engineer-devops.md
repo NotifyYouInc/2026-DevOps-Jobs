@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011700416-sr-software-engineer-devops) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012569486-sr-software-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-02-16.
+This devops engineer position at AbbVie was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Alpharetta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PTEC/Site-Reliability-Engineer---Intermediate_J00175798) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Georgia---Alpharetta---30005/Site-Reliability-Engineer---Intermediate_J00174767) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-03-30.
+This devops engineer position at Equifax was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
