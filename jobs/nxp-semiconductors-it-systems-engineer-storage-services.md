@@ -5,12 +5,12 @@
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/IT-Systems-Engineer---Storage-Services_R-10062421) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Noida/IT-Systems-Engineer---Storage-Services_R-10062686) |
 
 ## About This Role
 
-This devops engineer position at NXP Semiconductors was posted on 2026-03-25.
+This devops engineer position at NXP Semiconductors was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

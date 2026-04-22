@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-System---Cloud-Engineer_R0135373-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-System---Cloud-Engineer_R0136040-1) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-03-19.
+This devops engineer position at PayPal was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

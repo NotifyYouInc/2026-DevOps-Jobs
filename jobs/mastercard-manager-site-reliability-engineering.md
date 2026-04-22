@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Site-Reliability-Engineering_R-274255-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Manager--Site-Reliability-Engineering_R-275569) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-04-02.
+This engineering manager position at Mastercard was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

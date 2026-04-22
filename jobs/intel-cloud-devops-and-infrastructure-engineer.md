@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Cloud-DevOps-and-Infrastructure-Engineer_JR0282274) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Cloud-DevOps-and-Infrastructure-Engineer_JR0282723) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-03-24.
+This devops engineer position at Intel was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000118863527-middle-devops-engineer-openshift-on-prem-tieto-tech-consulting-mfd) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000120680330-middle-devops-engineer-openshift-on-prem-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-04-06.
+This devops engineer position at Tietoevry was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analista Devops at DXC Technology
+# Analista DevOps at DXC Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---RJ---RIO-DE-JANEIRO/Analista-Devops_51572011) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAO-PAULO/Analista-DevOps_51575414) |
 
 ## About This Role
 
-This software engineer position at DXC Technology was posted on 2026-02-03.
+This devops engineer position at DXC Technology was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

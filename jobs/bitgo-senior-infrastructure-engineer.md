@@ -5,12 +5,12 @@
 | Company | [BitGo](https://scoutify.ai/companies/bitgo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8500989002) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bitgo/jobs/8506276002) |
 
 ## About This Role
 
-This devops engineer position at BitGo was posted on 2026-04-09.
+This devops engineer position at BitGo was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

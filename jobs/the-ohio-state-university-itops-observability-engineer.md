@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/ITOps---Observability-Engineer_R143592-1) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/ITOps---Observability-Engineer_R145783-2) |
 
 ## About This Role
 
-This operations position at The Ohio State University was posted on 2026-02-09.
+This it & systems administration position at The Ohio State University was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

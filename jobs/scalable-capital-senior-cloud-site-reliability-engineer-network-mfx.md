@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000114418237-senior-cloud-site-reliability-engineer-network-mfx) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000120680447-senior-cloud-site-reliability-engineer-network-mfx) |
 
 ## About This Role
 
-This devops engineer position at Scalable Capital was posted on 2026-03-12.
+This devops engineer position at Scalable Capital was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---GURUGRAM-VILLAGE-NATHUPUR-THE-AMBIENCE-CORPORATE-TOWER-II/Lead--Platform-Engineering_326275-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---HYDERABAD-SKYVIEW/Lead--Software-Engineering_322118-1) |
 
 ## About This Role
 
-This devops engineer position at S&P Global was posted on 2026-04-11.
+This devops engineer position at S&P Global was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

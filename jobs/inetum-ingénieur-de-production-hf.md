@@ -1,16 +1,16 @@
-# Ingénieur de production H/F at Inetum
+# Ingénieur de Production H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116223247-ingenieur-de-production-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120648187-ingenieur-de-production-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-23.
+This devops engineer position at Inetum was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

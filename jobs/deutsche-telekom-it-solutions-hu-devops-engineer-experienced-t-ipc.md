@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Technical Writer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000118178457-devops-engineer-experienced-t-ipc) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000120612662-devops-engineer-experienced-t-ipc) |
 
 ## About This Role
 
-This technical writer position at Deutsche Telekom IT Solutions HU was posted on 2026-04-01.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120446735-senior-platform-engineer-aws-commerce-cloud-platform-all-genders) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120724757-senior-platform-engineer-aws-commerce-cloud-platform-all-genders) |
 
 ## About This Role
 
-This devops engineer position at About You was posted on 2026-04-13.
+This devops engineer position at About You was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

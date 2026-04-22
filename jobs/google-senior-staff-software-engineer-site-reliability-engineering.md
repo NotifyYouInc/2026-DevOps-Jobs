@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York, US |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/117185512229216966-senior-staff-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckV_XsIrfFjvJSp7azYe2YU9F6Ni0IwOBW7qgA1psoWTlEjsACxwdTCO9KsST1p1_gPEWlv8Fwb3T3x-V31iujtVuKvZmgy-U8RRMmXV7QDMZfb0qF2evM6yHVJ3MxQ%3D%3D_V2&loc=CH&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-26.
+This devops engineer position at Google was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

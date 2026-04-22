@@ -5,12 +5,12 @@
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/4bc29287-c0a4-443e-b395-520e882113ef) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/c376430b-d0f8-4f73-8125-e003fecb5bf3) |
 
 ## About This Role
 
-This devops engineer position at Deel was posted on 2026-04-08.
+This devops engineer position at Deel was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

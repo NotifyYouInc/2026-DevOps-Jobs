@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000116442960-ingenieur-devops-automatisation-infrastructure-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000120619108-ingenieur-devops-automatisation-infrastructure-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-03-24.
+This devops engineer position at ALTEN was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Prague-Czechia/Technical-System-Analyst_R0065980-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Warsaw-Poland/Site-Reliability-Engineer_R0065990-1) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-02-19.
+This devops engineer position at Global Payments was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

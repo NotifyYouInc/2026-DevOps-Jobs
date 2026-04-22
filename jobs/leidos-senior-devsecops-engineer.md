@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Lorton-VA/Senior-DevSecOps-Engineer_R-00179852) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Senior-DevSecOps-Engineer_R-00180846) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-02.
+This security engineer position at Leidos was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

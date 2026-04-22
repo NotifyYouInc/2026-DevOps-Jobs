@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000115859057-site-reliability-engineering-sre-observabilidad-y-rendimiento-de-aplicaciones) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000120728324-site-reliability-engineering-sre-observabilidad-y-rendimiento-de-aplicaciones) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-20.
+This devops engineer position at Devoteam was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

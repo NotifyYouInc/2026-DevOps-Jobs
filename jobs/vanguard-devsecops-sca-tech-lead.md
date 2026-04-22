@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/DevSecOps-SCA-Tech-Lead_176684-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/DallasFt-Worth-TX/DevSecOps-SCA-Tech-Lead_177205-1) |
 
 ## About This Role
 
-This security engineer position at Vanguard was posted on 2026-04-10.
+This security engineer position at Vanguard was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Dev-Ops-Engineer---Mid--Team-01-_R0156450) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-DC-Washington/Dev-Ops-Engineer---Mid--Team-01-_R0159073) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-03-17.
+This devops engineer position at Amentum was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

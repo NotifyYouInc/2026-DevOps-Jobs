@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Senior-DevOps-Engineer_151366-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Halifax/Senior-DevOps-Engineer_141647) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-04-01.
+This devops engineer position at Lloyds Bank was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

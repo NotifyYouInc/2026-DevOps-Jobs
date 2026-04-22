@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Poland |
-| Category | Database Administration |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000113705407-senior-devops-engineer-ehealth-sector) |
+| Location | Kyiv, Kyiv City, Ukraine |
+| Category | DevOps Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000120631842-senior-devops-engineer-ehealth-sector) |
 
 ## About This Role
 
-This database administration position at Sigma Software was posted on 2026-03-10.
+This devops engineer position at Sigma Software was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

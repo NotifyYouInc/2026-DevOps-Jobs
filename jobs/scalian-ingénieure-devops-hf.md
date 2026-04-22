@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brest, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000117344502-ingenieure-devops-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000120717858-ingenieure-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-03-27.
+This devops engineer position at Scalian was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

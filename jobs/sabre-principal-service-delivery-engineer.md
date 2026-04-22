@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montevideo, Montevideo Department, Uruguay |
-| Category | Customer Success |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/ZonAmerica-Montevideo-Uruguay/Principal-Service-Delivery-Engineer_JR107602) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Principal-Service-Delivery-Engineer_JR107580) |
 
 ## About This Role
 
-This customer success position at Sabre was posted on 2026-04-01.
+This devops engineer position at Sabre was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

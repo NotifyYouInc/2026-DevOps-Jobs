@@ -5,12 +5,12 @@
 | Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San José, San José, Costa Rica |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/Costa-Rica-San-Jose/Lead-Cloud-Engineer_R0007287) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/Costa-Rica-San-Jose/Lead-Cloud-Engineer_R0007316-1) |
 
 ## About This Role
 
-This devops engineer position at Syniverse Technologies was posted on 2026-02-25.
+This devops engineer position at Syniverse Technologies was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

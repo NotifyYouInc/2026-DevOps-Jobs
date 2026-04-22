@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Council Bluffs, Iowa, United States |
+| Location | Oakdale, Minnesota, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Council-Bluffs-Iowa/Senior-Reliability-Engineer_Req-037542-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Oakdale-California/Senior-Reliability-Engineer_Req-037588) |
 
 ## About This Role
 
-This industrial automation position at Conagra Brands was posted on 2026-04-09.
+This industrial automation position at Conagra Brands was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 
