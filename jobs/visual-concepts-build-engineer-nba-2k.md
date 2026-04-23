@@ -5,12 +5,12 @@
 | Company | [Visual Concepts](https://scoutify.ai/companies/visual-concepts?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Novato, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/visualconcepts/jobs/7691164003) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/visualconcepts/jobs/7701392003) |
 
 ## About This Role
 
-This devops engineer position at Visual Concepts was posted on 2026-04-08.
+This devops engineer position at Visual Concepts was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

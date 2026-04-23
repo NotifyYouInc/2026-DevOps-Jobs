@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Bangalore-IND/Data-Cloud-Engineer_R18798-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Bangalore-IND/Data-Cloud-Engineer_R18863-1) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-03-17.
+This devops engineer position at Zoom was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

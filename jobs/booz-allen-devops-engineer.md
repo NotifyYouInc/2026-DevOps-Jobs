@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Diego, California, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/DevOps-Engineer_R0237193-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/DevOps-Engineer_R0237879) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-04-06.
+This devops engineer position at Booz Allen was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

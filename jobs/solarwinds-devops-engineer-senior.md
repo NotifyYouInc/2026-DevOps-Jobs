@@ -1,16 +1,16 @@
-# DevOps Engineer (Senior) at SolarWinds
+# DevOps Engineer, Senior at SolarWinds
 
 | Field | Details |
 |-------|---------|
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4611675005&gh_jid=4611675005) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4670971005&gh_jid=4670971005) |
 
 ## About This Role
 
-This devops engineer position at SolarWinds was posted on 2026-04-13.
+This devops engineer position at SolarWinds was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

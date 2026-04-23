@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Czechia |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/DevOps-Engineer_R0322962) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/DevOps-Engineer_R0319504-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-30.
+This devops engineer position at Thales was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

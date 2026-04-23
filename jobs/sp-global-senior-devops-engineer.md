@@ -1,16 +1,16 @@
-# Senior Devops Engineer at S&P Global
+# Senior DevOps Engineer at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Islamabad, Islamabad, Pakistan |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/IN---AHMEDABAD/Senior-Devops-Engineer_327356-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Islamabad-PK/Senior-DevOps-Engineer_325394-2) |
 
 ## About This Role
 
-This devops engineer position at S&P Global was posted on 2026-04-08.
+This devops engineer position at S&P Global was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

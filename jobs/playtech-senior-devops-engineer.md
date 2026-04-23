@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000115432093-senior-devops-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000120925392-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-03-18.
+This devops engineer position at Playtech was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

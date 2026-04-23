@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/a5d017d8-4180-4db3-8cae-3a7f9fa4976c) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/04f2f382-7760-4f42-a7da-f85ae8de8a62) |
 
 ## About This Role
 
-This devops engineer position at Legora (formerly Leya) was posted on 2026-04-14.
+This devops engineer position at Legora (formerly Leya) was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

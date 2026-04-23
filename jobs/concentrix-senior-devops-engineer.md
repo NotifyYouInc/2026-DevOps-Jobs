@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Work-at-Home/Senior-DevOps-Engineer_R1709910) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Atlanta-One-Ravinia-Drive-Suite-610/Senior-DevOps-Engineer_R1722618) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-03-31.
+This devops engineer position at Concentrix was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

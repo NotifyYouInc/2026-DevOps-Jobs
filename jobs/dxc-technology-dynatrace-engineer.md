@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 7 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---AP---HYDERABAD/Dynatrace-Engineer_51575635) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Dynatrace-Engineer_51571339) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-03-30.
+This devops engineer position at DXC Technology was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

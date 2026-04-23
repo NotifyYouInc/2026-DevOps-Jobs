@@ -1,16 +1,16 @@
-# Site Reliability Engineer  at CyberArk Software
+# Site Reliability Engineer at CyberArk Software
 
 | Field | Details |
 |-------|---------|
 | Company | [CyberArk Software](https://scoutify.ai/companies/cyberarksoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Needham, Massachusetts, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000116273121-site-reliability-engineer) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cyberark1/744000121108777-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at CyberArk Software was posted on 2026-03-23.
+This devops engineer position at CyberArk Software was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

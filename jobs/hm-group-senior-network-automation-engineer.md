@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Industrial Automation |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000114370118-senior-network-automation-engineer) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000120872843-senior-network-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at H&M Group was posted on 2026-03-12.
+This industrial automation position at H&M Group was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7743306) |
+| Location | Dublin, Leinster, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7818635) |
 
 ## About This Role
 
-This engineering manager position at MongoDB was posted on 2026-03-25.
+This devops engineer position at MongoDB was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
