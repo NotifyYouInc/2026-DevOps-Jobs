@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Salvador, San Salvador Department, El Salvador |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/DevOps-Software-Engineer-Senior_JR114451) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/DevOps-Software-Engineer-Senior_JR114452) |
 
 ## About This Role
 
-This devops engineer position at RSM was posted on 2026-02-11.
+This devops engineer position at RSM was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Georgia, US |
 | Category | Industrial Automation |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Automation-Engineer-II_R-066246-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/Automation-Engineer-II_R-069935-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-04-13.
+This industrial automation position at Johnson & Johnson was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

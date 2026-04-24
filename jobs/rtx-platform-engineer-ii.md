@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | McKinney, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Platform-Engineer-II_01831457) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Platform-Engineer-II_01838665) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-04-10.
+This devops engineer position at RTX was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

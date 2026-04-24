@@ -5,12 +5,12 @@
 | Company | [Smartsheet](https://scoutify.ai/companies/smartsheet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7772898) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smartsheet/jobs/7821270) |
 
 ## About This Role
 
-This industrial automation position at Smartsheet was posted on 2026-04-01.
+This industrial automation position at Smartsheet was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

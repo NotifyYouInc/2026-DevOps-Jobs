@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Security-DevOps-Engineer_R18691-1) |
+| Category | Security Engineer |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/Security-DevOps-Engineer_R18692-2) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-03-04.
+This security engineer position at Zoom was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

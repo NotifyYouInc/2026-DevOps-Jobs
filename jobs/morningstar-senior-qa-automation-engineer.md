@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | New Delhi, Delhi, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Toronto/Senior-QA-Automation-Engineer_REQ-055841) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/New-Delhi/Senior-QA-Automation-Engineer_REQ-056261-1) |
 
 ## About This Role
 
-This devops engineer position at Morningstar was posted on 2026-03-17.
+This devops engineer position at Morningstar was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

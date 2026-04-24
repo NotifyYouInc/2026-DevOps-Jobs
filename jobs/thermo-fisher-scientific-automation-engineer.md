@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Guangzhou, Guangdong, China |
 | Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Morrisville-North-Carolina-USA/Automation-Engineer_R-01326321-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Guangdong-China/Automation-Engineer_R-01349401) |
 
 ## About This Role
 
-This industrial automation position at Thermo Fisher Scientific was posted on 2026-03-06.
+This industrial automation position at Thermo Fisher Scientific was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

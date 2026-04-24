@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Transport-Infrastructure-DevOps-Engineer_R-00180666) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Data-Transport-Infrastructure-DevOps-Engineer_R-00181062) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-13.
+This devops engineer position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

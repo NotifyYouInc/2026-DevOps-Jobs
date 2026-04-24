@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Lisbon-Lisbon-Portugal/DevOps-Engineer_R0126444) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/DevOps-Engineer_R0123323) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-04-14.
+This devops engineer position at Hitachi was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

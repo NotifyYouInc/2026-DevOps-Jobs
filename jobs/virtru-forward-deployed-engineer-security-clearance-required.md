@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Virtru](https://scoutify.ai/companies/virtru?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tampa, Florida, United States |
+| Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4684820005) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4685592005) |
 
 ## About This Role
 
-This devops engineer position at Virtru was posted on 2026-04-14.
+This devops engineer position at Virtru was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

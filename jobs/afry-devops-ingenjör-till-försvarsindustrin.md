@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000108528044-devops-ingenjor-till-forsvarsindustrin) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000121150607-devops-ingenjor-till-forsvarsindustrin) |
 
 ## About This Role
 
-This devops engineer position at AFRY was posted on 2026-02-10.
+This devops engineer position at AFRY was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

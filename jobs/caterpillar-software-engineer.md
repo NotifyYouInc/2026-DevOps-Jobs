@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Software-Engineer_R0000352822) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Software-Engineer_R0000362168) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-02-23.
+This devops engineer position at Caterpillar was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

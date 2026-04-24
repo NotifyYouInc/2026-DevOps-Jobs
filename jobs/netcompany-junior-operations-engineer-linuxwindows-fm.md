@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000120927557-junior-operations-engineer-linuxwindows-fm) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000121189653-junior-operations-engineer-linuxwindows-fm) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-04-15.
+This devops engineer position at Netcompany was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

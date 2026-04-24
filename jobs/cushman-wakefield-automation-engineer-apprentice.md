@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fontana, California, United States |
+| Location | Ontario, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fontana---11263-Oleander-Ave/Automation-Engineer-Apprentice_R299767) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Ontario---8900-Merrill-Ave/Automation-Engineer-Apprentice_R314598) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-10.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

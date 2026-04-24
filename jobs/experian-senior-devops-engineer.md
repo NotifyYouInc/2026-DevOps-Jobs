@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000112106925-senior-devops-engineer) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121294189-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-03-02.
+This devops engineer position at Experian was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

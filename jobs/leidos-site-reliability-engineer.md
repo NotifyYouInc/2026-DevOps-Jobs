@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Site-Reliability-Engineer_R-00180815) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Reliability-Engineer_R-00181032) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-14.
+This devops engineer position at Leidos was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

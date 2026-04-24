@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ohio, US |
+| Location | Florida, US |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal--Sr-Principal-Cloud-Engineer--AHT-_R10229438) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Niceville/Principal--Sr-Principal-Cloud-Engineer--AHT-_R10229799) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-04-14.
+This devops engineer position at Northrop Grumman was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
