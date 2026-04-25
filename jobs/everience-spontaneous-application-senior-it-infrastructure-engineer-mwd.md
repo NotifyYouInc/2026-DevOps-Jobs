@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000117229745-spontaneous-application-senior-it-infrastructure-engineer-mwd) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121419057-spontaneous-application-senior-it-infrastructure-engineer-mwd) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-03-27.
+This devops engineer position at Everience was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

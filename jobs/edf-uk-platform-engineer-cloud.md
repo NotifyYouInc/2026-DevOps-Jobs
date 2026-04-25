@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Gloucester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000120986117-platform-engineer-cloud) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000121231193-platform-engineer-cloud) |
 
 ## About This Role
 
-This devops engineer position at EDF UK was posted on 2026-04-15.
+This devops engineer position at EDF UK was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

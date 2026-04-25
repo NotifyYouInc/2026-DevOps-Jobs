@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107237456-devops-profil-confirme-hf-3-5-ans-experience) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121364056-devops-profil-confirme-hf-3-5-ans-experience) |
 
 ## About This Role
 
-This software engineer position at Everience was posted on 2026-02-04.
+This devops engineer position at Everience was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

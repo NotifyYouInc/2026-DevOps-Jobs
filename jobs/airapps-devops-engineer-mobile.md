@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Mobile Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/c2108163-3f0e-4b95-a4ca-b11e8ad406e0) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/6836dbe7-8789-4753-a189-5a2e92f6694a) |
 
 ## About This Role
 
-This mobile engineer position at Airapps was posted on 2026-04-16.
+This devops engineer position at Airapps was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

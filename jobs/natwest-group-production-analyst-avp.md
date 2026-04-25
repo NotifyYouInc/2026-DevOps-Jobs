@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Production-Analyst--AVP_R-00274063) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Production-Analyst--AVP_R-00276830) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-26.
+This devops engineer position at NatWest Group was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

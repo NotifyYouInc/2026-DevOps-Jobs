@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Principal-Specialist--Cloud-Engineer--REMOTE-_01828212) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Principal-Specialist--Cloud-Engineer--REMOTE-_01838675) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-04-15.
+This devops engineer position at RTX was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

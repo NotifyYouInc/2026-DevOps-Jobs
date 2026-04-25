@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infrastructure-Engineer_ATCI-5480160-S2013295) |
+| Location | Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Infrastructure-Engineer_ATCI-5403721-S2015512-1) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-04-13.
+This devops engineer position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

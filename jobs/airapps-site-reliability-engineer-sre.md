@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2025-03-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/e8d2ee4c-83af-42b6-b333-f17a70055e46) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/1d9423c3-ed20-4506-9b15-1dbb2e412ab8) |
 
 ## About This Role
 
-This devops engineer position at Airapps was posted on 2025-03-27.
+This devops engineer position at Airapps was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

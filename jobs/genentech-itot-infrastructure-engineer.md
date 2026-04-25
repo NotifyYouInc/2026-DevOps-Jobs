@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Philadelphia/ITOT-Infrastructure-Engineer_202602-102728-2) |
+| Location | Hillsboro, Oregon, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/Hillsboro/ITOT-Infrastructure-Engineer_202604-109293-2) |
 
 ## About This Role
 
-This devops engineer position at Genentech was posted on 2026-02-11.
+This it & systems administration position at Genentech was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nantes, Pays de la Loire, France |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000118555612-ingenieur-developpement-logiciel-embarque-devops-reactclinux) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121385017-ingenieur-developpement-logiciel-embarque-devops-reactclinux) |
 
 ## About This Role
 
-This frontend engineer position at ALTEN was posted on 2026-04-03.
+This embedded / firmware engineer position at ALTEN was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

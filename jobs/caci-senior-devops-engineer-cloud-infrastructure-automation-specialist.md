@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Senior-DevOps-Engineer---Cloud-Infrastructure---Automation-Specialist_323937) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Senior-DevOps-Engineer---Cloud-Infrastructure---Automation-Specialist_325041) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-03-27.
+This devops engineer position at CACI was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

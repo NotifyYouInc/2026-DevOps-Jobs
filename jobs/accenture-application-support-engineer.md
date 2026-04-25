@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Application-Support-Engineer_ATCI-5488491-S2014552-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Support-Engineer_ATCI-5526087-S2015459-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-04-16.
+This technical support engineer position at Accenture was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

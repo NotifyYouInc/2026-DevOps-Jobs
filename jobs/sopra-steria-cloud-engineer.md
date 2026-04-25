@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nieuwegein, Utrecht, The Netherlands |
+| Location | Trondheim, Trøndelag, Norway |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121159029-cloud-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121387783-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-16.
+This devops engineer position at Sopra Steria was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000118620317-prodops-team-leader) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000121457368-prodops-team-leader) |
 
 ## About This Role
 
-This engineering manager position at Playtech was posted on 2026-04-03.
+This devops engineer position at Playtech was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

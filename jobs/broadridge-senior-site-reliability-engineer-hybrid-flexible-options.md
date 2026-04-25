@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer (Hybrid - Flexible Options) at Broadridge
+# Senior Site Reliability Engineer (Hybrid-Flexible Options) at Broadridge
 
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Senior-Site-Reliability-Engineer--Hybrid---Flexible-Options-_JR1080472) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Manila---6805-Ayala-Ave/Senior-Site-Reliability-Engineer--Hybrid-Flexible-Options-_JR1082139) |
 
 ## About This Role
 
-This devops engineer position at Broadridge was posted on 2026-03-02.
+This devops engineer position at Broadridge was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ALTERNANCE - Ingénieur DevOps - F/H at Thales
+# ALTERNANCE - Ingénieur DevOps F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rennes/ALTERNANCE---Ingnieur-DevOps---F-H_R0321621-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulouse/ALTERNANCE---Ingnieur-DevOps-F-H_R0323836-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-04-01.
+This devops engineer position at Thales was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

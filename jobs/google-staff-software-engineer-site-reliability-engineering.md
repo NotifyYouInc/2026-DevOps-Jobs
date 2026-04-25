@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/95998014966899398-staff-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWRUxsZ1dfkErIz4EYTzjJ_GEgV6KEt3OEIVHVDf4VkPEjsACxwdTLtAo1JaRAyI6SDyAbNPkD0AyeEeIosUhkgt_nP5hbQy6cZoYLRRcXg2uZr5GnuI6OtrIS-FbQ%3D%3D_V2&loc=IE&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-17.
+This devops engineer position at Google was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

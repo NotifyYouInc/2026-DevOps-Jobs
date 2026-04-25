@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000120719707-senior-site-reliability-engineer) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000121392777-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nexthink was posted on 2026-04-14.
+This devops engineer position at Nexthink was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

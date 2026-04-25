@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121122672-devops) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121380482-devops) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-04-16.
+This devops engineer position at ALTEN was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
