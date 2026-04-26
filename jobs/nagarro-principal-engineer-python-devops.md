@@ -1,16 +1,16 @@
-# DevOps Lead at Eurofins Scientific
+# Principal Engineer, Python Devops at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121584507-devops-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000121574287-principal-engineer-python-devops) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-04-18.
+This devops engineer position at Nagarro was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
