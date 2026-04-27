@@ -1,16 +1,16 @@
-# Cloud Migration Engineer at Accenture
+# Senior Infrastructure Engineer at Logicalis
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Kuala-Lumpur-MY/Senior-Infrastructure-Engineer_JR05063-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-20.
+This devops engineer position at Logicalis was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

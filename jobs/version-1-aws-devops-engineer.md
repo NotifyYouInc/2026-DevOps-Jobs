@@ -1,16 +1,16 @@
-# Cloud Migration Engineer at Accenture
+# AWS DevOps Engineer at Version 1
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000121675697-aws-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-20.
+This devops engineer position at Version 1 was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

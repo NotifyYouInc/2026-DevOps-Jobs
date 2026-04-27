@@ -1,16 +1,16 @@
-# QA Automation Engineer, Cloud Orchestrations at Nvidia
+# Cloud/ DevOps intern at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/QA-Automation-Engineer--Cloud-Orchestrations_JR2016522) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Cloud--DevOps-intern_R0126268) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-04-19.
+This devops engineer position at Hitachi was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

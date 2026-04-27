@@ -1,16 +1,16 @@
-# Cloud Migration Engineer at Accenture
+# Principal CloudOps at Itron
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Principal-CloudOps_JR102340) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-20.
+This devops engineer position at Itron was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

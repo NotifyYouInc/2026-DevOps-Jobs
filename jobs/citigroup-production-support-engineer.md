@@ -1,16 +1,16 @@
-# Senior DevOps engineer - Assistant Vice President at Citigroup
+# Production Support Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-DevOps-engineer---Assistant-Vice-President_26952855) |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Production-Support-Engineer_26954518) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-20.
+This it & systems administration position at Citigroup was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 

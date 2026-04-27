@@ -1,16 +1,16 @@
-# Cloud Migration Engineer at Accenture
+# Cloud Engineer (AVP) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Cloud-Engineer--AVP-_JR00007224) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-20.
+This devops engineer position at OCBC was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

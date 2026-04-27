@@ -1,16 +1,16 @@
-# QA Automation Engineer, Cloud Orchestrations at Nvidia
+# Senior Solutions Architect, Cloud Infrastructure and DevOps at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | DevOps Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Raanana/QA-Automation-Engineer--Cloud-Orchestrations_JR2016522) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UAE-Dubai/Senior-Solutions-Architect--Cloud-Infrastructure-and-DevOps_JR2016420) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-04-19.
+This devops engineer position at Nvidia was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

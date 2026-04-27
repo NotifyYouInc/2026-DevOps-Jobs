@@ -1,16 +1,16 @@
-# Senior DevOps engineer - Assistant Vice President at Citigroup
+# Software Engineer II at Cadence Design Systems
 
 | Field | Details |
 |-------|---------|
-| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-DevOps-engineer---Assistant-Vice-President_26952855) |
+| Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/PUNE-04/Software-Engineer-II_R53815-1) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-20.
+This devops engineer position at Cadence Design Systems was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

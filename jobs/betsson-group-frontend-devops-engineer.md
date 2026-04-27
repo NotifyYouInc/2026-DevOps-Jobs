@@ -1,16 +1,16 @@
-# Observability Engineer at Mobileye
+# Frontend DevOps Engineer at Betsson Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
-| Category | DevOps Engineer |
+| Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Valletta, Valletta, Malta |
+| Category | Frontend Engineer |
 | Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/d7f7ed98-e224-4904-a66f-f2234e7fdacc) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/7774628) |
 
 ## About This Role
 
-This devops engineer position at Mobileye was posted on 2026-04-19.
+This frontend engineer position at Betsson Group was posted on 2026-04-19.
 
 ## Get Real-Time Alerts
 
