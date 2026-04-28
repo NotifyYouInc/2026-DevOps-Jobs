@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Infrastructure-and-DevOps-Engineer_JR0282572) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Infrastructure-and-DevOps-Engineer_JR0282936) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-04-10.
+This devops engineer position at Intel was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

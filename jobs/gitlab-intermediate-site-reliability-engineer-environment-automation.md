@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GitLab](https://scoutify.ai/companies/gitlab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8464417002) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gitlab/jobs/8504232002) |
 
 ## About This Role
 
-This devops engineer position at GitLab was posted on 2026-03-20.
+This devops engineer position at GitLab was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

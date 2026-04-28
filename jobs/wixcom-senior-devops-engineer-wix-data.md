@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121369467-senior-devops-engineer-wix-data) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121713058-senior-devops-engineer-wix-data) |
 
 ## About This Role
 
-This devops engineer position at Wix.com was posted on 2026-04-17.
+This devops engineer position at Wix.com was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

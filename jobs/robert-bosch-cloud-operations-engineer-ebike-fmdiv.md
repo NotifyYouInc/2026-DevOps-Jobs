@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Braga, Braga, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000113782345-cloud-operations-engineer-ebike-fmdiv) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121790988-cloud-operations-engineer-ebike-fmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-03-10.
+This devops engineer position at Robert Bosch was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

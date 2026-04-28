@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/DevOps-Engineer_26950842) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/DevOps-Engineer_26951295) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-16.
+This devops engineer position at Citigroup was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Oslo, Oslo, Norway |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109378) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110555) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-04-13.
+This devops engineer position at IBM was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

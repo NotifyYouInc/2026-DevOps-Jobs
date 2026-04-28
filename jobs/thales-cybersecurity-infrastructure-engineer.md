@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Barcelona-Passeig-Gracia/Cybersecurity-Infrastructure-Engineer_R0323317-2) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Barcelona-Passeig-Gracia/Cybersecurity-Infrastructure-Engineer_R0326106-1) |
 
 ## About This Role
 
-This security engineer position at Thales was posted on 2026-03-27.
+This security engineer position at Thales was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

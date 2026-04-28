@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Performance---Reliability-Engineer_ATCI-5375454-S1970541-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Site-Reliability-Engineer_ATCP-1219382-S394895) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-16.
+This devops engineer position at Accenture was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

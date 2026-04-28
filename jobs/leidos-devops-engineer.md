@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/DevOps-Engineer_R-00181156) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/DevOps-Engineer_R-00181324) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-17.
+This devops engineer position at Leidos was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

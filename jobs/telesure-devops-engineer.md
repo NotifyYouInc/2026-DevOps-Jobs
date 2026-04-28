@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Telesure](https://scoutify.ai/companies/telesure?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
-| Category | Engineering Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/DevOps-Engineer_JR104708) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://telesure.wd3.myworkdayjobs.com/wday/job/Gauteng-Johannesburg/DevOps-Engineer_JR104783) |
 
 ## About This Role
 
-This engineering manager position at Telesure was posted on 2026-04-02.
+This devops engineer position at Telesure was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

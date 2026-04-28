@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109893) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110297) |
 
 ## About This Role
 

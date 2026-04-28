@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114695780-ingenieure-cloud-infrastructure-lille) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000121700415-ingenieure-cloud-infrastructure-lille) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-03-13.
+This devops engineer position at Sopra Steria was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

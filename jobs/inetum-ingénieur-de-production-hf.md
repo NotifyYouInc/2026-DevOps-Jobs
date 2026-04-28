@@ -1,16 +1,16 @@
-# Ingénieur de Production H/F at Inetum
+# Ingénieur de production - H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120648187-ingenieur-de-production-hf) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000121708287-ingenieur-de-production-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-04-14.
+This devops engineer position at Inetum was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

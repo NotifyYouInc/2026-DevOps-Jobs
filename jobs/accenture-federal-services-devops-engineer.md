@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4665525006?gh_jid=4665525006) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4674040006?gh_jid=4674040006) |
 
 ## About This Role
 
-This devops engineer position at Accenture Federal Services was posted on 2026-04-14.
+This devops engineer position at Accenture Federal Services was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

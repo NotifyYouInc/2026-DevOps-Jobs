@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-CHNN-32-AB-3FL-STE-C-D/Lead-Site-Reliability-Engineer--SRE-_JR0304628) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Lead-Site-Reliability-Engineer--SRE-_JR0304629-1) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-02-27.
+This devops engineer position at Fidelity National Information Services was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

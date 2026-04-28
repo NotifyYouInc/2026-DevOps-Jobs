@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cliftonlarsonallen](https://scoutify.ai/companies/cliftonlarsonallen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cliftonlarsonallen.wd1.myworkdayjobs.com/cla/job/Austin-TX/Senior-DevOps-Engineer_R16039) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://cliftonlarsonallen.wd1.myworkdayjobs.com/cla/job/Milwaukee-WI/Senior-DevOps-Engineer_R17284) |
 
 ## About This Role
 
-This devops engineer position at Cliftonlarsonallen was posted on 2026-04-07.
+This devops engineer position at Cliftonlarsonallen was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

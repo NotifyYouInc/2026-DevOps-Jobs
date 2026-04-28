@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lebanon, Tennessee, United States |
 | Category | ESG / Sustainability |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000119686307-environmental-monitoring-specialist-entry-level-position-is-in-lebanon-indiana) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121791287-environmental-monitoring-specialist-entry-level-position-is-in-lebanon-indiana) |
 
 ## About This Role
 
-This esg / sustainability position at Eurofins Scientific was posted on 2026-04-09.
+This esg / sustainability position at Eurofins Scientific was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
