@@ -5,12 +5,12 @@
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000119487537-azure-devopsinfrastructure-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000121988740-azure-devopsinfrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at PA Consulting was posted on 2026-04-09.
+This devops engineer position at PA Consulting was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

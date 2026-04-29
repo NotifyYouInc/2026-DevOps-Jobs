@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 6 locations |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Associate-Director--DevOps-Engineering_R-409585) |
+| Location | Kentucky, US |
+| Category | DevOps Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Kentucky/Associate-Director--DevOps-Engineering_R-412988) |
 
 ## About This Role
 
-This engineering manager position at Humana was posted on 2026-03-18.
+This devops engineer position at Humana was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

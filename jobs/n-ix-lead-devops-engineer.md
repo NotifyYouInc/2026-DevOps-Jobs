@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4808985101?gh_jid=4808985101) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4838012101?gh_jid=4838012101) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-04-07.
+This devops engineer position at N-iX was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

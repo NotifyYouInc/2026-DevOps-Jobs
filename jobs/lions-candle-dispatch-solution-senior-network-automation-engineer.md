@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Argentina |
 | Category | Industrial Automation |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000118587177-senior-network-automation-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000122011712-senior-network-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Lions Candle-Dispatch Solution was posted on 2026-04-03.
+This industrial automation position at Lions Candle-Dispatch Solution was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

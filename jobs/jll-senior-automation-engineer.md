@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Sun Prairie, Wisconsin, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Florence-NJ/Senior-Automation-Engineer_REQ501621) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sun-Prairie-WI/Senior-Automation-Engineer_REQ501620-1) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-04-18.
+This industrial automation position at JLL was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

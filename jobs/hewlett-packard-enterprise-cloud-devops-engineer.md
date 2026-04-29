@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Spring, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/Cloud-DevOps-Engineer_1204337-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Cloud-DevOps-Engineer_1206018) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-03-24.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

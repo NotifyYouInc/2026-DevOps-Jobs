@@ -1,16 +1,16 @@
-# IN_Senior Associate_DevOps Engineer_GCC_Advisory_Bangalore at PwC
+# IN_Senior associate_DevOps Engineer_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-DevOps-Engineer-GCC-Advisory-Bangalore_721470WD-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-associate-DevOps-Engineer-GCC-Advisory-Bangalore_723148WD-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-04-15.
+This devops engineer position at PwC was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

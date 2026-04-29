@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7343251) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7821316) |
 
 ## About This Role
 
-This devops engineer position at MongoDB was posted on 2026-04-14.
+This devops engineer position at MongoDB was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

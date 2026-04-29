@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Braga, Braga, Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112171284-reliability-engineer-mechanical-design-adas-fmdiv) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000121995047-reliability-engineer-mechanical-design-adas-fmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-03-02.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

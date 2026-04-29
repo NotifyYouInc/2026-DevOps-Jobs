@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Novi, Michigan, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Network-DevOps-Engineer_26WD95015-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Network-DevOps-Engineer_26WD95298-2) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-02-26.
+This devops engineer position at Autodesk was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

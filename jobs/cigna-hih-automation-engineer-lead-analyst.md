@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Lead-Analyst_26003093-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Lead-Analyst_26001791-1) |
 
 ## About This Role
 
-This industrial automation position at Cigna was posted on 2026-04-01.
+This industrial automation position at Cigna was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

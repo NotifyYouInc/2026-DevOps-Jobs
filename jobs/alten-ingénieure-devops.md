@@ -1,16 +1,16 @@
-# Ingénieur(e) DevOps at ALTEN
+# Ingénieur(e) DevOps  at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000109669221-ingenieure-devops) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121995167-ingenieure-devops) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-02-17.
+This devops engineer position at ALTEN was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

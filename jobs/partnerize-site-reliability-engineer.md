@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Partnerize](https://scoutify.ai/companies/partnerize?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Orlando, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://partnerize.com/company/jobs/?gh_jid=7631216003) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://partnerize.com/company/jobs/?gh_jid=7704235003) |
 
 ## About This Role
 
-This devops engineer position at Partnerize was posted on 2026-02-13.
+This devops engineer position at Partnerize was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

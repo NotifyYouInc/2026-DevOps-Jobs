@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nice, Provence-Alpes-Côte d'Azur, France |
+| Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000115607258-devops-cloud-fh-sophia-antipolis) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000121970877-devops-cloud-fh-sophia-antipolis) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-03-19.
+This devops engineer position at Everience was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

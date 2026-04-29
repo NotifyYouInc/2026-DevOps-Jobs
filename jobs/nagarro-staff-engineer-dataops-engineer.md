@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107773384-staff-engineer-dataops-engineer) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000122050052-staff-engineer-dataops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-02-06.
+This devops engineer position at Nagarro was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

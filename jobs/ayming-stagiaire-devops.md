@@ -5,12 +5,12 @@
 | Company | [Ayming](https://scoutify.ai/companies/ayming?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000120904897-stagiaire-devops) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000121969438-stagiaire-devops) |
 
 ## About This Role
 
-This devops engineer position at Ayming was posted on 2026-04-15.
+This devops engineer position at Ayming was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

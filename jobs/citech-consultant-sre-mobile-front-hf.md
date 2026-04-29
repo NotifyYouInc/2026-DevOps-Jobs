@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000121763097-consultant-sre-mobile-front-hf) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000121986727-consultant-sre-mobile-front-hf) |
 
 ## About This Role
 
-This devops engineer position at CITECH was posted on 2026-04-20.
+This devops engineer position at CITECH was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

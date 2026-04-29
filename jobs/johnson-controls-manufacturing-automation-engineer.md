@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lubbock, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lubbock-Texas-United-States-of-America/Manufacturing-Automation-Engineer_WD30261993) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Lubbock-Texas-United-States-of-America/Manufacturing-Automation-Engineer_WD30266955) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-03-10.
+This industrial automation position at Johnson Controls was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

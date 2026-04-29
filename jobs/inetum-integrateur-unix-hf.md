@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Chauray, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000114578548-integrateur-unix-hf) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122060017-integrateur-unix-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-13.
+This devops engineer position at Inetum was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5384553-S1997380-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ahmedabad/Cloud-Migration-Engineer_ATCI-5464041-S2015592-1) |
 
 ## About This Role
 

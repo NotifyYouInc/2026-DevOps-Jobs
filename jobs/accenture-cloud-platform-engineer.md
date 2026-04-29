@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cluj-Napoca/Cloud-Platform-Engineer_14288699) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Cloud-Platform-Engineer_ATCI-5472913-S2001177-1) |
 
 ## About This Role
 

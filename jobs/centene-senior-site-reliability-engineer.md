@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florida, US |
+| Location | South Carolina, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Senior-Site-Reliability-Engineer_1634562) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-SC/Senior-Site-Reliability-Engineer_1636770) |
 
 ## About This Role
 
-This devops engineer position at Centene was posted on 2026-03-23.
+This devops engineer position at Centene was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
