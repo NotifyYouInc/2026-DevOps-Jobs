@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nairobi, Nairobi County, Kenya |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Nairobi-Kenya/Senior-Engineer---Cloud-Platform-Engineer_R-272080) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Senior-Engineer---Cloud-Platform-Engineer_R-276162) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-03-02.
+This devops engineer position at Mastercard was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

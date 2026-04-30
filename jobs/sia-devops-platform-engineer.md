@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000120011062-devops-platform-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000122225848-devops-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-04-10.
+This devops engineer position at SIA was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

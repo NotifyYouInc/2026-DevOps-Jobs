@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Galway, Connacht, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Site-Reliability-Engineer_2007316) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Site-Reliability-Engineer_2010901) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-02-27.
+This devops engineer position at Cisco was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

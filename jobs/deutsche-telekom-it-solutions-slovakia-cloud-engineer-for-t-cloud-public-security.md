@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Slovakia |
-| Category | Security Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000119896857-cloud-engineer-for-t-cloud-public-security) |
+| Location | Košice, Košice Region, Slovakia |
+| Category | DevOps Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000122247572-cloud-engineer-for-t-cloud-public-security) |
 
 ## About This Role
 
-This security engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-10.
+This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

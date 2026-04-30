@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/DevOps-Support-Engineer_R-00177229) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/DevOps-Support-Engineer_R-00181435) |
 
 ## About This Role
 
-This technical support engineer position at Leidos was posted on 2026-03-02.
+This technical support engineer position at Leidos was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

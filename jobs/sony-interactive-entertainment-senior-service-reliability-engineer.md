@@ -1,16 +1,16 @@
-# Senior Service Reliability Engineer at Sony Interactive Entertainment
+# Senior Service Reliability Engineer  at Sony Interactive Entertainment
 
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Aliso Viejo, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5976661004) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969109004) |
 
 ## About This Role
 
-This devops engineer position at Sony Interactive Entertainment was posted on 2026-04-20.
+This devops engineer position at Sony Interactive Entertainment was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

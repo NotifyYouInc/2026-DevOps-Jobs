@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Associate-Site-Reliability-Engineer--SRE-_JR-0103960-1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Sr-Associate-Site-Reliability-Engineer--SRE-_JR-0106424) |
 
 ## About This Role
 
-This devops engineer position at Workday was posted on 2026-02-11.
+This devops engineer position at Workday was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

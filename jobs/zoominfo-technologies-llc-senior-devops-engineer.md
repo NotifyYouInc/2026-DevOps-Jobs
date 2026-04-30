@@ -5,12 +5,12 @@
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8496455002) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8496473002) |
 
 ## About This Role
 
-This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-04-10.
+This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

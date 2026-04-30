@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Limonest, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118557712-ingenieure-devops-lyon) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122198779-ingenieure-devops-lyon) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-03.
+This devops engineer position at Sopra Steria was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

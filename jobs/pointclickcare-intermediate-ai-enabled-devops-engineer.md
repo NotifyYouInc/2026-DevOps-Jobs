@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pointclickcare](https://scoutify.ai/companies/pointclickcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/pointclickcare/94b85a28-9893-48c5-a2bb-a50175887ef1) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.lever.co/pointclickcare/70ef07bc-40c2-4ed9-b017-e4c1055878fd) |
 
 ## About This Role
 
-This devops engineer position at Pointclickcare was posted on 2026-04-01.
+This devops engineer position at Pointclickcare was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

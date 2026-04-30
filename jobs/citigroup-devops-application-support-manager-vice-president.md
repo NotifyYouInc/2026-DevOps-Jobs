@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/DevOps-Application-Support-Manager---Vice-President_26946649) |
+| Category | Technical Support Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/DevOps-Application-Support-Manager---Vice-President_26956449) |
 
 ## About This Role
 
-This engineering manager position at Citigroup was posted on 2026-03-20.
+This technical support engineer position at Citigroup was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

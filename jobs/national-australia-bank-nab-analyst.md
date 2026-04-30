@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Haryana, IN |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Senior-Analyst---Splunk-SRE_JR109085) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Analyst_JR117849) |
 
 ## About This Role
 
-This devops engineer position at National Australia Bank (NAB) was posted on 2026-02-23.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

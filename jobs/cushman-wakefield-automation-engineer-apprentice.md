@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rancho Cordova, California, United States |
+| Location | Huntley, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Rancho-Cordova---3300-Rancho-Cordova-Pkwy/Automation-Engineer-Apprentice_R314309) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Huntley---11500-Freeman-Rd/Automation-Engineer-Apprentice_R300425) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-17.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

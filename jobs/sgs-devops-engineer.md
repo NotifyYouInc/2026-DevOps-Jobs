@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000117348753-devops-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000122324069-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at SGS was posted on 2026-03-27.
+This devops engineer position at SGS was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

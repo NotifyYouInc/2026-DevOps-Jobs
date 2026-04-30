@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Barcelona, Catalonia, Spain |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Senior-Infrastructure-Engineer_JREQ135256-2) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Infrastructure-Engineer_JREQ135236-1) |
 
 ## About This Role
 
-This it & systems administration position at Clarivate was posted on 2026-03-26.
+This devops engineer position at Clarivate was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

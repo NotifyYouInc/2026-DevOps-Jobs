@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Târgu Mureş, Mureș County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000108711437-senior-devops-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000122215978-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-11.
+This devops engineer position at Endava was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

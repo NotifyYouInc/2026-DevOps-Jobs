@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Intgrateur-ou-intgratrice--Infonuagique-Azure-DevSecOps_R2601660-2) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Intgrateur-ou-intgratrice--Infonuagique-Azure-DevSecOps_R2605653-2) |
 
 ## About This Role
 
-This devops engineer position at Desjardins was posted on 2026-02-13.
+This devops engineer position at Desjardins was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

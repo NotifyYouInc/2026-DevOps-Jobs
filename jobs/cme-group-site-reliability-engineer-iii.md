@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Site-Reliability-Engineer-III_33815-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Site-Reliability-Engineer-III_34311-1) |
 
 ## About This Role
 
-This software engineer position at CME Group was posted on 2026-02-05.
+This devops engineer position at CME Group was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

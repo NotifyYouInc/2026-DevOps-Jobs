@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDChennai/Cloud-Engineer_JR-0102561) |
+| Location | Dublin, Leinster, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Cloud-Engineer_JR-0106287) |
 
 ## About This Role
 
-This software engineer position at Workday was posted on 2026-02-04.
+This devops engineer position at Workday was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

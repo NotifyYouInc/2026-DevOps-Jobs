@@ -5,12 +5,12 @@
 | Company | [Mach Industries](https://scoutify.ai/companies/mach?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntington Beach, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mach/206450a6-c21c-4c58-a34d-f9486aab4a6f) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mach/e71d9b54-bcc3-4530-af75-eba13d8a18f1) |
 
 ## About This Role
 
-This industrial automation position at Mach Industries was posted on 2026-03-23.
+This industrial automation position at Mach Industries was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

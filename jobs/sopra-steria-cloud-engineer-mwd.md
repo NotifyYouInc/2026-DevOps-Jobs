@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000120887777-cloud-engineer-mwd) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122272277-cloud-engineer-mwd) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-15.
+This devops engineer position at Sopra Steria was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

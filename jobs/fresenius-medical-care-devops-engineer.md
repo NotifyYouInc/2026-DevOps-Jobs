@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Italy |
+| Location | Vaiano Cremasco, Lombardy, Italy |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/ITA-Vaiano-Cremasco---Office/DevOps-Engineer_R0233527) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/ITA-Vaiano-Cremasco---Office/DevOps-Engineer_R0248784) |
 
 ## About This Role
 
-This devops engineer position at Fresenius Medical Care was posted on 2026-02-19.
+This devops engineer position at Fresenius Medical Care was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Litmos](https://scoutify.ai/companies/litmos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/litmos/jobs/4839772101) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/litmos/jobs/4847479101) |
 
 ## About This Role
 
-This devops engineer position at Litmos was posted on 2026-04-14.
+This devops engineer position at Litmos was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

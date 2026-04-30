@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
+| Location | Florham Park, New Jersey, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011562406-principal-cloud-engineer) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012772236-principal-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-02-06.
+This devops engineer position at AbbVie was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 
