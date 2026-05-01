@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Schofield Barracks, Hawaii, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7708852003) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7711622003) |
 
 ## About This Role
 
-This devops engineer position at Striveworks was posted on 2026-04-20.
+This devops engineer position at Striveworks was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

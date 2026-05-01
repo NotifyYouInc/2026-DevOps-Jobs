@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Paragould, Arkansas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000121288097-sr-systems-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000122494320-sr-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at The Wonderful Company was posted on 2026-04-16.
+This devops engineer position at The Wonderful Company was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

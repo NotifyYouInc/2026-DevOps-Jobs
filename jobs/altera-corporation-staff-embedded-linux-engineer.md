@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Penang, MY |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Staff-Embedded-Linux-Engineer_R02192) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Staff-Embedded-Linux-Engineer_R02409) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Altera Corporation was posted on 2026-03-25.
+This embedded / firmware engineer position at Altera Corporation was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

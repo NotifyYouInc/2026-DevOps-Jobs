@@ -5,12 +5,12 @@
 | Company | [Formlabs](https://scoutify.ai/companies/formlabs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Engineering Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://careers.formlabs.com/job/7742507/apply/?gh_jid=7742507) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.formlabs.com/job/7847169/apply/?gh_jid=7847169) |
 
 ## About This Role
 
-This engineering manager position at Formlabs was posted on 2026-03-25.
+This engineering manager position at Formlabs was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

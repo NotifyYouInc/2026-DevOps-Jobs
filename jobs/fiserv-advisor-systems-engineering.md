@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Systems-Engineering_R-10383291) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Advisor--Systems-Engineering_R-10391982) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-03-16.
+This devops engineer position at Fiserv was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

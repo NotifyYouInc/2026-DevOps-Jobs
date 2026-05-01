@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Systems-and-Solutions-Engineer_JR0281341-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/India-Bangalore/Systems-and-Solutions-Engineer_JR0283340) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-03-05.
+This devops engineer position at Intel was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

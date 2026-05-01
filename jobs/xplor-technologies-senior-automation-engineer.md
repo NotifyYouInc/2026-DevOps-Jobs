@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Industrial Automation |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000116354127-senior-automation-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122460754-senior-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Xplor Technologies was posted on 2026-03-24.
+This industrial automation position at Xplor Technologies was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

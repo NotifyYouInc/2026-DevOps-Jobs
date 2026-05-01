@@ -5,12 +5,12 @@
 | Company | [The Fork](https://scoutify.ai/companies/the-fork?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | Industrial Automation |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/7759464) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thefork/jobs/7845224) |
 
 ## About This Role
 
-This industrial automation position at The Fork was posted on 2026-04-08.
+This industrial automation position at The Fork was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

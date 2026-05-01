@@ -1,16 +1,16 @@
-# DevOps Engineer at GE Vernova
+# Devops Engineer at GE Vernova
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hyderabad/DevOps-Engineer_R5032738-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bengaluru/Devops-Engineer_R5039815-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-02-18.
+This devops engineer position at GE Vernova was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

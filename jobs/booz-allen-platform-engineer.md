@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wiesbaden, Hesse, Germany |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Wiesbaden-Hesse/Platform-Engineer_R0237689) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Reston-VA/Platform-Engineer_R0238463) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-04-14.
+This devops engineer position at Booz Allen was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

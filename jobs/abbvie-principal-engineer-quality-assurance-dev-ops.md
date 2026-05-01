@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012772746-principal-engineer-quality-assurance-dev-ops) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012791702-principal-engineer-quality-assurance-dev-ops) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-04-22.
+This devops engineer position at AbbVie was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

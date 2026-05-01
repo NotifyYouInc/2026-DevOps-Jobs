@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Riverwoods, Illinois, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Senior-Enterprise-Software-Engineer_R0056516) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Senior-Enterprise-Software-Engineer_R0056229) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-04-21.
+This devops engineer position at Wolters Kluwer was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

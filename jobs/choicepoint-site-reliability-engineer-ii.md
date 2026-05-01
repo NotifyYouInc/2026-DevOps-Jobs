@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Alpharetta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/UK---London-Bishopsgate/Site-Reliability-Engineer-II_R112111) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Site-Reliability-Engineer-II_R112093) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-04-22.
+This devops engineer position at ChoicePoint was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

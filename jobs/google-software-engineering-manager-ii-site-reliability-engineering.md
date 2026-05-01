@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | New York City, New York, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQr2UW6BQM_xinhnJl0xmZkhkdkOfuLLMGBbu_PQN0ieEjsACxwdTCaehBtjYBsE8hOONJrKzcTZ8YIT4k6owjriH1UEzlVYSUfuG7EkY7W4kskXADRsjnxiiZXY_w%3D%3D_V2&loc=GB&title=Software+Engineering+Manager+II) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaSNp_Kfw-RoZZQx2BnOKE7524lUa5MednNpPIs_k23JEjsACxwdTOkC6gdmZmJXXYx3ytjL7RpzfEzruZWpCnuc9egjgSJ40LJzrgrqHc2pxTXv_vFhqCh6-gQEYw%3D%3D_V2&loc=US&title=Software+Engineering+Manager+II) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-04-17.
+This engineering manager position at Google was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

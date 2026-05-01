@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102820) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111251) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-16.
+This devops engineer position at IBM was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

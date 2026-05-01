@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Analytics-Platform-DevOps-Engineer_R392490-2) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Analytics-Platform-DevOps-Engineer_R392491-1) |
 
 ## About This Role
 
-This devops engineer position at Merck was posted on 2026-04-22.
+This devops engineer position at Merck was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

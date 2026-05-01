@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Operations-Engineer_ATCI-5509899-S2017064-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Operations-Engineer_ATCI-5473602-S2001924-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-22.
+This devops engineer position at Accenture was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

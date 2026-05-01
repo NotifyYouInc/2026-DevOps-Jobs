@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York, US |
+| Location | West Point, Mississippi, United States |
 | Category | Robotics Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000111144375-lab-robotics-and-automation-engineer) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122499342-lab-robotics-and-automation-engineer) |
 
 ## About This Role
 
-This robotics engineer position at Eurofins Scientific was posted on 2026-02-24.
+This robotics engineer position at Eurofins Scientific was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

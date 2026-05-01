@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115858987-ingenieure-systeme-reseaux-automatisation-ia-digital-platform-services-biot) |
+| Location | Biot, Provence-Alpes-Côte d'Azur, France |
+| Category | DevOps Engineer |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122416300-ingenieure-systeme-reseaux-automatisation-ia-digital-platform-services-biot) |
 
 ## About This Role
 
-This technical writer position at Sopra Steria was posted on 2026-03-20.
+This devops engineer position at Sopra Steria was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

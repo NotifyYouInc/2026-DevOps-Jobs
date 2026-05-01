@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Industrial Automation |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PTEC/Quality-Automation-Engineer_J00174831-2) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Quality-Automation-Engineer_J00175943) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-04-13.
+This industrial automation position at Equifax was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

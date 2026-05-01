@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moderna](https://scoutify.ai/companies/modernatx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Norwood, Massachusetts, United States |
+| Location | Cambridge, Massachusetts, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Norwood-Massachusetts/Sr-Automation-Engineer_R19077) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Automation-Engineer_R19099-1) |
 
 ## About This Role
 
-This industrial automation position at Moderna was posted on 2026-04-13.
+This industrial automation position at Moderna was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

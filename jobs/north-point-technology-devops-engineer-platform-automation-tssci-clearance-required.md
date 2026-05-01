@@ -5,12 +5,12 @@
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8456047002) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8521376002) |
 
 ## About This Role
 
-This devops engineer position at North Point Technology was posted on 2026-03-09.
+This devops engineer position at North Point Technology was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
