@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Quito, Pichincha, Ecuador |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4791838101) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4847216101) |
 
 ## About This Role
 
-This devops engineer position at Neoris was posted on 2026-03-04.
+This devops engineer position at Neoris was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

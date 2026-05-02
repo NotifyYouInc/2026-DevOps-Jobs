@@ -1,16 +1,16 @@
-# Engineer, Application Management at LSEG
+# Engineer,  Application Management at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer--Application-Management_R0112598-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Engineer---Application-Management_R0118282-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-04-17.
+This devops engineer position at LSEG was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

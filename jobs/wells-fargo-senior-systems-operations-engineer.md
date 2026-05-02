@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Systems-Operations-Engineer_R-536868) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Systems-Operations-Engineer_R-539389-1) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-04-23.
+This devops engineer position at Wells Fargo was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

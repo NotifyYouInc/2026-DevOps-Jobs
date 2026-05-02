@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Zürich, Zurich, Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/119669377715839686-systems-engineer-iii-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckf1lSLFr5lZHbUiyjiFIYzIfT3EgFhhjhDoIvfyky6dGEjsACxwdTK5oI6aSPh3C4qm5sI65MutOdhpISLpk6IrrVBe3wV474brg9mj3npyiKDQYqYUI3s2E3_cq3A%3D%3D_V2&loc=CH&title=Systems+Engineer+III) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-26.
+This devops engineer position at Google was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IonQ](https://scoutify.ai/companies/ionq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pleasanton, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5836059004) |
+| Location | Basel, Basel-City, Switzerland |
+| Category | DevOps Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/5972752004) |
 
 ## About This Role
 
-This engineering manager position at IonQ was posted on 2026-03-24.
+This devops engineer position at IonQ was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

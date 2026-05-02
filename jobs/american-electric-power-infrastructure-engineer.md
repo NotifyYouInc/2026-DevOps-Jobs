@@ -5,12 +5,12 @@
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Infrastructure-Engineer_R13715) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Infrastructure-Engineer_R14933) |
 
 ## About This Role
 
-This it & systems administration position at American Electric Power was posted on 2026-02-27.
+This it & systems administration position at American Electric Power was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

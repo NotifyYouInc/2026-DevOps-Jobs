@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bend, Oregon, United States |
+| Location | Vacaville, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Bend-OR/Senior-Automation-Engineer_R73455) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Vacaville-CA/Senior-Automation-Engineer_R75735) |
 
 ## About This Role
 
-This industrial automation position at Lonza Group was posted on 2026-02-19.
+This industrial automation position at Lonza Group was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

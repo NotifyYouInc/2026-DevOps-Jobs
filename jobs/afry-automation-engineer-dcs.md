@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Industrial Automation |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000122455714-automation-engineer-dcs) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000122482402-automation-engineer-dcs) |
 
 ## About This Role
 

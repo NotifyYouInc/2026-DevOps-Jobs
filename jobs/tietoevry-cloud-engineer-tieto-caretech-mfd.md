@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Turku, Southwest Finland, Finland |
+| Location | Tampere, Pirkanmaa, Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000110688110-cloud-engineer-tieto-caretech-mfd) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000122627420-cloud-engineer-tieto-caretech-mfd) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-02-23.
+This devops engineer position at Tietoevry was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

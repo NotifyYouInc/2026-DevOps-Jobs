@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Argentina |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000112994508-senior-devops-engineer) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000122720269-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-03-05.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

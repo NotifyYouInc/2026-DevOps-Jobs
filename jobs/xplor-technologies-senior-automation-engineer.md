@@ -6,7 +6,7 @@
 | Location | Vancouver, British Columbia, Canada |
 | Category | Industrial Automation |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122460754-senior-automation-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000122547010-senior-automation-engineer) |
 
 ## About This Role
 

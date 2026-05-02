@@ -6,7 +6,7 @@
 | Location | Bentonville, Arkansas, United States |
 | Category | IT & Systems Administration |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2484936) |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470839) |
 
 ## About This Role
 

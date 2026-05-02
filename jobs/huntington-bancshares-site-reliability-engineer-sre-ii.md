@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Easton-Ops-Cols-C-Oh/Site-Reliability-Engineer--SRE----II_R0063644) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Site-Reliability-Engineer--SRE----II_R0071421) |
 
 ## About This Role
 
-This devops engineer position at Huntington Bancshares was posted on 2026-04-20.
+This devops engineer position at Huntington Bancshares was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

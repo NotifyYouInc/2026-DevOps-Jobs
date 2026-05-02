@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Johnston, Rhode Island, United States |
+| Location | Bessemer, Alabama, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---RI---Johnston---Hartford-Avenue-I-295/Senior-Automation-Engineer_R292830) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---AL---Bessemer---975-Powder-Plant-Rd/Senior-Automation-Engineer_R317157) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-03-05.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Azure-Engineer_RQ218180-2) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-DC-Washington/Senior-Azure-Engineer_RQ218965-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-04-17.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

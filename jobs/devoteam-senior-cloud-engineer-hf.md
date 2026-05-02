@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000108742955-senior-cloud-engineer-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000122724617-senior-cloud-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-02-11.
+This devops engineer position at Devoteam was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

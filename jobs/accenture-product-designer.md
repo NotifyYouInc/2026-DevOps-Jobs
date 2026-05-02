@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Product-Designer_ATCI-5526897-S2015424-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Product-Designer_ATCI-5507924-S2010197) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-17.
+This devops engineer position at Accenture was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

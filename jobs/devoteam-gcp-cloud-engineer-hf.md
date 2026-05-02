@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000112357637-gcp-cloud-engineer-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000122725099-gcp-cloud-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-03.
+This devops engineer position at Devoteam was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

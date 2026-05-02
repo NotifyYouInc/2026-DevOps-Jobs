@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ridgefield Park, New Jersey, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122280590-devops-engineer-bilingual-englishkorean) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122556533-devops-engineer-bilingual-englishkorean) |
 
 ## About This Role
 
-This devops engineer position at Woongjin was posted on 2026-04-22.
+This devops engineer position at Woongjin was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
