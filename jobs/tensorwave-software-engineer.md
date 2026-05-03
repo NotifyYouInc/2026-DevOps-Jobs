@@ -1,16 +1,16 @@
-# DevOps Engineer at Bjak
+# Software Engineer at Tensorwave
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Company | [Tensorwave](https://scoutify.ai/companies/tensorwave?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Las Vegas, Nevada, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/316b4daa-5630-4017-bb8c-0f767d5934d0) |
+| Posted | 2026-01-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/tensorwave/e10b179f-c569-46ff-a0d9-01d20f731d30) |
 
 ## About This Role
 
-This devops engineer position at Bjak was posted on 2026-04-25.
+This devops engineer position at Tensorwave was posted on 2026-01-16.
 
 ## Get Real-Time Alerts
 

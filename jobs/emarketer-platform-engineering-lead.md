@@ -1,16 +1,16 @@
-# DevOps Engineer at Bjak
+# Platform Engineering Lead at EMARKETER
 
 | Field | Details |
 |-------|---------|
-| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Company | [EMARKETER](https://scoutify.ai/companies/emarketer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/316b4daa-5630-4017-bb8c-0f767d5934d0) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/emarketer/jobs/5828431004) |
 
 ## About This Role
 
-This devops engineer position at Bjak was posted on 2026-04-25.
+This devops engineer position at EMARKETER was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
