@@ -1,16 +1,16 @@
-# DevOps Engineer at ING
+# Infrastructure Engineering - Officer at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/DevOps-Engineer_REQ-10113134) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Infrastructure-Engineering---Officer_R-788957) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-04-27.
+This devops engineer position at State Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Automation Engineer, Powertrain at Lucid Motors
+# Lead Automation Engineer at Jabil
 
 | Field | Details |
 |-------|---------|
-| Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Saudi Arabia |
+| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Memphis, Tennessee, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/4839227007) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Lead-Automation-Engineer_J2447904) |
 
 ## About This Role
 
-This industrial automation position at Lucid Motors was posted on 2026-04-26.
+This industrial automation position at Jabil was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

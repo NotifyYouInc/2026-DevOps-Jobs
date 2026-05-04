@@ -1,16 +1,16 @@
-# Site Reliability Engineer at NatWest Group
+# Senior MLOps Platform Engineer at Athena Health
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Site-Reliability-Engineer_R-00277064) |
+| Posted | 2026-04-26 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Lead-MLOps-Engineer---LMTS_R12134) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-04-27.
+This devops engineer position at Athena Health was posted on 2026-04-26.
 
 ## Get Real-Time Alerts
 

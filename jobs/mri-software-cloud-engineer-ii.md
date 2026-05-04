@@ -1,16 +1,16 @@
-# Site Reliability Engineer at NatWest Group
+# Cloud Engineer II at MRI Software
 
 | Field | Details |
 |-------|---------|
-| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Security Engineer |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Site-Reliability-Engineer_R-00277064) |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/Cloud-Engineer-II_R-107438) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-04-27.
+This security engineer position at MRI Software was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

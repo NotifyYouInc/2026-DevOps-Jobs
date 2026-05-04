@@ -1,16 +1,16 @@
-# Junior CI DevOps Engineer -  Tieto Tech Consulting (m/f/d) at Tietoevry
+# Junior CI DevOps Engineer - Tieto Tech Consulting (m/f/d) at Tietoevry
 
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Szczecin, West Pomerania, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000115233215-junior-ci-devops-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000123122911-junior-ci-devops-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-03-17.
+This devops engineer position at Tietoevry was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

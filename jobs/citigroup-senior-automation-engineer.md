@@ -1,16 +1,16 @@
-# Cloud Platform Engineer at Accenture
+# Senior Automation Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Engineer_ATCI-5454410-S2001480) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Automation-Engineer_26956219) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-27.
+This industrial automation position at Citigroup was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

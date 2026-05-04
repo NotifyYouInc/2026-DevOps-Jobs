@@ -6,7 +6,7 @@
 | Location | Richardson, Texas, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-04-23 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Senior-Platform-Engineer--Onsite-_01840269) |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Senior-Platform-Engineer--Onsite-_01840041) |
 
 ## About This Role
 
