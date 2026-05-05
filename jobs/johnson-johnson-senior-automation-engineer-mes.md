@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Añasco, Añasco, Puerto Rico |
 | Category | Industrial Automation |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Senior-Automation-Engineer--MES_R-071580-1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Senior-Automation-Engineer--MES_R-071849-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-04-23.
+This industrial automation position at Johnson & Johnson was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

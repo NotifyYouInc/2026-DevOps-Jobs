@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Martillac, Nouvelle-Aquitaine, France |
 | Category | Industrial Automation |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012346698-expert-supervisions-et-automatismes-automation-engineer-fhx) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012830262-expert-supervisions-et-automatismes-automation-engineer-fhx) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-03-27.
+This industrial automation position at AbbVie was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

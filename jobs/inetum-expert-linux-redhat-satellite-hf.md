@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pessac, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000120762556-expert-linux-redhat-satellite-hf) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000123218579-expert-linux-redhat-satellite-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-04-14.
+This devops engineer position at Inetum was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

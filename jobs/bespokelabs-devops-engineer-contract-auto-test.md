@@ -5,12 +5,12 @@
 | Company | [Bespokelabs](https://scoutify.ai/companies/bespokelabs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bespokelabs/1a9fdb50-5e30-4655-8f00-1210fcb906e3) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bespokelabs/24acc8ba-f025-4d25-86b5-71b6bf338990) |
 
 ## About This Role
 
-This devops engineer position at Bespokelabs was posted on 2026-04-22.
+This devops engineer position at Bespokelabs was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

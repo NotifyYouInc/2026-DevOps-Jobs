@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/109525835878146758-software-engineer-ii-site-reliability-engineering?sort_by=date&page=1) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcok_HjCEEapzZrJQRiyUbmbytHH_ksXXNV_MDsxZT37EjsACxwdTErdf12sK68ae_oKPZZCT2a9ZRMOo9PBVYpQKdV2ef0gk6_DP3ossfKPu6Xib6UlXrEhoPyfcg%3D%3D_V2&loc=IN&title=Software+Engineer+II) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-09.
+This devops engineer position at Google was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

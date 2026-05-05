@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-QA-Automation-Engineer_R-785088) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Gdansk-Poland/Senior-QA-Automation-Engineer_R-787524-1) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-03-11.
+This devops engineer position at State Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

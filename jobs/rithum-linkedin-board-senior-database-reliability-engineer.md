@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rithum LinkedIn Board](https://scoutify.ai/companies/rithum-linkedin-board?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | San Francisco, California, United States |
 | Category | Database Administration |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7713038) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rithumliboard/jobs/7713044) |
 
 ## About This Role
 
-This database administration position at Rithum LinkedIn Board was posted on 2026-04-02.
+This database administration position at Rithum LinkedIn Board was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

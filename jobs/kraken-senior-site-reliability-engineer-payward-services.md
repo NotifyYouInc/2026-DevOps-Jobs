@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kraken](https://scoutify.ai/companies/kraken?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/cd033236-4e99-41da-984b-2de1de7c0f61) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kraken.com/d6f88f50-fe58-4c5f-b801-d700a9ae9b3d) |
 
 ## About This Role
 

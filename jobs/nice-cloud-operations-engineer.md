@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4792934101?gh_jid=4792934101) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4850793101?gh_jid=4850793101) |
 
 ## About This Role
 
-This customer success position at NiCE was posted on 2026-03-05.
+This devops engineer position at NiCE was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

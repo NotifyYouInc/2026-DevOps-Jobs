@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Michigan, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Wixom-MI/Automation-Engineer_JR_1047261) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Automation-Engineer_JR_1048672) |
 
 ## About This Role
 
-This industrial automation position at Zeiss was posted on 2026-02-23.
+This industrial automation position at Zeiss was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

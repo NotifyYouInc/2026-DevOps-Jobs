@@ -1,12 +1,12 @@
-# DevOps Engineer  at Alarm.com
+# DevOps Engineer at Alarm.com
 
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tysons, Virginia, United States |
+| Location | Centennial, Colorado, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8398722002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8522951002) |
 
 ## About This Role
 

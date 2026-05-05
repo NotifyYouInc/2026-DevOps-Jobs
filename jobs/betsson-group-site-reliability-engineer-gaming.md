@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Málaga, Andalusia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/7836682) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/7836584) |
 
 ## About This Role
 
-This devops engineer position at Betsson Group was posted on 2026-04-22.
+This devops engineer position at Betsson Group was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

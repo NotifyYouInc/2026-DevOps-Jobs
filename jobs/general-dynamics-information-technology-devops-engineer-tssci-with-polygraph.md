@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | McLean, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/DevOps-Engineer---TS-SCI-with-Polygraph_RQ211865) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-McLean/DevOps-Engineer---TS-SCI-with-Polygraph_RQ218767) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-04-21.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

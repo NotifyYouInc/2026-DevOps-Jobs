@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Infrastructure-Automation-Engineer--Assistant-Vice-President_R-788806) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Infrastructure-Automation-Engineer--Assistant-Vice-President_R-788862-1) |
 
 ## About This Role
 
-This industrial automation position at State Street was posted on 2026-04-22.
+This industrial automation position at State Street was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CD PROJEKT RED](https://scoutify.ai/companies/cd-projekt-red?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000122522464-developer-support-programmer) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000123222029-developer-support-programmer) |
 
 ## About This Role
 
-This devops engineer position at CD PROJEKT RED was posted on 2026-04-23.
+This devops engineer position at CD PROJEKT RED was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

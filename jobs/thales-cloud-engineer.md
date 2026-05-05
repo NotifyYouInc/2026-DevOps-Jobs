@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Czechia |
-| Category | Technical Writer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Cloud-Engineer_R0319603) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Cloud-Engineer_R0325673-1) |
 
 ## About This Role
 
-This technical writer position at Thales was posted on 2026-03-09.
+This devops engineer position at Thales was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

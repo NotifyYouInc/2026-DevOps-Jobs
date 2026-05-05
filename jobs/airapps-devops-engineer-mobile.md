@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/f56c1753-49ab-45cf-a67a-be2d9a0964b3) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/785b13c4-7e64-473e-9da2-b39bdfaaa1ca) |
 
 ## About This Role
 
-This devops engineer position at Airapps was posted on 2026-04-24.
+This devops engineer position at Airapps was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

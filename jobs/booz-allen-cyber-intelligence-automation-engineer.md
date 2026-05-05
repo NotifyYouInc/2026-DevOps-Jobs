@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cyber-Intelligence-Automation-Engineer_R0236785) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cyber-Intelligence-Automation-Engineer_R0238744) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-03-25.
+This security engineer position at Booz Allen was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
