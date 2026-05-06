@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/DC-Remote-Office-DC99/Monitoring-Specialist---Remote_R2601483) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Dallas-TX/Monitoring-Specialist---Remote_R2601500) |
 
 ## About This Role
 
-This devops engineer position at ICF was posted on 2026-04-27.
+This devops engineer position at ICF was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

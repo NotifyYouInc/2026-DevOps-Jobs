@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gauteng, ZA |
-| Category | Engineering Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/Lead-Technology_R-15983834) |
+| Location | Johannesburg, Gauteng, South Africa |
+| Category | DevOps Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Lead-Technology_R-15986253-1) |
 
 ## About This Role
 
-This engineering manager position at Absa was posted on 2026-02-18.
+This devops engineer position at Absa was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

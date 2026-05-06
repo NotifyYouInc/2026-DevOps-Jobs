@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Beavercreek, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Quality-Assurance--QA--Automation-Engineer_HR102053) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/Quality-Assurance--QA--Automation-Engineer_HR102144) |
 
 ## About This Role
 
-This devops engineer position at Radiance Technologies was posted on 2026-03-12.
+This devops engineer position at Radiance Technologies was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

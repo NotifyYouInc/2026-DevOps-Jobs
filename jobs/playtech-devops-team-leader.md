@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000122690193-devops-team-leader) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000123441891-devops-team-leader) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-04-24.
+This devops engineer position at Playtech was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

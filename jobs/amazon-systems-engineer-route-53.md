@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10390672/systems-engineer-route-53) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406352/systems-engineer-route-53) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-04-14.
+This devops engineer position at Amazon was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

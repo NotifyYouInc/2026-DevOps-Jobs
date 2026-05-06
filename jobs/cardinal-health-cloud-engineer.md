@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Cloud-Engineer_20177939) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/IND07/Cloud-Engineer_20179389-1) |
 
 ## About This Role
 
-This devops engineer position at Cardinal Health was posted on 2026-04-01.
+This devops engineer position at Cardinal Health was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5117595007) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5122778007) |
 
 ## About This Role
 
-This devops engineer position at Clarity Innovations was posted on 2026-04-24.
+This devops engineer position at Clarity Innovations was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Le Plessis-Robinson, Île-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115873152-integrateurtrice-systeme-bu-defense-securite-le-plessis-robinson) |
+| Category | DevOps Engineer |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123442259-integrateurtrice-systeme-bu-defense-securite-le-plessis-robinson) |
 
 ## About This Role
 
-This technical writer position at Sopra Steria was posted on 2026-03-20.
+This devops engineer position at Sopra Steria was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

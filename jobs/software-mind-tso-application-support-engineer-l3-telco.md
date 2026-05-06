@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000120468057-tso-application-support-engineer-l3-telco) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000123453829-tso-application-support-engineer-l3-telco) |
 
 ## About This Role
 
-This technical support engineer position at Software Mind was posted on 2026-04-13.
+This technical support engineer position at Software Mind was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

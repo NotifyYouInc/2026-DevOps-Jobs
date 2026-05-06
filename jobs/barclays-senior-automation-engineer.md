@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Software-Engineer_JR-0000068389) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Industrial Automation |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Automation-Engineer_JR-0000092506) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-02-24.
+This industrial automation position at Barclays was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | Industrial Automation |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121043368-senior-quality-assurance-automation-engineer) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123534629-senior-quality-assurance-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Experian was posted on 2026-04-15.
+This industrial automation position at Experian was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
