@@ -5,12 +5,12 @@
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | Industrial Automation |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Quality-Automation-Engineer---Intermediate_J00176424) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Quality-Automation-Engineer---Intermediate_J00176555) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-04-23.
+This industrial automation position at Equifax was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

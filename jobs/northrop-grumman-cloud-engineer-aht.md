@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ohio, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Cloud-Engineer--AHT-_R10224222) |
+| Location | Rome, Georgia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Cloud-Engineer--AHT-_R10231375) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-02-26.
+This devops engineer position at Northrop Grumman was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

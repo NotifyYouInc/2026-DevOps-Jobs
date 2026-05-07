@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Braşov, Brașov County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000112434374-service-manager-continuous-delivery-quality) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000123650460-service-manager-continuous-delivery-quality) |
 
 ## About This Role
 
-This devops engineer position at METRO/MAKRO was posted on 2026-03-03.
+This devops engineer position at METRO/MAKRO was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

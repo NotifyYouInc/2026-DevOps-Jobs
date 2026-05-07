@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
+| Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--CA/Senior-DevOps-Engineer_R18649-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Senior-DevOps-Engineer_R19096) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-02-27.
+This devops engineer position at Zoom was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

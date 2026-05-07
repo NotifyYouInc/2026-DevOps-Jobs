@@ -1,16 +1,16 @@
-# Senior DevOps engineer - Assistant Vice President at Citigroup
+# Senior DevOps Engineer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-DevOps-engineer---Assistant-Vice-President_26952855) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26956356) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-20.
+This devops engineer position at Citigroup was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

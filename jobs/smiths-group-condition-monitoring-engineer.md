@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
+| Location | Trainer, Pennsylvania, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000120486767-condition-monitoring-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000123736912-condition-monitoring-engineer) |
 
 ## About This Role
 
-This engineering manager position at Smiths Group was posted on 2026-04-13.
+This engineering manager position at Smiths Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

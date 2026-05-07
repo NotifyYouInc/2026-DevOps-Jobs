@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Principal-Digital-Product-Configuration-Management-Engineer-Portfolio-Lead_01839082) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Principal-Digital-Product-Configuration-Management-Engineer-Portfolio-Lead_01841655) |
 
 ## About This Role
 
-This asset management / portfolio management position at RTX was posted on 2026-04-20.
+This asset management / portfolio management position at RTX was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

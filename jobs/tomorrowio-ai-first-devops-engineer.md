@@ -5,12 +5,12 @@
 | Company | [Tomorrow.io](https://scoutify.ai/companies/tomorrow-io?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/tomorrow/jobs/7718446003?gh_jid=7718446003) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://boards.greenhouse.io/tomorrow/jobs/7719449003?gh_jid=7719449003) |
 
 ## About This Role
 
-This devops engineer position at Tomorrow.io was posted on 2026-04-28.
+This devops engineer position at Tomorrow.io was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

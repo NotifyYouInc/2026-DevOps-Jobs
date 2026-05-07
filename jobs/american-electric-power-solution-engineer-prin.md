@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Gahanna, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Solution-Engineer-Prin_R14670) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Gahanna-OH/Solution-Engineer-Prin_R14060) |
 
 ## About This Role
 
-This devops engineer position at American Electric Power was posted on 2026-03-20.
+This devops engineer position at American Electric Power was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

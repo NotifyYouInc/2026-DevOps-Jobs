@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fridley, Minnesota, United States |
+| Location | 2 locations |
 | Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Principal-Design-Automation-Engineer_R54396-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Dexter-Michigan-United-States-of-America/Principal-Design-Automation-Engineer_R65362-1) |
 
 ## About This Role
 
-This industrial automation position at Medtronic was posted on 2026-03-10.
+This industrial automation position at Medtronic was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

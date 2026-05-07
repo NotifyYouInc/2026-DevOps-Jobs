@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hoogvliet, South Holland, The Netherlands |
+| Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000112662247-electrical-automation-engineer-port-services) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000123651860-electrical-automation-engineer-port-services) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Konecranes was posted on 2026-03-04.
+This electrical / hardware engineer position at Konecranes was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

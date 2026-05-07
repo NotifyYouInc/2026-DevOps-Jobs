@@ -5,12 +5,12 @@
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Staff-Cloud-Engineer_R5142-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Staff-Cloud-Engineer_R7325) |
 
 ## About This Role
 
-This devops engineer position at Clearwateranalytics was posted on 2026-04-10.
+This devops engineer position at Clearwateranalytics was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

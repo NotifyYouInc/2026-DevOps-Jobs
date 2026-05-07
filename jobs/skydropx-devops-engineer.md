@@ -5,12 +5,12 @@
 | Company | [SkydropX](https://scoutify.ai/companies/skydropx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skydropx/df6b5770-e4dc-4fad-aaf2-e84ff996f427) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skydropx/06cd67d9-c011-4c2f-9bac-43f4f79b3b1a) |
 
 ## About This Role
 
-This devops engineer position at SkydropX was posted on 2026-02-27.
+This devops engineer position at SkydropX was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

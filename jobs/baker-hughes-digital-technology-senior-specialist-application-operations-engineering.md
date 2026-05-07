@@ -1,16 +1,16 @@
-# Digital Technology Senior Specialist - Application Operations Engineering at Baker Hughes
+# Digital Technology Senior Specialist  - Application Operations Engineering at Baker Hughes
 
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Houston, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-KA-BANGALORE-NEON-BUILDING-WEST-TOWER/Digital-Technology-Senior-Specialist---Application-Operations-Engineering_R161728) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-TX-HOUSTON-575-N-DAIRY-ASHFORD-RD-ENERGY-CENTER-II-EC2/Digital-Technology-Senior-Specialist----Application-Operations-Engineering_R163225) |
 
 ## About This Role
 
-This devops engineer position at Baker Hughes was posted on 2026-03-24.
+This devops engineer position at Baker Hughes was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

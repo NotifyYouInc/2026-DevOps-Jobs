@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111885266-apprentie-ingenieure-it-devops-hfn) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123673230-apprentie-ingenieure-it-devops-hfn) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-02-27.
+This devops engineer position at Robert Bosch was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

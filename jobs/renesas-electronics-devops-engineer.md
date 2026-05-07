@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122343590-devops-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000123778692-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-04-22.
+This devops engineer position at Renesas Electronics was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

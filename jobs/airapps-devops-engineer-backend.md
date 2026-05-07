@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airapps](https://scoutify.ai/companies/airapps?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/432460c5-9445-4961-8581-1b71d9a7b27e) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airapps/d0774752-9649-47f8-a5df-c2518474a882) |
 
 ## About This Role
 
-This devops engineer position at Airapps was posted on 2026-04-27.
+This devops engineer position at Airapps was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

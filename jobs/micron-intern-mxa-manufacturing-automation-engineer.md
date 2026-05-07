@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | China |
 | Category | Industrial Automation |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Xian-China/Intern--MXA-Manufacturing-Automation-Engineer_JR99917) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Xian-China/Intern--MXA-Manufacturing-Automation-Engineer_JR98321) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-04-28.
+This industrial automation position at Micron was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

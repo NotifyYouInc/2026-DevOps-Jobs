@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colorado, US |
+| Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/DevSecOps-Engineer_R0237924) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/DevSecOps-Engineer_R0238942) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-04-16.
+This devops engineer position at Booz Allen was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

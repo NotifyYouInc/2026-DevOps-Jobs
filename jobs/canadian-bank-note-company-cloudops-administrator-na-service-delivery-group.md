@@ -5,12 +5,12 @@
 | Company | [Canadian Bank Note Company](https://scoutify.ai/companies/canadianbanknotecompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000113192940-cloudops-administrator-na-service-delivery-group) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000123744339-cloudops-administrator-na-service-delivery-group) |
 
 ## About This Role
 
-This devops engineer position at Canadian Bank Note Company was posted on 2026-03-06.
+This devops engineer position at Canadian Bank Note Company was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

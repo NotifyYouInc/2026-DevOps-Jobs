@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Paris, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4784195101) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4833391101) |
 
 ## About This Role
 
-This it & systems administration position at Nebius was posted on 2026-04-21.
+This it & systems administration position at Nebius was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

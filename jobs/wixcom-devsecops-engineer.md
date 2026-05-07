@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120330826-devsecops-engineer) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000123689169-devsecops-engineer) |
 
 ## About This Role
 
-This security engineer position at Wix.com was posted on 2026-04-13.
+This security engineer position at Wix.com was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

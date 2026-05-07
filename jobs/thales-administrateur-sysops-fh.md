@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Grenoble, Rhône-Alpes, France |
+| Location | Brest, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Grenoble/Administrateur-SysOps--F-H-_R0309654-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brest/Administrateur-SysOps--F-H-_R0325351-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-04-01.
+This devops engineer position at Thales was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
