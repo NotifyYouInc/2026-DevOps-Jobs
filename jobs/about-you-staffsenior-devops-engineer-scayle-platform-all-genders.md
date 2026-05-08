@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000123651357-staffsenior-devops-engineer-scayle-platform-all-genders) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000123865622-staffsenior-devops-engineer-scayle-platform-all-genders) |
 
 ## About This Role
 
-This devops engineer position at About You was posted on 2026-04-29.
+This devops engineer position at About You was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

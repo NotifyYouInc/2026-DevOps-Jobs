@@ -1,16 +1,16 @@
-# Engineer II - DevOps at Accelya World
+# Engineer II - Devops at Accelya World
 
 | Field | Details |
 |-------|---------|
 | Company | [Accelya World](https://scoutify.ai/companies/accelya-world?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune/Engineer-II---DevOps_JR102147) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accelya.wd103.myworkdayjobs.com/careers/job/India-Pune-COE/Engineer-II---Devops_JR102303) |
 
 ## About This Role
 
-This devops engineer position at Accelya World was posted on 2026-02-17.
+This devops engineer position at Accelya World was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

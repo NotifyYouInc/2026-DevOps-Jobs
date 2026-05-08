@@ -1,16 +1,16 @@
-# Ingénieur DevOps (H/F) at Thales
+# Ingénieur DevOps  H/F at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toulon, Provence-Alpes-Côte d'Azur, France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Toulon/Ingnieur-DevOps--H-F-_R0320025-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Ingnieur-DevOps--H-F_R0327188-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-24.
+This devops engineer position at Thales was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

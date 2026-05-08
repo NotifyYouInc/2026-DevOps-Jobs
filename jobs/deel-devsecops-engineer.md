@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deel](https://scoutify.ai/companies/deel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Brazil |
 | Category | Security Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/deel/e078d6d3-2050-4fcc-9e6e-324a24d0a2b3) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/deel/0e984d00-dd12-4f9f-8fad-f5d12b7358ba) |
 
 ## About This Role
 
-This security engineer position at Deel was posted on 2026-04-08.
+This security engineer position at Deel was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

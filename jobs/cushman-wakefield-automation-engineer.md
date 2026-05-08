@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bridgewater, New Jersey, United States |
+| Location | South San Francisco, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Bridgewater---1025-Elm-Street/Automation-Engineer_R311353) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---South-San-Francisco---250-Utah-Avenue/Automation-Engineer_R317522-1) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-04-29.
+This industrial automation position at Cushman & Wakefield was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

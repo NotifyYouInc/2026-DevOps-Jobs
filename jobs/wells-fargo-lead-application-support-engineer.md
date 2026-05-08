@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Application-Support-Engineer_R-538372) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Application-Support-Engineer_R-540724) |
 
 ## About This Role
 
-This technical support engineer position at Wells Fargo was posted on 2026-04-21.
+This technical support engineer position at Wells Fargo was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

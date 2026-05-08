@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Service-Delivery-Engineer--MFG---QRA_R86404) |
+| Category | Customer Success |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/IND---NonGBS-Pune-Kharadi/Service-Delivery-Engineer--MFG---QRA_R86007) |
 
 ## About This Role
 
-This it & systems administration position at Smith+Nephew was posted on 2026-04-13.
+This customer success position at Smith+Nephew was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

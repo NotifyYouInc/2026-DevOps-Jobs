@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Quebec, CA |
 | Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=100438) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112173) |
 
 ## About This Role
 
-This security engineer position at IBM was posted on 2026-03-09.
+This security engineer position at IBM was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

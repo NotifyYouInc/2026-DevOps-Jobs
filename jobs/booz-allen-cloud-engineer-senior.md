@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Alexandria-VA/Cloud-Engineer--Senior_R0236672) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Cloud-Engineer--Senior_R0239111) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-03-24.
+This devops engineer position at Booz Allen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

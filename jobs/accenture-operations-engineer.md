@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5517628-S2019171) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5390061-S1970445-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-29.
+This devops engineer position at Accenture was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

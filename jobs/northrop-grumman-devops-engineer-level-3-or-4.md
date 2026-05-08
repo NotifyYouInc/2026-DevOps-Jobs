@@ -1,16 +1,16 @@
-# DevOps Engineer - Level 3 or 4 at Northrop Grumman
+# DevOps Engineer – Level 3 or 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | Morrisville, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/DevOps-Engineer---Level-3-or-4_R10231078) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/DevOps-Engineer---Level-3-or-4_R10231462) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-04-28.
+This devops engineer position at Northrop Grumman was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/London/Systems-Engineer--Production_REQ-4384) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Remote---Canada/Systems-Engineer--Production_BF-REQ-3194) |
 
 ## About This Role
 
-This devops engineer position at Clio was posted on 2026-02-27.
+This devops engineer position at Clio was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

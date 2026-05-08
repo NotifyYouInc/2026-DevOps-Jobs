@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (Ansible expertise) at Endava
+# Senior DevOps Engineer - (Ansible Expertise) at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rosario, Santa Fe, Argentina |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000107737128-senior-devops-engineer-ansible-expertise) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124000349-senior-devops-engineer-ansible-expertise) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-02-06.
+This devops engineer position at Endava was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

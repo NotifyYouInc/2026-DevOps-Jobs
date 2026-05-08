@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Salinas, California, United States |
-| Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Salinas---200-Harris-Rd/Automation-Engineer-Manager_R304472) |
+| Location | Rancho Cordova, California, United States |
+| Category | Engineering Manager |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Rancho-Cordova---3300-Rancho-Cordova-Pkwy/Automation-Engineer-Manager_R317927) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-02-26.
+This engineering manager position at Cushman & Wakefield was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

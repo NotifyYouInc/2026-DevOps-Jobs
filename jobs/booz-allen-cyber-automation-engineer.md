@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ford Island, Hawaii, United States |
 | Category | Security Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ford-Island-HI/Cyber-Automation-Engineer_R0238465) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ford-Island-HI/Cyber-Automation-Engineer_R0239092) |
 
 ## About This Role
 
-This security engineer position at Booz Allen was posted on 2026-04-23.
+This security engineer position at Booz Allen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

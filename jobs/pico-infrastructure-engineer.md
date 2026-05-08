@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4667337006) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4677844006) |
 
 ## About This Role
 
-This it & systems administration position at Pico was posted on 2026-04-22.
+This it & systems administration position at Pico was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hedgeserv](https://scoutify.ai/companies/hedgeserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Dallas-TX/Senior-ITSMA-Observability-Engineer_R6426) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://hedgeserv.wd1.myworkdayjobs.com/hedgeserv/job/Manila/Senior-ITSMA-Observability-Engineer_R6510) |
 
 ## About This Role
 
-This devops engineer position at Hedgeserv was posted on 2026-04-28.
+This devops engineer position at Hedgeserv was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
