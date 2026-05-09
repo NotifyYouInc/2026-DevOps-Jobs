@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Virginia, US |
+| Location | Norfolk, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/BYS-CHANTILLY-VA/DevOps-Engineer_324135) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Norfolk/DevOps-Engineer_325509) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-03-31.
+This devops engineer position at CACI was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

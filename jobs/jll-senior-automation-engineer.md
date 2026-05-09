@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sun Prairie, Wisconsin, United States |
+| Location | Monee, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sun-Prairie-WI/Senior-Automation-Engineer_REQ501620-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Monee-IL/Senior-Automation-Engineer_REQ480337) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-04-20.
+This industrial automation position at JLL was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

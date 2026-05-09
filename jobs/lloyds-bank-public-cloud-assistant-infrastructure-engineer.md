@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud-Assistant-Infrastructure-Engineer_153453-2) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Public-Cloud-Assistant-Infrastructure-Engineer_152578-1) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-03-04.
+This devops engineer position at Lloyds Bank was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

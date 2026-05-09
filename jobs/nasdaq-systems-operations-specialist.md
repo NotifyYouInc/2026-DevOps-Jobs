@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Bangalore-Affluence/Systems-Operations-Specialist_R0025539) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/CA-Toronto-York-St-2425/Systems-Operations-Specialist_R0025950) |
 
 ## About This Role
 
-This devops engineer position at Nasdaq was posted on 2026-03-18.
+This devops engineer position at Nasdaq was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

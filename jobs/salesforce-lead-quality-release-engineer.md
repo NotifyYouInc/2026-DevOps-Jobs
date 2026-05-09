@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Lead-Quality-Release-Engineer_JR338844-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Colorado---Denver/Lead-Quality-Release-Engineer_JR340443) |
 
 ## About This Role
 
-This devops engineer position at Salesforce was posted on 2026-04-16.
+This devops engineer position at Salesforce was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

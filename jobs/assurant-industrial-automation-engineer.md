@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tennessee, US |
+| Location | Lewisville, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Mt-Juliet/Industrial-Automation-Engineer_R-113503) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Lewisville/Automation-Engineer-1_R-113645) |
 
 ## About This Role
 
-This industrial automation position at Assurant was posted on 2026-04-24.
+This industrial automation position at Assurant was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

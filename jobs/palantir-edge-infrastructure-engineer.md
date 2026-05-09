@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Palantir](https://scoutify.ai/companies/palantir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.lever.co/palantir/fe65ee3c-61e0-4eb6-99e5-c90e38e7043f) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/palantir/ce20af4c-4de3-4079-bbdf-bc30a2e25404) |
 
 ## About This Role
 
-This devops engineer position at Palantir was posted on 2026-04-29.
+This devops engineer position at Palantir was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

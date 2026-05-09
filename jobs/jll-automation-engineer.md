@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Somerset, New Jersey, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Somerset-NJ/Automation-Engineer_REQ501629) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Automation-Engineer_REQ504393) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-04-18.
+This industrial automation position at JLL was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

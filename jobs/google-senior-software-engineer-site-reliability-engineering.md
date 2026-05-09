@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckcto_pszb8r1gukk1Ev6Yg72QfJrJ2IO5MZZdliDteGOEjsACxwdTIWTNShLX9pNeDGvRwaXeDIzrrI7qOn_2mET0JDo289fvp23UcATLuEHsBvJPhGAWnRxubwfHA%3D%3D_V2&loc=IE&title=Senior+Software+Engineer) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdcDanm0E2AfL4ipkdMxbBHYmI7w8KFygsHnqFgdPcu5EjsACxwdTJ0kQhhvleU5dkF4vnR6AEvi4tCcGUB1YOGF9l73Kd5Fjn6BOqbRJK2vs_6fvUfNbgcu-l0Lag%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-04-28.
+This devops engineer position at Google was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

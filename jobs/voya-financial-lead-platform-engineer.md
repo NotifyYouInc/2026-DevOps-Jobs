@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Voya Financial](https://scoutify.ai/companies/godirect?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/Lead-Platform-Engineer_JR0031078) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/MA-Boston-121-Seaport-Blvd/Lead-Platform-Engineer_JR0032262-1) |
 
 ## About This Role
 
-This devops engineer position at Voya Financial was posted on 2026-03-30.
+This devops engineer position at Voya Financial was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

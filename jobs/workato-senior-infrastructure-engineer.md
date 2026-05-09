@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 7 locations |
+| Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8480800002) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workato/jobs/8501176002) |
 
 ## About This Role
 
-This devops engineer position at Workato was posted on 2026-03-31.
+This devops engineer position at Workato was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

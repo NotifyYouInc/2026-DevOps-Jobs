@@ -5,12 +5,12 @@
 | Company | [Anglian Water](https://scoutify.ai/companies/awg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/Site-Reliability-Engineer_DC206-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/Site-Reliability-Engineer_R36276-1) |
 
 ## About This Role
 
-This devops engineer position at Anglian Water was posted on 2026-02-12.
+This devops engineer position at Anglian Water was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
