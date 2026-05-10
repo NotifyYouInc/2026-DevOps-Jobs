@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Equifax
+# Alternance - DevSecOps F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Gémenos, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Site-Reliability-Engineer_J00175176) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gmenos/Alternance---DevSecOps-F-H_R0326066-1) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-02.
+This devops engineer position at Thales was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Equifax
+# Associate Principal Engineer, Devops at Nagarro
 
 | Field | Details |
 |-------|---------|
-| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Site-Reliability-Engineer_J00175176) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000124233749-associate-principal-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-02.
+This devops engineer position at Nagarro was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

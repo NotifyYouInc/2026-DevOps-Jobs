@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Equifax
+# Senior Systems Engineer – Performance & Reliability at Graphcore
 
 | Field | Details |
 |-------|---------|
-| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Graphcore](https://scoutify.ai/companies/graphcore?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Gdańsk, Pomerania, Poland |
 | Category | DevOps Engineer |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Site-Reliability-Engineer_J00175176) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/graphcore/jobs/8533895002) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-02.
+This devops engineer position at Graphcore was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
