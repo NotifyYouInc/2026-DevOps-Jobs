@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# Technology Operations Engineer at Travelers
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Travelers](https://scoutify.ai/companies/travelers?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Technology-Operations-Engineer_R-49754-1) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Travelers was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

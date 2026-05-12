@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# Senior DevOps Engineer at TVH
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Pune/Senior-DevOps-Engineer_JR106073) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at TVH was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

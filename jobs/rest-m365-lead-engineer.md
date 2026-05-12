@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# M365 Lead Engineer at Rest
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Rest](https://scoutify.ai/companies/rest?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000124524560-m365-lead-engineer) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Rest was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

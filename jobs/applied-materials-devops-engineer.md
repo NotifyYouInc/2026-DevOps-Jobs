@@ -1,16 +1,16 @@
-# DevOps Engineer at Applied Materials
+# Devops Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Reẖovot, Central District, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/MumbaiIND/DevOps-Engineer_R2617828-1) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Devops-Engineer_R2618075) |
 
 ## About This Role
 
-This devops engineer position at Applied Materials was posted on 2026-04-22.
+This devops engineer position at Applied Materials was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

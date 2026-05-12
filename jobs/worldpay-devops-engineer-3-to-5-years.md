@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# Devops Engineer( 3 to 5 years) at Worldpay
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/KARNATAKA--INDIA/Devops-Engineer--3-to-5-years-_JR0609571) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Worldpay was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

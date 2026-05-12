@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# [Job-29158] Senior DevOps Azure, Brazil at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Campinas, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/f5b22a7f-83ba-44a5-b2d3-dc5adb2caf94) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Ciandt was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

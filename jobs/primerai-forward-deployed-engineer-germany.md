@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# Forward Deployed Engineer, Germany at primer.ai
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [primer.ai](https://scoutify.ai/companies/primerai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/primerai/jobs/7723253003) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at primer.ai was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

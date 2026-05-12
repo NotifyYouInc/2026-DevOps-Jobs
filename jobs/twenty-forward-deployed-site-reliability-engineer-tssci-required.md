@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# Forward Deployed Site Reliability Engineer (TS/SCI Required) at Twenty
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Twenty](https://scoutify.ai/companies/twenty-twenty?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/twenty/f9cb8c61-f6ba-44fa-beb1-8c804dd04631) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Twenty was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Technical Support Engineer |
 | Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Technology-Support-Engineer_ATCI-5394724-S1970851-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5376511-S1970820-1) |
 
 ## About This Role
 

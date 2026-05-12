@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# DevOps Engineer at Smallest
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Smallest](https://scoutify.ai/companies/smallest?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/smallest/09fa72fd-cf08-4588-be75-098c5969233a) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at Smallest was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# System Engineer at MAXISIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-01-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990010924886-system-engineer) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at MAXISIQ was posted on 2026-01-05.
 
 ## Get Real-Time Alerts
 

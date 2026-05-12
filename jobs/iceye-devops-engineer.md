@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# DevOps Engineer at ICEYE
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [ICEYE](https://scoutify.ai/companies/iceye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Espoo, Uusimaa, Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This devops engineer position at ICEYE was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

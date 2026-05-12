@@ -1,16 +1,16 @@
-# Senior DevOps Platform Engineer at Humana
+# Digital Identity Platform Engineer at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-414933) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Canberra/Digital-Identity-Platform-Engineer_R0293365) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-05-05.
+This devops engineer position at Thales was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

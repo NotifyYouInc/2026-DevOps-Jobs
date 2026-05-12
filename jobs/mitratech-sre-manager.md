@@ -1,16 +1,16 @@
-# Data Center Engineer  at Pico
+# SRE Manager at Mitratech
 
 | Field | Details |
 |-------|---------|
-| Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
+| Company | [Mitratech](https://scoutify.ai/companies/mitratech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
+| Category | Engineering Manager |
 | Posted | 2026-05-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4676056006) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mitratech/jobs/7550640) |
 
 ## About This Role
 
-This devops engineer position at Pico was posted on 2026-05-04.
+This engineering manager position at Mitratech was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior DevOps Platform Engineer at Humana
+# Project Manager Devops at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Avilés, Asturias, Spain |
 | Category | DevOps Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-414933) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---AS---AVILES/Sr-Analyst-III-Software-Engineering_51573979) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-05-05.
+This devops engineer position at DXC Technology was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

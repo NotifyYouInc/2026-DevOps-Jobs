@@ -1,16 +1,16 @@
-# Senior DevOps Platform Engineer at Humana
+# Axway Secure Transport Technical Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-05 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Senior-DevOps-Platform-Engineer_R-414933) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124562559-axway-secure-transport-technical-lead) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-05-05.
+This devops engineer position at Sopra Steria was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

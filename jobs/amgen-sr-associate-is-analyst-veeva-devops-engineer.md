@@ -1,16 +1,16 @@
-# Infra Tech Support Practitioner at Accenture
+# Sr Associate IS Analyst – Veeva DevOps Engineer at Amgen
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Infra-Tech-Support-Practitioner_ATCI-5375429-S1970822-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Sr-Associate-IS-Analyst---Veeva-DevOps-Engineer_R-240891) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-30.
+This devops engineer position at Amgen was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
