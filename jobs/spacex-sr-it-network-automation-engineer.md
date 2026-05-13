@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florida, US |
+| Location | Redmond, Washington, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8438665002?gh_jid=8438665002) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8536962002?gh_jid=8536962002) |
 
 ## About This Role
 
-This industrial automation position at SpaceX was posted on 2026-02-26.
+This industrial automation position at SpaceX was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

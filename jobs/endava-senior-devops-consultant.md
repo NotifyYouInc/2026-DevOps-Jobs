@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000120048629-senior-devops-consultant) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124804590-senior-devops-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Endava was posted on 2026-04-10.
+This technology / it consulting position at Endava was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Biot, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000122416795-ingenieure-devops-openshift-digital-platform-services-biot) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124668334-ingenieure-devops-openshift-digital-platform-services-biot) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-23.
+This devops engineer position at Sopra Steria was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

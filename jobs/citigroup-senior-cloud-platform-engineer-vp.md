@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irving, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Cloud-Platform-Engineer--VP_26955080) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Senior-Cloud-Platform-Engineer--VP_26961511-1) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-28.
+This devops engineer position at Citigroup was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

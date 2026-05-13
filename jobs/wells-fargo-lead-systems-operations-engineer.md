@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Systems-Operations-Engineer_R-539454) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Systems-Operations-Engineer_R-540675-1) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-04-30.
+This devops engineer position at Wells Fargo was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

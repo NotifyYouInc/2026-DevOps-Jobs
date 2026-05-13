@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lviv, Lviv, Ukraine |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000123910869-senior-devops-engineer) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000124196030-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-04-30.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

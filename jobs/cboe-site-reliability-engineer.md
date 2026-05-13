@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cboe](https://scoutify.ai/companies/cboe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kansas City, Missouri, United States |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Site-Reliability-Engineer_R-4321) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Singapore/Site-Reliability-Engineer_R-4404-1) |
 
 ## About This Role
 
-This devops engineer position at Cboe was posted on 2026-03-06.
+This devops engineer position at Cboe was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ukraine |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/d166a63c-d374-4480-8603-db4f7ee98f4c) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/e5a49983-e312-4513-b28e-fb6d3dda559f) |
 
 ## About This Role
 
-This devops engineer position at SKELAR was posted on 2026-04-14.
+This devops engineer position at SKELAR was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

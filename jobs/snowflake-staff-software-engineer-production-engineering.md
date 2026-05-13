@@ -5,12 +5,12 @@
 | Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/39d92b40-4bdd-45ce-ad93-47a00d7830b3) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/67eb5996-1c4b-4855-aa9a-7c48080ca633) |
 
 ## About This Role
 
-This devops engineer position at Snowflake was posted on 2026-02-18.
+This devops engineer position at Snowflake was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

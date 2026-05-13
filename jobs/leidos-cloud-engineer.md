@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Seaside, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bedford-MA/Cloud-Engineer_R-00180606) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Seaside-CA/Cloud-Engineer_R-00182516-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-13.
+This devops engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

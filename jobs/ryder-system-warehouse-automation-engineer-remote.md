@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Warehouse-Automation-Engineer--remote-_R167583) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Nationwide-Remote-USA/Warehouse-Automation-Engineer--remote-_R170645) |
 
 ## About This Role
 
-This industrial automation position at Ryder System was posted on 2026-03-23.
+This industrial automation position at Ryder System was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

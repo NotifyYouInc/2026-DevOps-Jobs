@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000110740204-principal-site-reliability-engineer) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000124579395-principal-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sigma Software was posted on 2026-02-23.
+This devops engineer position at Sigma Software was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

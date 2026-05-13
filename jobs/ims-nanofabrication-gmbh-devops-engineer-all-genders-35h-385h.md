@@ -5,12 +5,12 @@
 | Company | [IMS Nanofabrication GmbH](https://scoutify.ai/companies/ims-nanofabrication-gmbh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austria |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/imsnanofabricationgmbh/744000117218506-devops-engineer-all-genders-35h-385h) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/imsnanofabricationgmbh/744000124675298-devops-engineer-all-genders-35h-385h) |
 
 ## About This Role
 
-This devops engineer position at IMS Nanofabrication GmbH was posted on 2026-03-27.
+This devops engineer position at IMS Nanofabrication GmbH was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

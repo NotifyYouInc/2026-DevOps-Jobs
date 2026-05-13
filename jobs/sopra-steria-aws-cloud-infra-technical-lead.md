@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000123869760-aws-cloud-infra-technical-lead) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124814500-aws-cloud-infra-technical-lead) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-30.
+This devops engineer position at Sopra Steria was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 3 locations |
 | Category | Technical Support Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Application-Support-Engineer_ATCI-5345580-S1958270-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Application-Support-Engineer_ATCI-5550280-S2020520-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-04-30.
+This technical support engineer position at Accenture was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

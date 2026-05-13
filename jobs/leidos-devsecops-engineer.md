@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/DevSecOps-Engineer_R-00177065) |
+| Category | Security Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/DevSecOps-Engineer_R-00182517) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-02-26.
+This security engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2470839) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Colorado-Springs-CO/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2492614) |
 
 ## About This Role
 
-This it & systems administration position at Walmart was posted on 2026-04-23.
+This it & systems administration position at Walmart was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

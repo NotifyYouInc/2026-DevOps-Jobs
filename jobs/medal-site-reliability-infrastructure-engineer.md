@@ -5,12 +5,12 @@
 | Company | [Medal](https://scoutify.ai/companies/medal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/medal/adf0e36a-6317-4c02-a915-aceb7961c29a) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/medal/6dd4c314-5c50-4059-9836-2eae18d62af0) |
 
 ## About This Role
 
-This devops engineer position at Medal was posted on 2026-04-24.
+This devops engineer position at Medal was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

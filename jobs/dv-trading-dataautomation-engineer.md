@@ -1,16 +1,16 @@
-# Data/Automation Engineer  at DV Trading
+# Data/Automation Engineer at DV Trading
 
 | Field | Details |
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Chicago, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4682362005) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4692537005) |
 
 ## About This Role
 
-This industrial automation position at DV Trading was posted on 2026-04-07.
+This industrial automation position at DV Trading was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
