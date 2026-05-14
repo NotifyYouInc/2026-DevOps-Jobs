@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jaipur, Rajasthan, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infra-Tech-Support-Practitioner_ATCI-5471282-S1998179-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Jaipur/Infra-Tech-Support-Practitioner_ATCI-5376813-S1961270-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-05.
+This devops engineer position at Accenture was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

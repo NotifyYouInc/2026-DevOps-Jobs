@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | New Jersey, US |
 | Category | Industrial Automation |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Jacksonville-FL/Automation-Engineer_REQ504393) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mt-Olive-NJ/Automation-Engineer_REQ505517) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-05-02.
+This industrial automation position at JLL was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

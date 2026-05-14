@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--DevOps-_R64205) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--DevOps-_R64450) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-04-23.
+This devops engineer position at Motorola Solutions was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

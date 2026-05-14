@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | The Hague, South Holland, The Netherlands |
+| Location | Bristol, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/The-Hague-Netherlands/Senior-DevOps-Engineer_R-00182322) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Senior-DevOps-Engineer_R-00182556) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-01.
+This devops engineer position at Leidos was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

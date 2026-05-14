@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Seoul, Seoul, South Korea |
 | Category | Industrial Automation |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Automation-Engineer_R00287422-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/KOR---Seoul---Seoul/Automation-Engineer_R00287171) |
 
 ## About This Role
 
-This industrial automation position at Ecolab was posted on 2026-04-22.
+This industrial automation position at Ecolab was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

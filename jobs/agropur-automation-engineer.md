@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Agropur](https://scoutify.ai/companies/agropur?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Appleton, Wisconsin, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/USA-Wisconsin-Appleton/Automation-Engineer_JR32150) |
+| Location | Quebec, CA |
+| Category | Industrial Automation |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://agropur.wd3.myworkdayjobs.com/agropur_careers/job/CAN-Quebec-St-Laurent/XMLNAME--Ingnieur-automatisation_JR32603) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Agropur was posted on 2026-03-27.
+This industrial automation position at Agropur was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

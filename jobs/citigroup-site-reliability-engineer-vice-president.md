@@ -1,16 +1,16 @@
-# Site Reliability Engineer- Vice President at Citigroup
+# Site Reliability Engineer  - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Site-Reliability-Engineer--Vice-President_26950574) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Site-Reliability-Engineer----Vice-President_26956400) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-01.
+This devops engineer position at Citigroup was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

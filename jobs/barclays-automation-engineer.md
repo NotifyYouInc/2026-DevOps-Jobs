@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Automation-Engineer_JR-0000097969-1) |
+| Category | Industrial Automation |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Automation-Engineer_JR-0000105077) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-18.
+This industrial automation position at Barclays was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

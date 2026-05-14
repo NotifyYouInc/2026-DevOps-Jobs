@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Database Administration |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-272708-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Platform-Engineer-II_R-276230-1) |
 
 ## About This Role
 
-This database administration position at Mastercard was posted on 2026-03-11.
+This devops engineer position at Mastercard was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ashburn, Virginia, United States |
+| Location | Fort Meade, Maryland, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Automation-Engineer_R0238392) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Automation-Engineer_R0239463) |
 
 ## About This Role
 
-This industrial automation position at Booz Allen was posted on 2026-04-22.
+This industrial automation position at Booz Allen was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aristocrat Leisure](https://scoutify.ai/companies/aristocrat-leisure?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Skopje, Grad Skopje, North Macedonia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Warsaw-Poland/QA-Automation-Engineer_R0020961) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/North-Macedonia---Skopje/QA-Automation-Engineer_R0021237) |
 
 ## About This Role
 
-This devops engineer position at Aristocrat Leisure was posted on 2026-04-28.
+This devops engineer position at Aristocrat Leisure was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 
