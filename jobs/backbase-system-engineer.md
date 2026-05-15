@@ -1,16 +1,16 @@
-# System Engineer at Backbase
+# System Engineer  at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7601427) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7115499) |
 
 ## About This Role
 
-This devops engineer position at Backbase was posted on 2026-02-17.
+This devops engineer position at Backbase was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ludvika-Dalarna-County-Sweden/DevOps-Engineer_R0123323) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bengaluru-Karnataka-India/DevOps-Engineer_R0128853) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-04-15.
+This devops engineer position at Hitachi was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

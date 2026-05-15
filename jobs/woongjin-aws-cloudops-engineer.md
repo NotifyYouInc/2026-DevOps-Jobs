@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Plano, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000122556508-aws-cloudops-engineer) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000125226599-aws-cloudops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Woongjin was posted on 2026-04-23.
+This devops engineer position at Woongjin was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124834086-mtn-senior-devops-platform-engineer-aws) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124869110-mtn-senior-devops-platform-engineer-aws) |
 
 ## About This Role
 

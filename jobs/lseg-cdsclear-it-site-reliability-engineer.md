@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Loui-Missouri/CDSClear-IT-Site-Reliability-Engineer_R0113269-1) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Paris-France/CDSClear-IT-Site-Reliability-Engineer_R0118519-1) |
 
 ## About This Role
 
-This engineering manager position at LSEG was posted on 2026-03-11.
+This devops engineer position at LSEG was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

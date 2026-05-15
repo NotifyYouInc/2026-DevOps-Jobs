@@ -5,12 +5,12 @@
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Prague, Prague, Czechia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7646022?gh_jid=7646022) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7904153) |
 
 ## About This Role
 
-This devops engineer position at Pure Storage was posted on 2026-02-23.
+This devops engineer position at Pure Storage was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

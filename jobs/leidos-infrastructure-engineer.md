@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntingdon, England, United Kingdom |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Engineer_R-00180914) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Engineer_R-00182371) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-04-20.
+This it & systems administration position at Leidos was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

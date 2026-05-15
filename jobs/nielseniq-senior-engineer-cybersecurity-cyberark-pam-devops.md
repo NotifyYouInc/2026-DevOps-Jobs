@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Security Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000120931928-senior-engineer-cybersecurity-cyberark-pam-devops) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125129549-senior-engineer-cybersecurity-cyberark-pam-devops) |
 
 ## About This Role
 
-This security engineer position at NielsenIQ was posted on 2026-04-15.
+This security engineer position at NielsenIQ was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

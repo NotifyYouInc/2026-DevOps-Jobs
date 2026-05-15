@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000113197117-site-reliability-engineering-manager-ii) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000125206251-site-reliability-engineering-manager-ii) |
 
 ## About This Role
 
-This engineering manager position at Flywire was posted on 2026-03-06.
+This engineering manager position at Flywire was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

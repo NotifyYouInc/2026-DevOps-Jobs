@@ -6,7 +6,7 @@
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
 | Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124831601-mso-senior-system-engineer-openstack) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000124868495-mso-senior-system-engineer-openstack) |
 
 ## About This Role
 

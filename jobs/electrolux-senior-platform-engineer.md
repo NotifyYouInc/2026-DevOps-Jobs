@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Platform-Engineer_JR76072) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bangalore/Senior-Platform-Engineer_JR76067) |
 
 ## About This Role
 
-This devops engineer position at Electrolux was posted on 2026-02-25.
+This devops engineer position at Electrolux was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

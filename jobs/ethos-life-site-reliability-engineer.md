@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ethos Life](https://scoutify.ai/companies/ethos-life?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8427726002) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ethoslife/jobs/8535427002) |
 
 ## About This Role
 
-This devops engineer position at Ethos Life was posted on 2026-02-20.
+This devops engineer position at Ethos Life was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

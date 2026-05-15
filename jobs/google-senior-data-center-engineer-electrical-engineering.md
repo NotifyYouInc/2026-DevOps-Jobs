@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ohio, US |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/126514339573048006-senior-data-center-engineer-electrical-engineering?sort_by=date&page=1) |
+| Location | 9 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckbeX8DBdrVfowrSU07PkPbIV22OU7jsF-kg8Wigzw5ywEjsACxwdTEEtY5giJ9p3hiEBJy3ylDA7549LZ_h2J3YMN_V8EWH123yoxAgNSZNPeib17z8yW_iqcU2oOw%3D%3D_V2&loc=US&title=Senior+Data+Center+Engineer) |
 
 ## About This Role
 
-This operations position at Google was posted on 2026-02-06.
+This electrical / hardware engineer position at Google was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

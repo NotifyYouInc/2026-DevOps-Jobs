@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5206978008) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5211297008) |
 
 ## About This Role
 
-This devops engineer position at Anthropic was posted on 2026-04-30.
+This devops engineer position at Anthropic was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

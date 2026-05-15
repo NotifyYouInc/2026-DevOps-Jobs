@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000124881625-release-manager) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000125133528-release-manager) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-05-06.
+This devops engineer position at Inetum was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
