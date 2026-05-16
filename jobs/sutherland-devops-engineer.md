@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000111050015-devops-engineer) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000125310594-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sutherland was posted on 2026-02-24.
+This devops engineer position at Sutherland was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Engineer, AWS at Thinkahead
+# Senior Engineer – AWS at Thinkahead
 
 | Field | Details |
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/0660bf3f-8040-457d-8b26-c43303ca9053) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/c2e81feb-78a4-4563-a2a0-96067f422fcf) |
 
 ## About This Role
 
-This devops engineer position at Thinkahead was posted on 2026-04-23.
+This devops engineer position at Thinkahead was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

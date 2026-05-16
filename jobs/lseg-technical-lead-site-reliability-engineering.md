@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Technical-Lead---Site-Reliability-Engineering_R0118599-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Technical-Lead---Site-Reliability-Engineering_R0118624-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-04-27.
+This devops engineer position at LSEG was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

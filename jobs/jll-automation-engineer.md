@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Jersey, US |
+| Location | Kenosha, Wisconsin, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mt-Olive-NJ/Automation-Engineer_REQ505517) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/Automation-Engineer_REQ506208) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-05-06.
+This industrial automation position at JLL was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

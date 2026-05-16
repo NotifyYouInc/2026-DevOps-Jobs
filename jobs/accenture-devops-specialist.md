@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/DevOps-Specialist_R00326745) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/DevOps-Specialist_R00329628) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-01.
+This devops engineer position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Location | China |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/4027023f-7cb2-4011-a4d2-a62275218d96) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3f825cbc-1a66-44b0-8e43-508a7dfa4541) |
 
 ## About This Role
 
-This devops engineer position at Bjak was posted on 2026-05-01.
+This devops engineer position at Bjak was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

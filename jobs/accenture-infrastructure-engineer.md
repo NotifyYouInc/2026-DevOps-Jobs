@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lima-Comunal-Grau/Infrastructure-Engineer_14374651) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infrastructure-Engineer_ATCI-5443921-S1996508-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-06.
+This devops engineer position at Accenture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

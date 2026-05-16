@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013005586-senior-devops-engineer-ii-cloud-networking) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013036556-senior-devops-engineer-ii-cloud-networking) |
 
 ## About This Role
 
-This devops engineer position at The Nielsen Company was posted on 2026-05-06.
+This devops engineer position at The Nielsen Company was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
