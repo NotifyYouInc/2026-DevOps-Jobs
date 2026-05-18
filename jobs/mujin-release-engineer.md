@@ -1,16 +1,16 @@
-# Tech Lead, Systems Engineering at Fiserv
+# Release Engineer at Mujin
 
 | Field | Details |
 |-------|---------|
-| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Mujin](https://scoutify.ai/companies/mujin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10392199) |
+| Apply | [View on company site](https://jobs.lever.co/mujininc/4080a32f-1010-4d5c-ac04-b16529a9ce85) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-05-11.
+This devops engineer position at Mujin was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

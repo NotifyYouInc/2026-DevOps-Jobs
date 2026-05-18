@@ -1,16 +1,16 @@
-# DevOps at ALTEN
+# Senior DevOps/DevSecOps Engineer at ExpressVPN
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
-| Category | DevOps Engineer |
+| Company | [ExpressVPN](https://scoutify.ai/companies/expressvpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
+| Category | Security Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000125760699-devops) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/expressvpn/jobs/8542355002) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-05-11.
+This security engineer position at ExpressVPN was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

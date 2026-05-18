@@ -1,16 +1,16 @@
-# Tech Lead, Systems Engineering at Fiserv
+# DevOps Engineer at NielsenIQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10392199) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125729004-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-05-11.
+This devops engineer position at NielsenIQ was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

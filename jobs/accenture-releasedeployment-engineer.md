@@ -1,16 +1,16 @@
-# Application Support Engineer at Accenture
+# Release/Deployment Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5483668-S2004691) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | DevOps Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/Release-Deployment-Engineer_14374800) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-05-08.
+This devops engineer position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

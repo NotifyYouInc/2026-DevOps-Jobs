@@ -1,16 +1,16 @@
-# Tech Lead, Systems Engineering at Fiserv
+# Platform Engineer / Operations Engineer - (ML / AI) at Nearmap
 
 | Field | Details |
 |-------|---------|
-| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Nearmap](https://scoutify.ai/companies/nearmap?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10392199) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000125625410-platform-engineer-operations-engineer-ml-ai) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-05-11.
+This devops engineer position at Nearmap was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

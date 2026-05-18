@@ -1,16 +1,16 @@
-# Tech Lead, Systems Engineering at Fiserv
+# [ 29305] QA Automation Engineer - Willing to start ASAP at Ciandt
 
 | Field | Details |
 |-------|---------|
-| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10392199) |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/97c7d7bb-f145-4d30-bcbb-6c431e6d7631) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-05-11.
+This devops engineer position at Ciandt was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

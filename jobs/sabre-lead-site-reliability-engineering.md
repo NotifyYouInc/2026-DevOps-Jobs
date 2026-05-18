@@ -1,16 +1,16 @@
-# IN_Senior Associate_Site Reliability Engineer (SRE)_GCC_Advisory_Bangalore at PwC
+# Lead Site Reliability Engineering at Sabre
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Site-Reliability-Engineer--SRE--GCC-Advisory-Bangalore_727011WD-1) |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Lead-Site-Reliability-Engineering_JR107937-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-05-11.
+This devops engineer position at Sabre was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

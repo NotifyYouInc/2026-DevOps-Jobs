@@ -1,16 +1,16 @@
-# DevOps Engineer at Leidos
+# Site Reliability Engineer 2 at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/2223-Chester-House-Farnborough-Aerospace-Centre-Farnborough-UK/DevOps-Engineer_R-00182824) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556864810) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-10.
+This devops engineer position at Microsoft was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

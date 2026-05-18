@@ -1,16 +1,16 @@
-# DevOps Engineer at Leidos
+# Junior DevOps Engineer (m/f/d) at Flix
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-05-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/2223-Chester-House-Farnborough-Aerospace-Centre-Farnborough-UK/DevOps-Engineer_R-00182824) |
+| Apply | [View on company site](https://flix.careers/job/8542317002?gh_jid=8542317002) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-10.
+This devops engineer position at Flix was posted on 2026-05-10.
 
 ## Get Real-Time Alerts
 

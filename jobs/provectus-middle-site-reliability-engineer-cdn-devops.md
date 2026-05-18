@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Provectus](https://scoutify.ai/companies/provectus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Serbia |
+| Location | Armenia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/provectus/4fc4fad6-e92e-4ab9-b42a-3749cfac6e1e) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.lever.co/provectus/b4a0b4d7-860d-468c-8d39-ebf3793e6765) |
 
 ## About This Role
 
-This devops engineer position at Provectus was posted on 2026-05-06.
+This devops engineer position at Provectus was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Automation Engineer at ResMed
+# Mechanical Automation Engineer at Agilent
 
 | Field | Details |
 |-------|---------|
-| Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Johor Bahru, Johor, Malaysia |
+| Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Malaysia |
 | Category | Industrial Automation |
 | Posted | 2026-05-11 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Johor-Bahru-Malaysia/Automation-Engineer_JR_050906-1) |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/Malaysia-Penang/Mechanical-Automation-Engineer_4037855) |
 
 ## About This Role
 
-This industrial automation position at ResMed was posted on 2026-05-11.
+This industrial automation position at Agilent was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

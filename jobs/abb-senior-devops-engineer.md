@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/Senior-DevOps-Engineer_JR00019774) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Senior-DevOps-Engineer_JR00034327) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-02-17.
+This devops engineer position at ABB was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

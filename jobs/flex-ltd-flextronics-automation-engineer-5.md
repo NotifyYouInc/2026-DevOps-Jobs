@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Automation-Engineer-5_WD218903) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Automation-Engineer-5_WD220754) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-04-13.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
