@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Warsaw-166-Wiertnicza-TVN/Senior-Observability-Engineer_R000102711) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Warsaw-166-Wiertnicza-TVN/Senior-Observability-Engineer_R000105209) |
 
 ## About This Role
 
-This devops engineer position at Warner Bros Discovery was posted on 2026-02-12.
+This devops engineer position at Warner Bros Discovery was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

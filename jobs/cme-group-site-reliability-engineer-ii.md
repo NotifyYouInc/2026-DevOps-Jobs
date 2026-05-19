@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Chicago---20-S-Wacker/Site-Reliability-Engineer-II_33998-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/New-York---300-Vesey-Street/Site-Reliability-Engineer-II_34015-1) |
 
 ## About This Role
 
-This devops engineer position at CME Group was posted on 2026-04-29.
+This devops engineer position at CME Group was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

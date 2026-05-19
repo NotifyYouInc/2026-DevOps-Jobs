@@ -1,16 +1,16 @@
-# Senior Site Reliability engineer at Guidewire Software
+# Senior Site Reliability Engineer at Guidewire Software
 
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Ireland---Dublin/Senior-Site-Reliability-engineer_JR_14650) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Canada---Toronto/Senior-Site-Reliability-Engineer_JR_14789) |
 
 ## About This Role
 
-This devops engineer position at Guidewire Software was posted on 2026-04-14.
+This devops engineer position at Guidewire Software was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

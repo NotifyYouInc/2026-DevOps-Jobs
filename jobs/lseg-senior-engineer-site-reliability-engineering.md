@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philippines |
+| Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Senior-Engineer---Site-Reliability-Engineering_R0118668-1) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Senior-Engineer---Site-Reliability-Engineering_R0118625-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Credit-Risk-Specialist---SRE_JR-0000104520) |
+| Location | Whippany, New Jersey, United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Credit-Risk-Specialist---SRE_JR-0000104500) |
 
 ## About This Role
 
-This customer success position at Barclays was posted on 2026-05-08.
+This compliance & risk management position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

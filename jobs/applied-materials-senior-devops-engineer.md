@@ -5,12 +5,12 @@
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reẖovot, Central District, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-DevOps-Engineer_R2614404) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/RehovotISR/Senior-DevOps-Engineer_R2619555) |
 
 ## About This Role
 
-This devops engineer position at Applied Materials was posted on 2026-04-23.
+This devops engineer position at Applied Materials was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

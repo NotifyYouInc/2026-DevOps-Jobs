@@ -1,16 +1,16 @@
-# DevOps Specialist F/H at Accenture
+# Devops Specialist F/H at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Blagnac, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Blagnac/DevOps-Specialist-F-H_R00327560) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Blagnac/Devops-Specialist-F-H_R00329894-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-27.
+This devops engineer position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

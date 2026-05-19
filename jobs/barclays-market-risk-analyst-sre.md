@@ -1,16 +1,16 @@
-# Market Risk Analyst - SRE at Barclays
+# Market Risk Analyst-SRE at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Whippany, New Jersey, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Market-Risk-Analyst---SRE_JR-0000104519) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Market-Risk-Analyst-SRE_JR-0000104514) |
 
 ## About This Role
 
-This it & systems administration position at Barclays was posted on 2026-04-29.
+This it & systems administration position at Barclays was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

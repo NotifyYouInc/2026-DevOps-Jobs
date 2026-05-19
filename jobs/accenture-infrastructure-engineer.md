@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infrastructure-Engineer_ATCI-5443921-S1996508-1) |
+| Location | Gurugram, Haryana, India |
+| Category | AI / LLM Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Infrastructure-Engineer_ATCI-5556538-S2021425-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-07.
+This ai / llm engineer position at Accenture was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

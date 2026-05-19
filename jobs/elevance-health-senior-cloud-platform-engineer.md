@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Senior-Cloud-Platform-Engineer_JR185952) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Senior-Cloud-Platform-Engineer_JR192585) |
 
 ## About This Role
 
-This devops engineer position at Elevance Health was posted on 2026-03-11.
+This devops engineer position at Elevance Health was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

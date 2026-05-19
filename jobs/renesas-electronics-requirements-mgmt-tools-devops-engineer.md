@@ -6,7 +6,7 @@
 | Location | Kallithéa, Attica, Greece |
 | Category | DevOps Engineer |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125272539-requirements-mgmt-tools-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125332359-requirements-mgmt-tools-devops-engineer) |
 
 ## About This Role
 

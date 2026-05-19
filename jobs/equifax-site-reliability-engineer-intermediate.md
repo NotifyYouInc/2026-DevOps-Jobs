@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Site-Reliability-Engineer---Intermediate_J00176620) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Site-Reliability-Engineer---Intermediate_J00176972-1) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-06.
+This devops engineer position at Equifax was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

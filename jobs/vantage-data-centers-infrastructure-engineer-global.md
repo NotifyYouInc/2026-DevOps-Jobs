@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Singapore-Singapore/Infrastructure-Engineer--Global_R22894) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Singapore-Singapore/Infrastructure-Engineer--Global_R23002) |
 
 ## About This Role
 
-This it & systems administration position at Vantage Data Centers was posted on 2026-05-05.
+This it & systems administration position at Vantage Data Centers was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

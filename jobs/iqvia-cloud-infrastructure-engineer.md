@@ -1,16 +1,16 @@
-# Cloud & Infrastructure Engineer at IQVIA
+# Cloud & infrastructure Engineer at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Cloud---Infrastructure-Engineer_R1511336) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Cloud---infrastructure-Engineer_R1543988) |
 
 ## About This Role
 
-This devops engineer position at IQVIA was posted on 2026-04-28.
+This devops engineer position at IQVIA was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
