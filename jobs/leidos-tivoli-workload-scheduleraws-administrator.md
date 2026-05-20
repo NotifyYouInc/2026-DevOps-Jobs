@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Tivoli-Workload-Scheduler-AWS-Administrator_R-00178082-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Tivoli-Workload-Scheduler-AWS-Administrator_R-00182975) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-11.
+This devops engineer position at Leidos was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

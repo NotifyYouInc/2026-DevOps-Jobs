@@ -1,16 +1,16 @@
-#  Senior Site Reliability Engineer at Caterpillar
+# Senior Site Reliability Engineer at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/XMLNAME--Senior-Site-Reliability-Engineer_R0000363199) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Site-Reliability-Engineer_R0000368674) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-04-15.
+This devops engineer position at Caterpillar was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

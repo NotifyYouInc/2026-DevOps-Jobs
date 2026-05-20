@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Industrial Automation |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000121739403-junior-automation-engineer-t-cloud-public-ref5396k) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126066250-junior-automation-engineer-t-cloud-public-ref5396k) |
 
 ## About This Role
 
-This industrial automation position at Deutsche Telekom IT Solutions HU was posted on 2026-04-20.
+This industrial automation position at Deutsche Telekom IT Solutions HU was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

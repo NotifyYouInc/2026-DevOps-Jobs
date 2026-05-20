@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Santa Clarita, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---UT---Salt-Lake-City---777-N-5600-W/Automation-Engineer_R317505-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Santa-Clarita---21950-Needham-Ranch-Pkwy/Automation-Engineer_R319215) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-05-01.
+This industrial automation position at Cushman & Wakefield was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

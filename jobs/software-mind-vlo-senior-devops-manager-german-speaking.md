@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000125155694-vlo-senior-devops-manager-german-speaking) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000126029875-vlo-senior-devops-manager-german-speaking) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-05-07.
+This devops engineer position at Software Mind was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

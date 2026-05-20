@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Delaware, US |
+| Location | Dundalk, Leinster, Ireland |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Delaware---Millsboro-Intervet/Automation-Engineer_R388628-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Louth-County---Dundalk/Automation-Engineer_R396214-1) |
 
 ## About This Role
 
-This industrial automation position at Merck was posted on 2026-04-01.
+This industrial automation position at Merck was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

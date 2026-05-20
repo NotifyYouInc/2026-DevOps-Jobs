@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | Product Marketing |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000111633782-senior-messaging-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000126035679-senior-messaging-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This product marketing position at Tietoevry was posted on 2026-02-26.
+This product marketing position at Tietoevry was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

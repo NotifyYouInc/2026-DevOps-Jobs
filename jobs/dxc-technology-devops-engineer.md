@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/DevOps-Engineer_51578804) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/DevOps-Engineer_51580347) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-05-07.
+This devops engineer position at DXC Technology was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

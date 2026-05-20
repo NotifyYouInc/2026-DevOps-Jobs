@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Ireland-Office/Cloud-Infrastructure-Engineer_R0067605) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/DUBLIN--IRELAND/Cloud-Infrastructure-Engineer_R0070925) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-03-25.
+This devops engineer position at Global Payments was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

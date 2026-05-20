@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/SRE-specialist_R152151) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Montral-Quebec-CAN/SRE-specialist_R153185) |
 
 ## About This Role
 
-This devops engineer position at Intact was posted on 2026-03-05.
+This devops engineer position at Intact was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Azure DevOps Engineer at Assurant
+# Sr Azure DevOps Engineer at Assurant
 
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/United-States-Virtual/Sr-Azure-DevOps-Engineer_R-110696-2) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Sr-Azure-DevOps-Engineer_R-113782-2) |
 
 ## About This Role
 
-This devops engineer position at Assurant was posted on 2026-03-13.
+This devops engineer position at Assurant was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000124805700-senior-saas-operations-engineer-igt1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000125990279-senior-saas-operations-engineer-igt1) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-05-06.
+This devops engineer position at IFS was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

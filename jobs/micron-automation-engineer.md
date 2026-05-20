@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Automation-Engineer_JR90411) |
+| Category | Industrial Automation |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Automation-Engineer_JR100732) |
 
 ## About This Role
 
-This operations position at Micron was posted on 2026-02-06.
+This industrial automation position at Micron was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

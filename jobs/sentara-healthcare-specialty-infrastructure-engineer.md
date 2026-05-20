@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Virginia Beach, Virginia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Independence/Specialty-Infrastructure-Engineer_JR-97345-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Independence/Specialty-Infrastructure-Engineer_JR-98873-1) |
 
 ## About This Role
 
-This it & systems administration position at Sentara Healthcare was posted on 2026-04-13.
+This it & systems administration position at Sentara Healthcare was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

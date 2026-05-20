@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/SVK---Bratislava--Svatoplukova/Cloud-DevOps-Senior-Engineer_R0175067) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Cloud-DevOps-Senior-Engineer_R0179961) |
 
 ## About This Role
 
-This devops engineer position at Takeda was posted on 2026-03-02.
+This devops engineer position at Takeda was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Database Administration |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Software-Development---Engineering_R431692) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-2--Software-Development---Engineering_R420751) |
 
 ## About This Role
 
-This database administration position at Comcast was posted on 2026-03-18.
+This devops engineer position at Comcast was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

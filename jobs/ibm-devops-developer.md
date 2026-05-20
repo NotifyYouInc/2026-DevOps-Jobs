@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=104145) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114813) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-03-23.
+This devops engineer position at IBM was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

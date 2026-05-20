@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5526434-S2021342) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Cloud-Platform-Engineer_ATCI-5422645-S1972990-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-11.
+This devops engineer position at Accenture was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

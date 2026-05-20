@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Menlo Park, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/2339165513254915) |
+| Category | Robotics Engineer |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1483667029488801) |
 
 ## About This Role
 
-This frontend engineer position at Meta was posted on 2026-02-19.
+This robotics engineer position at Meta was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

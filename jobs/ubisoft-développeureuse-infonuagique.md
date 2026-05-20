@@ -1,16 +1,16 @@
-# Développeur·euse infonuagique at Ubisoft
+# Développeur·euse infonuagique  at Ubisoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000115879157-developpeureuse-infonuagique) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000126083766-developpeureuse-infonuagique) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-03-20.
+This devops engineer position at Ubisoft was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

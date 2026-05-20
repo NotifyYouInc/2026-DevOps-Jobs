@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000124804590-senior-devops-consultant) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126070129-senior-devops-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Endava was posted on 2026-05-06.
+This technology / it consulting position at Endava was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

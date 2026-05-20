@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Carolina, US |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/North-Carolina/Senior-Site-Reliability-Engineer-I_R111994) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Site-Reliability-Engineer-I_R112956) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-04-15.
+This devops engineer position at ChoicePoint was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

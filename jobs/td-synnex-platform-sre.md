@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Platform-SRE_R50868) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Platform-SRE_R50740) |
 
 ## About This Role
 
-This devops engineer position at TD Synnex was posted on 2026-05-08.
+This devops engineer position at TD Synnex was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013055616-devops-engineer-senior-principal-levels) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013065866-devops-engineer-senior-principal-levels) |
 
 ## About This Role
 
-This devops engineer position at Sectigo was posted on 2026-05-09.
+This devops engineer position at Sectigo was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

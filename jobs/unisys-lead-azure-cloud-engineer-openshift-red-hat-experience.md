@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mexico |
-| Category | Engineering Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Mexico/Lead-Azure-Cloud-Engineer---OpenShift-Red-Hat-Experience_REQ571181) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-Mexico/Lead-Azure-Cloud-Engineer---OpenShift-Red-Hat-Experience_REQ573052) |
 
 ## About This Role
 
-This engineering manager position at Unisys was posted on 2026-02-23.
+This devops engineer position at Unisys was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | Security Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000121121399-devsecops-engineer-hf-integration-continue-securite) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126097961-devsecops-engineer-hf-integration-continue-securite) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-04-16.
+This security engineer position at ALTEN was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

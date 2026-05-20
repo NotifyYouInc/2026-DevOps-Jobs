@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000123227715-senior-cloud-devops-engineer-hf) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126011779-senior-cloud-devops-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-04-27.
+This devops engineer position at Devoteam was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

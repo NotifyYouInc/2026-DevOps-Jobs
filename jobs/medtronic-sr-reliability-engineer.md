@@ -1,16 +1,16 @@
-# Sr. Reliability Engineer at Medtronic
+# Sr Reliability Engineer at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Minnesota, US |
-| Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Sr-Reliability-Engineer_R63095-1) |
+| Location | Plymouth, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Plymouth-Minnesota-United-States-of-America/Sr-Reliability-Engineer_R65768-1) |
 
 ## About This Role
 
-This engineering manager position at Medtronic was posted on 2026-04-06.
+This devops engineer position at Medtronic was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Platform Engineer  at Accenture Federal Services
+# Cloud Platform Engineer at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4680139006?gh_jid=4680139006) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4681156006?gh_jid=4681156006) |
 
 ## About This Role
 
-This devops engineer position at Accenture Federal Services was posted on 2026-05-08.
+This devops engineer position at Accenture Federal Services was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
