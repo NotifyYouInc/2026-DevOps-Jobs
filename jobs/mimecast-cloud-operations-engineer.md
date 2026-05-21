@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mimecast](https://scoutify.ai/companies/mimecast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/India---Bengaluru/Cloud-Operations-Engineer_R6304-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/Cloud-Operations-Engineer_R6296-1) |
 
 ## About This Role
 
-This devops engineer position at Mimecast was posted on 2026-04-02.
+This devops engineer position at Mimecast was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Florence, Alabama, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Automation-Engineer-I_J2447938-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Automation-Engineer-I_J2448652) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-04-28.
+This industrial automation position at Jabil was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

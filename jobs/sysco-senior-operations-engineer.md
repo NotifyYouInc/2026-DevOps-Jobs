@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Operations-Engineer_R242848) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Operations-Engineer_R250206) |
 
 ## About This Role
 
-This devops engineer position at Sysco was posted on 2026-03-17.
+This devops engineer position at Sysco was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

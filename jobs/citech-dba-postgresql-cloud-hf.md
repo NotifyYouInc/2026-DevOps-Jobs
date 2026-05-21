@@ -5,12 +5,12 @@
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lille, Hauts-de-France, France |
 | Category | Database Administration |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000122688704-dba-postgresql-cloud-hf) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000126241589-dba-postgresql-cloud-hf) |
 
 ## About This Role
 
-This database administration position at CITECH was posted on 2026-04-24.
+This database administration position at CITECH was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

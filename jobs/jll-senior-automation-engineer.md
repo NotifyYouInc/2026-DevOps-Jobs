@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Monee, Illinois, United States |
+| Location | Bondurant, Iowa, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Monee-IL/Senior-Automation-Engineer_REQ480337) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Senior-Automation-Engineer_REQ507325) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-05-01.
+This industrial automation position at JLL was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

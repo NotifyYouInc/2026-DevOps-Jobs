@@ -5,12 +5,12 @@
 | Company | [Resultant](https://scoutify.ai/companies/resultant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/resultant/744000125933719-gcp-cloud-engineer-management-and-operations-remote-in-us) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/resultant/744000126142876-gcp-cloud-engineer-management-and-operations-remote-in-us) |
 
 ## About This Role
 
-This devops engineer position at Resultant was posted on 2026-05-11.
+This devops engineer position at Resultant was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

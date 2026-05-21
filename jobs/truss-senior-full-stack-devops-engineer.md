@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truss](https://scoutify.ai/companies/truss?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-04-03 |
+| Location | California, US |
+| Category | DevOps Engineer |
+| Posted | 2026-05-13 |
 | Apply | [View on company site](https://www.ycombinator.com/companies/truss/jobs/rMqvcnc-senior-full-stack-devops-engineer) |
 
 ## About This Role
 
-This frontend engineer position at Truss was posted on 2026-04-03.
+This devops engineer position at Truss was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

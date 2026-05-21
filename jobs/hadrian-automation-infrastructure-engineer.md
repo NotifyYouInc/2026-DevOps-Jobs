@@ -5,12 +5,12 @@
 | Company | [Hadrian Automation](https://scoutify.ai/companies/hadrian-automation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2025-09-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/hadrian-automation/ee4d644f-ec7a-4c60-a74a-d56645857766) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hadrian-automation/e8c6948b-7047-4aa2-95bd-268b08bf3626) |
 
 ## About This Role
 
-This devops engineer position at Hadrian Automation was posted on 2025-09-30.
+This devops engineer position at Hadrian Automation was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense India](https://scoutify.ai/companies/alphasense-india?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8353185002) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasenseindia/jobs/8547399002) |
 
 ## About This Role
 
-This devops engineer position at AlphaSense India was posted on 2026-04-09.
+This devops engineer position at AlphaSense India was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

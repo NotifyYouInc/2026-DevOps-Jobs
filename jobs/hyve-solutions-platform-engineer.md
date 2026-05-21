@@ -5,12 +5,12 @@
 | Company | [Hyve Solutions](https://scoutify.ai/companies/hyve-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fremont, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Platform-Engineer_R47460) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/hyvecareers/job/Fremont-CA/Platform-Engineer_R51064) |
 
 ## About This Role
 
-This devops engineer position at Hyve Solutions was posted on 2026-02-11.
+This devops engineer position at Hyve Solutions was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

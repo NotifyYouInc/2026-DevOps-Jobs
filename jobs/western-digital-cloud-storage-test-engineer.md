@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rochester, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000125222606-cloud-storage-test-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126375711-cloud-storage-test-engineer) |
 
 ## About This Role
 
-This devops engineer position at Western Digital was posted on 2026-05-07.
+This devops engineer position at Western Digital was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

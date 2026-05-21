@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tietoevry](https://scoutify.ai/companies/tietoevry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Szczecin, West Pomerania, Poland |
+| Location | Wrocław, Lower Silesia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000125325549-junior-ci-devops-engineer-tieto-tech-consulting-mfd) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tietoevry1/744000126336450-junior-ci-devops-engineer-tieto-tech-consulting-mfd) |
 
 ## About This Role
 
-This devops engineer position at Tietoevry was posted on 2026-05-08.
+This devops engineer position at Tietoevry was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

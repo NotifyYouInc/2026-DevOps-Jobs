@@ -1,16 +1,16 @@
-# Market Risk Analyst-SRE at Barclays
+# Market Risk Analyst - SRE at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Whippany, New Jersey, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Market-Risk-Analyst-SRE_JR-0000104514) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Market-Risk-Analyst---SRE_JR-0000104516) |
 
 ## About This Role
 
-This it & systems administration position at Barclays was posted on 2026-05-11.
+This compliance & risk management position at Barclays was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

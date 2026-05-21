@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | 4 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/DevOps-Technology-Director_R-522275) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/DevOps-Technology-Director_R-545007) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-03-27.
+This engineering manager position at Wells Fargo was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

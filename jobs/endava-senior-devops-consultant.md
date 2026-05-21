@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Rosario, Santa Fe, Argentina |
 | Category | Technology / IT Consulting |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126070129-senior-devops-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126175759-senior-devops-consultant) |
 
 ## About This Role
 

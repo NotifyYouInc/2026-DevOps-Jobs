@@ -5,12 +5,12 @@
 | Company | [CyberSheath](https://scoutify.ai/companies/cybersheath?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/cybersheath/jobs/5215859008) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cybersheath/jobs/5217924008) |
 
 ## About This Role
 
-This devops engineer position at CyberSheath was posted on 2026-05-11.
+This devops engineer position at CyberSheath was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

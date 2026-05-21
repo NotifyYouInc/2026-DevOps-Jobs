@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000123868590-oracle-oic-software-engineer-analyst) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126275700-oracle-oic-software-engineer-analyst) |
 
 ## About This Role
 
-This devops engineer position at Mattel was posted on 2026-04-30.
+This devops engineer position at Mattel was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

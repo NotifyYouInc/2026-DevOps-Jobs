@@ -1,16 +1,16 @@
-# Cloud Platform Engineer at bet365
+# Cloud Platform Engineer  at bet365
 
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000120932103-cloud-platform-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000126251749-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at bet365 was posted on 2026-04-15.
+This devops engineer position at bet365 was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

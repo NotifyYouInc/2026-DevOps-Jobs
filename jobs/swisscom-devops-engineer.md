@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Olten, Solothurn, Switzerland |
+| Location | Bern, Bern, Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Olten/DevOps-Engineer_R-0005409) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/DevOps-Engineer_R-0005544) |
 
 ## About This Role
 
-This devops engineer position at Swisscom was posted on 2026-05-05.
+This devops engineer position at Swisscom was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

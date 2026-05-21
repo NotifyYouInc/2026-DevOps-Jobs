@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8508810002) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8548078002) |
 
 ## About This Role
 
-This devops engineer position at Recorded Future was posted on 2026-04-22.
+This devops engineer position at Recorded Future was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

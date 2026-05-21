@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000112669182-cloud-operations-engineer-paid-internship) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126468765-cloud-operations-engineer-paid-internship) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-04.
+This devops engineer position at Devoteam was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

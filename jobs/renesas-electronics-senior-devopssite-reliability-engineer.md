@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Katowice, Silesia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000122698160-senior-devopssite-reliability-engineer) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126277625-senior-devopssite-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-04-24.
+This devops engineer position at Renesas Electronics was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

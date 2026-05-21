@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Budapest---ZDI/Site-Reliability-Engineer_JR_1047461-3) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Site-Reliability-Engineer_JR_1049530) |
 
 ## About This Role
 
-This devops engineer position at Zeiss was posted on 2026-02-19.
+This devops engineer position at Zeiss was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
