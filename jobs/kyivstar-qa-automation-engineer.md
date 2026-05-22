@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kyivstar](https://scoutify.ai/companies/kyivstar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.lever.co/kyivstar/8d7f6cee-1636-4771-bb4f-72ed17edd908) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.lever.co/kyivstar/a683cf0b-1ba8-405a-a1cf-4b5f305f2270) |
 
 ## About This Role
 
-This devops engineer position at Kyivstar was posted on 2026-04-01.
+This devops engineer position at Kyivstar was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

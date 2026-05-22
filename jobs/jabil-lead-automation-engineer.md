@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | Richardson, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Lead-Automation-Engineer_J2447904) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Lead-Automation-Engineer_J2449819) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-04-27.
+This industrial automation position at Jabil was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

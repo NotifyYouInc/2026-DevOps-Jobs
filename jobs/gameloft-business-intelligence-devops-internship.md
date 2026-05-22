@@ -5,12 +5,12 @@
 | Company | [Gameloft](https://scoutify.ai/companies/gameloft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000125321779-business-intelligence-devops-internship) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gameloft/744000126491441-business-intelligence-devops-internship) |
 
 ## About This Role
 
-This devops engineer position at Gameloft was posted on 2026-05-08.
+This devops engineer position at Gameloft was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

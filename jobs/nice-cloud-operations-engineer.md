@@ -1,16 +1,16 @@
-# Cloud Operations Engineer at NiCE
+# Cloud Operations Engineer  at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Southampton, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4864500101?gh_jid=4864500101) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4861487101?gh_jid=4861487101) |
 
 ## About This Role
 
-This devops engineer position at NiCE was posted on 2026-05-12.
+This devops engineer position at NiCE was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

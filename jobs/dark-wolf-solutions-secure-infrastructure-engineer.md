@@ -5,12 +5,12 @@
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | Security Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7621079003) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7734818003) |
 
 ## About This Role
 
-This security engineer position at Dark Wolf Solutions was posted on 2026-03-27.
+This security engineer position at Dark Wolf Solutions was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

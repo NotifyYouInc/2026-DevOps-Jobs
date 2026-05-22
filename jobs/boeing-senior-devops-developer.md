@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seal Beach, California, United States |
-| Category | Database Administration |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Senior-DevOps-Developer_JR2026500120-1) |
+| Location | 12 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Senior-DevOps-Developer_JR2026509154) |
 
 ## About This Role
 
-This database administration position at Boeing was posted on 2026-03-10.
+This devops engineer position at Boeing was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

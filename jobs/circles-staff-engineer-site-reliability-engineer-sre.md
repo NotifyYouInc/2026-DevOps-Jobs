@@ -5,12 +5,12 @@
 | Company | [Circles](https://scoutify.ai/companies/circles?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/India/Staff-Engineer--Site-Reliability-Engineer--SRE-_R-100307) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://circles.wd103.myworkdayjobs.com/circles/job/India/Staff-Engineer--Site-Reliability-Engineer--SRE-_R-100323) |
 
 ## About This Role
 
-This devops engineer position at Circles was posted on 2026-05-08.
+This devops engineer position at Circles was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

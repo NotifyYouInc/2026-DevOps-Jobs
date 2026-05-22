@@ -5,12 +5,12 @@
 | Company | [66degrees](https://scoutify.ai/companies/66degrees?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5849265004) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/66degrees/jobs/5996374004) |
 
 ## About This Role
 
-This devops engineer position at 66degrees was posted on 2026-04-06.
+This devops engineer position at 66degrees was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

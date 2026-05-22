@@ -5,12 +5,12 @@
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taylor, Michigan, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990012834706-jr-unix-linux-system-engineer-korean-bilingual) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013137796-jr-unix-linux-system-engineer-korean-bilingual) |
 
 ## About This Role
 
-This devops engineer position at SBT Global, Inc. was posted on 2026-04-27.
+This devops engineer position at SBT Global, Inc. was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

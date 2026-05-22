@@ -1,16 +1,16 @@
-# Automation engineer at Qnity
+# Automation Engineer at Qnity
 
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Shenzhen, Guangdong, China |
+| Location | Tianjin, CN |
 | Category | Industrial Automation |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Shenzhen-Guangdong/Automation-engineer_251149W) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Binhai-Tianjin/Automation-Engineer_251275W) |
 
 ## About This Role
 
-This industrial automation position at Qnity was posted on 2026-05-07.
+This industrial automation position at Qnity was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

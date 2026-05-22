@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Platform-Engineering_R-273174-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | DevOps Engineer |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Director--Platform-Engineering_R-277375-1) |
 
 ## About This Role
 
-This engineering manager position at Mastercard was posted on 2026-04-03.
+This devops engineer position at Mastercard was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

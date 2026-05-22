@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126275700-oracle-oic-software-engineer-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126287579-oracle-oic-software-engineer-analyst) |
 
 ## About This Role
 

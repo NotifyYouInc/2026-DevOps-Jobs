@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/New-York-1/Principal-Site-Reliability-Engineer_R-055368) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Principal-Site-Reliability-Engineer_R-052186-1) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-02-25.
+This devops engineer position at Red Hat was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

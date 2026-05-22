@@ -6,7 +6,7 @@
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000126234539-senior-qa-automation-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000126329429-senior-qa-automation-engineer) |
 
 ## About This Role
 

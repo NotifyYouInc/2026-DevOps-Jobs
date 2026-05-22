@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Identity---Cloud-Engineer--Multi-Cloud-Expertise-_38283) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Identity---Cloud-Engineer--Multi-Cloud-Expertise-_39382) |
 
 ## About This Role
 
-This security engineer position at Guidehouse was posted on 2026-04-17.
+This security engineer position at Guidehouse was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

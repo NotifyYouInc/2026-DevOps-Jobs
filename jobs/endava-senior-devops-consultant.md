@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rosario, Santa Fe, Argentina |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126175759-senior-devops-consultant) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126358239-senior-devops-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Endava was posted on 2026-05-12.
+This technology / it consulting position at Endava was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

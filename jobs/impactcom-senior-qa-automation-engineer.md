@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Impact.com](https://scoutify.ai/companies/impact-com?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
+| Location | Victoria, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8458983002) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impact/jobs/8504180002) |
 
 ## About This Role
 
-This devops engineer position at Impact.com was posted on 2026-03-27.
+This devops engineer position at Impact.com was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
