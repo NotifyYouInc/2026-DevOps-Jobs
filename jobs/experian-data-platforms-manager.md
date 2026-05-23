@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123848970-data-platforms-manager) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126644319-data-platforms-manager) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-04-30.
+This devops engineer position at Experian was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santa Clarita, California, United States |
+| Location | Sacramento, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Santa-Clarita---21950-Needham-Ranch-Pkwy/Automation-Engineer_R319215) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Sacramento---4900-West-Elkhorn-Blvd/Automation-Engineer_R318362-1) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-05-12.
+This industrial automation position at Cushman & Wakefield was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

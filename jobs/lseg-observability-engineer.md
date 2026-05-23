@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Observability-Engineer_R0118068) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Observability-Engineer_R0118816) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-03-19.
+This devops engineer position at LSEG was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

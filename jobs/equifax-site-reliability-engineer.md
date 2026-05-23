@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Pune-Equifax-Analytics-PEC/Site-Reliability-Engineer_J00176837) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS-Sydney-Blue-Street/Site-Reliability-Engineer_J00175381) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-13.
+This devops engineer position at Equifax was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

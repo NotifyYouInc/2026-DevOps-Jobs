@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York, US |
+| Location | Farmingdale, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Senior-DevSecOps-Software-Engineer_R14940) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Farmingdale-NY/Senior-DevSecOps-Software-Engineer_R16093) |
 
 ## About This Role
 
-This devops engineer position at TTM Technologies was posted on 2026-03-09.
+This devops engineer position at TTM Technologies was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Azure-Cloud-Engineer_R-00180395) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Azure-Cloud-Engineer_R-00183453) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-10.
+This devops engineer position at Leidos was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

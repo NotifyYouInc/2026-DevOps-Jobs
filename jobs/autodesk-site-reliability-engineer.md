@@ -5,12 +5,12 @@
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Site-Reliability-Engineer_26WD96546-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Site-Reliability-Engineer_26WD98218-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-03-25.
+This devops engineer position at Autodesk was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico |
+| Location | 2 locations |
 | Category | Industrial Automation |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Senior-Automation-Engineer_JR00028520) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Senior-Automation-Engineer_JR00034214) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-03-19.
+This industrial automation position at ABB was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

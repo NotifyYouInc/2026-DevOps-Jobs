@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Infrastructure-Engineer_14378519) |
+| Location | Hyderabad, Telangana, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Infrastructure-Engineer_ATCI-5560640-S2023807-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-13.
+This it & systems administration position at Accenture was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SupplyHouse.com](https://scoutify.ai/companies/supplyhouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/supplyhouse/jobs/5746278004?gh_jid=5746278004) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/supplyhouse/jobs/5989866004?gh_jid=5989866004) |
 
 ## About This Role
 
-This devops engineer position at SupplyHouse.com was posted on 2026-02-19.
+This devops engineer position at SupplyHouse.com was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

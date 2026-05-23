@@ -5,12 +5,12 @@
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8515065002) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8537146002) |
 
 ## About This Role
 
-This devops engineer position at WPP was posted on 2026-05-11.
+This devops engineer position at WPP was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

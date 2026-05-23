@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Lappeenranta, South Karelia, Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4757015101) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4829432101) |
 
 ## About This Role
 
-This devops engineer position at Nebius was posted on 2026-03-04.
+This devops engineer position at Nebius was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
