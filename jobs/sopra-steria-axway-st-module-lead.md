@@ -1,16 +1,16 @@
-# Manufacturing Quality and Reliability Engineer at Intel
+# Axway ST Module Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Manufacturing-Quality-and-Reliability-Engineer_JR0284124) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000126919219-axway-st-module-lead) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-05-18.
+This devops engineer position at Sopra Steria was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

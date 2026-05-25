@@ -1,16 +1,16 @@
-# .Net Developer + DevOps Engineer Experience at Robert Bosch
+# Senior HPC DevOps Engineer at Nvidia
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126862698-net-developer-devops-engineer-experience) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-HPC-DevOps-Engineer_JR2008959) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-17.
+This devops engineer position at Nvidia was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

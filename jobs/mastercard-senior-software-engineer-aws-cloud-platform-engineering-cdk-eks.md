@@ -1,12 +1,12 @@
-# Lead Engineer, Site Reliability Engineering at Mastercard
+# Senior Software Engineer (AWS Cloud, Platform Engineering, CDK, EKS) at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-Engineer--Site-Reliability-Engineering_R-273846) |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Software-Engineer--AWS-Cloud--Platform-Engineering--CDK--EKS-_R-278194) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# DevOps Engineer at Citigroup
+# Devops Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/DevOps-Engineer_26960843) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Devops-Engineer_26962334) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-05-14.
+This devops engineer position at Citigroup was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

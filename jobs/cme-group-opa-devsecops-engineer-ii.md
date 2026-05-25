@@ -1,16 +1,16 @@
-# Manufacturing Quality and Reliability Engineer at Intel
+# OPA DevSecOps Engineer II at CME Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Manufacturing-Quality-and-Reliability-Engineer_JR0284124) |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/OPA-DevSecOps-Engineer-II_34396-1) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-05-18.
+This devops engineer position at CME Group was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

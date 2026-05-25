@@ -1,16 +1,16 @@
-# Site Reliability Engineer at IFS
+# Site Reliability Engineer  at IFS
 
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000112183077-site-reliability-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000126917249-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-03-02.
+This devops engineer position at IFS was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

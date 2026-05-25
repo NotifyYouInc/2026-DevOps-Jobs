@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Site Reliability Engineer at Kaseya
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Visakhapatnam, Andhra Pradesh, India |
-| Category | Technology / IT Consulting |
+| Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109699) |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5976107004/?gh_jid=5976107004) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-18.
+This devops engineer position at Kaseya was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

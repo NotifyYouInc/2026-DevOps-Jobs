@@ -1,16 +1,16 @@
-# Application Consultant-DevOps at IBM
+# Staff Site Reliability Engineer I at Remote
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Visakhapatnam, Andhra Pradesh, India |
-| Category | Technology / IT Consulting |
+| Company | [Remote](https://scoutify.ai/companies/remote?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
+| Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109699) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/remotecom/jobs/7724699003) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-05-18.
+This devops engineer position at Remote was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

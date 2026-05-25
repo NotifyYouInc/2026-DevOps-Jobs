@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Tijuana, Baja California, Mexico |
 | Category | Industrial Automation |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Suzhou/Automation-Engineer_WD221058) |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Tijuana/Automation-Engineer_WD220548) |
 
 ## About This Role
 

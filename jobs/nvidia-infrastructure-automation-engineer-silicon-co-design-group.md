@@ -1,16 +1,16 @@
-# DevOps Engineer, DOCA at Nvidia
+# Infrastructure Automation Engineer - Silicon Co-Design Group at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tel Aviv, Tel Aviv, Israel |
-| Category | DevOps Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/DevOps-Engineer--DOCA_JR2017774) |
+| Location | Shanghai, Shanghai, China |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Infrastructure-Automation-Engineer---Silicon-Co-Design-Group_JR2018196) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-05-17.
+This semiconductor / chip design position at Nvidia was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

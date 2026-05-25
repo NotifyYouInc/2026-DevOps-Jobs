@@ -1,16 +1,16 @@
-# Manufacturing Quality and Reliability Engineer at Intel
+# Middleware Engineer, Generalist at Unity Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | DevOps Engineer |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Manufacturing-Quality-and-Reliability-Engineer_JR0284124) |
+| Apply | [View on company site](https://unity.com/careers/positions/7821677?gh_jid=7821677) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-05-18.
+This devops engineer position at Unity Technologies was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

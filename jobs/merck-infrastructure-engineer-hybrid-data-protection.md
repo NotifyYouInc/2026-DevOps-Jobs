@@ -1,16 +1,16 @@
-# IN-Sr Associate_Azure Devops _Data & Analytics _Advisory _PAN India at PwC
+# Infrastructure Engineer, Hybrid Data Protection at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Hyderabad---Salarpuria/IN-Sr-Associate-Azure-Devops--Data---Analytics--Advisory--PAN-India_716723WD-1) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Infrastructure-Engineer--Hybrid-Data-Protection_R396936-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-05-17.
+This devops engineer position at Merck was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 
