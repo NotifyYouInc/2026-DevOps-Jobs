@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000116989759-linux-systems-administrator) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000126946399-linux-systems-administrator) |
 
 ## About This Role
 
-This it & systems administration position at Ubisoft was posted on 2026-03-26.
+This it & systems administration position at Ubisoft was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

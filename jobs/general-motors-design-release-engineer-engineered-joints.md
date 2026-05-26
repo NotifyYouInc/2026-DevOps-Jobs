@@ -1,4 +1,4 @@
-# Design Release Engineer – Engineered Joints at General Motors
+# Design Release Engineer - Engineered Joints at General Motors
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Warren, Michigan, United States |
 | Category | Engineering Manager |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Engineered-Joints_JR-202610540) |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Engineered-Joints_JR-202610541) |
 
 ## About This Role
 

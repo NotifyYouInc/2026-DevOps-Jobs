@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raft Company Website](https://scoutify.ai/companies/raft-company-website?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Schofield Barracks, Hawaii, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/5968743004) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/5996858004) |
 
 ## About This Role
 
-This devops engineer position at Raft Company Website was posted on 2026-05-13.
+This devops engineer position at Raft Company Website was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

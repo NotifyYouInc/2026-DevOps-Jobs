@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Location | India |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Place-and-Route-Design-Automation-Engineer_R02077) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Regus-Madhapur/Place-and-Route-Design-Automation-Engineer_R02488) |
 
 ## About This Role
 
-This semiconductor / chip design position at Altera Corporation was posted on 2026-02-24.
+This semiconductor / chip design position at Altera Corporation was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

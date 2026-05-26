@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flow Traders](https://scoutify.ai/companies/flowtraders?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7094380) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flowtraders/jobs/7940248) |
 
 ## About This Role
 
-This devops engineer position at Flow Traders was posted on 2026-03-31.
+This devops engineer position at Flow Traders was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

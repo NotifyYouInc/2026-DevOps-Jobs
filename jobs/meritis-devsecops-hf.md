@@ -1,16 +1,16 @@
-# DevSecops (H/F) at Meritis
+# DevSecOps (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | Security Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000111056405-devsecops-hf) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000126955913-devsecops-hf) |
 
 ## About This Role
 
-This security engineer position at Meritis was posted on 2026-02-24.
+This security engineer position at Meritis was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Huesca, Aragon, Spain |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Huesca-Huesca/Automation-Engineer_JR-195922-1) |
+| Location | 2 locations |
+| Category | Industrial Automation |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Huesca-Huesca/Automation-Engineer_JR-202295-1) |
 
 ## About This Role
 
-This software engineer position at Baxter International was posted on 2026-02-05.
+This industrial automation position at Baxter International was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

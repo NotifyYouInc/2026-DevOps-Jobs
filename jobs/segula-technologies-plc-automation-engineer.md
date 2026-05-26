@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wolverhampton, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000122711169-plc-automation-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000126956009-plc-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at SEGULA Technologies was posted on 2026-04-24.
+This industrial automation position at SEGULA Technologies was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

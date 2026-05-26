@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hildesheim, Lower Saxony, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126061490-working-student-system-team-dev-data-ops-tools-and-infrastructure-fmdiv) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127006652-working-student-system-team-dev-data-ops-tools-and-infrastructure-fmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-12.
+This devops engineer position at Robert Bosch was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

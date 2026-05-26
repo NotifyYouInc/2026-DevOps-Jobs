@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Parsippany, New Jersey, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Parsippany/Automation-Engineer_R5034921-2) |
+| Location | Bangor, Maine, United States |
+| Category | Industrial Automation |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bangor/Automation-Engineer_R5042071) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-03-13.
+This industrial automation position at GE Vernova was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

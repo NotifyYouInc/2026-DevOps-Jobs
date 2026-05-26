@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000119903749-senior-devops-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000127078438-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Blend360 was posted on 2026-04-10.
+This devops engineer position at Blend360 was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

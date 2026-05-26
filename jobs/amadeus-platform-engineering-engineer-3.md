@@ -5,12 +5,12 @@
 | Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Platform-Engineering-Engineer-3_R34992) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Bangalore/Platform-Engineering-Engineer-3_R35127-1) |
 
 ## About This Role
 
-This devops engineer position at Amadeus was posted on 2026-05-11.
+This devops engineer position at Amadeus was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

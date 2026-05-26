@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Infrastructure-Engineer---File-Transfer-Operations-Support---L2_R-525891) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Infrastructure-Engineer---File-Transfer-Operations-Support---L2_R-545437) |
 
 ## About This Role
 
-This engineering manager position at Wells Fargo was posted on 2026-03-04.
+This devops engineer position at Wells Fargo was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

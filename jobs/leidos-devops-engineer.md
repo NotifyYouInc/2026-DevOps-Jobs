@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/DevOps-Engineer_R-00183280) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/5021-Beer-Sheva-Israel-Home-Office/DevOps_R-00183450) |
 
 ## About This Role
 

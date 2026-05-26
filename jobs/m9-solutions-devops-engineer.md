@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M9 Solutions](https://scoutify.ai/companies/m9-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5130252007) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/m9solutions/jobs/5049665007) |
 
 ## About This Role
 
-This devops engineer position at M9 Solutions was posted on 2026-05-06.
+This devops engineer position at M9 Solutions was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

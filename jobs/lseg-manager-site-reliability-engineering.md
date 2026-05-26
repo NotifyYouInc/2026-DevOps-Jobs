@@ -1,16 +1,16 @@
-# Manager – Site Reliability Engineering at LSEG
+# Manager, Site Reliability Engineering at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Manager---Site-Reliability-Engineering_R0115736-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Manager--Site-Reliability-Engineering_R0119019-1) |
 
 ## About This Role
 
-This engineering manager position at LSEG was posted on 2026-03-02.
+This engineering manager position at LSEG was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

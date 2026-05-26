@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000107551315-automation-engineer) |
+| Category | Industrial Automation |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000127128579-automation-engineer) |
 
 ## About This Role
 
-This software engineer position at Syntegon Technology was posted on 2026-02-05.
+This industrial automation position at Syntegon Technology was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

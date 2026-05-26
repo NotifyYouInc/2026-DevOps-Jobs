@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Singapore, Singapore |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7694200?gh_jid=7694200) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7907830?gh_jid=7907830) |
 
 ## About This Role
 
-This technical support engineer position at Thoughtworks was posted on 2026-03-13.
+This technical support engineer position at Thoughtworks was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

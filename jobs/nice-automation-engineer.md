@@ -1,16 +1,16 @@
-# Automation Engineer at NiCE
+# Automation Engineer  at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Sandy, Utah, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4805849101?gh_jid=4805849101) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4867027101?gh_jid=4867027101) |
 
 ## About This Role
 
-This industrial automation position at NiCE was posted on 2026-03-18.
+This industrial automation position at NiCE was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

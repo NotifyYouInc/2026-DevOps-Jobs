@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ocorian](https://scoutify.ai/companies/ocorian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mauritius |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000111363956-cloud-platform-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ocorian/744000127027249-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Ocorian was posted on 2026-02-25.
+This devops engineer position at Ocorian was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

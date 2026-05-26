@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toluca, México, Mexico |
+| Location | Warren, Michigan, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Toluca-Mexico-Mexico/Design-Release-Engineer_JR-202603885) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer_JR-202609358-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Motors was posted on 2026-02-23.
+This electrical / hardware engineer position at General Motors was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
