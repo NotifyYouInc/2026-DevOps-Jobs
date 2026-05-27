@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Principal--Disaster-Recovery-Engineer_R154793) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Principal--Disaster-Recovery-Engineer_R154788) |
 
 ## About This Role
 
-This devops engineer position at Northern Trust was posted on 2026-05-15.
+This devops engineer position at Northern Trust was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Florida, US |
 | Category | Database Administration |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/GBR-Belfast---Maysfield/Database-SRE-Intern_R1719521) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-FL-Work-at-Home/Database-SRE-Intern_R1730228) |
 
 ## About This Role
 
-This database administration position at Concentrix was posted on 2026-05-14.
+This database administration position at Concentrix was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

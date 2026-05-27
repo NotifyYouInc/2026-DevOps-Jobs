@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000120467967-senior-devsecops-engineer-pay-it-all-genders) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000127157300-senior-devsecops-engineer-pay-it-all-genders) |
 
 ## About This Role
 
-This security engineer position at About You was posted on 2026-04-13.
+This security engineer position at About You was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 6 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdcDanm0E2AfL4ipkdMxbBHYmI7w8KFygsHnqFgdPcu5EjsACxwdTJ0kQhhvleU5dkF4vnR6AEvi4tCcGUB1YOGF9l73Kd5Fjn6BOqbRJK2vs_6fvUfNbgcu-l0Lag%3D%3D_V2&loc=US&title=Senior+Software+Engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVDM7bibZ3XXp4EnY9Lh2H1WPsRGnQiNkRhdUBXrRrpxEjsACxwdTFL2dw-KkcljUuN4JrzqhCWTvo3d74xXu9PRQ1eq3VWZsRP761nCefRk3o4bbmZS8RfWIeqz8w%3D%3D_V2&loc=PL&title=Senior+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-01.
+This devops engineer position at Google was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DevOps Engineer  at Robert Bosch
+# DevOps Engineer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Tranås, Jönköping, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000123664169-devops-engineer) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127183389-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-04-29.
+This devops engineer position at Robert Bosch was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

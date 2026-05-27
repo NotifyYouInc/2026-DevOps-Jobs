@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Infra-Tech-Support-Practitioner_ATCI-5416298-S2024093-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Infra-Tech-Support-Practitioner_ATCI-5565760-S2024768-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-18.
+This it & systems administration position at Accenture was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

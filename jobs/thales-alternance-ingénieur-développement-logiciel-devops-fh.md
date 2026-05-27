@@ -1,16 +1,16 @@
-# ALTERNANCE - Ingénieur développement logiciel DevOps - F/H at Thales
+# ALTERNANCE – Ingénieur développement logiciel & DevOps - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cholet, Pays de la Loire, France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cholet-2/ALTERNANCE---Ingnieur-dveloppement-logiciel-DevOps---F-H_R0323354-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/ALTERNANCE---Ingnieur-dveloppement-logiciel---DevOps---F-H_R0324896-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-04-10.
+This devops engineer position at Thales was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

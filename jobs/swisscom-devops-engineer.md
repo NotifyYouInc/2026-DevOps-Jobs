@@ -5,12 +5,12 @@
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bern, Bern, Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/DevOps-Engineer_R-0005544) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/DevOps-Engineer_R-0005214-1) |
 
 ## About This Role
 
-This devops engineer position at Swisscom was posted on 2026-05-13.
+This devops engineer position at Swisscom was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

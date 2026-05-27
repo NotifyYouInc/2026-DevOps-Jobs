@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Canberra-Australian-Capital-Territory-Australia/Senior-Network-Infrastructure-Engineer_R2121436-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sydney-New-South-Wales-Australia/Senior-Network-Infrastructure-Engineer_R2123464-1) |
 
 ## About This Role
 
-This it & systems administration position at KBR was posted on 2026-05-17.
+This it & systems administration position at KBR was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

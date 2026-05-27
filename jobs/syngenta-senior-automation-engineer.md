@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Illinois, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000112974816-senior-automation-engineer) |
+| Location | Malta, Montana, United States |
+| Category | Robotics Engineer |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127234940-senior-automation-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Syngenta was posted on 2026-03-05.
+This robotics engineer position at Syngenta was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

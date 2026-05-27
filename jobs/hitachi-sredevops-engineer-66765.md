@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/SRE-DevOps-Engineer----66765_R0129205) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/SRE-DevOps-Engineer----66765_R0131336) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-05-15.
+This devops engineer position at Hitachi was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

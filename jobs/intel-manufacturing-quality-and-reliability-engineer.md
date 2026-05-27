@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Location | Chengdu, Sichuan, China |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Manufacturing-Quality-and-Reliability-Engineer_JR0284124) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/PRC-Chengdu/Manufacturing-Quality-and-Reliability-Engineer_JR0284126) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-05-18.
+This devops engineer position at Intel was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

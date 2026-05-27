@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Radiance Technologies](https://scoutify.ai/companies/radiancetech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/All-Remote-Locations/Cloud-Infrastructure-Engineer_HR102041) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/All-Remote-Locations/Cloud-Infrastructure-Engineer_HR102201) |
 
 ## About This Role
 
-This devops engineer position at Radiance Technologies was posted on 2026-03-10.
+This devops engineer position at Radiance Technologies was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

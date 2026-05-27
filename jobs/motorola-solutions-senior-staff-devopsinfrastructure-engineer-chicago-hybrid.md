@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Staff-DevOps-Infrastructure-Engineer--Chicago-Hybrid-_R62846) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Staff-DevOps-Infrastructure-Engineer--Chicago-Hybrid-_R65121) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-04-03.
+This devops engineer position at Motorola Solutions was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

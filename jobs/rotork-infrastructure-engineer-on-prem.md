@@ -5,12 +5,12 @@
 | Company | [Rotork](https://scoutify.ai/companies/rotork?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000109735436-infrastructure-engineer-on-prem) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Rotork1/744000127162719-infrastructure-engineer-on-prem) |
 
 ## About This Role
 
-This it & systems administration position at Rotork was posted on 2026-02-17.
+This it & systems administration position at Rotork was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

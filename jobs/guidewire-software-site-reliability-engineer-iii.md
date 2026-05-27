@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidewire Software](https://scoutify.ai/companies/guidewire-software?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/Ireland---Dublin/Site-Reliability-Engineer-III_JR_14735) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://guidewire.wd5.myworkdayjobs.com/external/job/India---Bangalore/Site-Reliability-Engineer-III_JR_14806) |
 
 ## About This Role
 
-This devops engineer position at Guidewire Software was posted on 2026-04-23.
+This devops engineer position at Guidewire Software was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

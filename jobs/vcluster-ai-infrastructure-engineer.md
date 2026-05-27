@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vcluster](https://scoutify.ai/companies/vcluster?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/19a7f22e-ee7d-419b-bc9e-e2fa61dff2d1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/vcluster/f817dd6d-b692-40eb-9d8d-63ae344c43e7) |
 
 ## About This Role
 
-This devops engineer position at Vcluster was posted on 2026-03-30.
+This devops engineer position at Vcluster was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

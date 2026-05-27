@@ -6,7 +6,7 @@
 | Location | Wolverhampton, England, United Kingdom |
 | Category | Industrial Automation |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000126956009-plc-automation-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000126995039-plc-automation-engineer) |
 
 ## About This Role
 

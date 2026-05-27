@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Airspace Intelligence](https://scoutify.ai/companies/airspace-intelligence.com?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hawaii, US |
+| Company | [Airspace Intelligence](https://scoutify.ai/companies/airspace-intelligence?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2023-08-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airspace-intelligence.com/a73e0881-ee54-4cfb-90d6-89e35d0770a9) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airspace-intelligence.com/d65c0e46-21cd-48ef-8e8e-755d08dd5bae) |
 
 ## About This Role
 
-This devops engineer position at Airspace Intelligence was posted on 2023-08-15.
+This devops engineer position at Airspace Intelligence was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

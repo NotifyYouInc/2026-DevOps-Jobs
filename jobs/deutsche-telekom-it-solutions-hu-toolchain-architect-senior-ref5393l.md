@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000126686349-toolchain-architect-senior-ref5393l) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000127204569-toolchain-architect-senior-ref5393l) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-05-15.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

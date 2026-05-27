@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Sr-Site-Reliability-Engineer_JR107458-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Sr-Site-Reliability-Engineer_JR107986) |
 
 ## About This Role
 
-This devops engineer position at Sabre was posted on 2026-03-18.
+This devops engineer position at Sabre was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
