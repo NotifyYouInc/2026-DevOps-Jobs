@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenAI](https://scoutify.ai/companies/openai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/openai/3544fb7b-669b-43e3-8828-94972620bac7) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/openai/af431679-3d98-47a4-9a70-52edbb4c491d) |
 
 ## About This Role
 
-This devops engineer position at OpenAI was posted on 2026-04-15.
+This devops engineer position at OpenAI was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Specialist, Cloud Services at PTC
+# Specialist - Cloud Services at PTC
 
 | Field | Details |
 |-------|---------|
 | Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Specialist--Cloud-Services_JR111993) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/Specialist---Cloud-Services_JR112237) |
 
 ## About This Role
 
-This devops engineer position at PTC was posted on 2026-05-07.
+This devops engineer position at PTC was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

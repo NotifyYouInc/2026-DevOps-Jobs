@@ -1,16 +1,16 @@
-# Senior - DevOps Engineer at PwC
+# Senior DevOps Engineer at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Athens, Attica, Greece |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Senior---DevOps-Engineer_724532WD) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Athens/Senior-DevOps-Engineer_730631WD) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-04-27.
+This devops engineer position at PwC was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

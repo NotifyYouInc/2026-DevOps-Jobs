@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Hanover, Maryland, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Software-Engineer_R0155507) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-MD-Hanover/Software-Engineer_R0161774) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-03-02.
+This devops engineer position at Amentum was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

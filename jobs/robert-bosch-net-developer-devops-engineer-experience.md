@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126862698-net-developer-devops-engineer-experience) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127395728-net-developer-devops-engineer-experience) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-17.
+This devops engineer position at Robert Bosch was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

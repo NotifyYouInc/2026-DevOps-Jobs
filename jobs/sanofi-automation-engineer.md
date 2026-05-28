@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Miskolc, Borsod-Abaúj-Zemplén, Hungary |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Miskolc/Automation-Engineer_R2851255) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/Automation-Engineer_R2844643-1) |
 
 ## About This Role
 
-This industrial automation position at Sanofi was posted on 2026-04-24.
+This industrial automation position at Sanofi was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

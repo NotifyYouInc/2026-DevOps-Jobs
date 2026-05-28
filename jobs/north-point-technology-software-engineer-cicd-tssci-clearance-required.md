@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | King of Prussia, Pennsylvania, United States |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8425830002) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8174204002) |
 
 ## About This Role
 
-This devops engineer position at North Point Technology was posted on 2026-02-17.
+This devops engineer position at North Point Technology was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

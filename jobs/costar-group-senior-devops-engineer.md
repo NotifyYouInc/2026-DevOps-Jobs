@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Irvine, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Sydney/Senior-DevOps-Engineer_R38359) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Orange-County---CA/Senior-DevOps-Engineer_R38973) |
 
 ## About This Role
 
-This devops engineer position at CoStar Group was posted on 2026-03-01.
+This devops engineer position at CoStar Group was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Alpharetta-Georgia/Senior-System-Engineering_R-101541) |
+| Location | Plano, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Senior-System-Engineering_R-110222) |
 
 ## About This Role
 
-This technical writer position at AT&T was posted on 2026-03-05.
+This devops engineer position at AT&T was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

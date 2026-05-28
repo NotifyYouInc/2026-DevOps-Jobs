@@ -1,16 +1,16 @@
-# Senior Engineer-DevOps at dunnhumby
+# Senior Engineer - Devops  at dunnhumby
 
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7672681003) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7741396003) |
 
 ## About This Role
 
-This devops engineer position at dunnhumby was posted on 2026-04-03.
+This devops engineer position at dunnhumby was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

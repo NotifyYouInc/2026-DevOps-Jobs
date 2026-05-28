@@ -5,12 +5,12 @@
 | Company | [Varda](https://scoutify.ai/companies/vardaspace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7719010003) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vardaspace/jobs/7742305003) |
 
 ## About This Role
 
-This engineering manager position at Varda was posted on 2026-04-28.
+This engineering manager position at Varda was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

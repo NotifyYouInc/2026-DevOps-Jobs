@@ -1,16 +1,16 @@
-# Werkstudent - DevOps for Manufacturing (w/m/div.) at Robert Bosch
+# Werkstudent DevOps for Manufacturing (w/m/div.) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bamberg, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126989640-werkstudent-devops-for-manufacturing-wmdiv) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127151333-werkstudent-devops-for-manufacturing-wmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-18.
+This devops engineer position at Robert Bosch was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

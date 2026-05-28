@@ -5,12 +5,12 @@
 | Company | [Datadog](https://scoutify.ai/companies/datadog?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Engineering Manager |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://careers.datadoghq.com/detail/7815057/?gh_jid=7815057) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://careers.datadoghq.com/detail/7946955/?gh_jid=7946955) |
 
 ## About This Role
 
-This engineering manager position at Datadog was posted on 2026-04-15.
+This engineering manager position at Datadog was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

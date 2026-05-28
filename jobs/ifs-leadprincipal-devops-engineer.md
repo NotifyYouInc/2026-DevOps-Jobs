@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000119304037-leadprincipal-devops-engineer) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000127472909-leadprincipal-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-04-08.
+This devops engineer position at IFS was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
