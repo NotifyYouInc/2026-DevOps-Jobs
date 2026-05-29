@@ -5,12 +5,12 @@
 | Company | [IOTA GROUP](https://scoutify.ai/companies/iotagroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000127144199-senior-aws-platform-engineer-account-migration) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOTAGROUP/744000127612735-senior-aws-platform-engineer-account-migration) |
 
 ## About This Role
 
-This devops engineer position at IOTA GROUP was posted on 2026-05-19.
+This devops engineer position at IOTA GROUP was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

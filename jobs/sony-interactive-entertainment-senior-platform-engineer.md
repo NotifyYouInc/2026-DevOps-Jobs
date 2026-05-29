@@ -1,16 +1,16 @@
-# Senior Platform Engineer  at Sony Interactive Entertainment
+# Senior Platform Engineer at Sony Interactive Entertainment
 
 | Field | Details |
 |-------|---------|
 | Company | [Sony Interactive Entertainment](https://scoutify.ai/companies/sonyinteractiveentertainmentglobal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Aliso Viejo, California, United States |
+| Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5710578004) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6001345004) |
 
 ## About This Role
 
-This devops engineer position at Sony Interactive Entertainment was posted on 2026-03-10.
+This devops engineer position at Sony Interactive Entertainment was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

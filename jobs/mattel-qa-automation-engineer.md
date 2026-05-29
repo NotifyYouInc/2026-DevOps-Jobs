@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127181669-qa-automation-engineer) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127618728-qa-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Mattel was posted on 2026-05-19.
+This devops engineer position at Mattel was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

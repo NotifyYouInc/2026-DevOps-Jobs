@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hungary |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Hungary/Staff-Cloud-Platform-Engineer_JR110125-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/United-Kingdom/Staff-Cloud-Platform-Engineer_JR111071-1) |
 
 ## About This Role
 
-This devops engineer position at Genesys was posted on 2026-02-18.
+This devops engineer position at Genesys was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

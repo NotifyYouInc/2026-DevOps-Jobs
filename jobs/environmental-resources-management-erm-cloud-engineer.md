@@ -5,12 +5,12 @@
 | Company | [Environmental Resources Management (ERM)](https://scoutify.ai/companies/environmental-resources-management-erm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Cloud-Engineer_R00029991-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://erm.wd3.myworkdayjobs.com/erm_careers/job/New-Delhi-India/Cloud-Engineer_R00030431) |
 
 ## About This Role
 
-This devops engineer position at Environmental Resources Management (ERM) was posted on 2026-05-05.
+This devops engineer position at Environmental Resources Management (ERM) was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

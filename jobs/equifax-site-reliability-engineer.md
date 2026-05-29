@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS-Sydney-Blue-Street/Site-Reliability-Engineer_J00175381) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer_J00176477) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-15.
+This devops engineer position at Equifax was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

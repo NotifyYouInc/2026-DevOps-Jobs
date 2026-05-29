@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Technical Writer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000113418820-fpga-build-system-engineer-engineering-productivity-sydney) |
+| Category | Semiconductor / Chip Design |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127598704-fpga-build-system-engineer-engineering-productivity-sydney) |
 
 ## About This Role
 
-This technical writer position at Arista Networks was posted on 2026-03-09.
+This semiconductor / chip design position at Arista Networks was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nuffield Health](https://scoutify.ai/companies/nuffield-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/London/Senior-Infrastructure-Engineer--EUC-_JR0096245) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/Epsom/Senior-Infrastructure-Engineer--EUC-_JR0097977) |
 
 ## About This Role
 
-This it & systems administration position at Nuffield Health was posted on 2026-03-13.
+This it & systems administration position at Nuffield Health was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

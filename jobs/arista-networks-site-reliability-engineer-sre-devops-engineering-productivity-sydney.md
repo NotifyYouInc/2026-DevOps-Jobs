@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111080735-site-reliability-engineer-sre-devops-engineering-productivity-sydney) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127601483-site-reliability-engineer-sre-devops-engineering-productivity-sydney) |
 
 ## About This Role
 
-This devops engineer position at Arista Networks was posted on 2026-02-24.
+This devops engineer position at Arista Networks was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

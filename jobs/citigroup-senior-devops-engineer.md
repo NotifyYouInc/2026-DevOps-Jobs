@@ -1,16 +1,16 @@
-# Senior Devops Engineer at Citigroup
+# Senior DevOps Engineer at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Mississauga, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Senior-Devops-Engineer_26959863) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Senior-DevOps-Engineer_26964107) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-05-14.
+This devops engineer position at Citigroup was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

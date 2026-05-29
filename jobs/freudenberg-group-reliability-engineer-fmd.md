@@ -1,16 +1,16 @@
-# Reliability Engineer (f/m/d) at Freudenberg Group
+# Reliability Engineer  (f/m/d) at Freudenberg Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Freudenberg Group](https://scoutify.ai/companies/freudenberg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Madrid/Reliability-Engineer--f-m-d-_R_00100597) |
+| Location | Catania, Sicily, Italy |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Catania/Reliability-Engineer---f-m-d-_R_00102544) |
 
 ## About This Role
 
-This industrial automation position at Freudenberg Group was posted on 2026-04-17.
+This engineering manager position at Freudenberg Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

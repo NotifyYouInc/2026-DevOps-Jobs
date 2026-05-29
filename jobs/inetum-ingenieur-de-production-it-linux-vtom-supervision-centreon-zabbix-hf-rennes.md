@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126308819-ingenieur-de-production-it-linux-vtom-supervision-centreon-zabbix-hf-rennes) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127702594-ingenieur-de-production-it-linux-vtom-supervision-centreon-zabbix-hf-rennes) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-05-13.
+This devops engineer position at Inetum was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Randburg, Gauteng, South Africa |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist-Product-Engineer_R-15986876) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Randburg/Specialist-Product-Engineer_R-15987199-1) |
 
 ## About This Role
 
-This devops engineer position at Absa was posted on 2026-05-13.
+This devops engineer position at Absa was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

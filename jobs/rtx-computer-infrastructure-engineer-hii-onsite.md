@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Maine, US |
+| Location | Pascagoula, Mississippi, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ME-BATH-015-CUST--15-Vine-St--VINE-External-Site/Computer-Infrastructure-Engineer--HII--Onsite_01835677) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MS-PASCAGOULA-1000-CUST--1000-Access-Rd--ACCESS-External-Site/Computer-Infrastructure-Engineer--HII--Onsite_01847300) |
 
 ## About This Role
 
-This it & systems administration position at RTX was posted on 2026-04-09.
+This it & systems administration position at RTX was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

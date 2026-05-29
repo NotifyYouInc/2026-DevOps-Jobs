@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kochi, Kerala, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110136) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116687) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-05-15.
+This devops engineer position at IBM was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

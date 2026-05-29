@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000107453020-platform-engineering-manager) |
+| Category | Engineering Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000127605552-platform-engineering-manager) |
 
 ## About This Role
 
-This software engineer position at SIA was posted on 2026-02-05.
+This engineering manager position at SIA was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

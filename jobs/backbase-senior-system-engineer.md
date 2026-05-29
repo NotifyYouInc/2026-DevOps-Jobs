@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/6348985) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7446807) |
 
 ## About This Role
 
-This devops engineer position at Backbase was posted on 2026-05-08.
+This devops engineer position at Backbase was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

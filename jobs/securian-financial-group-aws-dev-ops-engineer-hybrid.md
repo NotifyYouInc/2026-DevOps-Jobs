@@ -5,12 +5,12 @@
 | Company | [Securian Financial Group](https://scoutify.ai/companies/hq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Saint Paul, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/AWS-Dev-Ops-Engineer--Hybrid-_R-010465) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/AWS-Dev-Ops-Engineer--Hybrid-_R-010649) |
 
 ## About This Role
 
-This devops engineer position at Securian Financial Group was posted on 2026-02-18.
+This devops engineer position at Securian Financial Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Virtru](https://scoutify.ai/companies/virtru?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Livermore, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4692674005) |
+| Location | Tampa, Florida, United States |
+| Category | Security Engineer |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4698455005) |
 
 ## About This Role
 
-This devops engineer position at Virtru was posted on 2026-05-05.
+This security engineer position at Virtru was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7822450?gh_jid=7822450) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ripple.com/careers/all-jobs/job/7930645?gh_jid=7930645) |
 
 ## About This Role
 
-This devops engineer position at Ripple was posted on 2026-04-21.
+This devops engineer position at Ripple was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

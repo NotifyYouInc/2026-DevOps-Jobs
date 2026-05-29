@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Indore, Madhya Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/DevOps-Engineer_51580847) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MP---INDORE/DevOps-Engineer_51580897) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-05-19.
+This devops engineer position at DXC Technology was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 
