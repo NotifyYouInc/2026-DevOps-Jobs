@@ -1,16 +1,16 @@
-# Ingénieur Sysops - H/F at Inetum
+# Ingénieur SysOps H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Biot, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113669947-ingenieur-sysops-hf) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000127926610-ingenieur-sysops-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-10.
+This devops engineer position at Inetum was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

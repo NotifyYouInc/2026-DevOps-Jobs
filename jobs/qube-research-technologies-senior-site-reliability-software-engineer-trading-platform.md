@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/7951868002) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8561913002) |
 
 ## About This Role
 
-This devops engineer position at Qube Research & Technologies was posted on 2026-05-15.
+This devops engineer position at Qube Research & Technologies was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

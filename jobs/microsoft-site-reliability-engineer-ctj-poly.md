@@ -1,16 +1,16 @@
-# Site Reliability Engineer - CTJ - POLY at Microsoft
+# Site Reliability Engineer - CTJ - Poly at Microsoft
 
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556833802) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868612) |
 
 ## About This Role
 
-This devops engineer position at Microsoft was posted on 2026-03-23.
+This devops engineer position at Microsoft was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

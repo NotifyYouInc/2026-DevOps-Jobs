@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Senior-DevOps-Engineer_R-00182556) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-DevOps-Engineer_R-00183810) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-05.
+This devops engineer position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

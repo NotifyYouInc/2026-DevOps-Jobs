@@ -1,16 +1,16 @@
-# Manager- Site Reliability Engineering at Okta
+# Manager, Site Reliability Engineering at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Francisco, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7845385?gh_jid=7845385) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7904652?gh_jid=7904652) |
 
 ## About This Role
 
-This engineering manager position at Okta was posted on 2026-04-24.
+This engineering manager position at Okta was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

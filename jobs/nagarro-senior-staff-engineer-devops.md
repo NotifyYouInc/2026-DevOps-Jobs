@@ -1,16 +1,16 @@
-# Senior Staff Engineer - DevOps at Nagarro
+# Senior Staff Engineer, DEVOPS at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000113761632-senior-staff-engineer-devops) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000127865783-senior-staff-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-03-10.
+This devops engineer position at Nagarro was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

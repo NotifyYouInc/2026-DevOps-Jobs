@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000124810469-cloud-engineer-cloud-admin-betrieb-palo-alto-platform-all-gender) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127832479-cloud-engineer-cloud-admin-betrieb-palo-alto-platform-all-gender) |
 
 ## About This Role
 
-This security engineer position at ALTEN was posted on 2026-05-06.
+This security engineer position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

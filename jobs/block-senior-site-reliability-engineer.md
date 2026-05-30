@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Block](https://scoutify.ai/companies/block?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | California, US |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](http://block.xyz/careers/jobs/5225436008?gh_jid=5225436008) |
 
 ## About This Role
 
-This devops engineer position at Block was posted on 2026-04-09.
+This devops engineer position at Block was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

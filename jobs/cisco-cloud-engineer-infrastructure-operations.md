@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Galway, Connacht, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Cloud-Engineer---Infrastructure-Operations_2007467) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Cloud-Engineer---Infrastructure-Operations_2011002) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-05-12.
+This devops engineer position at Cisco was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

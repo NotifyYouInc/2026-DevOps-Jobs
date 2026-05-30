@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Senior-Engineer---Site-Reliability-Engineering_R0118625-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Engineer---Site-Reliability-Engineering_R0119044-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-05-08.
+This devops engineer position at LSEG was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

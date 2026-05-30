@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bamberg, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127454578-praktikum-data-engineering-prozessoptimierung-vorbereitung-s4-hana) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000127585368-praktikum-data-engineering-prozessoptimierung-vorbereitung-s4-hana) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-20.
+This devops engineer position at Robert Bosch was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

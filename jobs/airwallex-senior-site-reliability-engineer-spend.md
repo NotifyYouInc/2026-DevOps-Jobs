@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airwallex](https://scoutify.ai/companies/airwallex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/6d70c4e9-add4-40f4-b2df-e26b37c856c5) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/airwallex/fa7a4b6f-e1be-40e5-9fe3-5724352ba01e) |
 
 ## About This Role
 
-This devops engineer position at Airwallex was posted on 2026-05-20.
+This devops engineer position at Airwallex was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Infrastructure-Engineer_R-00178284) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Infrastructure-Engineer_R-00183948) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-13.
+This devops engineer position at Leidos was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000117238038-github-enterprise-plattform-spezialist-in-all-gender) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127825399-github-enterprise-plattform-spezialist-in-all-gender) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-03-27.
+This devops engineer position at ALTEN was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125119523-senior-software-engineer-senior-data-infrastructure-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000127832649-senior-software-engineer-senior-data-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at NielsenIQ was posted on 2026-05-07.
+This devops engineer position at NielsenIQ was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

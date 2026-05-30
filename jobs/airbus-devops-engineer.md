@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
-| Category | Frontend Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/DevOps-Engineer_JR10386945-1) |
+| Location | Gdańsk, Pomerania, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/DevOps-Engineer_JR10416524) |
 
 ## About This Role
 
-This frontend engineer position at Airbus was posted on 2026-03-03.
+This devops engineer position at Airbus was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

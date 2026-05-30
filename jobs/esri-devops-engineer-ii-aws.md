@@ -5,12 +5,12 @@
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redlands, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://www.esri.com/careers/5038207007?gh_jid=5038207007) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.esri.com/careers/5140522007?gh_jid=5140522007) |
 
 ## About This Role
 
-This devops engineer position at Esri was posted on 2026-02-06.
+This devops engineer position at Esri was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

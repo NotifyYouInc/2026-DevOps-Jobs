@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cardiff, Wales, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Cardiff/Site-Reliability-Engineering-Lead_R113256) |
+| Location | 3 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Florida/Site-Reliability-Engineering-Lead_R113972) |
 
 ## About This Role
 
-This engineering manager position at ChoicePoint was posted on 2026-05-20.
+This devops engineer position at ChoicePoint was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

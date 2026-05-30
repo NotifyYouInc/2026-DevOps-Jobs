@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000126277625-senior-devopssite-reliability-engineer) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000127877234-senior-devopssite-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-05-13.
+This devops engineer position at Renesas Electronics was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
