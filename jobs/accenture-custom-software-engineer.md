@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Custom-Software-Engineer_ATCI-5480456-S2005533-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/DevOps-Architect_ATCI-5262491-S1963255-1) |
 
 ## About This Role
 
