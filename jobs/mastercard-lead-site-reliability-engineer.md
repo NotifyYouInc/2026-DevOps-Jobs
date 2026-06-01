@@ -1,16 +1,16 @@
-# Lead, Site Reliability Engineer at Mastercard
+# Lead Site Reliability Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead--Site-Reliability-Engineer_R-277396) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Site-Reliability-Engineer_R-278759) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-19.
+This devops engineer position at Mastercard was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Associate Engineer- AWS Devops at HARMAN International
+# Lead Infrastructure Engineer (JAMF, Entra, M365) at Clarivate
 
 | Field | Details |
 |-------|---------|
-| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer--AWS-Devops_R-53311-2026) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Lead-Infrastructure-Engineer--JAMF--Entra--M365-_JREQ135688) |
 
 ## About This Role
 
-This devops engineer position at HARMAN International was posted on 2026-05-22.
+This devops engineer position at Clarivate was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

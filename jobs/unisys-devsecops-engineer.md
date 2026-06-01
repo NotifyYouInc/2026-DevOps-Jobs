@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# DevSecOps Engineer at Unisys
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/DevSecOps-Engineer_REQ571091) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Unisys was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

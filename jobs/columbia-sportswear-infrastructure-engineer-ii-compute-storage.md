@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Infrastructure-Engineer-II--Compute---Storage-_R-018746) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Infrastructure-Engineer-II--Compute---Storage-_R-018744) |
 
 ## About This Role
 
-This it & systems administration position at Columbia Sportswear was posted on 2026-04-27.
+This devops engineer position at Columbia Sportswear was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

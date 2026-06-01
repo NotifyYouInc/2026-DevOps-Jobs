@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Senior Infrastructure Engineer at Candidly
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Candidly](https://scoutify.ai/companies/candidly?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/candidly/jobs/5093810007) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Candidly was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

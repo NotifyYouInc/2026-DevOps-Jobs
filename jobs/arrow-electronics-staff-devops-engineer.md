@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Staff DevOps Engineer at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Ahmedabad, Gujarat, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Ahmedabad-India/Staff-DevOps-Engineer_R244983) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Arrow Electronics was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bournemouth, England, United Kingdom |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bournemouth-The-Helm-Holdenhurst-Road/Dev-Ops-Engineer_JR-0000089374-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Dev-Ops-Engineer_JR-0000107965) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-19.
+This devops engineer position at Barclays was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

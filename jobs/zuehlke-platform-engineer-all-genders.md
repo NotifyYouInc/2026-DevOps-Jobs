@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Platform Engineer (all genders) at Zuehlke
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Zuehlke](https://scoutify.ai/companies/zuehlke?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Apply | [View on company site](https://zuehlke.wd3.myworkdayjobs.com/zuhlke-careers/job/Schlieren/Platform-Engineer--all-genders-_JR100838) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Zuehlke was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

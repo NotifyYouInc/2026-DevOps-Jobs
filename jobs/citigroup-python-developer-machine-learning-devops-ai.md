@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Python Developer (Machine Learning_ Devops_AI) at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Python-Developer--Machine-Learning--Devops-AI-_26956391) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Citigroup was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Cloud Data Platform Engineer at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001100748-cloud-data-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at NCS was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

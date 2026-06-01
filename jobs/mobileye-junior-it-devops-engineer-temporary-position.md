@@ -1,16 +1,16 @@
-# Systems Engineer at Akuna Capital
+# Junior IT DevOps Engineer - Temporary Position at Mobileye
 
 | Field | Details |
 |-------|---------|
-| Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Mobileye](https://scoutify.ai/companies/mobileye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Jerusalem, Jerusalem, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7955991/?gh_jid=7955991) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://jobs.eu.lever.co/mobileye/0e8a82fe-cabe-4295-b42b-f54c0a485a78) |
 
 ## About This Role
 
-This devops engineer position at Akuna Capital was posted on 2026-05-25.
+This devops engineer position at Mobileye was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

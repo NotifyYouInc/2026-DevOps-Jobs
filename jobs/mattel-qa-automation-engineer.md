@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127618728-qa-automation-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127637249-qa-automation-engineer) |
 
 ## About This Role
 

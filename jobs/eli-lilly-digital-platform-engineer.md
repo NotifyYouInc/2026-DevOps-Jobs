@@ -1,16 +1,16 @@
-# Associate Engineer- AWS Devops at HARMAN International
+# Digital Platform Engineer at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Bangalore---Karnataka-India---Kalyani-Platina/Associate-Engineer--AWS-Devops_R-53311-2026) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/India-Bengaluru/Digital-Platform-Engineer_R-106318-1) |
 
 ## About This Role
 
-This devops engineer position at HARMAN International was posted on 2026-05-22.
+This devops engineer position at Eli Lilly was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 
