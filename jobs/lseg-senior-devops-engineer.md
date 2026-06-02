@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Senior-DevOps-Engineer_R0118901-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Senior-DevOps-Engineer_R0118701-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-04-28.
+This devops engineer position at LSEG was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

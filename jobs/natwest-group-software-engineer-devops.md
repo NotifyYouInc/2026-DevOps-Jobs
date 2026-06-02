@@ -1,16 +1,16 @@
-# Software Engineer - DevOps at NatWest Group
+# Software engineer_ DevOps at NatWest Group
 
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Software-Engineer---DevOps_R-00277116-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Software-engineer--DevOps_R-00277918-1) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-04-23.
+This devops engineer position at NatWest Group was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior System Engineer (Infrastructure + Azure) at Backbase
+# Senior System Engineer (Infrastructure, Azure) at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7446806) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7956599) |
 
 ## About This Role
 
-This devops engineer position at Backbase was posted on 2026-05-21.
+This devops engineer position at Backbase was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

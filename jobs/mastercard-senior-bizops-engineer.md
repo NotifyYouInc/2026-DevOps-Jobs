@@ -1,16 +1,16 @@
-# Senior BizOps Engineer at Mastercard
+# Senior Bizops Engineer at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-BizOps-Engineer_R-273052-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Senior-Bizops-Engineer_R-271676) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-13.
+This devops engineer position at Mastercard was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

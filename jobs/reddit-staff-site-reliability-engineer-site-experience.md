@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Reddit](https://scoutify.ai/companies/reddit?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7909463) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/reddit/jobs/7956443) |
 
 ## About This Role
 
-This devops engineer position at Reddit was posted on 2026-05-08.
+This devops engineer position at Reddit was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

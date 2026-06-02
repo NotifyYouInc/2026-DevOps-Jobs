@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Texas, US |
 | Category | Engineering Manager |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8550354002?gh_jid=8550354002) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8563892002?gh_jid=8563892002) |
 
 ## About This Role
 
-This engineering manager position at SpaceX was posted on 2026-05-14.
+This engineering manager position at SpaceX was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

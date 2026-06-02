@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Casablanca, Casablanca-Settat, Morocco |
+| Location | Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/Senior-Azure-DevOps-Cloud-Engineer_R240723) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/EG-Cairo-Egypt-Al-Emdad--Al-Tamween/Senior-Azure-DevOps-Cloud-Engineer_R245043) |
 
 ## About This Role
 
-This devops engineer position at Arrow Electronics was posted on 2026-02-27.
+This devops engineer position at Arrow Electronics was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Associate-Advisor_26001790) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/HIH---Automation-Engineer-Associate-Advisor_26003092) |
 
 ## About This Role
 
-This industrial automation position at Cigna was posted on 2026-04-01.
+This industrial automation position at Cigna was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

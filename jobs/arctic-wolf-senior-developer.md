@@ -5,12 +5,12 @@
 | Company | [Arctic Wolf](https://scoutify.ai/companies/arcticwolf?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Developer_R26_543) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://arcticwolf.wd1.myworkdayjobs.com/External/job/Bengaluru-IND/Senior-Developer_R26_560) |
 
 ## About This Role
 
-This devops engineer position at Arctic Wolf was posted on 2026-05-22.
+This devops engineer position at Arctic Wolf was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

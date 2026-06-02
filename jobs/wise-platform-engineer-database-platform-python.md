@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127445466-platform-engineer-database-platform-python) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000128400839-platform-engineer-database-platform-python) |
 
 ## About This Role
 
-This devops engineer position at WISE was posted on 2026-05-20.
+This devops engineer position at WISE was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
