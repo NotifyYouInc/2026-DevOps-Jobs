@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boca Raton, Florida, United States |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Boca-Raton-FL/Senior-Site-Reliability-Engineer-I_R113200) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Site-Reliability-Engineer-I_R113477) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-05-20.
+This devops engineer position at ChoicePoint was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

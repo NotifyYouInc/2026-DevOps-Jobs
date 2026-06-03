@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=111275) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117623) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-04-27.
+This devops engineer position at IBM was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

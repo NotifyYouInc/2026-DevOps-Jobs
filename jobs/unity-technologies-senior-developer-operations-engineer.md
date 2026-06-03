@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unity Technologies](https://scoutify.ai/companies/unity-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://unity.com/careers/positions/7913825?gh_jid=7913825) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://unity.com/careers/positions/7894294?gh_jid=7894294) |
 
 ## About This Role
 
-This devops engineer position at Unity Technologies was posted on 2026-05-22.
+This devops engineer position at Unity Technologies was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

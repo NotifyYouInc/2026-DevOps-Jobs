@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Cluj-Napoca, Cluj County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000124579395-principal-site-reliability-engineer) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000128457516-principal-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sigma Software was posted on 2026-05-05.
+This devops engineer position at Sigma Software was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

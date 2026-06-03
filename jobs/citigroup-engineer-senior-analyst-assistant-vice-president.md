@@ -1,16 +1,16 @@
-# Engineer Senior Analyst – Assistant Vice President at Citigroup
+# Engineer Senior Analyst -Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Database Administration |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Engineer-Senior-Analyst---Assistant-Vice-President_26947911-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Engineer-Senior-Analyst--Assistant-Vice-President_26964225-1) |
 
 ## About This Role
 
-This database administration position at Citigroup was posted on 2026-03-25.
+This devops engineer position at Citigroup was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

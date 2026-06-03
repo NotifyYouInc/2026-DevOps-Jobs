@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Valence, Rhône-Alpes, France |
+| Location | Castres, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Valence/Expert-SAP-BC--F-H-_R0305921-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Castres/Expert-SAP-BC--F-H-_R0329110-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-02-26.
+This devops engineer position at Thales was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

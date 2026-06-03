@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Lead-Infrastructure-Engineer_R-542672) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Infrastructure-Engineer_R-548065) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-05-22.
+This devops engineer position at Wells Fargo was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 
