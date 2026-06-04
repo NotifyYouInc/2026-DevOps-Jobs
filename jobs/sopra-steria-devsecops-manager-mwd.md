@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127018569-devsecops-manager-mwd) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128705454-devsecops-manager-mwd) |
 
 ## About This Role
 
-This engineering manager position at Sopra Steria was posted on 2026-05-18.
+This engineering manager position at Sopra Steria was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

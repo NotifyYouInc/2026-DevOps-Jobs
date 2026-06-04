@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000127713647-junior-platform-engineer-kpn-iot-development) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000128673009-junior-platform-engineer-kpn-iot-development) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-05-21.
+This devops engineer position at KPN was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

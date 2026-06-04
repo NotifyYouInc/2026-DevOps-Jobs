@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Bengaluru-560064/Senior-Software-Engineer_R173694) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Denmark-Copenhagen-1098/Senior-Software-Engineer_R182884) |
 
 ## About This Role
 
-This devops engineer position at A.P. Moller - Maersk was posted on 2026-02-23.
+This devops engineer position at A.P. Moller - Maersk was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

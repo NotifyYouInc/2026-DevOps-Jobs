@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | California, US |
+| Location | La Jolla, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/LaJollaSD/Senior-Automation-Engineer--High-Throughput-Screening_REQ-10074404-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/LaJollaSD/Senior-Automation-Engineer--High-Throughput-Screening_REQ-10078226-2) |
 
 ## About This Role
 
-This industrial automation position at Novartis was posted on 2026-03-26.
+This industrial automation position at Novartis was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

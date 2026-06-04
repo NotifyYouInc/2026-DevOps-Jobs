@@ -1,16 +1,16 @@
-# SPG - SmartStart Install Automation Engineer at Applied Materials
+# SPG SmartStart- Install Automation Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pyeongtaek, Gyeonggi-do, South Korea |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/SPG---SmartStart-Install-Automation-Engineer_R2615882) |
+| Location | Austin, Texas, United States |
+| Category | Engineering Manager |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/SPG-SmartStart--Install-Automation-Engineer_R2620741) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Materials was posted on 2026-04-03.
+This engineering manager position at Applied Materials was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

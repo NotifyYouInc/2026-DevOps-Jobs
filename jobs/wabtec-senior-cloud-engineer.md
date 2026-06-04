@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Contagem, Minas Gerais, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012812192-senior-cloud-engineer) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013324867-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Wabtec was posted on 2026-04-24.
+This devops engineer position at Wabtec was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

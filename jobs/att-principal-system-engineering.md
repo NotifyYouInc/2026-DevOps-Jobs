@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Plano, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-System-Engineering_R-100985) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Plano-Texas/Principal-System-Engineering_R-110857) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-02-13.
+This devops engineer position at AT&T was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

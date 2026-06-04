@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Senior-Site-Reliability-Engineer_R-00272450) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Manchester/Senior-Site-Reliability-Engineer_R-00278949) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-02-17.
+This devops engineer position at NatWest Group was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

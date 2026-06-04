@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Highland Park, Illinois, United States |
+| Location | Lancaster, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Highland-Park-Michigan-US/Automation-Engineer_R00225543) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Lancaster-Ohio-US/Automation-Engineer_R00244584) |
 
 ## About This Role
 
-This industrial automation position at Magna was posted on 2026-03-04.
+This industrial automation position at Magna was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT infrastructure engineer (RMA & Diag)  at Nebius
+# IT Infrastructure Engineer (RMA & Diag) at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lappeenranta, South Karelia, Finland |
+| Location | London, England, United Kingdom |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4829425101) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4869480101) |
 
 ## About This Role
 
-This it & systems administration position at Nebius was posted on 2026-05-15.
+This it & systems administration position at Nebius was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

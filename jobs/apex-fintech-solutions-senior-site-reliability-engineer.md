@@ -5,12 +5,12 @@
 | Company | [Apex Fintech Solutions](https://scoutify.ai/companies/peak6group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Senior-Site-Reliability-Engineer_JR104797) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Senior-Site-Reliability-Engineer_JR104812) |
 
 ## About This Role
 
-This devops engineer position at Apex Fintech Solutions was posted on 2026-05-22.
+This devops engineer position at Apex Fintech Solutions was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

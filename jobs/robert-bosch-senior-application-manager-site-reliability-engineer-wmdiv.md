@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dresden, Saxony, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126256179-senior-application-manager-site-reliability-engineer-wmdiv) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128690084-senior-application-manager-site-reliability-engineer-wmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-13.
+This devops engineer position at Robert Bosch was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

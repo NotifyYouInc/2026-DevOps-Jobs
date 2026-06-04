@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Knutsford, England, United Kingdom |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Site-Reliability-Engineer--SRE-_JR-0000088337) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Site-Reliability-Engineer--SRE-_JR-0000102279-1) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-04-29.
+This devops engineer position at Barclays was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

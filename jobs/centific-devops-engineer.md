@@ -1,16 +1,16 @@
-# DevOps engineer at Centific
+# Devops Engineer at Centific
 
 | Field | Details |
 |-------|---------|
 | Company | [Centific](https://scoutify.ai/companies/centific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/DevOps-engineer_JR106977-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/India-Office---Chennai/Devops-Engineer_JR106996) |
 
 ## About This Role
 
-This devops engineer position at Centific was posted on 2026-04-27.
+This devops engineer position at Centific was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

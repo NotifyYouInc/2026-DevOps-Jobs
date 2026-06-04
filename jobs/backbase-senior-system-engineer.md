@@ -1,16 +1,16 @@
-# Senior System Engineer at Backbase
+# Senior System Engineer  at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7446807) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7300214) |
 
 ## About This Role
 
-This devops engineer position at Backbase was posted on 2026-05-21.
+This devops engineer position at Backbase was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

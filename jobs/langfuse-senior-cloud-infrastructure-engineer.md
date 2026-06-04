@@ -1,16 +1,16 @@
-# (Senior) Cloud Infrastructure Engineer at Langfuse
+# Senior Cloud Infrastructure Engineer at Langfuse
 
 | Field | Details |
 |-------|---------|
 | Company | [Langfuse](https://scoutify.ai/companies/langfuse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/langfuse/1745b263-e25e-4037-a3a8-d0460fbba165) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/langfuse/1bc2e248-89e7-41d7-b32f-08e9320eb5d0) |
 
 ## About This Role
 
-This devops engineer position at Langfuse was posted on 2026-04-17.
+This devops engineer position at Langfuse was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

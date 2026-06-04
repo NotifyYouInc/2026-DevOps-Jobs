@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Pune-Maharashtra-India/Senior-Cloud-Engineer_R0069350-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Senior-Cloud-Engineer_R0071959) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-02-09.
+This devops engineer position at Global Payments was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
