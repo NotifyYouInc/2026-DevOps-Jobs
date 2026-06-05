@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000127848379-java-devops-engineer-mwd) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000128887759-java-devops-engineer-mwd) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-05-22.
+This devops engineer position at Everience was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Johnston, Rhode Island, United States |
+| Location | Oakley, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---RI---Johnston---Hartford-Avenue-I-295/Automation-Engineer_R319586) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Oakley---4000-Wilbur-Ave/Automation-Engineer_R317499-1) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-05-22.
+This industrial automation position at Cushman & Wakefield was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

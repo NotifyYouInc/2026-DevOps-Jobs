@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Harrisburg, Pennsylvania, United States |
+| Location | Pennsylvania, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/DevOps-Engineer_R7190) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/DevOps-Engineer_R7813) |
 
 ## About This Role
 
-This devops engineer position at CAI was posted on 2026-02-19.
+This devops engineer position at CAI was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

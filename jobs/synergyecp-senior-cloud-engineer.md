@@ -5,12 +5,12 @@
 | Company | [Synergyecp](https://scoutify.ai/companies/synergyecp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.lever.co/synergyecp/168cfe21-ab8d-41a0-a11b-90c5b4a852a2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/synergyecp/9b1dc98c-2b66-4601-8dfb-93b3078149bb) |
 
 ## About This Role
 
-This devops engineer position at Synergyecp was posted on 2026-04-22.
+This devops engineer position at Synergyecp was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

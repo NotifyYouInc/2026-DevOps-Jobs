@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Lysaker, Akershus, Norway |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2010272-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Software-Engineer_2012717) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-04-03.
+This devops engineer position at Cisco was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

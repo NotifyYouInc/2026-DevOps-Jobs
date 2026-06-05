@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DISCO](https://scoutify.ai/companies/disco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8554956002) |
+| Location | United States |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8569904002) |
 
 ## About This Role
 
-This devops engineer position at DISCO was posted on 2026-05-18.
+This compliance & risk management position at DISCO was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

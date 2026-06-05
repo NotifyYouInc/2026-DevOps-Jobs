@@ -1,16 +1,16 @@
-# SRE Operations Engineer  at Okta
+# SRE Operations Engineer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7464025?gh_jid=7464025) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7963271?gh_jid=7963271) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-05-18.
+This devops engineer position at Okta was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

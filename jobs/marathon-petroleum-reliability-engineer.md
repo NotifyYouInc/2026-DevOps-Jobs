@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Carlsbad-NM/Reliability-Engineer_00020371) |
+| Location | Findlay, Ohio, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Findlay-Ohio/Reliability-Engineer_00022194) |
 
 ## About This Role
 
-This operations position at Marathon Petroleum was posted on 2026-02-06.
+This electrical / hardware engineer position at Marathon Petroleum was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

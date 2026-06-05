@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Lead-Associate-Principal--Software-Engineering--DevOps_REQ-4647) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Lead-Associate-Principal--Software-Engineering--DevOps_REQ-4665) |
 
 ## About This Role
 
-This devops engineer position at OCC was posted on 2026-04-30.
+This devops engineer position at OCC was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

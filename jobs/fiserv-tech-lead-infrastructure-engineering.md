@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Bengaluru---GS-India/Tech-Lead--Infrastructure-Engineering_R-10380332) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Bengaluru---GS-India/Tech-Lead--Infrastructure-Engineering_R-10387157) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-04-01.
+This devops engineer position at Fiserv was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

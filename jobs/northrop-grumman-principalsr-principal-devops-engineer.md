@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rolling Meadows, Illinois, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Principal-Sr-Principal-DevOps-Engineer_R10226340) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Principal-Sr-Principal-DevOps-Engineer_R10234487) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-03-18.
+This devops engineer position at Northrop Grumman was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
