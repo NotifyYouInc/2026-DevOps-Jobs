@@ -5,12 +5,12 @@
 | Company | [Speakeasy](https://scoutify.ai/companies/speakeasy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/speakeasy/04db0015-b9aa-4563-bda5-57939b664fa8) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/speakeasy/43904ba3-3792-4cc4-b097-6e98ca9a1b4b) |
 
 ## About This Role
 
-This devops engineer position at Speakeasy was posted on 2026-05-22.
+This devops engineer position at Speakeasy was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

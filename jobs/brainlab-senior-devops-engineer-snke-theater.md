@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000127615578-senior-devops-engineer-snke-theater) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000129112639-senior-devops-engineer-snke-theater) |
 
 ## About This Role
 
-This devops engineer position at Brainlab was posted on 2026-05-21.
+This devops engineer position at Brainlab was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

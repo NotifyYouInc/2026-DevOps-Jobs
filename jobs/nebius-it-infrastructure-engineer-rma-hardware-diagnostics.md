@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Minnesota, US |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4765077101) |
+| Location | Missouri, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4852103101) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Nebius was posted on 2026-02-25.
+This it & systems administration position at Nebius was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Senior-Cloud-Engineer_2010998) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Richardson-Texas-US/Senior-Cloud-Engineer_2016055) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-03-25.
+This devops engineer position at Cisco was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

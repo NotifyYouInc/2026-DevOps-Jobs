@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fortune Brands](https://scoutify.ai/companies/fortune-brands?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Deerfield, Illinois, United States |
+| Location | North Olmsted, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000126095127-lead-infrastructure-engineer) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/fortunebrands/744000129232506-lead-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Fortune Brands was posted on 2026-05-12.
+This devops engineer position at Fortune Brands was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

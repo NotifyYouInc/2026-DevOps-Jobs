@@ -5,12 +5,12 @@
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Site-Reliability-Engineer-I_R113477) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Mumbai/Senior-Site-Reliability-Engineer-I_R113933) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-05-26.
+This devops engineer position at ChoicePoint was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

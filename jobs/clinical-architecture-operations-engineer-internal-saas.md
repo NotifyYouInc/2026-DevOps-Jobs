@@ -5,12 +5,12 @@
 | Company | [Clinical Architecture](https://scoutify.ai/companies/clinical-architecture?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5131708007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5150229007) |
 
 ## About This Role
 
-This devops engineer position at Clinical Architecture was posted on 2026-05-07.
+This devops engineer position at Clinical Architecture was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

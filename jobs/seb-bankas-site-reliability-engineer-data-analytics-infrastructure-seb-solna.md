@@ -1,16 +1,16 @@
-# Site Reliability Engineer – Data & Analytics Infrastructure| SEB, Solna at SEB bankas
+# Site Reliability Engineer – Data & Analytics Infrastructure | SEB, Solna at SEB bankas
 
 | Field | Details |
 |-------|---------|
 | Company | [SEB bankas](https://scoutify.ai/companies/seb-bankas?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Solna, Stockholm, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.eu.lever.co/seb/c2db6914-d005-4475-b360-85d93c781f47) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.eu.lever.co/seb/7adda57e-8dd7-46e3-b88f-e0b816d35dd4) |
 
 ## About This Role
 
-This devops engineer position at SEB bankas was posted on 2026-03-03.
+This devops engineer position at SEB bankas was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

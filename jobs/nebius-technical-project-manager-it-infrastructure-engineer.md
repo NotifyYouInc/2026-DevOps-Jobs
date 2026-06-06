@@ -1,16 +1,16 @@
-# Technical Project Manager / IT Infrastructure Engineer at Nebius
+# Technical Project Manager / IT Infrastructure Engineer  at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lappeenranta, South Karelia, Finland |
-| Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4829432101) |
+| Location | Oklahoma, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4866018101) |
 
 ## About This Role
 
-This devops engineer position at Nebius was posted on 2026-05-15.
+This it & systems administration position at Nebius was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

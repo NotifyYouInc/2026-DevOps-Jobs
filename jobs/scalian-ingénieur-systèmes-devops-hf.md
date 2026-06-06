@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rambouillet, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000107767476-ingenieur-systemes-devops-hf) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000129176348-ingenieur-systemes-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-02-06.
+This devops engineer position at Scalian was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

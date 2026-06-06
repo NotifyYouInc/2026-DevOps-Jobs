@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113437) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117822) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-05-27.
+This it & systems administration position at IBM was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

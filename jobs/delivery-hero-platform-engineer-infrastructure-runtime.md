@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127394104-platform-engineer-infrastructure-runtime) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129196499-platform-engineer-infrastructure-runtime) |
 
 ## About This Role
 
-This devops engineer position at Delivery Hero was posted on 2026-05-20.
+This devops engineer position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Pineville, Louisiana, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Colorado-Springs-CO/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2492614) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Pineville-MO/XMLNAME--USA--Systems-and-Infrastructure-Engineer-II_R-2518100) |
 
 ## About This Role
 
-This it & systems administration position at Walmart was posted on 2026-05-06.
+This it & systems administration position at Walmart was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

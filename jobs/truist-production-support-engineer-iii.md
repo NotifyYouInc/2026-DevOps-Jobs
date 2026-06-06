@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Data-Analyst-III_R0114772) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Production-Support-Engineer-III_R0115172-1) |
 
 ## About This Role
 
-This technical support engineer position at Truist was posted on 2026-05-19.
+This technical support engineer position at Truist was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
