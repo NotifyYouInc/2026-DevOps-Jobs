@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Nvidia
+# Platform Engineer at Lawhive
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [Lawhive](https://scoutify.ai/companies/lawhive?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2018930) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/lawhive/d8901356-09d0-414b-8729-de2215b26824) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-05-30.
+This devops engineer position at Lawhive was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

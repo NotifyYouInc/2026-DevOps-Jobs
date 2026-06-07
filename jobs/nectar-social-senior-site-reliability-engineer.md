@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Nvidia
+# Senior Site Reliability Engineer at Nectar Social
 
 | Field | Details |
 |-------|---------|
-| Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Company | [Nectar Social](https://scoutify.ai/companies/nectar-social?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2018930) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nectar-social/15c13af5-b0bc-4144-aa67-42f1e2cbc8f4) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-05-30.
+This devops engineer position at Nectar Social was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
