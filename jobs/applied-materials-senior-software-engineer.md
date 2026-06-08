@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# Senior Software Engineer at Applied Materials
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Senior-Software-Engineer_R2619140) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This devops engineer position at Applied Materials was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

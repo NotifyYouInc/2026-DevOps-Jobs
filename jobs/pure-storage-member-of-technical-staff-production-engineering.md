@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7552585) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7942136) |
 
 ## About This Role
 
-This devops engineer position at Pure Storage was posted on 2026-02-26.
+This devops engineer position at Pure Storage was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

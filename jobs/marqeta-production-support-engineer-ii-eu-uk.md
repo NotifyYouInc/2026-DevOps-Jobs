@@ -1,16 +1,16 @@
-# Senior Cloud Consultant at Red Hat
+# Production Support Engineer II - EU / UK at Marqeta
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Company | [Marqeta](https://scoutify.ai/companies/marqeta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Cairo---MSO/Senior-Cloud-Consultant_R-055382-2) |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/marqeta/jobs/7743099) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-06-01.
+This customer success position at Marqeta was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

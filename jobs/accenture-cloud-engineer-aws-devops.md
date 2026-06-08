@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# Cloud Engineer (AWS / DevOps) at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 3 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Cloud-Engineer--AWS---DevOps-_R00332985) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This devops engineer position at Accenture was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

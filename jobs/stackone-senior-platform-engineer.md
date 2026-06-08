@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# Senior Platform Engineer at Stackone
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Stackone](https://scoutify.ai/companies/stackone?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/stackone/4bc85e1c-0308-4ed3-9f3c-c19c2b9e905a) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This devops engineer position at Stackone was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

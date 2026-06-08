@@ -1,16 +1,16 @@
-# Engineer III - Software at Thermo Fisher Scientific
+# Engineer III, Software at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III---Software_R-01345231) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III--Software_R-01351726) |
 
 ## About This Role
 
-This devops engineer position at Thermo Fisher Scientific was posted on 2026-03-24.
+This devops engineer position at Thermo Fisher Scientific was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

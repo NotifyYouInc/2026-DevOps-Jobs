@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# Middleware Systems Senior Technical Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129381989-middleware-systems-senior-technical-lead) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This devops engineer position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

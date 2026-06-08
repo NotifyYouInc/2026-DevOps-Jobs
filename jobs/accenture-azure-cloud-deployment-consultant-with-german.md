@@ -1,16 +1,16 @@
-# Operations Engineer at Accenture
+# Azure Cloud Deployment Consultant with German at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Operations-Engineer_ATCI-5587948-S2026526-1) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bratislava/Cloud-Resiliency-Consultant_R00283713) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-01.
+This technology / it consulting position at Accenture was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

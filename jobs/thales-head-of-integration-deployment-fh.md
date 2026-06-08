@@ -1,16 +1,16 @@
-# Senior Infrastructure Engineer at Atomcomputing
+# Head Of Integration & Deployment F/H at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Atomcomputing](https://scoutify.ai/companies/atomcomputing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boulder, Colorado, United States |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Rungis, Île-de-France, France |
 | Category | DevOps Engineer |
 | Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Rungis/Head-Of-Integration---Deployment-F-H_R0329340-1) |
 
 ## About This Role
 
-This devops engineer position at Atomcomputing was posted on 2026-05-31.
+This devops engineer position at Thales was posted on 2026-05-31.
 
 ## Get Real-Time Alerts
 

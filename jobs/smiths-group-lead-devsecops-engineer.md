@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# Lead DevSecOps Engineer at Smiths Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Security Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129388401-lead-devsecops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This security engineer position at Smiths Group was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

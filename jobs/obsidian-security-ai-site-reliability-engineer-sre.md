@@ -1,16 +1,16 @@
-# SW_Architecture_CICD-EPS1 at Robert Bosch
+# AI Site Reliability Engineer (SRE) at Obsidian Security
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Obsidian Security](https://scoutify.ai/companies/obsidian-security?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129405925-sw-architecture-cicd-eps1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5237083008) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-01.
+This devops engineer position at Obsidian Security was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
