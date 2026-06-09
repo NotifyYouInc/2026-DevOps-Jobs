@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Abu Dhabi, Abu Dhabi, United Arab Emirates |
 | Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Lead-Automation-Engineer_R2119897) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Abu-Dhabi-United-Arab-Emirates/Lead-Automation-Engineer_R2124511) |
 
 ## About This Role
 
-This industrial automation position at KBR was posted on 2026-03-06.
+This industrial automation position at KBR was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

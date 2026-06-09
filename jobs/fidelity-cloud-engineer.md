@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Cloud-Engineer_2128248-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Cloud-Engineer_2127836-1) |
 
 ## About This Role
 
-This devops engineer position at Fidelity was posted on 2026-05-13.
+This devops engineer position at Fidelity was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

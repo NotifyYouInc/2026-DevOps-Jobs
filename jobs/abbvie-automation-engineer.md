@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barceloneta, Barceloneta, Puerto Rico |
 | Category | Industrial Automation |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013052216-automation-engineer) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013409067-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-05-08.
+This industrial automation position at AbbVie was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

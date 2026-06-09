@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000114574117-ingenieur-e2e-performances-reseaux-netdevops-paris-hf) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000129512979-ingenieur-e2e-performances-reseaux-netdevops-paris-hf) |
 
 ## About This Role
 
-This devops engineer position at Iliad-Free was posted on 2026-03-13.
+This devops engineer position at Iliad-Free was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

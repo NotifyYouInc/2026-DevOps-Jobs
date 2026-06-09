@@ -5,12 +5,12 @@
 | Company | [Namespace](https://scoutify.ai/companies/namespace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/namespace/d56d2676-2a8c-4188-9b58-b79bf895aa7a) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/namespace/098cb5dd-e430-4044-8966-21507756794b) |
 
 ## About This Role
 
-This devops engineer position at Namespace was posted on 2026-05-04.
+This devops engineer position at Namespace was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gunvor](https://scoutify.ai/companies/gunvor?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Houston, Texas, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Houston/Cloud-Engineer_JR102499-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gunvor.wd3.myworkdayjobs.com/Gunvor_Careers/job/Madrid/Cloud-Engineer_JR102653-1) |
 
 ## About This Role
 
-This devops engineer position at Gunvor was posted on 2026-02-13.
+This devops engineer position at Gunvor was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000128956449-devops-manager) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000129424149-devops-manager) |
 
 ## About This Role
 
-This engineering manager position at Netcompany was posted on 2026-05-28.
+This engineering manager position at Netcompany was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

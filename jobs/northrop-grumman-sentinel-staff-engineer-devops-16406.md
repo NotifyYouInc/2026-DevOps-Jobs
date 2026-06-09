@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Staff-Engineer-DevOps-16406_R10226820) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Staff-Engineer-DevOps-16406_R10234691) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-03-23.
+This devops engineer position at Northrop Grumman was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

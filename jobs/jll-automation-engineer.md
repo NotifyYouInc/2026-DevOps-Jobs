@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Weston, Florida, United States |
+| Location | Spokane Valley, Washington, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Weston-WI/Automation-Engineer_REQ506652) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Spokane-Valley-WA/Automation-Engineer_REQ511897) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-05-11.
+This industrial automation position at JLL was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

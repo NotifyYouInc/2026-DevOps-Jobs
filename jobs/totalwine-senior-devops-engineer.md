@@ -5,12 +5,12 @@
 | Company | [Totalwine](https://scoutify.ai/companies/totalwine?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Senior-DevOps-Engineer_JR105923) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://totalwine.wd1.myworkdayjobs.com/twm/job/Maryland-SSC/Senior-DevOps-Engineer_JR107108) |
 
 ## About This Role
 
-This devops engineer position at Totalwine was posted on 2026-03-17.
+This devops engineer position at Totalwine was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

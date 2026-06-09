@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000125777045-ingenieure-devops) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000129506010-ingenieure-devops) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-05-11.
+This devops engineer position at Everience was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

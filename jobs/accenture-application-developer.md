@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Application-Developer_ATCI-5266925-S1945000-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Application-Developer_14337183) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-13.
+This devops engineer position at Accenture was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

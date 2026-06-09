@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | Technical Writer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115905351-nextstep-administrateur-systeme-linux-aeronautique-spatial-defense-hf) |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000129422594-nextstep-administrateur-systeme-linux-aeronautique-spatial-defense-hf) |
 
 ## About This Role
 
-This technical writer position at ALTEN was posted on 2026-03-20.
+This it & systems administration position at ALTEN was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Raft Company Website](https://scoutify.ai/companies/raft-company-website?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/5977060004) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/6010455004) |
 
 ## About This Role
 
-This devops engineer position at Raft Company Website was posted on 2026-04-22.
+This devops engineer position at Raft Company Website was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

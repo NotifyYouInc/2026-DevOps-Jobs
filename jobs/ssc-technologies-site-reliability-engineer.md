@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florida, US |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Site-Reliability-Engineer_R38254) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Hyderabad-India/Site-Reliability-Engineer_R44078) |
 
 ## About This Role
 
-This devops engineer position at SS&C Technologies was posted on 2026-05-20.
+This devops engineer position at SS&C Technologies was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

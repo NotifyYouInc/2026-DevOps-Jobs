@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/129147170631623366-cloud-platforms-and-infrastructure-engineer-tpugpu?sort_by=date&page=1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXNBs61ABcA8s5ptHMzdS7z6pDAmmIbbqXcNlhbG1hsTEjsACxwdTAapcINDfdvYYxNQR-9F0xR3vGYApt8UW6DWFprtyTO7Mg_OVWJoanRuy6RJgxikicrmnpf3iA%3D%3D_V2&loc=US&title=Cloud+Platforms+and+Infrastructure+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-09.
+This devops engineer position at Google was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

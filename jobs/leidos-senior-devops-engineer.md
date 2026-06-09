@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Senior-DevOps-Engineer_R-00183810) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-DevOps-Engineer_R-00184367) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-22.
+This devops engineer position at Leidos was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics UK](https://scoutify.ai/companies/generaldynamicsuk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Ottawa, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000116467037-software-engineering-developer-devops) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GDMSI/744000129525694-software-engineering-developer-devops) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics UK was posted on 2026-03-24.
+This devops engineer position at General Dynamics UK was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

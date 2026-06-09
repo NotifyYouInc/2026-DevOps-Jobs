@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Suncor Energy](https://scoutify.ai/companies/suncor-energy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Fort McMurray, Alberta, Canada |
 | Category | Engineering Manager |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://suncor.wd1.myworkdayjobs.com/suncor_external/job/Calgary-AB-CAN/Specialist-Reliability-Engineer_R0016178) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://suncor.wd1.myworkdayjobs.com/suncor_external/job/Fort-McMurray-Base-Plant-AB-CAN/Specialist-Reliability-Engineer_R0016504) |
 
 ## About This Role
 
-This engineering manager position at Suncor Energy was posted on 2026-04-30.
+This engineering manager position at Suncor Energy was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

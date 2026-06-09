@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Derby, England, United Kingdom |
 | Category | Industrial Automation |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7841913?gh_jid=7841913) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7962969?gh_jid=7962969) |
 
 ## About This Role
 
-This industrial automation position at HelloFresh was posted on 2026-04-27.
+This industrial automation position at HelloFresh was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AST SpaceMobile](https://scoutify.ai/companies/ast-spacemobile?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lanham, Maryland, United States |
+| Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ast-science.com/company/careers/?gh_jid=4688946005) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ast-science.com/company/careers/?gh_jid=4688945005) |
 
 ## About This Role
 
-This devops engineer position at AST SpaceMobile was posted on 2026-05-06.
+This devops engineer position at AST SpaceMobile was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

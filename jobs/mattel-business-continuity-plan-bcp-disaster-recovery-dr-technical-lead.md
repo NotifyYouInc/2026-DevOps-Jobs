@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126018519-business-continuity-plan-bcp-disaster-recovery-dr-technical-lead) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000129448329-business-continuity-plan-bcp-disaster-recovery-dr-technical-lead) |
 
 ## About This Role
 
-This devops engineer position at Mattel was posted on 2026-05-12.
+This devops engineer position at Mattel was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

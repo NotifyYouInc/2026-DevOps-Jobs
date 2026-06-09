@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qnity](https://scoutify.ai/companies/qnity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tianjin, CN |
+| Location | Dongguan, Guangdong, China |
 | Category | Industrial Automation |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Binhai-Tianjin/Automation-Engineer_251275W) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://qnity.wd503.myworkdayjobs.com/jobs/job/Dongguan-Guangdong/Automation-Engineer_251550W) |
 
 ## About This Role
 
-This industrial automation position at Qnity was posted on 2026-05-14.
+This industrial automation position at Qnity was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

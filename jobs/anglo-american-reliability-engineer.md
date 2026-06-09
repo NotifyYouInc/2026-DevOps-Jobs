@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Queensland, AU |
-| Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000107220769-reliability-engineer) |
+| Location | Moura, Queensland, Australia |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000129651429-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Anglo American was posted on 2026-02-04.
+This engineering manager position at Anglo American was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

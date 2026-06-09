@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lysaker, Akershus, Norway |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Lysaker-Norway/Software-Engineer_2012717) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2015541-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-05-28.
+This devops engineer position at Cisco was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
