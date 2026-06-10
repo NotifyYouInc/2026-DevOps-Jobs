@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Whitby, Ontario, Canada |
-| Category | Industrial Automation |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Whitby-Canada/Reliability-Engineer_R-01348092) |
+| Location | Basingstoke, England, United Kingdom |
+| Category | Engineering Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Basingstoke-United-Kingdom/Reliability-Engineer_R-01353755) |
 
 ## About This Role
 
-This industrial automation position at Thermo Fisher Scientific was posted on 2026-04-08.
+This engineering manager position at Thermo Fisher Scientific was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

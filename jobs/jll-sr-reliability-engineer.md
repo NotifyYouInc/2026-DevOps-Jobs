@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Rosemead, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Sr-Reliability-Engineer_REQ504905) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Rosemead-CA/Sr-Reliability-Engineer_REQ511575) |
 
 ## About This Role
 
-This engineering manager position at JLL was posted on 2026-05-11.
+This engineering manager position at JLL was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

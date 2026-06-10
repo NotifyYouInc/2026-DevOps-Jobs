@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-Work-at-Home/Cloud-Resiliency-Engineer_R1733099) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Cloud-Resiliency-Engineer_R1715255) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-05-28.
+This devops engineer position at Concentrix was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

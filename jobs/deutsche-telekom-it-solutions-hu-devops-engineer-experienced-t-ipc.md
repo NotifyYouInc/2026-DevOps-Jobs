@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000120612662-devops-engineer-experienced-t-ipc) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000129918729-devops-engineer-experienced-t-ipc) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-04-14.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

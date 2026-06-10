@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Episode Six US ](https://scoutify.ai/companies/episode-six-27248?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/6009294004) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesixlinkedin/jobs/6011380004) |
 
 ## About This Role
 
-This devops engineer position at Episode Six US  was posted on 2026-05-29.
+This devops engineer position at Episode Six US  was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lagos, Lagos, Nigeria |
+| Location | Nigeria |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000126323450-team-lead-platform-integrations) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000129723225-team-lead-platform-integrations) |
 
 ## About This Role
 
-This devops engineer position at Standard Bank was posted on 2026-05-13.
+This devops engineer position at Standard Bank was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

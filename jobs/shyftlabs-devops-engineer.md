@@ -1,16 +1,16 @@
-# Devops Engineer at ShyftLabs
+# DevOps Engineer at ShyftLabs
 
 | Field | Details |
 |-------|---------|
 | Company | [ShyftLabs](https://scoutify.ai/companies/shyftlabs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.lever.co/shyftlabs/f6ebd906-e47c-41c3-890a-286325edccb7) |
+| Location | Toronto, Ontario, Canada |
+| Category | DevOps Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/shyftlabs/477f2323-f909-4e59-8fd8-915932d67454) |
 
 ## About This Role
 
-This software engineer position at ShyftLabs was posted on 2026-02-05.
+This devops engineer position at ShyftLabs was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Engineer DevOps at Empower
+# Senior Engineer Devops at Empower
 
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-DevOps_R0055803) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Engineer-Devops_R0058951-1) |
 
 ## About This Role
 
-This devops engineer position at Empower was posted on 2026-04-06.
+This devops engineer position at Empower was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

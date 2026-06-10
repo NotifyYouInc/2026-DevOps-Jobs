@@ -5,12 +5,12 @@
 | Company | [Skilled Wound Care](https://scoutify.ai/companies/skilled-wound-care?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Houston, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7721549003) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/skilledwoundcare/jobs/7750313003) |
 
 ## About This Role
 
-This devops engineer position at Skilled Wound Care was posted on 2026-04-30.
+This devops engineer position at Skilled Wound Care was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

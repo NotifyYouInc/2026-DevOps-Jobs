@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Senior-Systems-Operations-Engineer_R-546704) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Systems-Operations-Engineer_R-549506) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-05-29.
+This devops engineer position at Wells Fargo was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

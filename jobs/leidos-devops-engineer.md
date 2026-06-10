@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Newport News, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/5021-Beer-Sheva-Israel-Home-Office/DevOps_R-00183450) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/DevOps-Engineer_R-00184645) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-15.
+This devops engineer position at Leidos was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

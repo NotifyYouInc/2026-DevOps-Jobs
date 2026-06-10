@@ -1,16 +1,16 @@
-# Ingénieur devOps H/F at Devoteam
+# Ingénieur DevOps H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000127476693-ingenieur-devops-hf) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000129709800-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-05-20.
+This devops engineer position at Devoteam was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bessemer, Alabama, United States |
+| Location | Rialto, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---AL---Bessemer---975-Powder-Plant-Rd/Senior-Automation-Engineer_R319589) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Senior-Automation-Engineer_R316697-1) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-05-12.
+This industrial automation position at Cushman & Wakefield was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

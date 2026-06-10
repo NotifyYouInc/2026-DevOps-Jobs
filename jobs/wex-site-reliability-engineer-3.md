@@ -1,16 +1,16 @@
-# Site Reliability Engineer 3 at Wex
+# Site Reliability Engineer-3 at Wex
 
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Site-Reliability-Engineer-3_R21175) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/Brazil-Sao-Paulo---Remote/Site-Reliability-Engineer-3_R22028) |
 
 ## About This Role
 
-This devops engineer position at Wex was posted on 2026-03-10.
+This devops engineer position at Wex was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

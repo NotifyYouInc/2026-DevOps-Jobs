@@ -1,16 +1,16 @@
-# Senior Application Administrator (Linux, Networking & Automation) for T-Cloud Public at Deutsche Telekom IT Solutions Slovakia
+# Senior Application Administrator (Linux, Networking & Automation) for T-Cloud Public (m/f/d) at Deutsche Telekom IT Solutions Slovakia
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000127660474-senior-application-administrator-linux-networking-automation-for-t-cloud-public) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129675049-senior-application-administrator-linux-networking-automation-for-t-cloud-public-mfd) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-05-21.
+This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

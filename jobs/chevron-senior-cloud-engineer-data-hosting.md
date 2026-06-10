@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Cloud-Engineer---Data-Hosting_R000062661-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Senior-Cloud-Engineer---Data-Hosting_R000071569-1) |
 
 ## About This Role
 
-This devops engineer position at Chevron was posted on 2026-03-18.
+This devops engineer position at Chevron was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

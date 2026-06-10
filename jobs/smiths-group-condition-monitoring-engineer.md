@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Trainer, Pennsylvania, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | Engineering Manager |
 | Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129498733-condition-monitoring-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000129534950-condition-monitoring-engineer) |
 
 ## About This Role
 

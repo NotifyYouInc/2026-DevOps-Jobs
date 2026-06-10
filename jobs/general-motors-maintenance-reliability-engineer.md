@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bedford, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bedford-Indiana-United-States-of-America/Maintenance-Reliability-Engineer_JR-202523877) |
+| Location | Spring Hill, Florida, United States |
+| Category | Industrial Automation |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Maintenance-Reliability-Engineer_JR-202611779) |
 
 ## About This Role
 
-This operations position at General Motors was posted on 2026-02-04.
+This industrial automation position at General Motors was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

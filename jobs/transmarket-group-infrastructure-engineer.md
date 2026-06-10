@@ -5,12 +5,12 @@
 | Company | [TransMarket Group](https://scoutify.ai/companies/transmarketgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | IT & Systems Administration |
-| Posted | 2025-06-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/4749909007?gh_jid=4749909007) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151576007?gh_jid=5151576007) |
 
 ## About This Role
 
-This it & systems administration position at TransMarket Group was posted on 2025-06-03.
+This it & systems administration position at TransMarket Group was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Mobile Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/IN-Bangalore-Technology-BTC-Office/Senior-enterprise-technology-engineer_RQ105934) |
+| Location | Westlake, Ohio, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/US-Ohio---Westlake-Retail-Support-Center/Senior-enterprise-technology-engineer_RQ111136) |
 
 ## About This Role
 
-This mobile engineer position at BP was posted on 2026-04-01.
+This devops engineer position at BP was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

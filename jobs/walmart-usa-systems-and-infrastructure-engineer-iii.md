@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Redbird-AR-BENTONVILLE-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-III_R-2472003) |
+| Location | Colorado Springs, Colorado, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Data-Center-CO-Colorado-Springs-Home-Office/XMLNAME--USA--Systems-and-Infrastructure-Engineer-III_R-2517493) |
 
 ## About This Role
 
-This devops engineer position at Walmart was posted on 2026-04-20.
+This it & systems administration position at Walmart was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

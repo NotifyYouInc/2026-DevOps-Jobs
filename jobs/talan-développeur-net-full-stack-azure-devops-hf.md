@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000121694967-developpeur-net-full-stack-azure-devops-hf) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000129786789-developpeur-net-full-stack-azure-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-04-20.
+This devops engineer position at Talan was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

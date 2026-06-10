@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Georgia, US |
-| Category | DevOps Engineer |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-GA-Fort-Gordon/Reliability-Engineer_R0155377) |
+| Location | Waukesha, Wisconsin, United States |
+| Category | Industrial Automation |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-WI-Waukesha/Reliability-Engineer_R0162586) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-02-28.
+This industrial automation position at Amentum was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

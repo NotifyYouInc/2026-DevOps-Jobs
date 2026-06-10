@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125878145-it-infrastructure-cloud-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000129686991-it-infrastructure-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-05-11.
+This devops engineer position at Eurofins Scientific was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

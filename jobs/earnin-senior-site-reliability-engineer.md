@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7895718) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7954868) |
 
 ## About This Role
 
-This devops engineer position at EarnIn was posted on 2026-05-13.
+This devops engineer position at EarnIn was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
