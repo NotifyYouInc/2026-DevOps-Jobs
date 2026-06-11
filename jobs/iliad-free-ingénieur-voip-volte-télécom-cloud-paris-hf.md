@@ -5,12 +5,12 @@
 | Company | [Iliad-Free](https://scoutify.ai/companies/iliadfree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000124575011-ingenieur-voip-volte-telecom-cloud-paris-hf) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Iliad-Free/744000129958564-ingenieur-voip-volte-telecom-cloud-paris-hf) |
 
 ## About This Role
 
-This devops engineer position at Iliad-Free was posted on 2026-05-05.
+This devops engineer position at Iliad-Free was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

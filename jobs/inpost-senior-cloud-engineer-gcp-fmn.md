@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Poland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000119144240-senior-cloud-engineer-gcp-fmn) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000129987119-senior-cloud-engineer-gcp-fmn) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-04-07.
+This devops engineer position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

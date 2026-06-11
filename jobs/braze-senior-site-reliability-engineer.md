@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7602202?gh_jid=7602202) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/7980448?gh_jid=7980448) |
 
 ## About This Role
 
-This devops engineer position at Braze was posted on 2026-02-10.
+This devops engineer position at Braze was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

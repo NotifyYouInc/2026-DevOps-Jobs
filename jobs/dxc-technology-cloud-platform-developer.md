@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---LAN---MANCHESTER/Associate-Manager-Cloud-Platform-Developer-3_51553628-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---ANY-CITY/Cloud-Platform-Developer_51549420-1) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-04-13.
+This devops engineer position at DXC Technology was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

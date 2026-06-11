@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Sr-Infrastructure-Engineer_R0045803-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Sr-Infrastructure-Engineer_R0048023) |
 
 ## About This Role
 
-This devops engineer position at HCSC was posted on 2026-03-17.
+This devops engineer position at HCSC was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000114110973-ingenieur-sre-aws-fh) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000129999831-ingenieur-sre-aws-fh) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-11.
+This devops engineer position at Devoteam was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000126068904-platform-engineer-idp-fmn) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000129988690-platform-engineer-idp-fmn) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-05-12.
+This devops engineer position at INPOST was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

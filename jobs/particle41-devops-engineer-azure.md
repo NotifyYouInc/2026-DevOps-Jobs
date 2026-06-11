@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Particle41](https://scoutify.ai/companies/particle41?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico |
+| Location | Argentina |
 | Category | DevOps Engineer |
 | Posted | 2025-03-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/particle41llc/jobs/4499382008) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/particle41llc/jobs/4499380008) |
 
 ## About This Role
 

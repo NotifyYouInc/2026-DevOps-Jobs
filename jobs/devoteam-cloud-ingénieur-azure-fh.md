@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000117684039-cloud-ingenieur-azure-fh) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000129995845-cloud-ingenieur-azure-fh) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-30.
+This devops engineer position at Devoteam was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

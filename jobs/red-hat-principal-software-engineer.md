@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Boston/Principal-Software-Engineer_R-055444) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Principal-Software-Engineer_R-057273-2) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-02-25.
+This devops engineer position at Red Hat was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

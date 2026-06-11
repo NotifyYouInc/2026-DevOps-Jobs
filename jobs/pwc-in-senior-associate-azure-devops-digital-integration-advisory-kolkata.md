@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure DevOps  _Digital Integration_Advisory_Kolkata at PwC
+# IN_Senior Associate_Azure Devops_Digital Integration_Advisory_Kolkata at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kolkata, West Bengal, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata-Y-14/IN-Senior-Associate-Azure-DevOps---Digital-Integration-Advisory-Kolkata_721706WD-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Kolkata---Magnacon-Building/IN-Senior-Associate-Azure-Devops-Digital-Integration-Advisory-Kolkata_733802WD-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-04-15.
+This devops engineer position at PwC was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

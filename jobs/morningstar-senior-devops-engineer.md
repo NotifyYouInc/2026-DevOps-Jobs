@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Morningstar
+# Senior Devops Engineer at Morningstar
 
 | Field | Details |
 |-------|---------|
 | Company | [Morningstar](https://scoutify.ai/companies/morningstar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-DevOps-Engineer_REQ-056735-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://morningstar.wd5.myworkdayjobs.com/Americas/job/Mumbai/Senior-Devops-Engineer_REQ-056880) |
 
 ## About This Role
 
-This devops engineer position at Morningstar was posted on 2026-05-19.
+This devops engineer position at Morningstar was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

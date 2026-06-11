@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000127008819-devops-ingenieur-systemes-hf) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000129933045-devops-ingenieur-systemes-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-05-18.
+This devops engineer position at Meritis was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

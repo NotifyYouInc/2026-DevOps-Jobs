@@ -5,12 +5,12 @@
 | Company | [Mubi](https://scoutify.ai/companies/mubi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/mubi/7533e85f-7c9d-413b-a070-fcf9545002d1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/mubi/f6b508c2-2e17-4ffe-862e-07258731eccc) |
 
 ## About This Role
 
-This devops engineer position at Mubi was posted on 2026-04-02.
+This devops engineer position at Mubi was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

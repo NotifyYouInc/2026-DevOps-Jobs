@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Berwick, Maine, United States |
+| Location | East Hartford, Connecticut, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-ME-NORTH-BERWICK-113--113-Wells-St--WELLS-Rte-9/Automation-Engineer--Onsite-_01839281-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Automation-Engineer--Onsite-_01849301) |
 
 ## About This Role
 
-This industrial automation position at RTX was posted on 2026-04-21.
+This industrial automation position at RTX was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

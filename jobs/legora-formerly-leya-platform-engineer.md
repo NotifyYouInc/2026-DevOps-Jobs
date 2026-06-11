@@ -1,16 +1,16 @@
-# Platform Engineer  at Legora (formerly Leya)
+# Platform Engineer at Legora (formerly Leya)
 
 | Field | Details |
 |-------|---------|
 | Company | [Legora (formerly Leya)](https://scoutify.ai/companies/legora?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sweden |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/legora/97784bc1-e75b-4da9-89e0-e6e61a6d7e06) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/legora/8aa3a02e-6081-4237-9994-bcf61d1de050) |
 
 ## About This Role
 
-This devops engineer position at Legora (formerly Leya) was posted on 2026-04-14.
+This devops engineer position at Legora (formerly Leya) was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

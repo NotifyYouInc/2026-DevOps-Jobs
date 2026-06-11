@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110753) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117762) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-04-21.
+This devops engineer position at IBM was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 
