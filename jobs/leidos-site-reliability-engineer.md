@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | Vista, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Site-Reliability-Engineer_R-00182644) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Site-Reliability-Engineer_R-00184836) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-06.
+This devops engineer position at Leidos was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

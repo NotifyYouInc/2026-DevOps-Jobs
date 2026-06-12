@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Junior-Cloud-DevOps-Engineer_R2121346) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Junior-Cloud-DevOps-Engineer_R2124667) |
 
 ## About This Role
 
-This devops engineer position at KBR was posted on 2026-04-02.
+This devops engineer position at KBR was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

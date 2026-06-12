@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Industrial Automation |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Power-Systems-Protection-Engineer_2026-19662) |
+| Location | 4 locations |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Georgia---Columbus/Application-Engineer---Automation_2026-21453) |
 
 ## About This Role
 
-This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-04-08.
+This electrical / hardware engineer position at Schweitzer Engineering Laboratories was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

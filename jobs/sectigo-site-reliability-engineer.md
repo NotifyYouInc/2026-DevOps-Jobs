@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Manchester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013330726-site-reliability-engineer) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013465967-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sectigo was posted on 2026-05-27.
+This devops engineer position at Sectigo was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

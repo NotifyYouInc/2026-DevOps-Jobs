@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | San Diego, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Automation-Engineer_R0239463) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Automation-Engineer_R0237814) |
 
 ## About This Role
 
-This industrial automation position at Booz Allen was posted on 2026-05-06.
+This industrial automation position at Booz Allen was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Software-Engineering-Lead-Engineer_31560) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Bangalore-India/Software-Engineering-Lead-Engineer_31557) |
 
 ## About This Role
 
-This devops engineer position at FICO was posted on 2026-04-07.
+This devops engineer position at FICO was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

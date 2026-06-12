@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Durham, North Carolina, United States |
+| Location | Puurs, Flanders, Belgium |
 | Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Durham/Automation-Engineer_REQ-10075351-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Puurs/Automation-Engineer_REQ-10078169-2) |
 
 ## About This Role
 
-This industrial automation position at Novartis was posted on 2026-04-24.
+This industrial automation position at Novartis was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

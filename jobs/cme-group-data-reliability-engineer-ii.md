@@ -5,12 +5,12 @@
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Data-Reliability-Engineer-II_34017-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Belfast---Millennium-House/Data-Reliability-Engineer-II_34021-1) |
 
 ## About This Role
 
-This devops engineer position at CME Group was posted on 2026-03-16.
+This devops engineer position at CME Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
