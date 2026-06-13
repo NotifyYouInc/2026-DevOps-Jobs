@@ -5,12 +5,12 @@
 | Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/a9ff16d5-60cb-4ebd-b1e4-6fd50750c0ba) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.lever.co/ciandt/12933e44-4ef6-44c7-8c19-5a4639daccdd) |
 
 ## About This Role
 
-This devops engineer position at Ciandt was posted on 2026-04-17.
+This devops engineer position at Ciandt was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

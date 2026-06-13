@@ -5,12 +5,12 @@
 | Company | [LIGHTFEATHER IO LLC](https://scoutify.ai/companies/lightfeather-io-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5239592008) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5249902008) |
 
 ## About This Role
 
-This devops engineer position at LIGHTFEATHER IO LLC was posted on 2026-06-02.
+This devops engineer position at LIGHTFEATHER IO LLC was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

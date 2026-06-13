@@ -5,12 +5,12 @@
 | Company | [Brainlab](https://scoutify.ai/companies/brainlab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000120482187-software-engineer-devops) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/brainlab/744000130425509-software-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Brainlab was posted on 2026-04-13.
+This devops engineer position at Brainlab was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Technical-Support-Specialist-III_WD30265930) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Devops-Engineer_WD30271418) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-05-08.
+This devops engineer position at Johnson Controls was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

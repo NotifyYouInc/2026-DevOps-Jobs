@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Milford, Connecticut, United States |
 | Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Design-Release-Engineer_JR-202607170) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Design-Release-Engineer_JR-202611009) |
 
 ## About This Role
 
-This embedded / firmware engineer position at General Motors was posted on 2026-04-13.
+This embedded / firmware engineer position at General Motors was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

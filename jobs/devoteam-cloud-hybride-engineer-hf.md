@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000125149744-cloud-hybride-engineer-hf) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000130421504-cloud-hybride-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-05-07.
+This devops engineer position at Devoteam was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

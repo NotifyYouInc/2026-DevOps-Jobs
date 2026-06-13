@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Zürich, Zurich, Switzerland |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZhfuhFdKIez8XYlzObGm83W7N3ggD3lqUeEuugm2tJoEjsACxwdTJrNwHwcdBVw2Jjalte01KHD2S0uwH_LA5d7F-Zix9C93kn0mgIT6XT257ZcfL5rv_x5pFh-1Q%3D%3D_V2&loc=CH&title=Senior+Staff+Software+Engineer) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdLKSOgTvU_9X26Zv0OsOkJBpO1ae_471QxHL7fIfPhKEjsACxwdTBiU-IpRLd6aNKPqi801D3Vk5eAJGOCvPsSWJQgoPwXiPlC_t4pOS61-ir4nagPdTwVfZp5cmQ%3D%3D_V2&loc=US&title=Senior+Staff+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-03.
+This devops engineer position at Google was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

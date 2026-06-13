@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bucket Robotics](https://scoutify.ai/companies/bucket-robotics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/bucket-robotics/jobs/vkZKgmP-forward-deploy-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/bucket-robotics/jobs/va6hXZz-forward-deploy-engineer) |
 
 ## About This Role
 
-This devops engineer position at Bucket Robotics was posted on 2026-05-13.
+This devops engineer position at Bucket Robotics was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

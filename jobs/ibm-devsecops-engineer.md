@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108770) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=116799) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-04-10.
+This devops engineer position at IBM was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

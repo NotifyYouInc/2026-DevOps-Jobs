@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AVEVA](https://scoutify.ai/companies/aveva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Manoteras-Spain/Cloud-Engineer--Data-Platforms_R013806) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://aveva.wd3.myworkdayjobs.com/AVEVA_careers/job/Bangalore-India/Cloud-Engineer--Data-Platforms_R014439-1) |
 
 ## About This Role
 
-This devops engineer position at AVEVA was posted on 2026-04-12.
+This devops engineer position at AVEVA was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

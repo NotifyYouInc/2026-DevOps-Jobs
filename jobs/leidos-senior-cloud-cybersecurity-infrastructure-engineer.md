@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | Security Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Senior-Cloud-Cybersecurity-Infrastructure-Engineer_R-00181409) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Senior-Cloud-Cybersecurity-Infrastructure-Engineer_R-00184907) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-21.
+This security engineer position at Leidos was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

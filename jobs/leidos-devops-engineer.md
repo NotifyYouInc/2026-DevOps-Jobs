@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Newport News, Virginia, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/DevOps-Engineer_R-00184645) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/DevOps-Engineer_R-00184906) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-02.
+This devops engineer position at Leidos was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

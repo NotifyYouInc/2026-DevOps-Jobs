@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Derby, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012936238-reliability-engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013486606-reliability-engineer) |
 
 ## About This Role
 
-This engineering manager position at Wabtec was posted on 2026-05-01.
+This engineering manager position at Wabtec was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

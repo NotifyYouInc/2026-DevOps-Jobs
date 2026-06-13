@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Thornton, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUygSPNlI_iYiBPAHLSRHFAj31XDa0ee0Vzs5zHT753dEjsACxwdTN0YpPhqKm37uCrvl2YheDQdSJaxchp3Nhcp8la-qLC0rk1oGfDPpgIFwgBBW-pW5FrW92aZ1w%3D%3D_V2&loc=US&title=Operations+Engineer) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWQRxDoCTHzsyWhmxqR_KSaUBt_8TQexA5SB4GaZWFBpEjsACxwdTNbl6XoeBm6fidFXbGFGdsXdntp1XNWVtZBtmvW8l5R8Bsf0HnyB5y9i9Sd1CZkTKpf9lO1E6g%3D%3D_V2&loc=US&title=Operations+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-04-20.
+This devops engineer position at Google was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

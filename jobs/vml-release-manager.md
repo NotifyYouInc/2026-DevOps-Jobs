@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8420045002?gh_jid=8420045002) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8580030002?gh_jid=8580030002) |
 
 ## About This Role
 
-This devops engineer position at VML was posted on 2026-04-23.
+This devops engineer position at VML was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Automation Engineer Senior Analyst – HIH - Evernorth at Cigna
+# Automation Engineer Senior Analyst - HIH - Evernorth at Cigna
 
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Automation-Engineer-Senior-Analyst---HIH---Evernorth_26002492) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Automation-Engineer-Senior-Analyst---HIH---Evernorth_26006127) |
 
 ## About This Role
 
-This industrial automation position at Cigna was posted on 2026-05-08.
+This industrial automation position at Cigna was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
