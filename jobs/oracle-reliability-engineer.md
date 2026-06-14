@@ -1,16 +1,16 @@
-# Delivery Consultant – zDevOps at IBM
+# Reliability Engineer at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Wisconsin, US |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118845) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#330389) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-06-04.
+This devops engineer position at Oracle was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
