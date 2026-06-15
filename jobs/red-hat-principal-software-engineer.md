@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ireland |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Waterford-City/Principal-Software-Engineer_R-057273-2) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Principal-Software-Engineer_R-057034-1) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-06-03.
+This devops engineer position at Red Hat was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

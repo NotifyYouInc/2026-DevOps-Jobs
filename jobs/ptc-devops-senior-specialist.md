@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# DevOps Senior Specialist at PTC
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [PTC](https://scoutify.ai/companies/ptc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Apply | [View on company site](https://ptc.wd1.myworkdayjobs.com/PTC/job/Pune-India/DevOps-Senior-Specialist_JR112301) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at PTC was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

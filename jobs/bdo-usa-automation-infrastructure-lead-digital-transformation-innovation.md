@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Automation & Infrastructure Lead, Digital Transformation & Innovation at BDO USA
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [BDO USA](https://scoutify.ai/companies/bdo-usa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ebqb.fa.us2.oraclecloud.com/jobs/#12202) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at BDO USA was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

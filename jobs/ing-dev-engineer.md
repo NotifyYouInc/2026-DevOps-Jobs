@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Dev Engineer at ING
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Dev-Engineer_REQ-10116146) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at ING was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

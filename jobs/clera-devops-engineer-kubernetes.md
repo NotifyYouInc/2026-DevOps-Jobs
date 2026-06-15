@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# DevOps Engineer (Kubernetes) at Clera
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/b7ded8f7-d313-4b3b-9400-48b1babb7550) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at Clera was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

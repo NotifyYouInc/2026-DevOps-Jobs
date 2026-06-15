@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Openshift Module Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130710050-openshift-module-lead) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at Sopra Steria was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

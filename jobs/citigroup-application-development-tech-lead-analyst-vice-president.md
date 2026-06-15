@@ -1,16 +1,16 @@
-# Service Engineer at Barclays
+# Application Development Tech Lead Analyst -Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Service-Engineer_JR-0000092835) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Development-Tech-Lead-Analyst--Vice-President_26963363) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-06-08.
+This devops engineer position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

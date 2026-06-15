@@ -1,12 +1,12 @@
-# Senior System Software Engineer - DevOps and Infrastructure Automation at Nvidia
+# Senior Systems Engineer, Storage - DGX Cloud at Nvidia
 
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | California, US |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-System-Software-Engineer---DevOps-and-Infrastructure-Automation_JR2018919) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Systems-Engineer--Storage---DGX-Cloud_JR2019408) |
 
 ## About This Role
 

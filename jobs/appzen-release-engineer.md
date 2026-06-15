@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Release Engineer at Appzen
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [Appzen](https://scoutify.ai/companies/appzen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2025-10-07 |
+| Apply | [View on company site](https://jobs.lever.co/appzen/af3180a5-7c58-4d81-8249-6c0a378e7468) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at Appzen was posted on 2025-10-07.
 
 ## Get Real-Time Alerts
 

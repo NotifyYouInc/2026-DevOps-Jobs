@@ -1,4 +1,4 @@
-# IN_Senior Associate_ DevOps Engineer_GCC_Advisory_Bangalore at PwC
+# IN_Senior Associate_Senior Performance Engineer_GCC_Advisory_Bangalore at PwC
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate--DevOps-Engineer-GCC-Advisory-Bangalore_734447WD-2) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bengaluru-Millenia/IN-Senior-Associate-Senior-Performance-Engineer-GCC-Advisory-Bangalore_734625WD-2) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crypto](https://scoutify.ai/companies/crypto?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Hong Kong, Hong Kong |
 | Category | Industrial Automation |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/crypto/d7b9cf97-47f6-4097-9a18-6a26d2a84cf8) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.lever.co/crypto/0e0a8ee2-9223-4d63-9110-2856efacf21f) |
 
 ## About This Role
 
-This industrial automation position at Crypto was posted on 2026-06-01.
+This industrial automation position at Crypto was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

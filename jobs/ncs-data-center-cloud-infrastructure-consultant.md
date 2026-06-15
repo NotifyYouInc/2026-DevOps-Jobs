@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Data Center & Cloud Infrastructure Consultant at NCS
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001136805-data-center-cloud-infrastructure-consultant) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at NCS was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

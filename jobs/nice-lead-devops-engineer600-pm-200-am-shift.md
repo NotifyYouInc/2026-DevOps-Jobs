@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Lead DevOps Engineer(6:00 PM -2:00 AM Shift) at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4887566101?gh_jid=4887566101) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at NiCE was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

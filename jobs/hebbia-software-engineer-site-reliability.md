@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Software Engineer, Site Reliability at Hebbia
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [Hebbia](https://scoutify.ai/companies/hebbia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/hebbia-ai/07730121-e344-4b07-a23e-47dcfd6b3678) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at Hebbia was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

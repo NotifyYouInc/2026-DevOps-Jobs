@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Industrial Automation |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Guangzhou/Automation-Engineer_JR_1049749) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Automation-Engineer_JR_1050301) |
 
 ## About This Role
 
-This industrial automation position at Zeiss was posted on 2026-05-20.
+This industrial automation position at Zeiss was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

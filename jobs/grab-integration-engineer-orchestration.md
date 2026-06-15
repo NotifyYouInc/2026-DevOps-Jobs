@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at N-iX
+# Integration Engineer, Orchestration at Grab
 
 | Field | Details |
 |-------|---------|
-| Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
 | Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4880975101?gh_jid=4880975101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000130697542-integration-engineer-orchestration) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-06-08.
+This devops engineer position at Grab was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
