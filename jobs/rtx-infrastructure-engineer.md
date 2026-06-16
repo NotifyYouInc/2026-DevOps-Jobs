@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gloucester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Infrastructure-Engineer_01827412) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Gloucester-South-Gloucestershire/Infrastructure-Engineer_01846464) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-04-09.
+This devops engineer position at RTX was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

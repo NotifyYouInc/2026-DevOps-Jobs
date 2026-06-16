@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Czechia |
+| Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/DevOps-Engineer_R0321441) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Berlin/DevOps-Engineer_R0330942) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-05-06.
+This devops engineer position at Thales was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Reliability Engineer - Onsite at RTX
+# Senior Reliability Engineer Onsite at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tewksbury, Massachusetts, United States |
+| Location | Portsmouth, Virginia, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/Senior-Reliability-Engineer---Onsite_01841601-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Senior-Reliability-Engineer-Onsite_01851091) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-04-28.
+This electrical / hardware engineer position at RTX was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

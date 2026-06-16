@@ -1,16 +1,16 @@
-# Software development engineer 2 at Wex
+# Software Development Engineer 2 at Wex
 
 | Field | Details |
 |-------|---------|
 | Company | [Wex](https://scoutify.ai/companies/wexinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-development-engineer-2_R16745) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/India---Bangalore-Office/Software-Development-Engineer-2_R21681) |
 
 ## About This Role
 
-This devops engineer position at Wex was posted on 2026-04-23.
+This devops engineer position at Wex was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckfoy02W8wkzWR_kVMrySvrdo9oh2dncxsqI2d2kbgPmoEjsACxwdTJC6PyvqWlHsyYp52S3XTNPoOgJLFDKQOF55W8RKzyTiX7SkfiCAt5hjvyy5IeqW77vJikrwcw%3D%3D_V2&loc=IN&title=Metro+Network+Deployment+Engineer) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc9_FGOM_R8-cknAi-S0_OQHDGAnYqYUMkIR7UyEIZ1iEjoACxwdTINQx_QYpHBb7IkkVCgJQ9mJJdvW3ePJi4sRrR5R_E8_m5myjJ9ygPuwe2ZRF88JGLcQb7kr_V2&loc=TH&title=Metro+Network+Deployment+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-27.
+This devops engineer position at Google was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

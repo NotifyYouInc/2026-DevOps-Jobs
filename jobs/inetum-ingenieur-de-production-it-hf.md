@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Database Administration |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116404297-ingenieur-de-production-it-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000130796390-ingenieur-de-production-it-hf) |
 
 ## About This Role
 
-This database administration position at Inetum was posted on 2026-03-24.
+This devops engineer position at Inetum was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

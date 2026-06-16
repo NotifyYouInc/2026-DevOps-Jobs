@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406352/systems-engineer-route-53) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416101/systems-engineer-route-53) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-04-29.
+This devops engineer position at Amazon was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

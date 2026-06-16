@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/DevOps-Engineer_REQ-10114439) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/DevOps-Engineer_REQ-10115691-1) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-05-28.
+This devops engineer position at ING was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

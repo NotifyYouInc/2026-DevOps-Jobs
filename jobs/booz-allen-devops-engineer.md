@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dahlgren-VA/DevOps-Engineer_R0241376) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0241857) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-06-03.
+This devops engineer position at Booz Allen was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
