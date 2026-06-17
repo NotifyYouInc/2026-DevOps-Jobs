@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Texas, US |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Client-Services-Consultant--Mainframe-DevOps_R025647) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Remote-Location/Client-Services-Consultant--Mainframe-DevOps_R026208) |
 
 ## About This Role
 
-This implementation / professional services position at Broadcom was posted on 2026-04-07.
+This implementation / professional services position at Broadcom was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

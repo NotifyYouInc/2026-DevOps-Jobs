@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Redmond, Washington, United States |
+| Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8573279002?gh_jid=8573279002) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8584920002?gh_jid=8584920002) |
 
 ## About This Role
 
-This devops engineer position at SpaceX was posted on 2026-06-04.
+This devops engineer position at SpaceX was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

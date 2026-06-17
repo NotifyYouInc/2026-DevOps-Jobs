@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pullman, Washington, United States |
+| Location | 2 locations |
 | Category | Industrial Automation |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Senior-Engineer---Power-System-Studies_2024-14804) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Lewiston/Senior-Automation-Engineer_2026-21646) |
 
 ## About This Role
 
-This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-05-27.
+This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Nature's Bakery](https://scoutify.ai/companies/nature-s-bakery?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/naturesbakery/jobs/4677383006) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/naturesbakery/jobs/4688240006) |
 
 ## About This Role
 
-This industrial automation position at Nature's Bakery was posted on 2026-04-29.
+This industrial automation position at Nature's Bakery was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

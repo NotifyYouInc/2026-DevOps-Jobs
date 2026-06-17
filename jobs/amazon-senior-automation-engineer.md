@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Davenport, Iowa, United States |
+| Location | Pflugerville, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3188871/senior-automation-engineer) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408775/senior-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-02-25.
+This industrial automation position at Amazon was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

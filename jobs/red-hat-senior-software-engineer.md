@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Senior-Software-Engineer_R-055131-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Bangalore---Carina/Senior-Software-Engineer_R-057036-2) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-03-18.
+This devops engineer position at Red Hat was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

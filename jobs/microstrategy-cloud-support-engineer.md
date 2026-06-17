@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Technical Support Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000129954219-cloud-support-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000131082342-cloud-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at MicroStrategy was posted on 2026-06-03.
+This technical support engineer position at MicroStrategy was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/CI-CD-Engineer_JR0303482-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-CHNN-32-AB-3FL-STE-C-D/CI-CD-Engineer_JR0303488) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-05-11.
+This devops engineer position at Fidelity National Information Services was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

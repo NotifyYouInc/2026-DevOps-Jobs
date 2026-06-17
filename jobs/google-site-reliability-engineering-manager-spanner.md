@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/100687549097222854-site-reliability-engineering-manager-spanner?sort_by=date&page=1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcR13veE-gKPAhj_6m8vmgSM0puVrSZ8fftUrQcxeb8tEjoACxwdTKYOOEOy-ZboHJTPvha4QHcd2jwVLPfMJPutZQKZ37bHt8ov6MEkLy9FAJd5O5Ca-uSb6RQM_V2&loc=AU&title=Site+Reliability+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-03-09.
+This engineering manager position at Google was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

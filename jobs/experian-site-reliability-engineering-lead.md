@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108444435-site-reliability-engineering-lead) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131383129-site-reliability-engineering-lead) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-02-10.
+This devops engineer position at Experian was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

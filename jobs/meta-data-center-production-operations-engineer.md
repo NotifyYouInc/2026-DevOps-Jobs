@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Albany, Indiana, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1188030703218116) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1281210947429634) |
 
 ## About This Role
 
-This devops engineer position at Meta was posted on 2026-02-19.
+This devops engineer position at Meta was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

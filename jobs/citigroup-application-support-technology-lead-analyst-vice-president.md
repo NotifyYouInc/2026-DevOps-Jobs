@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Application-Support-Technology-Lead-Analyst---Vice-President_26963861) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Support-Technology-Lead-Analyst---Vice-President_26968691) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-06-04.
+This devops engineer position at Citigroup was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

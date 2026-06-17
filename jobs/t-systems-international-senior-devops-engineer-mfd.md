@@ -1,16 +1,16 @@
-# Senior DevOps Engineer (m/f/d) at T-Systems International
+# Senior Devops Engineer (m/f/d) at T-Systems International
 
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Granada, Andalusia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000124618394-senior-devops-engineer-mfd) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000131155349-senior-devops-engineer-mfd) |
 
 ## About This Role
 
-This devops engineer position at T-Systems International was posted on 2026-05-05.
+This devops engineer position at T-Systems International was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

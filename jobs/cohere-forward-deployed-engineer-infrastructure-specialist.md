@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cohere](https://scoutify.ai/companies/cohere?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cohere/fea8cc38-1a55-4f1c-a652-8c39c66138fc) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b) |
 
 ## About This Role
 
-This devops engineer position at Cohere was posted on 2026-02-23.
+This devops engineer position at Cohere was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

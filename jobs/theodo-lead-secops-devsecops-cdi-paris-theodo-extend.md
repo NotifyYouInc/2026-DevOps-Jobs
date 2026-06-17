@@ -1,0 +1,22 @@
+# Lead SecOps / DevSecOps - CDI Paris - Theodo Extend at Theodo
+
+| Field | Details |
+|-------|---------|
+| Company | [Theodo](https://scoutify.ai/companies/theodo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Security Engineer |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.lever.co/theodo/fb0b9e86-f230-4831-b608-7ee8411521fb) |
+
+## About This Role
+
+This security engineer position at Theodo was posted on 2026-06-09.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

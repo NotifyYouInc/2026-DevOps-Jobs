@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000119994507-cloud-engineer-microsoft-d365) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000131159512-cloud-engineer-microsoft-d365) |
 
 ## About This Role
 
-This devops engineer position at METRO/MAKRO was posted on 2026-04-10.
+This devops engineer position at METRO/MAKRO was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

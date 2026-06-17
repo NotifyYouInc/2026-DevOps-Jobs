@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Megazone](https://scoutify.ai/companies/megazone?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Frisco, Texas, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2025-12-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/megazone/3831ae33-179f-4603-a7d3-1a3d2bfa3d8d) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/megazone/4aaa7b49-6043-4519-a4c8-daa2eeda8ea3) |
 
 ## About This Role
 
-This devops engineer position at Megazone was posted on 2025-12-03.
+This devops engineer position at Megazone was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

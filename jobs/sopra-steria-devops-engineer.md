@@ -1,16 +1,16 @@
-# DevOps Engineer  at Sopra Steria
+# DevOps Engineer at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hong Kong |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129115674-devops-engineer) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131146070-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-05-29.
+This devops engineer position at Sopra Steria was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

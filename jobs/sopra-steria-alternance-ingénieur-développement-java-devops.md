@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130401249-alternance-ingenieur-developpement-java-devops) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131100190-alternance-ingenieur-developpement-java-devops) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-05.
+This devops engineer position at Sopra Steria was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

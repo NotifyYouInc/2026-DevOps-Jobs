@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/DevOps-Engineer_R-00184906) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/DevOps-Engineer_R-00184871) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-05.
+This devops engineer position at Leidos was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
