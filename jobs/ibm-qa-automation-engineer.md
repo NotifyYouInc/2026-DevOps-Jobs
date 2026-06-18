@@ -1,16 +1,16 @@
-# QA Automation Engineer at IBM
+# QA Automation engineer at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114794) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118163) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-05-14.
+This devops engineer position at IBM was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr. Automation Engineer (Starlink Customer Success)  at SpaceX
+# Sr. Automation Engineer (Starlink Customer Success) at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Bastrop, Louisiana, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8489777002?gh_jid=8489777002) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8583881002?gh_jid=8583881002) |
 
 ## About This Role
 
-This industrial automation position at SpaceX was posted on 2026-04-02.
+This industrial automation position at SpaceX was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

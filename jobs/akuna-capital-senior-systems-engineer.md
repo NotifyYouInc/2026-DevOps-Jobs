@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akuna Capital](https://scoutify.ai/companies/akuna-capital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.akunacapital.com/careers/job/7923754/?gh_jid=7923754) |
+| Apply | [View on company site](https://www.akunacapital.com/careers/job/7380445/?gh_jid=7380445) |
 
 ## About This Role
 

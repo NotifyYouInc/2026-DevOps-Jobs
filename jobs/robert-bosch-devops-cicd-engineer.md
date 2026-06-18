@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000128935165-devops-cicd-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131592129-devops-cicd-engineer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-28.
+This devops engineer position at Robert Bosch was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

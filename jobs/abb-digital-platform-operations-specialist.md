@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Digital-Platform-Operations-Specialist_JR00024248-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Digital-Platform-Operations-Specialist_JR00032448) |
 
 ## About This Role
 
-This operations position at ABB was posted on 2026-02-12.
+This devops engineer position at ABB was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

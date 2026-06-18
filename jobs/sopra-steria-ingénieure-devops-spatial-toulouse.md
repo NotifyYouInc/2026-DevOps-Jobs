@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000127663241-ingenieure-devops-spatial-toulouse) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131447864-ingenieure-devops-spatial-toulouse) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-05-21.
+This devops engineer position at Sopra Steria was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

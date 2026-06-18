@@ -5,12 +5,12 @@
 | Company | [AlayaCare](https://scoutify.ai/companies/alayacare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://alayacare.com/open-positions?gh_jid=8583368002) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://alayacare.com/open-positions?gh_jid=8587294002) |
 
 ## About This Role
 
-This devops engineer position at AlayaCare was posted on 2026-06-09.
+This devops engineer position at AlayaCare was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

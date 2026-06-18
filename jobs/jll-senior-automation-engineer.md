@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bondurant, Iowa, United States |
+| Location | Matteson, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bondurant-IA/Senior-Automation-Engineer_REQ507325) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Matteson-IL/Senior-Automation-Engineer_REQ480343) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-05-13.
+This industrial automation position at JLL was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

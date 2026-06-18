@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Benevity](https://scoutify.ai/companies/benevity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://benevity.com/job-posting?gh_jid=5829618004) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/benevity/1c4a5e9c-9365-4f93-9150-80165059cffe) |
 
 ## About This Role
 
-This devops engineer position at Benevity was posted on 2026-05-21.
+This devops engineer position at Benevity was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000114064865-ingenieur-devops-openstack) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000131471919-ingenieur-devops-openstack) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-03-11.
+This devops engineer position at Everience was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

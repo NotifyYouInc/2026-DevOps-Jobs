@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Proofpoint](https://scoutify.ai/companies/proofpoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/Bengaluru-India---Remote/QA-Automation-Engineer_R14034) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://proofpoint.wd5.myworkdayjobs.com/ProofpointCareers/job/India/QA-Automation-Engineer_R14256) |
 
 ## About This Role
 
-This devops engineer position at Proofpoint was posted on 2026-04-14.
+This devops engineer position at Proofpoint was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

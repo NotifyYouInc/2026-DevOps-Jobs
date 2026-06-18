@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Portsmouth, Virginia, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Senior-Reliability-Engineer-Onsite_01851091) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Senior-Reliability-Engineer-Onsite_01850573) |
 
 ## About This Role
 
-This electrical / hardware engineer position at RTX was posted on 2026-06-08.
+This electrical / hardware engineer position at RTX was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

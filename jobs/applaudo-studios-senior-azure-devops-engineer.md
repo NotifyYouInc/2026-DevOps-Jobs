@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000128757688-senior-azure-devops-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131501851-senior-azure-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Applaudo Studios was posted on 2026-05-27.
+This devops engineer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

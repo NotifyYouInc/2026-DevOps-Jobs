@@ -5,12 +5,12 @@
 | Company | [Circle.so](https://scoutify.ai/companies/circleso?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/circleso/jobs/5172874008) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/circleso/jobs/5253897008) |
 
 ## About This Role
 
-This devops engineer position at Circle.so was posted on 2026-04-01.
+This devops engineer position at Circle.so was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

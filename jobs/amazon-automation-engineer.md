@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bad Hersfeld, Hesse, Germany |
+| Location | Perris, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10371040/automation-engineer) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417942/automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-03-19.
+This industrial automation position at Amazon was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

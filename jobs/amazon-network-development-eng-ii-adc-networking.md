@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Bellevue, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416107/network-development-eng-ii-adc-networking) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445016/network-development-eng-ii-adc-networking) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-11.
+This devops engineer position at Amazon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

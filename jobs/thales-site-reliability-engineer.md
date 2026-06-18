@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Czechia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Site-Reliability-Engineer_R0328588) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/So-Paulo/Site-Reliability-Engineer_R0329914-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-05-15.
+This devops engineer position at Thales was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT Infrastructure Engineer at Eurofins Scientific
+# IT Infrastructure Engineer  at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Newmarket, England, United Kingdom |
+| Location | Cork, Munster, Ireland |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130821385-it-infrastructure-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131414632-it-infrastructure-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Eurofins Scientific was posted on 2026-06-08.
+This it & systems administration position at Eurofins Scientific was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

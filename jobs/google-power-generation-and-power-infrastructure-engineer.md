@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 8 locations |
+| Location | 7 locations |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckaZo0lmFoAvR5VIR0MBeo9p3w3NIMv7CuCp6FloFEL9jEjsACxwdTB117GP8W2jw6lr8lhFWFpmMw1xBYrRSloPlgSYY2ZRRHlVQABI0J306m8M7CRERMoDlJwk0ig%3D%3D_V2&loc=US&title=Power+Generation+and+Power+Infrastructure+Engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckT49eMhX2WMGs_fs73gC7EXm1EZKtcyJ9KEOuFblykKiEjsACxwdTNkTPNbVe56e_o2yWeRoX8gIi7-yLkEfPUTV7z7EXOvExHpR7LRtMitlc_cehJVGRVp9ciQSJA%3D%3D_V2&loc=US&title=Power+Generation+and+Power+Infrastructure+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-05-14.
+This electrical / hardware engineer position at Google was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

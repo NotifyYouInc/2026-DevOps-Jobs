@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lille, Hauts-de-France, France |
-| Category | Engineering Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111342385-senior-cloud-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000131397452-senior-cloud-engineer) |
 
 ## About This Role
 
-This engineering manager position at Devoteam was posted on 2026-02-25.
+This devops engineer position at Devoteam was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

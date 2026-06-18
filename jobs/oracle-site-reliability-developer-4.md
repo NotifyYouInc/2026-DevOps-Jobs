@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Location | Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335319) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335351) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-06-01.
+This devops engineer position at Oracle was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

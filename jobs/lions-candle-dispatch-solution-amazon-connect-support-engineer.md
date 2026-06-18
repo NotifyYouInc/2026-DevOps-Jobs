@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | India |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000125157417-amazon-connect-support-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131420539-amazon-connect-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-05-07.
+This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

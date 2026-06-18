@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Senior-Manager--Software-Development-Engineering--DevOps---Platform-_JR-0104790) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Ireland-Dublin/Senior-Manager--Software-Development-Engineering--DevOps---Platform-_JR-0107974) |
 
 ## About This Role
 
-This engineering manager position at Workday was posted on 2026-03-09.
+This engineering manager position at Workday was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

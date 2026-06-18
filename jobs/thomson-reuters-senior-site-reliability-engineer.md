@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Eagan, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Site-Reliability-Engineer_JREQ200783-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Site-Reliability-Engineer_JREQ201277) |
 
 ## About This Role
 
-This devops engineer position at Thomson Reuters was posted on 2026-06-02.
+This devops engineer position at Thomson Reuters was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

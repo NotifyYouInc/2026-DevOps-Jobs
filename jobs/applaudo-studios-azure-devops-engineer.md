@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Guatemala City, Guatemala, Guatemala |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000124704488-azure-devops-engineer) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000131513330-azure-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Applaudo Studios was posted on 2026-05-05.
+This devops engineer position at Applaudo Studios was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
