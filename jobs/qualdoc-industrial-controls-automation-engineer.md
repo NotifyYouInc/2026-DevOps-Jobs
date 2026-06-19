@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Virginia, US |
+| Location | Petersburg, Virginia, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/1e367a53-fc5e-49d3-b016-eab0895ffa24) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/5372f15a-e848-4232-a538-9e67ea985f42) |
 
 ## About This Role
 
-This industrial automation position at Qualdoc was posted on 2026-05-05.
+This industrial automation position at Qualdoc was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

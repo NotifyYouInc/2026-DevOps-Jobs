@@ -5,12 +5,12 @@
 | Company | [AssetWatch, Inc.](https://scoutify.ai/companies/assetwatch-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/assetwatch/jobs/4692952005) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/assetwatch/jobs/4698049005) |
 
 ## About This Role
 
-This industrial automation position at AssetWatch, Inc. was posted on 2026-05-08.
+This industrial automation position at AssetWatch, Inc. was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

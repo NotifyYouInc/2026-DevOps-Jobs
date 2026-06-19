@@ -5,12 +5,12 @@
 | Company | [Gong.io](https://scoutify.ai/companies/gongio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4668081006) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gongio/jobs/4668077006) |
 
 ## About This Role
 
-This devops engineer position at Gong.io was posted on 2026-05-06.
+This devops engineer position at Gong.io was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

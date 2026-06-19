@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013317582-assistant-cloud-administrator-for-the-division-of-hpd-tech) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013575746-assistant-cloud-administrator-for-the-division-of-hpd-tech) |
 
 ## About This Role
 
-This devops engineer position at City of New York was posted on 2026-05-27.
+This devops engineer position at City of New York was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Rakovník, Central Bohemia, Czechia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Test---Automation-Engineer_REQ2025067846) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Rakovnik/Test---Automation-Engineer_REQ2025064007-1) |
 
 ## About This Role
 
-This devops engineer position at Valeo was posted on 2026-03-09.
+This devops engineer position at Valeo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

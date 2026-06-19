@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gotha, Thuringia, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000131075672-automation-engineer-mwd) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000131827579-automation-engineer-mwd) |
 
 ## About This Role
 
-This industrial automation position at Avery Dennison Corporation was posted on 2026-06-09.
+This industrial automation position at Avery Dennison Corporation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

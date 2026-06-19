@@ -5,12 +5,12 @@
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santa Clara, California, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Package-Reliability-Engineer_2601119) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Package-Reliability-Engineer_2602025) |
 
 ## About This Role
 
-This semiconductor / chip design position at Marvell was posted on 2026-04-14.
+This semiconductor / chip design position at Marvell was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

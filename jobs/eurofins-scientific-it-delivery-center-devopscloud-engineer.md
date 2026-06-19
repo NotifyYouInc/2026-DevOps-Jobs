@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127453859-it-delivery-center-devopscloud-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131810979-it-delivery-center-devopscloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-05-20.
+This devops engineer position at Eurofins Scientific was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

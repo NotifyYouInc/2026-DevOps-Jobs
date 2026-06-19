@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Site-Reliability-Engineer---AVP---Credit-Trade-Floor_JR-0000108554) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Site-Reliability-Engineer---AVP---Credit-Trade-Floor_JR-0000117505) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-06-09.
+This devops engineer position at Barclays was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

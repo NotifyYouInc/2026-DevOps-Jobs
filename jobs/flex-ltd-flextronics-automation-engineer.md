@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Automation-Engineer_WD221779) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Automation-Engineer_WD222805) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-05-27.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

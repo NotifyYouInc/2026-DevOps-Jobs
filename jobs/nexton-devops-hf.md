@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000129789681-devops-hf) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000131711024-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Nexton was posted on 2026-06-02.
+This devops engineer position at Nexton was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000125222549-cloud-support-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000131771699-cloud-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Sutherland was posted on 2026-05-07.
+This technical support engineer position at Sutherland was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

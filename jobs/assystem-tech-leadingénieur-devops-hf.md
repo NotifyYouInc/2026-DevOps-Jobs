@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000123633899-tech-leadingenieur-devops-hf) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000131709410-tech-leadingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Assystem was posted on 2026-04-29.
+This devops engineer position at Assystem was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

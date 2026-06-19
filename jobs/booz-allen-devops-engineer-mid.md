@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Aurora-CO/DevOps-Engineer--Mid_R0241823) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0242043) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-06-09.
+This devops engineer position at Booz Allen was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

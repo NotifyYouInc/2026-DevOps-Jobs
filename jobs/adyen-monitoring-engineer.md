@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7942455) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7939051) |
 
 ## About This Role
 
-This devops engineer position at Adyen was posted on 2026-05-22.
+This devops engineer position at Adyen was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

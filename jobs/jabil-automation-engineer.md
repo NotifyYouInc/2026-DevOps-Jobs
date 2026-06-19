@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Sungai Petani, Kedah, Malaysia |
 | Category | Industrial Automation |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Salt-Lake-CityGrantsville-UT/Automation-Engineer_J2452357) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Sungai-Petani/Automation-Engineer_J2453076) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-06-03.
+This industrial automation position at Jabil was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

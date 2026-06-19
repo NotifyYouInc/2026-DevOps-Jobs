@@ -1,16 +1,16 @@
-# Devops Engineer  at Scalian
+# DevOps Engineer at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000128789071-devops-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000131712490-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-05-27.
+This devops engineer position at Scalian was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

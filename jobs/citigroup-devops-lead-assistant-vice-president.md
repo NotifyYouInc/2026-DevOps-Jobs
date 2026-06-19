@@ -1,16 +1,16 @@
-# DevOps Lead - Assistant Vice President at Citigroup
+# Devops Lead - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/DevOps-Lead---Assistant-Vice-President_26958255) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Devops-Lead---Assistant-Vice-President_26967660) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-04-29.
+This devops engineer position at Citigroup was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

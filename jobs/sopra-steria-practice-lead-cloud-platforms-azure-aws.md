@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | Engineering Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131061269-practice-lead-cloud-platforms-azure-aws) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131648598-practice-lead-cloud-platforms-azure-aws) |
 
 ## About This Role
 
-This engineering manager position at Sopra Steria was posted on 2026-06-09.
+This engineering manager position at Sopra Steria was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

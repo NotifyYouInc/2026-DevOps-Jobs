@@ -5,12 +5,12 @@
 | Company | [SQLI](https://scoutify.ai/companies/sqli?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Diepenbeek, Flanders, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000131414349-senior-devops-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SQLI1/744000131629920-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at SQLI was posted on 2026-06-10.
+This devops engineer position at SQLI was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

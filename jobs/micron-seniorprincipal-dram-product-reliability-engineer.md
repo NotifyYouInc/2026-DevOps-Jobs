@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Principal-DRAM-Product-Reliability-Engineer_JR100259) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Principal-DRAM-Product-Reliability-Engineer_JR103467) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Micron was posted on 2026-05-12.
+This electrical / hardware engineer position at Micron was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

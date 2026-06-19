@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/ServiceNow-DevOps-Engineer_702697WD) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/ServiceNow-DevOps-Engineer_736272WD) |
 
 ## About This Role
 
-This software engineer position at PwC was posted on 2026-02-03.
+This devops engineer position at PwC was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

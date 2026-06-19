@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ahmedabad, Gujarat, India |
+| Location | Egypt |
 | Category | Industrial Automation |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ahmedabad-Gujarat-India/Senior-Automation-Engineer_JR00035389) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/10th-of-Ramadan-City-Sharkia-Egypt/Senior-Automation-Engineer_JR00035879) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-06-01.
+This industrial automation position at ABB was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

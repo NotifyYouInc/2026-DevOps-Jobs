@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Container-as-a-Service-Engineer---OpenShift_R0113938) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Container-as-a-Service-Engineer---OpenShift_R0115671) |
 
 ## About This Role
 
-This devops engineer position at Truist was posted on 2026-04-29.
+This devops engineer position at Truist was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
