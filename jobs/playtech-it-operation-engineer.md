@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000131475174-it-operation-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000131619153-it-operation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-06-10.
+This devops engineer position at Playtech was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

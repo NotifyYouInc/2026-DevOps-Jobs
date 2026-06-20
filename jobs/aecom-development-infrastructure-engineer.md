@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cork, Munster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000121996993-development-infrastructure-engineer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000131891005-development-infrastructure-engineer) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-04-21.
+This engineering manager position at AECOM was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

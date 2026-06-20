@@ -5,12 +5,12 @@
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Melbourne-FL/DevOps-Engineer-III_7809) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Melbourne-FL/DevOps-Engineer-III_7947) |
 
 ## About This Role
 
-This devops engineer position at AeroVironment was posted on 2026-05-20.
+This devops engineer position at AeroVironment was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

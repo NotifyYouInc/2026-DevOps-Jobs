@@ -1,16 +1,16 @@
-# Quality and automation Engineer 3 at Comcast
+# Quality and Automation Engineer 3 at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Industrial Automation |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-automation-Engineer-3_R431040) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Quality-and-Automation-Engineer-3_R436071) |
 
 ## About This Role
 
-This industrial automation position at Comcast was posted on 2026-03-12.
+This industrial automation position at Comcast was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

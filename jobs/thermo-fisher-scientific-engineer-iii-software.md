@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Engineer-III--Software_R-01351723) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hyderabad-India/Engineer-III--Software_R-01351763) |
 
 ## About This Role
 
-This devops engineer position at Thermo Fisher Scientific was posted on 2026-06-02.
+This devops engineer position at Thermo Fisher Scientific was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

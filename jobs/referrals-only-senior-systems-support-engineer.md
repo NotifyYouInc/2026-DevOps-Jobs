@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Porto Alegre, Rio Grande do Sul, Brazil |
 | Category | Technical Support Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7667959) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7988370) |
 
 ## About This Role
 
-This technical support engineer position at Referrals Only was posted on 2026-03-02.
+This technical support engineer position at Referrals Only was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

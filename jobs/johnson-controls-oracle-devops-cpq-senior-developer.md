@@ -1,16 +1,16 @@
-# Oracle DevOps  CPQ Senior Developer at Johnson Controls
+# Oracle DevOps CPQ Senior Developer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Oracle-DevOps--CPQ-Senior-Developer_WD30270694) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Oracle-DevOps-CPQ-Senior-Developer_WD30271983-1) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-06-02.
+This devops engineer position at Johnson Controls was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

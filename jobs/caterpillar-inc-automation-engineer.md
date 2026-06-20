@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tianjin, Tianjin, China |
-| Category | Industrial Automation |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Automation-Engineer_R0000358048) |
+| Location | Piracicaba, São Paulo, Brazil |
+| Category | IT & Systems Administration |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Automation-Engineer_R0000374145) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar Inc. was posted on 2026-05-21.
+This it & systems administration position at Caterpillar Inc. was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

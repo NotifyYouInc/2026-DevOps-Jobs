@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Infrastructure-Engineer---Kubernetes--Hybrid-_R27925) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Infrastructure-Engineer---Kubernetes--Remote-_R29056) |
 
 ## About This Role
 
-This devops engineer position at CrowdStrike was posted on 2026-05-13.
+This devops engineer position at CrowdStrike was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

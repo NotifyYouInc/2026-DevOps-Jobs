@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Exact Sciences](https://scoutify.ai/companies/exactsciences?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madison, Wisconsin, United States |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Equipment-and-Automation-Engineer-II_R26-12325) |
+| Category | Industrial Automation |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://exactsciences.wd1.myworkdayjobs.com/Exact_Sciences/job/US---WI---Madison/Equipment-and-Automation-Engineer-II_R26-13413) |
 
 ## About This Role
 
-This operations position at Exact Sciences was posted on 2026-02-05.
+This industrial automation position at Exact Sciences was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

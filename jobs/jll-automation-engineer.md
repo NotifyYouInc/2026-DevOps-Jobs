@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Spokane Valley, Washington, United States |
+| Location | Sarasota, Florida, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Spokane-Valley-WA/Automation-Engineer_REQ511897) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sarasota-FL/Automation-Engineer_REQ514352) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-06-02.
+This industrial automation position at JLL was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

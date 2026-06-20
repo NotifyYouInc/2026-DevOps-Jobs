@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DevSecOps-AWS-Engineer_327354) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DevSecOps-AWS-Engineer_327734) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-06-04.
+This devops engineer position at CACI was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

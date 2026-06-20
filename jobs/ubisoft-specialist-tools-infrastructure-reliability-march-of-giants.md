@@ -5,12 +5,12 @@
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000115732457-specialist-tools-infrastructure-reliability-march-of-giants) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000131952699-specialist-tools-infrastructure-reliability-march-of-giants) |
 
 ## About This Role
 
-This devops engineer position at Ubisoft was posted on 2026-03-19.
+This devops engineer position at Ubisoft was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

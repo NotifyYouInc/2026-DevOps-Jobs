@@ -5,12 +5,12 @@
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | District of Columbia, US |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/US-Remote---NC/Lead-Automation-Engineer--MES---Digital-Systems---Project-Farma_REQ-057395-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/US-Remote---NC/Lead-Automation-Engineer--MES---Digital-Systems---Project-Farma_REQ-057726) |
 
 ## About This Role
 
-This industrial automation position at PerkinElmer Canada was posted on 2026-05-11.
+This industrial automation position at PerkinElmer Canada was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

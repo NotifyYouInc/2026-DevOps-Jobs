@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Orlando, Florida, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000131453859-senior-cyber-incident-response-engineer) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000131667619-senior-cyber-incident-response-engineer) |
 
 ## About This Role
 
-This security engineer position at NBCUniversal was posted on 2026-06-10.
+This security engineer position at NBCUniversal was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

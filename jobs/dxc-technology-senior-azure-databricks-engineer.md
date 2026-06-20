@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 9 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Senior-Azure-Databricks-Engineer_51576626) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---KA---BANGALORE/Senior-Azure-Databricks-Engineer_51582296) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-05-29.
+This devops engineer position at DXC Technology was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

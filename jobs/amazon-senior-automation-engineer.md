@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tukwila, Washington, United States |
+| Location | Woodbury, Minnesota, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10417407/senior-automation-engineer) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422018/senior-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-12.
+This industrial automation position at Amazon was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

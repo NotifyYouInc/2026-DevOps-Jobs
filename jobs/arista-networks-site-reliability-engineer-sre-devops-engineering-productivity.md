@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000127649604-site-reliability-engineer-sre-devops-engineering-productivity) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000131879884-site-reliability-engineer-sre-devops-engineering-productivity) |
 
 ## About This Role
 
-This devops engineer position at Arista Networks was posted on 2026-05-21.
+This devops engineer position at Arista Networks was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
