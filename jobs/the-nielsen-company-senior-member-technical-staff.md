@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013573356-senior-member-technical-staff) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013590401-senior-member-technical-staff) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Cloud Platform Engineer at Accenture
+# DEVOPS ENGINEER at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nagpur/Cloud-Platform-Engineer_ATCI-5271844-S1962711-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013612228-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-13.
+This devops engineer position at City of New York was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
