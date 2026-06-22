@@ -1,16 +1,16 @@
-# Automation Engineer at Amazon
+# Sr. Network Dev Engineer, BERE Operations at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Avenel, New Jersey, United States |
-| Category | Industrial Automation |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3178256/automation-engineer) |
+| Location | Sydney, New South Wales, Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408131/sr-network-dev-engineer-bere-operations) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-02-10.
+This devops engineer position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

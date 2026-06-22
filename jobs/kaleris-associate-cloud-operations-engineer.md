@@ -1,16 +1,16 @@
-# Engineer 3 - Engineering Operations at Comcast
+# Associate Cloud Operations Engineer at Kaleris
 
 | Field | Details |
 |-------|---------|
-| Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Kaleris](https://scoutify.ai/companies/kaleris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-3---Engineering-Operations_R435237-1) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://kaleris.wd501.myworkdayjobs.com/kaleris_careers/job/Chennai/Associate-Cloud-Operations-Engineer_R-100565) |
 
 ## About This Role
 
-This devops engineer position at Comcast was posted on 2026-06-12.
+This devops engineer position at Kaleris was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

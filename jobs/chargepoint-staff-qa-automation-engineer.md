@@ -1,16 +1,16 @@
-# Dev Ops Engineer at Accenture
+# Staff QA Automation Engineer  at ChargePoint
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [ChargePoint](https://scoutify.ai/companies/chargepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Dev-Ops-Engineer_R00333220) |
+| Apply | [View on company site](https://www.chargepoint.com/about/opportunities/job/?gh_jid=8591784002) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-15.
+This devops engineer position at ChargePoint was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

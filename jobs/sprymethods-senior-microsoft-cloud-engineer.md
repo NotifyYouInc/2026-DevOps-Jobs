@@ -1,16 +1,16 @@
-# Ingénieur SysOps (H/F) at Thales
+# Senior Microsoft Cloud Engineer at Sprymethods
 
 | Field | Details |
 |-------|---------|
-| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Carquefou, Pays de la Loire, France |
+| Company | [Sprymethods](https://scoutify.ai/companies/sprymethods?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-06-14 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Carquefou/Ingnieur-SysOps--H-F-_R0330389-2) |
+| Apply | [View on company site](https://jobs.lever.co/sprymethods/e1981a89-e071-48d2-b52a-7305f8c45877) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-06-14.
+This devops engineer position at Sprymethods was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

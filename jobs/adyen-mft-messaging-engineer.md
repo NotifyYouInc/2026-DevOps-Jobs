@@ -1,16 +1,16 @@
-#  Site Reliability Engineer  at Proton
+# MFT & Messaging Engineer at Adyen
 
 | Field | Details |
 |-------|---------|
-| Company | [Proton](https://scoutify.ai/companies/proton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | DevOps Engineer |
+| Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Product Marketing |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/proton/jobs/4897535101) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/8002490) |
 
 ## About This Role
 
-This devops engineer position at Proton was posted on 2026-06-15.
+This product marketing position at Adyen was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

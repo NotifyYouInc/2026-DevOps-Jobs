@@ -1,16 +1,16 @@
-# Junior DevOps Engineer  at Lions Candle-Dispatch Solution
+# Cloud Platform Operations Engineer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131634269-junior-devops-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Cloud-Platform-Operations-Engineer_583740-1) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-11.
+This devops engineer position at Philips was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

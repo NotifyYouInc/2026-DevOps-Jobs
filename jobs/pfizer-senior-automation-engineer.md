@@ -1,16 +1,16 @@
-# Senior Automation Engineer at Barclays
+# Senior Automation Engineer at Pfizer
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Andover, Minnesota, United States |
 | Category | Industrial Automation |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Senior-Automation-Engineer_JR-0000103872) |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Massachusetts---Andover/Senior-Automation-Engineer_4958931-2) |
 
 ## About This Role
 
-This industrial automation position at Barclays was posted on 2026-06-15.
+This industrial automation position at Pfizer was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

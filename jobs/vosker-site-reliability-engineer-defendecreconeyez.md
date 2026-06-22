@@ -1,16 +1,16 @@
-# Dev Ops Engineer at Accenture
+# Site Reliability Engineer - Defendec/Reconeyez at VOSKER
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [VOSKER](https://scoutify.ai/companies/vosker?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | DevOps Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Dev-Ops-Engineer_R00333220) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vosker/744000132132809-site-reliability-engineer-defendecreconeyez) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-15.
+This devops engineer position at VOSKER was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

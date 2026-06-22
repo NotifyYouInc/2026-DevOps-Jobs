@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Jessup, Maryland, United States |
+| Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420257/adc-engineer-s3-adc-s3-glacier-unique-regions) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420256/adc-engineer-s3-adc-s3-glacier-unique-regions) |
 
 ## About This Role
 

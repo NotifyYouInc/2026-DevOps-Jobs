@@ -1,16 +1,16 @@
-# Ingénieur SysOps (H/F) at Thales
+# Support Engineer at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Carquefou, Pays de la Loire, France |
-| Category | DevOps Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Carquefou/Ingnieur-SysOps--H-F-_R0330389-2) |
+| Location | Bucharest, București, Romania |
+| Category | Technical Support Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/Support-Engineer_R0331393) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-06-14.
+This technical support engineer position at Thales was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

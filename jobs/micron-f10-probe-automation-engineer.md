@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | Industrial Automation |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/F10-PROBE-AUTOMATION-ENGINEER_JR94745) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/F10-PROBE-AUTOMATION-ENGINEER_JR91140) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-03-13.
+This industrial automation position at Micron was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

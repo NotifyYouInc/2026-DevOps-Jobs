@@ -1,16 +1,16 @@
-# Dev Ops Engineer at Accenture
+# DevOps Engineer at APM Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Perth, Western Australia, Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Dev-Ops-Engineer_R00333220) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001154878-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-15.
+This devops engineer position at APM Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

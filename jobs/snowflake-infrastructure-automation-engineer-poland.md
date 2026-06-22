@@ -1,16 +1,16 @@
-# Senior Automation Engineer at Barclays
+# Infrastructure Automation Engineer - Poland at Snowflake
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Snowflake](https://scoutify.ai/companies/snowflake?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Industrial Automation |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Senior-Automation-Engineer_JR-0000103872) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/snowflake/c43a1579-20bf-4811-a591-57b0d8aa8d57) |
 
 ## About This Role
 
-This industrial automation position at Barclays was posted on 2026-06-15.
+This industrial automation position at Snowflake was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Automation Engineer at Amazon
+# ADC Engineer I,  AWS ADC Monitoring & Observability at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Avenel, New Jersey, United States |
-| Category | Industrial Automation |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3178256/automation-engineer) |
+| Location | Denver, Colorado, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421398/adc-engineer-i-aws-adc-monitoring-observability) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-02-10.
+This devops engineer position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

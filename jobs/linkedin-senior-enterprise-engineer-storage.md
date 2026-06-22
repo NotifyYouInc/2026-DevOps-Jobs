@@ -1,16 +1,16 @@
-# Junior DevOps Engineer  at Lions Candle-Dispatch Solution
+# Senior Enterprise Engineer (Storage) at LinkedIn
 
 | Field | Details |
 |-------|---------|
-| Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131634269-junior-devops-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000132075469-senior-enterprise-engineer-storage) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-11.
+This devops engineer position at LinkedIn was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 

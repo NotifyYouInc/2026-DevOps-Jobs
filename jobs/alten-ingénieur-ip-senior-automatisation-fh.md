@@ -1,16 +1,16 @@
-# Dev Ops Engineer at Accenture
+# Ingénieur IP Senior / Automatisation (F/H) at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Dev-Ops-Engineer_R00333220) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000132135815-ingenieur-ip-senior-automatisation-fh) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-15.
+This devops engineer position at ALTEN was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Dev Ops Engineer at Accenture
+# Platform Engineering Lead at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dublin/Dev-Ops-Engineer_R00333220) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/VIC---80-Collins/Platform-Engineering-Lead_R0325566-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-15.
+This devops engineer position at Thales was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

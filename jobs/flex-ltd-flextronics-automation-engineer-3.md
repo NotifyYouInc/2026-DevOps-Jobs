@@ -1,16 +1,16 @@
-# Senior Automation Engineer at Barclays
+# Automation Engineer 3 at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Suzhou, Jiangsu, China |
 | Category | Industrial Automation |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Senior-Automation-Engineer_JR-0000103872) |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Suzhou/Automation-Engineer-3_WD223140) |
 
 ## About This Role
 
-This industrial automation position at Barclays was posted on 2026-06-15.
+This industrial automation position at FLEX LTD. Flextronics was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Junior DevOps Engineer  at Lions Candle-Dispatch Solution
+# SRE DevOps Engineer at Concentrix
 
 | Field | Details |
 |-------|---------|
-| Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000131634269-junior-devops-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/SRE-DevOps-Engineer_R1738440) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-06-11.
+This devops engineer position at Concentrix was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

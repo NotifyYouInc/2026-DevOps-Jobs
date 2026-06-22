@@ -6,7 +6,7 @@
 | Location | Katowice, Silesia, Poland |
 | Category | IT & Systems Administration |
 | Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131590575-infrastructure-engineer-with-french) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131644374-infrastructure-engineer-with-french) |
 
 ## About This Role
 

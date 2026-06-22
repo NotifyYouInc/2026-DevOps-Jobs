@@ -1,16 +1,16 @@
-# Senior Automation Engineer at Barclays
+# Lead Quality Automation Engineer at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Philippines |
 | Category | Industrial Automation |
 | Posted | 2026-06-15 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Senior-Automation-Engineer_JR-0000103872) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Lead-Quality-Automation-Engineer_R0118140-1) |
 
 ## About This Role
 
-This industrial automation position at Barclays was posted on 2026-06-15.
+This industrial automation position at LSEG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

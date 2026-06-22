@@ -1,16 +1,16 @@
-# Automation Engineer at Amazon
+# ファシリティエンジニア - DCEO（データセンターエンジニアリング・オペレーションズ）, NRT78 DCEO, NRT78 DCEO at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Avenel, New Jersey, United States |
-| Category | Industrial Automation |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3178256/automation-engineer) |
+| Location | Tokyo, Tokyo, Japan |
+| Category | DevOps Engineer |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448546/dceo-nrt78-dceo-nrt78-dceo) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-02-10.
+This devops engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

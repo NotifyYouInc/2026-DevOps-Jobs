@@ -1,16 +1,16 @@
-# Automation Engineer at Amazon
+# Network Automation Engineer at Cato Networks
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Avenel, New Jersey, United States |
+| Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Israel |
 | Category | Industrial Automation |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3178256/automation-engineer) |
+| Posted | 2026-06-14 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4363008101?gh_jid=4363008101) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-02-10.
+This industrial automation position at Cato Networks was posted on 2026-06-14.
 
 ## Get Real-Time Alerts
 
