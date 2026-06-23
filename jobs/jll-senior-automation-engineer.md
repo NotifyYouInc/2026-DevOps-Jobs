@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Matteson, Illinois, United States |
+| Location | Kenosha, Wisconsin, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Matteson-IL/Senior-Automation-Engineer_REQ480343) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/Senior-Automation-Engineer_REQ480340) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-06-10.
+This industrial automation position at JLL was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

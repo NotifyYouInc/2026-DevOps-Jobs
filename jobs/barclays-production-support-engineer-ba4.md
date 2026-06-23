@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Whippany, New Jersey, United States |
 | Category | Technical Support Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Production-Support-Engineer---BA4_JR-0000082049) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Production-Support-Engineer---BA4_JR-0000112542) |
 
 ## About This Role
 
-This technical support engineer position at Barclays was posted on 2026-05-27.
+This technical support engineer position at Barclays was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

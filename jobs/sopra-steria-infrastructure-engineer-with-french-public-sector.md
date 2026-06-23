@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000125109857-infrastructure-engineer-with-french-public-sector) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000132193979-infrastructure-engineer-with-french-public-sector) |
 
 ## About This Role
 
-This it & systems administration position at Sopra Steria was posted on 2026-05-07.
+This it & systems administration position at Sopra Steria was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

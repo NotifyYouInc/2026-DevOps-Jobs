@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-Platform-Engineer_R0119731-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Lead-Platform-Engineer_R0119868-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-05-27.
+This devops engineer position at LSEG was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

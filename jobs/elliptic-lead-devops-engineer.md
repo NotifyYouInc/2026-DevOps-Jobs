@@ -5,12 +5,12 @@
 | Company | [Elliptic](https://scoutify.ai/companies/elliptic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/elliptic/3986b0ab-73de-4ef8-9567-0f6c96d5c3a6) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/elliptic/5227c39c-330c-4ac8-938a-ec3f3791a015) |
 
 ## About This Role
 
-This devops engineer position at Elliptic was posted on 2026-04-24.
+This devops engineer position at Elliptic was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

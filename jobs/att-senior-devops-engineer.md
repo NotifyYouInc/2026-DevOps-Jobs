@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brno, South Moravian, Czechia |
+| Location | Naucalpan de Juárez, México, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Brno-Czechia/DevOps-Engineer_R-73647) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Naucalpan-De-Juarez-Estado-de-Mexico-Mexico/Senior-DevOps-Engineer_R-113019) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-04-02.
+This devops engineer position at AT&T was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

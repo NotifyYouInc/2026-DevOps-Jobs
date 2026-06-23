@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | Miami, Florida, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Mainframe-Automation-Engineer---Remote_R0112985) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Miami-FL/Mainframe-Automation-Engineer---Remote_R0115735) |
 
 ## About This Role
 
-This industrial automation position at Truist was posted on 2026-04-01.
+This industrial automation position at Truist was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mount Pleasant, South Carolina, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000119972335-controls-automation-engineer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000132235955-controls-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Continental was posted on 2026-04-10.
+This industrial automation position at Continental was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

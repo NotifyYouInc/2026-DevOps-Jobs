@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4788352101) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4885460101) |
 
 ## About This Role
 
-This devops engineer position at Nebius was posted on 2026-02-25.
+This devops engineer position at Nebius was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

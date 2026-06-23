@@ -5,12 +5,12 @@
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Industrial Automation |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4856954101?gh_jid=4856954101) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4872398101?gh_jid=4872398101) |
 
 ## About This Role
 
-This industrial automation position at NiCE was posted on 2026-05-08.
+This industrial automation position at NiCE was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

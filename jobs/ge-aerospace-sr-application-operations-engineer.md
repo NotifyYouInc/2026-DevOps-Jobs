@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Muskegon, Michigan, United States |
+| Location | Indianapolis, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Muskegon/Sr-Application-Operations-Engineer_R5032184-2) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Indianapolis/Sr-Application-Operations-Engineer_R5036259-1) |
 
 ## About This Role
 
-This devops engineer position at GE Aerospace was posted on 2026-04-10.
+This devops engineer position at GE Aerospace was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

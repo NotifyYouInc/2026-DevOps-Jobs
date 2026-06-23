@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447517/automation-expert-retail-business-services) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10448640/automation-expert-retail-business-services) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-12.
+This devops engineer position at Amazon was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

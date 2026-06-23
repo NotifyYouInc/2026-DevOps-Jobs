@@ -5,12 +5,12 @@
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lafayette, Louisiana, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Reliability-Engineer_R0000371951) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Lafayette-Indiana/Reliability-Engineer_R0000376871) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar Inc. was posted on 2026-05-22.
+This industrial automation position at Caterpillar Inc. was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

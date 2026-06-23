@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MYS-KL-Sentral---NU-Tower-2-Level-21-30-31-38--40/Cloud-Resiliency-Engineer_R1715255) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/India-Hyderabad-Telangana/Cloud-Resiliency-Engineer_R1733750) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-06-02.
+This devops engineer position at Concentrix was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

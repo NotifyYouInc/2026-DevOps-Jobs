@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Operational-Engineer-II_31448) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/United-States-Remote/Operational-Engineer-II_32124) |
 
 ## About This Role
 
-This devops engineer position at CSG Systems International was posted on 2026-03-04.
+This devops engineer position at CSG Systems International was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

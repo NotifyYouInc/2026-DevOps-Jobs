@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000131649139-cloud-support-infrastructure-expert) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132155890-cloud-support-infrastructure-expert) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-06-11.
+This devops engineer position at Inetum was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

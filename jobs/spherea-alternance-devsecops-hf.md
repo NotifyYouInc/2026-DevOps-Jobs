@@ -5,12 +5,12 @@
 | Company | [SPHEREA](https://scoutify.ai/companies/spherea?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SPHEREA/744000118207079-alternance-devsecops-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SPHEREA/744000132149442-alternance-devsecops-hf) |
 
 ## About This Role
 
-This devops engineer position at SPHEREA was posted on 2026-04-01.
+This devops engineer position at SPHEREA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

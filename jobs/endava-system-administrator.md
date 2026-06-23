@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000127914251-system-administrator) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000132272701-system-administrator) |
 
 ## About This Role
 
-This it & systems administration position at Endava was posted on 2026-05-22.
+This it & systems administration position at Endava was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

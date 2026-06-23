@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118624557-ingenieur-devops-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000132189799-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-04-03.
+This devops engineer position at Everience was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
