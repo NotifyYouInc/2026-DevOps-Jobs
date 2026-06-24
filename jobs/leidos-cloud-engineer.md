@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Cloud-Engineer_R-00184852) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Cloud-Engineer_R-00185566) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-04.
+This devops engineer position at Leidos was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

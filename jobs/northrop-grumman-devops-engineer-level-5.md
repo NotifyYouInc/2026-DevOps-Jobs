@@ -1,16 +1,16 @@
-# DevOps Engineer - level 5 at Northrop Grumman
+# DevOps Engineer – Level 5 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Virginia, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---level-5_R10227585) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-5_R10236625) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-03-27.
+This devops engineer position at Northrop Grumman was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

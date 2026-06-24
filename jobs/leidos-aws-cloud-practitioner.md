@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Orlando, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AWS-Cloud-Practitioner_R-00184699) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/AWS-Cloud-Practitioner_R-00185571) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-03.
+This devops engineer position at Leidos was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000129918620-application-support-analyst-net-enterprise) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000132344732-application-support-analyst-net-enterprise) |
 
 ## About This Role
 
-This technical support engineer position at Clifford Chance was posted on 2026-06-03.
+This devops engineer position at Clifford Chance was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

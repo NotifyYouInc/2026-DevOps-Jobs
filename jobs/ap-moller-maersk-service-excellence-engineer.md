@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Cainta, Calabarzon, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Singapore-Singapore-408533/Service-Excellence-Engineer_R182069) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Philippines-Cainta-1900/Service-Excellence-Engineer_R184059) |
 
 ## About This Role
 
-This devops engineer position at A.P. Moller - Maersk was posted on 2026-05-19.
+This devops engineer position at A.P. Moller - Maersk was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

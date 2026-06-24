@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Reston, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Senior-Cloud-Engineer_R-00182563) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Senior-Cloud-Engineer_R-00185574) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-05.
+This devops engineer position at Leidos was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Platform-Engineer-II_01838665) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Platform-Engineer-II_01852210-1) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-04-16.
+This devops engineer position at RTX was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

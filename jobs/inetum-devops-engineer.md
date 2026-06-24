@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Database Administration |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117615107-devops-engineer) |
+| Location | Lisbon, Lisbon, Portugal |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132408330-devops-engineer) |
 
 ## About This Role
 
-This database administration position at Inetum was posted on 2026-03-30.
+This devops engineer position at Inetum was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

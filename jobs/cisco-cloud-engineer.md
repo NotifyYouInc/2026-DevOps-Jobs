@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Remote---New-York-USA/Cloud-Engineer_2014640-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Cloud-Engineer_2013368) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-05-12.
+This devops engineer position at Cisco was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

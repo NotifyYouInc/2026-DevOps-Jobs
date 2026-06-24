@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Buffalo, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Wilmington-DE/Master-Data-Management-Administrator_R86854) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Master-Data-Management-Administrator_R87194) |
 
 ## About This Role
 
-This devops engineer position at M&T Bank was posted on 2026-06-11.
+This devops engineer position at M&T Bank was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

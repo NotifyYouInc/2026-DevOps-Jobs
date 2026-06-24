@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leantech](https://scoutify.ai/companies/leantech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/leantech/87b5ee45-23dc-4952-b15f-d075c076099a) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/leantech/53efa07c-6fb7-41af-a5c7-72bf1e2131be) |
 
 ## About This Role
 
-This devops engineer position at Leantech was posted on 2026-04-29.
+This devops engineer position at Leantech was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

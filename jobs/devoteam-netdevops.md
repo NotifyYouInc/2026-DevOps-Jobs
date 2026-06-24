@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | Security Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000130840025-netdevops) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132414151-netdevops) |
 
 ## About This Role
 
-This security engineer position at Devoteam was posted on 2026-06-08.
+This security engineer position at Devoteam was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

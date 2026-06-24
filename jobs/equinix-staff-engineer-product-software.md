@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
-| Category | Frontend Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Staff-Engineer--Product-Software_JR-159595-1) |
+| Location | Dallas, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Remote-Location---United-States-of-America/Staff-Engineer--Product-Software_JR-161245) |
 
 ## About This Role
 
-This frontend engineer position at Equinix was posted on 2026-04-01.
+This devops engineer position at Equinix was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

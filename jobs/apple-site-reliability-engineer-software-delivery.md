@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643846/site-reliability-engineer-software-delivery) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200668584/site-reliability-engineer-software-delivery) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-03-25.
+This devops engineer position at Apple was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

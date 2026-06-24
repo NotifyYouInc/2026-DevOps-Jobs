@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Indore, Madhya Pradesh, India |
+| Location | Charleston, South Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---MP---INDORE/DevOps-Engineer_51580897) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---SC---CHARLESTON/DevOps-Engineer_51582422) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-05-20.
+This devops engineer position at DXC Technology was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

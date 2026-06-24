@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Union, New Jersey, United States |
+| Location | Shepherdsville, Kentucky, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408716/automation-engineer) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408163/automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-05-01.
+This industrial automation position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

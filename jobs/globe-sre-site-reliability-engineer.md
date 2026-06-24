@@ -5,12 +5,12 @@
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/SRE--Site-Reliability-Engineer-_R0000020017) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WGC/SRE--Site-Reliability-Engineer-_R0000020019) |
 
 ## About This Role
 
-This devops engineer position at GLOBE was posted on 2026-04-16.
+This devops engineer position at GLOBE was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

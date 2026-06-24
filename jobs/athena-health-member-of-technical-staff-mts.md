@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Member-of-Technical-Staff---MTS_R14890) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Bangalore---Whitefield-India/Member-of-Technical-Staff---MTS_R15196-1) |
 
 ## About This Role
 
-This devops engineer position at Athena Health was posted on 2026-04-20.
+This devops engineer position at Athena Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

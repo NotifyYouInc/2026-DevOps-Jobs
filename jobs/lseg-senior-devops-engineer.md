@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-DevOps-Engineer_R0119991-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-DevOps-Engineer_R0120376-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-10.
+This devops engineer position at LSEG was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Software-Engineer---DevSecOps---DevOps--Hybrid-_R10230038-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Staff-Software-Engineer---DevSecOps---DevOps--Hybrid-_R10236548) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-04-17.
+This devops engineer position at Northrop Grumman was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

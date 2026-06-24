@@ -1,16 +1,16 @@
-# Sr Site Reliability Engineer (US Federal) at Workday
+# (Sr) Site Reliability Engineer (US Federal) at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Technical Writer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-VA-McLean/Sr-Site-Reliability-Engineer--US-Federal-_JR-0103569) |
+| Location | Reston, Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/XMLNAME--Sr--Site-Reliability-Engineer--US-Federal-_JR-0108251) |
 
 ## About This Role
 
-This technical writer position at Workday was posted on 2026-03-18.
+This devops engineer position at Workday was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

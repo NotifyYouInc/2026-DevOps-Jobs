@@ -1,16 +1,16 @@
-# Cloud Platform Engineer  at bet365
+# Cloud Platform Engineer at bet365
 
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Denver, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000126266289-cloud-platform-engineer) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000132498259-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at bet365 was posted on 2026-05-13.
+This devops engineer position at bet365 was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

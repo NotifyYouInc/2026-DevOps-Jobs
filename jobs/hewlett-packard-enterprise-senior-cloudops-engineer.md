@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Senior-CloudOps-Engineer_1207616) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Tel-Aviv-Israel/Senior-CloudOps-Engineer_1207729-1) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-06-12.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
