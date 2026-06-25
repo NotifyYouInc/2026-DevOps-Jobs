@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200646923/hardware-reliability-engineer-display-touch-modules) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663652/hardware-reliability-engineer-display-touch-modules) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-02-19.
+This electrical / hardware engineer position at Apple was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

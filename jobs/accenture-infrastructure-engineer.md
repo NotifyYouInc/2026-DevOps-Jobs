@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Infrastructure-Engineer_ATCI-5594190-S2029814-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/Infrastructure-Engineer_14461587) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-16.
+This devops engineer position at Accenture was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

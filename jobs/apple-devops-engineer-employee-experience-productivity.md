@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200643484/devops-engineer-employee-experience-productivity) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664573/devops-engineer-employee-experience-productivity) |
 
 ## About This Role
 
-This human resources / people ops position at Apple was posted on 2026-02-16.
+This human resources / people ops position at Apple was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Senior-Site-Reliability-Engineer_R-278451-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Database Administration |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Site-Reliability-Engineer_R-279351) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-06-11.
+This database administration position at Mastercard was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

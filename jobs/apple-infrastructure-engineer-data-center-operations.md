@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200648984/infrastructure-engineer-data-center-operations) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662735/infrastructure-engineer-data-center-operations) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-03-10.
+This electrical / hardware engineer position at Apple was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

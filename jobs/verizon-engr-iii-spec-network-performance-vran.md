@@ -5,12 +5,12 @@
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Spec---Network-Performance--vRAN-_R-1094288) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-III-Spec---Network-Performance--vRAN-_R-1094300) |
 
 ## About This Role
 
-This devops engineer position at Verizon was posted on 2026-06-03.
+This devops engineer position at Verizon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4794832101?gh_jid=4794832101) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4896709101?gh_jid=4896709101) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-04-29.
+This devops engineer position at N-iX was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Portsmouth, Virginia, United States |
+| Location | Tucson, Arizona, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Principal-Digital-Product-Configuration-Management-Engineer_01845818) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Principal-Digital-Product-Configuration-Management-Engineer_01852780) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-05-15.
+This devops engineer position at RTX was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

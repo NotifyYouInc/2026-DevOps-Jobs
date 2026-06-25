@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICEYE](https://scoutify.ai/companies/iceye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Espoo, Uusimaa, Finland |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/iceye/8a6bfe22-bf26-49da-a1ce-b64b314897ee) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/iceye/e03c7457-59ea-49bf-b64b-98e839eb28c8) |
 
 ## About This Role
 
-This devops engineer position at ICEYE was posted on 2026-05-05.
+This devops engineer position at ICEYE was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Frontend Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-WA-Seattle/Software-Development-Engineer_JR-0104752) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Software-Development-Engineer_JR-0107613) |
 
 ## About This Role
 
-This frontend engineer position at Workday was posted on 2026-03-06.
+This devops engineer position at Workday was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

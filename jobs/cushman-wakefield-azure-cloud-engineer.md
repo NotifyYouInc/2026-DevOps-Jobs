@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/London-United-Kingdom/Azure-Cloud-Engineer_R297044) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/London-United-Kingdom/Azure-Cloud-Engineer_R322928) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-02-11.
+This devops engineer position at Cushman & Wakefield was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

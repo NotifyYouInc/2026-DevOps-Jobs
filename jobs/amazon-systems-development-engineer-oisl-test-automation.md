@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412015/systems-development-engineer-oisl-test-automation) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10411666/systems-development-engineer-oisl-test-automation) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-06.
+This embedded / firmware engineer position at Amazon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Infrastructure Engineer - Network Operations at Barclays
+# Infrastructure Engineer - Network operations at Barclays
 
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Service-Engineer_JR-0000063156) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Network-Engineer_JR-0000062040) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-04-28.
+This devops engineer position at Barclays was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

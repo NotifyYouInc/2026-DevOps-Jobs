@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418836/support-engineer-iii-realm) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438777/support-engineer-iii-realm) |
 
 ## About This Role
 
-This technical support engineer position at Amazon was posted on 2026-05-13.
+This devops engineer position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

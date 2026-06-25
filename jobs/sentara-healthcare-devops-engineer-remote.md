@@ -5,12 +5,12 @@
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Virginia Beach, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Independence/DevOps-Engineer---Remote_JR-99854) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/DevOps-Engineer---Remote_JR-100567) |
 
 ## About This Role
 
-This devops engineer position at Sentara Healthcare was posted on 2026-06-03.
+This devops engineer position at Sentara Healthcare was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Ingénieur Observabilité / SRE H/F at Devoteam
+# Ingénieur Observabilité / SRE - H/F at Devoteam
 
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toulouse, Occitanie, France |
+| Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000120441017-ingenieur-observabilite-sre-hf) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000132631614-ingenieur-observabilite-sre-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-04-13.
+This devops engineer position at Devoteam was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

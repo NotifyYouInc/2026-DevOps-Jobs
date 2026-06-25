@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | Linthicum, Maryland, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Systems-Integrator---5_R10233661) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Software-Systems-Integrator---5_R10236744) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-05-20.
+This devops engineer position at Northrop Grumman was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

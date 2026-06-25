@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7994928?gh_jid=7994928) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7307866?gh_jid=7307866) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-06-11.
+This devops engineer position at Okta was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

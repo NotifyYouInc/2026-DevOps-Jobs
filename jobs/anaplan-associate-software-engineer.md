@@ -5,12 +5,12 @@
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8571201002) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8589243002) |
 
 ## About This Role
 
-This devops engineer position at Anaplan was posted on 2026-06-04.
+This devops engineer position at Anaplan was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

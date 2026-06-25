@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gennevilliers, Île-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/ALTERNANCE---Ingnieur-DEVOPS-Systme---F-H_R0322110-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Gennevilliers/ALTERNANCE---Ingnieur-DEVOPS-Systme---F-H_R0322118) |
 
 ## About This Role
 
-This technical writer position at Thales was posted on 2026-04-03.
+This devops engineer position at Thales was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000121713428-sr-devops-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000132772669-sr-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-04-20.
+This devops engineer position at Renesas Electronics was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

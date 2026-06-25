@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123803845-senior-software-engineer-devops-moveworks) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000132713870-senior-software-engineer-devops-moveworks) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-04-29.
+This devops engineer position at ServiceNow was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

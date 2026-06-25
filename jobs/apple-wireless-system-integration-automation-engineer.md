@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Industrial Automation |
-| Posted | 2025-10-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200625876/wireless-system-integration-automation-engineer) |
+| Category | Embedded / Firmware Engineer |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200659036/wireless-system-integration-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2025-10-18.
+This embedded / firmware engineer position at Apple was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

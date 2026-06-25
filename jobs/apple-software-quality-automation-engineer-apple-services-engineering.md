@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Industrial Automation |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656371/software-quality-automation-engineer-apple-services-engineering) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657538/software-quality-automation-engineer-apple-services-engineering) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-04-08.
+This industrial automation position at Apple was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

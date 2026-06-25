@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656177/hardware-reliability-engineer-apple-vision-products) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200663005/hardware-reliability-engineer-apple-vision-products) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-08.
+This electrical / hardware engineer position at Apple was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

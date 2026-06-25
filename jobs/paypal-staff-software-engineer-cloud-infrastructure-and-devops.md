@@ -5,12 +5,12 @@
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136390) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136594-1) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-05-14.
+This devops engineer position at PayPal was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

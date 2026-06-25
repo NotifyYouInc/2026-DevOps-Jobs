@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Galway, Connacht, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Cloud-Engineer_2127836-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Galway-Ireland/Cloud-Engineer_2129641) |
 
 ## About This Role
 
-This devops engineer position at Fidelity was posted on 2026-06-01.
+This devops engineer position at Fidelity was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

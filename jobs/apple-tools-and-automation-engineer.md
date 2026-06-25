@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | Industrial Automation |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200653609/tools-and-automation-engineer) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200661398/tools-and-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-03-25.
+This industrial automation position at Apple was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

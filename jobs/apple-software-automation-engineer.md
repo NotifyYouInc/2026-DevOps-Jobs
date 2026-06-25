@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Industrial Automation |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655094/software-automation-engineer) |
+| Category | Robotics Engineer |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200664396/software-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Apple was posted on 2026-04-07.
+This robotics engineer position at Apple was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Jacksonville, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Operations-Software-Analyst-Seniors_JR0307321) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Operations-Software-Analyst-Seniors_JR0307576) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-05-28.
+This devops engineer position at Fidelity National Information Services was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
