@@ -5,12 +5,12 @@
 | Company | [Pragmatike](https://scoutify.ai/companies/pragmatike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/1dc8c955-1616-4ff0-82f2-3eb0598b92c5) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/fa6efd87-ad6a-4a70-b0be-177e5f158d99) |
 
 ## About This Role
 
-This devops engineer position at Pragmatike was posted on 2026-06-16.
+This devops engineer position at Pragmatike was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

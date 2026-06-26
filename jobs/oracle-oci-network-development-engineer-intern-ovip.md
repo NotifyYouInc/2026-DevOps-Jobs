@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Nashville, Tennessee, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-05-19 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#334335) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#334337) |
 
 ## About This Role
 

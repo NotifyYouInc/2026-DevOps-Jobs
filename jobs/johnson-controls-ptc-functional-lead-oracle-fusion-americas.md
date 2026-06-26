@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/PTC-Functional-Lead--Oracle-Fusion-Americas_WD30263427) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/PTC-Functional-Lead--Oracle-Fusion-Americas_WD30272570) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-03-21.
+This devops engineer position at Johnson Controls was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

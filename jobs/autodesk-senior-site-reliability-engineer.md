@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Singapore-SGP/Senior-Site-Reliability-Engineer_26WD98854-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Senior-Site-Reliability-Engineer_26WD99273-2) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-06-08.
+This devops engineer position at Autodesk was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

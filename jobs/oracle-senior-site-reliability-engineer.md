@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#333123) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335814) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-05-08.
+This devops engineer position at Oracle was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

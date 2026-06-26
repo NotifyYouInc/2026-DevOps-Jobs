@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Le Haillan, Nouvelle-Aquitaine, France |
+| Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000132661694-responsable-technique-lead-devops-integration-fsm-hf) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000132894790-responsable-technique-lead-devops-integration-fsm-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-06-17.
+This devops engineer position at Scalian was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

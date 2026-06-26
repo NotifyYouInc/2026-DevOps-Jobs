@@ -1,16 +1,16 @@
-# Staff Software Engineer - Cloud Infrastructure and Devops at PayPal
+# Staff Software Engineer- Cloud Infrastructure and DevOps at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136594-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136774-1) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-06-17.
+This devops engineer position at PayPal was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

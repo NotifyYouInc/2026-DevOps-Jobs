@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Striveworks](https://scoutify.ai/companies/striveworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Carson, Colorado, United States |
+| Location | Tacoma, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7725202003) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/striveworks/jobs/7772343003) |
 
 ## About This Role
 
-This devops engineer position at Striveworks was posted on 2026-05-08.
+This devops engineer position at Striveworks was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

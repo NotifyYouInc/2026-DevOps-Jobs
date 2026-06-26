@@ -1,16 +1,16 @@
-# Senior. Platform Engineer at RTX
+# Senior Platform Engineer at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Marlborough, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Senior-Platform-Engineer_01851811-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Platform-Engineer_01853649) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-06-10.
+This devops engineer position at RTX was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

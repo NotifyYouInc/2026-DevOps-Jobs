@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Cloud-Platform-Engineer_ATCI-5554712-S2029727-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Cloud-Platform-Engineer_ATCI-5416147-S1969746) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-16.
+This devops engineer position at Accenture was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

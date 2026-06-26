@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Airoli, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Mumbai-Shivaji-Park/IN-Senior-Associate--DevOps-Engineer---AppTech-Advisory-Mumbai--0-30-days-NP-joiners-_735555WD-1) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Airoli/IN-Senior-Associate--DevOps-Engineer---AppTech-Advisory-Mumbai--0-30-days-NP-joiners-_737851WD-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-06-11.
+This devops engineer position at PwC was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

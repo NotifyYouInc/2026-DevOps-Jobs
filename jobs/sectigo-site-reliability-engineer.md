@@ -5,12 +5,12 @@
 | Company | [Sectigo](https://scoutify.ai/companies/sectigo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013465967-site-reliability-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sectigo/3743990013680906-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sectigo was posted on 2026-06-04.
+This devops engineer position at Sectigo was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Roy, Utah, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/Sentinel-Staff-DevOps-Engineer-18373_R10233879) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Staff-DevOps-Engineer-18373_R10236893) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-05-21.
+This devops engineer position at Northrop Grumman was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

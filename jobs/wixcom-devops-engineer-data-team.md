@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000118190847-devops-engineer-data-team) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000132823709-devops-engineer-data-team) |
 
 ## About This Role
 
-This devops engineer position at Wix.com was posted on 2026-04-01.
+This devops engineer position at Wix.com was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

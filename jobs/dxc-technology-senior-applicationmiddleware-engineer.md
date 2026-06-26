@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 7 locations |
+| Location | Farmington, New Mexico, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---SC---CHARLESTON/Senior-Application-Middleware-Engineer_51577416) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---FARMINGTON/Senior-Application-Middleware-Engineer_51583218) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-04-11.
+This devops engineer position at DXC Technology was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

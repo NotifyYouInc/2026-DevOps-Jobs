@@ -5,12 +5,12 @@
 | Company | [Blaxel](https://scoutify.ai/companies/yc-blaxel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/blaxel/jobs/7HvZhoj-site-reliability-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/blaxel/jobs/yiJOK3R-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Blaxel was posted on 2026-05-12.
+This devops engineer position at Blaxel was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

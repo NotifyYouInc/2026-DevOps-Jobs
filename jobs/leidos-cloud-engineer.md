@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Cloud-Engineer_R-00185566) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Cloud-Engineer_R-00185445) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-16.
+This devops engineer position at Leidos was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Location | Salt Lake City, Utah, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#325959) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#323193) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-06-01.
+This devops engineer position at Oracle was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000112442957-linux-operations-engineer) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000132851249-linux-operations-engineer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-03-03.
+This devops engineer position at Netcompany was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

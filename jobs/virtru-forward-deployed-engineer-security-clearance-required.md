@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Virtru](https://scoutify.ai/companies/virtru?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Security Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4698455005) |
+| Location | United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/virtru/jobs/4707155005) |
 
 ## About This Role
 
-This security engineer position at Virtru was posted on 2026-05-21.
+This devops engineer position at Virtru was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

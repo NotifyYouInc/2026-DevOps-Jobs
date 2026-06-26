@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420256/adc-engineer-s3-adc-s3-glacier-unique-regions) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440071/adc-engineer-s3-adc-s3-glacier-unique-regions) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-14.
+This devops engineer position at Amazon was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

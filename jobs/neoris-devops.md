@@ -1,16 +1,16 @@
-# DevOps at Neoris
+# DEVOPS at Neoris
 
 | Field | Details |
 |-------|---------|
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Medellín, Antioquia, Colombia |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4865997101) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4900826101) |
 
 ## About This Role
 
-This devops engineer position at Neoris was posted on 2026-05-13.
+This devops engineer position at Neoris was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
