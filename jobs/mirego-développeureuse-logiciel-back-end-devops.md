@@ -5,12 +5,12 @@
 | Company | [Mirego](https://scoutify.ai/companies/mirego?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.lever.co/mirego/7637b760-4374-4619-831d-f1e10d6e5685) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.lever.co/mirego/daab6ea7-8cb9-4a1e-a726-6386cd84c7b3) |
 
 ## About This Role
 
-This devops engineer position at Mirego was posted on 2026-05-29.
+This devops engineer position at Mirego was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Nottingham, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131822990-senior-site-reliability-engineer) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000133080489-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-06-12.
+This devops engineer position at Experian was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

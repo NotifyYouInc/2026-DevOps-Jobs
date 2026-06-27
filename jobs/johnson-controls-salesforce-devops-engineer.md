@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Salesforce-Support-Analyst_WD30255744) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Salesforce-DevOps-Engineer_WD30272529) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-04-27.
+This devops engineer position at Johnson Controls was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

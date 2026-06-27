@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Platform-Engineer_ATCI-5560109-S2029483) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Technology-Platform-Engineer_ATCI-5379387-S2030831) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-12.
+This devops engineer position at Accenture was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

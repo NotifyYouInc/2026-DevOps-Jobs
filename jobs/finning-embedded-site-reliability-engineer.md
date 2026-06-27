@@ -5,12 +5,12 @@
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort McMurray, Alberta, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Fort-McMurray-AB-CA/Embedded-Site-Reliability-Engineer_R-2026-2905) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Fort-McMurray-AB-CA/Embedded-Site-Reliability-Engineer_R-2026-3064) |
 
 ## About This Role
 
-This devops engineer position at Finning was posted on 2026-06-05.
+This devops engineer position at Finning was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

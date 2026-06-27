@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-DevOps-Engineer_R0120376-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Senior-DevOps-Engineer_R0117428-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-17.
+This devops engineer position at LSEG was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

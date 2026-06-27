@@ -1,0 +1,22 @@
+# Staff Site Reliability Engineer, Release Engineering at Plaid
+
+| Field | Details |
+|-------|---------|
+| Company | [Plaid](https://scoutify.ai/companies/plaid?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | New York City, New York, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaid/07cde72b-a127-48a8-b01a-570de5768340) |
+
+## About This Role
+
+This devops engineer position at Plaid was posted on 2026-06-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
