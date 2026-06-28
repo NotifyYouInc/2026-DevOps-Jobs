@@ -1,16 +1,16 @@
-# Data Center Engineering Operations , DCEO at Amazon
+# Systems Development Engineer, Platform Engineering and Emerging Technologies (PEET) at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428881/data-center-engineering-operations-dceo) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10413722/systems-development-engineer-platform-engineering-and-emerging-technologies-peet) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-23.
+This devops engineer position at Amazon was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

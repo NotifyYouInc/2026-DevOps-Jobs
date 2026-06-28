@@ -1,16 +1,16 @@
-# IN_Senior Associate_Azure DevOps_Digital Integration_Advisory_Gurugram at PwC
+# IN_Senior Associate_Azure Devops_Digital Integration_Advisory_Gurugram at PwC
 
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-DevOps-Digital-Integration-Advisory-Gurugram_726517WD-1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gurugram-10-C/IN-Senior-Associate-Azure-Devops-Digital-Integration-Advisory-Gurugram_738642WD-1) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-05-05.
+This technology / it consulting position at PwC was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10403738/systems-engineer-aws) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427889/systems-engineer-aws) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-04-27.
+This devops engineer position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

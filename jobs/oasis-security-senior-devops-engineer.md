@@ -1,16 +1,16 @@
-# Data Center Engineering Operations , DCEO at Amazon
+# Senior DevOps Engineer at Oasis Security
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Company | [Oasis Security](https://scoutify.ai/companies/oasissecurity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Tel Aviv, Tel Aviv, Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428881/data-center-engineering-operations-dceo) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oasissecurity/jobs/5273835008) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-23.
+This devops engineer position at Oasis Security was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

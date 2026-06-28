@@ -1,4 +1,4 @@
-# Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS) at NCS
+# Cloud DevSecOps Associate  at NCS
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001168283-cloud-devsecops-engineer-terraform-cloudformation-cloud-services-on-aws) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001168307-cloud-devsecops-associate) |
 
 ## About This Role
 

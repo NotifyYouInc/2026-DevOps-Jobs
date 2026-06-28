@@ -1,16 +1,16 @@
-# Data Center Engineering Operations , DCEO at Amazon
+# Systems Engineer, Managed Operations, Managed Operations at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428881/data-center-engineering-operations-dceo) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426634/systems-engineer-managed-operations-managed-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-23.
+This devops engineer position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
