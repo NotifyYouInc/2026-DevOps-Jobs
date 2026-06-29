@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bournemouth, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-03-13 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210709060) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-03-13.
+This software engineer position at JPMorgan Chase was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

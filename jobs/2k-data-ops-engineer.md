@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [2K](https://scoutify.ai/companies/2k?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7778402003) |
 
 ## About This Role
 
-This devops engineer position at 2K was posted on 2026-06-19.
+This data engineer position at 2K was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer at LSEG
+# Engr II-Cloud at Verizon
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Site-Reliability-Engineer_R0119871-1) |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Engr-II-Cloud_R-1094722-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-22.
+This devops engineer position at Verizon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

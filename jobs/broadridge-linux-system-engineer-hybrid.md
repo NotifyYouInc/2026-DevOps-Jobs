@@ -1,4 +1,4 @@
-# Senior Cloud Engineer (Hybrid) at Broadridge
+# Linux System Engineer (Hybrid) at Broadridge
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Manila---6805-Ayala-Ave/Senior-Cloud-Engineer--Hybrid-_JR1083900) |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Manila---6805-Ayala-Ave/Linux-System-Engineer--Hybrid-_JR1083883) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Breda, North Brabant, The Netherlands |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000133006449-senior-devops-data-engineer) |
 
 ## About This Role
 
-This devops engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
+This data engineer position at FCTB (nu: Deloitte Consulting) was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

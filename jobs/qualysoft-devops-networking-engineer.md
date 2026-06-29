@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer at LSEG
+# DevOps Networking Engineer at Qualysoft
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Qualysoft](https://scoutify.ai/companies/qualysoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Site-Reliability-Engineer_R0119871-1) |
+| Apply | [View on company site](https://jobs.lever.co/qualysoft/8f1525a1-0ca6-45d7-9625-eb17aba88f0e) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-22.
+This devops engineer position at Qualysoft was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

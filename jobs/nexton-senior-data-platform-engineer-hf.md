@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000132998969-senior-data-platform-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Nexton was posted on 2026-06-19.
+This data engineer position at Nexton was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSv0DVeskY8MroMbSvUnlk8Zd7sOQhHvqQyJtasSnwI9EjsA1Ny_i4_yCMbClwLTMfSq0wavf7aXrRwltaYYoo1CGdbgjMrZykqgldP7q5DMifNUiGan1QJ0mO_M3w%3D%3D_V2&loc=SG&title=Software+Engineer+III) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-18.
+This software engineer position at Google was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

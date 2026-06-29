@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Houston, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-03 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726209) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-06-03.
+This data engineer position at JPMorgan Chase was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer at LSEG
+# Senior DevOps Engineer  at Leantech
 
 | Field | Details |
 |-------|---------|
-| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Leantech](https://scoutify.ai/companies/leantech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Site-Reliability-Engineer_R0119871-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/leantech/c4005dca-b611-4811-b143-24098b9ebffe) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-22.
+This devops engineer position at Leantech was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

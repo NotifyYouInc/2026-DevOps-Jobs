@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Gurugram, Haryana, India |
 | Category | Security Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7765451/?gh_jid=7765451) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/8015580/?gh_jid=8015580) |
 
 ## About This Role
 
-This security engineer position at Payoneer was posted on 2026-04-13.
+This security engineer position at Payoneer was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

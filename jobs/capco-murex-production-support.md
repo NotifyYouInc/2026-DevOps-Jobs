@@ -1,16 +1,16 @@
-# Data Engineer II - SRE at JPMorgan Chase
+# Murex Production Support at Capco
 
 | Field | Details |
 |-------|---------|
-| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754273) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8020165) |
 
 ## About This Role
 
-This data engineer position at JPMorgan Chase was posted on 2026-06-02.
+This devops engineer position at Capco was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

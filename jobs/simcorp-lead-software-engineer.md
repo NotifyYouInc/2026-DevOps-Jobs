@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SimCorp](https://scoutify.ai/companies/simcorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Warsaw/Lead-Software-Engineer_R-211897) |
 
 ## About This Role
 
-This devops engineer position at SimCorp was posted on 2026-06-18.
+This software engineer position at SimCorp was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

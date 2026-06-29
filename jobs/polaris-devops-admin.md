@@ -1,16 +1,16 @@
-# Data Engineer II - SRE at JPMorgan Chase
+# DevOps Admin at Polaris
 
 | Field | Details |
 |-------|---------|
-| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Polaris](https://scoutify.ai/companies/polaris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210754273) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Bangalore-India/DevOps-Admin_R30191-1) |
 
 ## About This Role
 
-This data engineer position at JPMorgan Chase was posted on 2026-06-02.
+This devops engineer position at Polaris was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

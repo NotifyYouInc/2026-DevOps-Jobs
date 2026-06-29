@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8012838) |
 
 ## About This Role
 
-This devops engineer position at Capco was posted on 2026-06-19.
+This data engineer position at Capco was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-18 |
 | Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/South-San-Francisco-611-Gateway-Blvd/Senior-Data-Platform-Engineer_443173) |
 
 ## About This Role
 
-This devops engineer position at GSK was posted on 2026-06-18.
+This data engineer position at GSK was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 7 locations |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-06-05 |
 | Apply | [View on company site](https://careers.oracle.com/jobs/#335856) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-06-05.
+This data engineer position at Oracle was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

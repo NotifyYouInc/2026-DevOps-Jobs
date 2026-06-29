@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-06-19 |
 | Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Manager--SRE_JR0034684-1) |
 
 ## About This Role
 
-This devops engineer position at Airasia was posted on 2026-06-19.
+This software engineer position at Airasia was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

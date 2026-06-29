@@ -1,16 +1,16 @@
-# DevOps Engineer at Hewlett Packard Enterprise
+# Devops Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/DevOps-Engineer_1206157) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Devops-Engineer_1207468-1) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-04-26.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
