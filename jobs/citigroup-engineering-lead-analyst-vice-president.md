@@ -1,16 +1,16 @@
-# Engineering Lead Analyst Vice President at Citigroup
+# Engineering Lead Analyst - Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst-Vice-President_26936319) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Engineering-Lead-Analyst---Vice-President_26968880) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-03-04.
+This devops engineer position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000110113545-platform-engineer-iii) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133310862-platform-engineer-iii) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-02-19.
+This devops engineer position at Entain was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000130733127-devops-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000133403339-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Psi Cro was posted on 2026-06-08.
+This devops engineer position at Psi Cro was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

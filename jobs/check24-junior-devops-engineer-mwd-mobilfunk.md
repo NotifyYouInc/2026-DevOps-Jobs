@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Köln, North Rhine-Westphalia, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000127892498-junior-devops-engineer-mwd-mobilfunk) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133286618-junior-devops-engineer-mwd-mobilfunk) |
 
 ## About This Role
 
-This devops engineer position at CHECK24 was posted on 2026-05-22.
+This devops engineer position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

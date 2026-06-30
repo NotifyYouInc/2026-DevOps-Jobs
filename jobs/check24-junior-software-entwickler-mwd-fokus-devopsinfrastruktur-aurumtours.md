@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Leipzig, Saxony, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000131685579-junior-software-entwickler-mwd-fokus-devopsinfrastruktur-aurumtours) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133341598-junior-software-entwickler-mwd-fokus-devopsinfrastruktur-aurumtours) |
 
 ## About This Role
 
-This devops engineer position at CHECK24 was posted on 2026-06-11.
+This devops engineer position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

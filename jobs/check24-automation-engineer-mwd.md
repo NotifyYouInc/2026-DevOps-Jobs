@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000126258061-automation-engineer-mwd) |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000133356379-automation-engineer-mwd) |
 
 ## About This Role
 
-This industrial automation position at CHECK24 was posted on 2026-05-13.
+This software engineer position at CHECK24 was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

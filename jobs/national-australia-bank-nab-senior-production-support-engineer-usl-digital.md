@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vietnam |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Production-Support-Engineer---USL-Digital_JR118820) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Production-Support-Engineer---USL-Digital_JR119336) |
 
 ## About This Role
 
-This technical support engineer position at National Australia Bank (NAB) was posted on 2026-05-21.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | DevOps Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000132064269-devops-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000133259099-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at VAM Systems was posted on 2026-06-14.
+This devops engineer position at VAM Systems was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

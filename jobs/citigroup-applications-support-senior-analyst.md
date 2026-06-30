@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Support-Senior-Analyst_26941051) |
+| Location | Irving, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Applications-Support-Senior-Analyst_26970101) |
 
 ## About This Role
 
-This technical writer position at Citigroup was posted on 2026-03-23.
+This devops engineer position at Citigroup was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-JTL-Building---Springdale-Arkansas/Lead-Infrastructure-Engineer--Onsite-_R0459253) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-JTL-Building---Springdale-Arkansas/Lead-Infrastructure-Engineer--Onsite-_R0468412) |
 
 ## About This Role
 
-This devops engineer position at Tyson Foods was posted on 2026-05-12.
+This devops engineer position at Tyson Foods was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

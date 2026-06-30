@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/So-Paulo/Site-Reliability-Engineer_R0329914-1) |
+| Location | Khobar, Eastern Province, Saudi Arabia |
+| Category | Security Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Khobar/Site-Reliability-Engineer_R0330235) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-06-10.
+This security engineer position at Thales was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000126968169-senior-infrastructure-engineer-network) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133339879-senior-infrastructure-engineer-network) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-05-18.
+This devops engineer position at Entain was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131426711-devops-test-engineer) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133352109-devops-test-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-10.
+This devops engineer position at Sopra Steria was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

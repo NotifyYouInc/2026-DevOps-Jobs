@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729614) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738965) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-06-18.
+This devops engineer position at JPMorgan Chase was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

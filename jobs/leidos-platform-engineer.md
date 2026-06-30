@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/San-Antonio-TX/Platform-Engineer_R-00178208) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Platform-Engineer_R-00185871) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-12.
+This devops engineer position at Leidos was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

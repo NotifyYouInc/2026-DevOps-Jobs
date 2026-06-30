@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/101109624123335366-software-engineer-iii-site-reliability-engineering?sort_by=date&page=1) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Software Engineer |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQlY9TFQetQWM4MlW2_7kwmqQjaz88_haqY6hI0qCQ4PEjsA1Ny_ix01oYmKLzND99I76yAhZhviuFVcC2tE1gGAKBCOPMu1Jfq3THibavtFsRy3F40v-eWL_CCPrw%3D%3D_V2&loc=PL&title=Software+Engineer+III) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-09.
+This software engineer position at Google was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

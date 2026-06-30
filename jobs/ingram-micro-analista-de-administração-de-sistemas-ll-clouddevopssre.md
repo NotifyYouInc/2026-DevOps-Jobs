@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/So-Paulo-Brazil/Analista-de-Administrao-de-Sistemas-ll--Cloud-DevOps-SRE-_R-114507) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/So-Paulo-Brazil/Analista-de-Administrao-de-Sistemas-ll--Cloud-DevOps-SRE-_R-114987) |
 
 ## About This Role
 
-This devops engineer position at Ingram Micro was posted on 2026-04-17.
+This devops engineer position at Ingram Micro was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

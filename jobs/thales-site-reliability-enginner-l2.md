@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mexico-City/Site-Reliability-Enginner-L2_R0329913) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Mexico-City/Site-Reliability-Enginner-L2_R0329912) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-06-11.
+This devops engineer position at Thales was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

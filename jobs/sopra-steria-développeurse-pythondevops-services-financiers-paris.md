@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131610513-developpeurse-pythondevops-services-financiers-paris) |
+| Category | Software Engineer |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133524268-developpeurse-pythondevops-services-financiers-paris) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-11.
+This software engineer position at Sopra Steria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

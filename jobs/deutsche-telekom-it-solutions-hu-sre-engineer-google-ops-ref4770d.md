@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pécs, Baranya, Hungary |
+| Location | Debrecen, Hajdú-Bihar, Hungary |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000132193279-sre-engineer-google-ops-ref4770d) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000133391279-sre-engineer-google-ops-ref4770d) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-15.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
