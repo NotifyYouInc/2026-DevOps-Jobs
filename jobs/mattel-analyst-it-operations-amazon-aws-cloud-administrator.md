@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000131108581-analyst-it-operations-amazon-aws-cloud-administrator) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000133665945-analyst-it-operations-amazon-aws-cloud-administrator) |
 
 ## About This Role
 
-This devops engineer position at Mattel was posted on 2026-06-09.
+This devops engineer position at Mattel was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

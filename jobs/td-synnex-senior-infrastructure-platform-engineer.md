@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Senior-Infrastructure-Platform-Engineer_R52652) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chennai-India/Senior-Infrastructure-Platform-Engineer_R52501) |
 
 ## About This Role
 
-This devops engineer position at TD Synnex was posted on 2026-06-16.
+This devops engineer position at TD Synnex was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

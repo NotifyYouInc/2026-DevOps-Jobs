@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | San Diego, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Sydney-NSW-Australia/Senior-Platform-Engineer_JR_046273-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/San-Diego-CA-United-States/Senior-Platform-Engineer_JR_052025-1) |
 
 ## About This Role
 
-This devops engineer position at ResMed was posted on 2026-03-18.
+This devops engineer position at ResMed was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

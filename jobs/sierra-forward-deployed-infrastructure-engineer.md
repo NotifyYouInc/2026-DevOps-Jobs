@@ -1,16 +1,16 @@
-# Forward Deployed Infrastructure Engineer  at Sierra
+# Forward Deployed Infrastructure Engineer at Sierra
 
 | Field | Details |
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/013d54ba-6658-448b-9de6-c7ba8dcad77f) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sierra/61bb1eca-b416-4e6d-a0ac-5f418b35a8f3) |
 
 ## About This Role
 
-This devops engineer position at Sierra was posted on 2026-06-17.
+This devops engineer position at Sierra was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

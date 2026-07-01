@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Dublin, Leinster, Ireland |
 | Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSUzz4A8QIGr-_715kEYAcysv4eQ_4QbEFuNDk3HJFx6EjsACxwdTMSmfKEl9eX8QkOOEmgun5ibZ5pczlNyYTgXptxhBZVnyLRTlwQO74hlvb6Gu7MOi3CG2oVWxQ%3D%3D_V2&loc=US&title=Software+Engineering+Manager+II) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdts8ARLbv3SiT80AyI0IbsKZBYifZXZ0OHp9hSSmtWQEjsA1Ny_i2wvVBerDZLqTOwhphKkHyzk8jagmBE94K6F6JBVtUsOks4zCH3M7u8hcvx30br9getKO5I6-g%3D%3D_V2&loc=IE&title=Software+Engineering+Manager+II) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-06-08.
+This engineering manager position at Google was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

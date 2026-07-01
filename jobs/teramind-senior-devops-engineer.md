@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teramind](https://scoutify.ai/companies/teramind?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Location | Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.lever.co/teramind/eb82ea2f-af0a-4cb6-9da7-fa406ac35729) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.lever.co/teramind/f32f6c7f-a1b4-471a-9dc6-5cf6ff449e12) |
 
 ## About This Role
 
-This devops engineer position at Teramind was posted on 2026-06-19.
+This devops engineer position at Teramind was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

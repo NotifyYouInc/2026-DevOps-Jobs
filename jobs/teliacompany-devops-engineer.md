@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Helsinki, Uusimaa, Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Oslo/Performance---Mediation-Engineer_60073) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Helsinki/DevOps-Engineer_62077-4) |
 
 ## About This Role
 
-This devops engineer position at Teliacompany was posted on 2026-04-15.
+This devops engineer position at Teliacompany was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

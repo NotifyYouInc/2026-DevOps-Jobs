@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4693158005) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4708444005) |
 
 ## About This Role
 
-This devops engineer position at Wrike was posted on 2026-05-07.
+This devops engineer position at Wrike was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

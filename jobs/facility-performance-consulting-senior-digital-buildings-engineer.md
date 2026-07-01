@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Facility Performance Consulting](https://scoutify.ai/companies/facilityperformanceconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000115156937-senior-digital-buildings-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FacilityPerformanceConsultingLimited/744000133657579-senior-digital-buildings-engineer) |
 
 ## About This Role
 
-This devops engineer position at Facility Performance Consulting was posted on 2026-03-17.
+This devops engineer position at Facility Performance Consulting was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

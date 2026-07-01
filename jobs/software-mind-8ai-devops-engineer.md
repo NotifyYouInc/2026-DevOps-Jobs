@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000132479077-8ai-devops-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000133649589-8ai-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-06-16.
+This devops engineer position at Software Mind was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

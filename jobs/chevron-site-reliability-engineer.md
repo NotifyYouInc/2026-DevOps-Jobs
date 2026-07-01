@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Bengaluru-Karnataka-India/Site-Reliability-Engineer_R000070371) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Site-Reliability-Engineer_R000071999) |
 
 ## About This Role
 
-This devops engineer position at Chevron was posted on 2026-04-02.
+This devops engineer position at Chevron was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

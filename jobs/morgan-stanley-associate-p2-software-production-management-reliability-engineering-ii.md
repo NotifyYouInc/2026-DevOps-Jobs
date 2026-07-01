@@ -1,16 +1,16 @@
-# Associate, P2, Software Production Management & Reliability Engineering II at Morgan Stanley
+# Associate, P2, Software Production Management & Reliability Engineering  II at Morgan Stanley
 
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Associate--P2--Software-Production-Management---Reliability-Engineering-II_PT-JR036325-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Associate--P2--Software-Production-Management---Reliability-Engineering--II_PT-JR038861-1) |
 
 ## About This Role
 
-This devops engineer position at Morgan Stanley was posted on 2026-05-13.
+This devops engineer position at Morgan Stanley was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

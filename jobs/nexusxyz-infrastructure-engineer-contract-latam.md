@@ -5,12 +5,12 @@
 | Company | [Nexus.xyz](https://scoutify.ai/companies/nexusxyz?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/nexus.xyz/d12c7fe2-170a-49d2-9769-24b3b4fb6e91) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/nexus.xyz/0deb2be5-68fd-4c8f-8be1-993cd3229a9d) |
 
 ## About This Role
 
-This devops engineer position at Nexus.xyz was posted on 2026-05-20.
+This devops engineer position at Nexus.xyz was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

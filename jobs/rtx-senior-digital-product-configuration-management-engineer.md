@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Woburn, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Senior-Digital-Product-Configuration-Management-Engineer_01852777) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Senior-Digital-Product-Configuration-Management-Engineer_01854733-1) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-06-17.
+This devops engineer position at RTX was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

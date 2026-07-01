@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Netcompany
+# Senior DevOps Engineer  at Netcompany
 
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000133118969-senior-devops-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000133572302-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-06-19.
+This devops engineer position at Netcompany was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

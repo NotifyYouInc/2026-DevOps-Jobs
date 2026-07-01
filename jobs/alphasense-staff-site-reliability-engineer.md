@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AlphaSense](https://scoutify.ai/companies/alphasense?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8547394002) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alphasense/jobs/8420858002) |
 
 ## About This Role
 
-This devops engineer position at AlphaSense was posted on 2026-05-13.
+This devops engineer position at AlphaSense was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

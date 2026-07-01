@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-DevOps-Engineer_R0000374060) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-DevOps-Engineer_R0000376401) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar Inc. was posted on 2026-06-03.
+This devops engineer position at Caterpillar Inc. was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

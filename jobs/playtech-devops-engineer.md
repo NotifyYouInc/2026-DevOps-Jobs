@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nicosia, Nicosia, Cyprus |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000116627617-devops-engineer) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000133631876-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-03-25.
+This devops engineer position at Playtech was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 
