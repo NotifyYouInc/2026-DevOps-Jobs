@@ -1,16 +1,16 @@
-# Lead Software Engineer at SimCorp
+# Lead Software Engineer at SimCorp
 
 | Field | Details |
 |-------|---------|
 | Company | [SimCorp](https://scoutify.ai/companies/simcorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Hyderabad/Lead-Software-Engineer---DevOps-and-AI_R-211026) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://simcorp.wd3.myworkdayjobs.com/SimCorp_Private/job/Noida/Lead-Software-Engineer_R-210012) |
 
 ## About This Role
 
-This devops engineer position at SimCorp was posted on 2026-06-22.
+This devops engineer position at SimCorp was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

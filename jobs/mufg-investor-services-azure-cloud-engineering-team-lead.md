@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Limassol, Limassol, Cyprus |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000133391920-azure-cloud-engineering-team-lead) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000133985351-azure-cloud-engineering-team-lead) |
 
 ## About This Role
 
-This devops engineer position at MUFG Investor Services was posted on 2026-06-22.
+This devops engineer position at MUFG Investor Services was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

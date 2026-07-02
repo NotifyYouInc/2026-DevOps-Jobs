@@ -5,12 +5,12 @@
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shaanxi, CN |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/XIAN-SHAANXI-CHINA/DevOps-Engineer_R0072218) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/XIAN-SHAANXI-CHINA/DevOps-Engineer_R0073134) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-06-15.
+This devops engineer position at Global Payments was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-DevSecOps---Observability-Engineer_WD30267078-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Senior-DevSecOps---Observability-Engineer_WD30273024-1) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-04-16.
+This devops engineer position at Johnson Controls was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

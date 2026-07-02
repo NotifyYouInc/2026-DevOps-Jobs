@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Cork, Munster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7647255) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8025824) |
 
 ## About This Role
 
-This devops engineer position at MongoDB was posted on 2026-03-18.
+This devops engineer position at MongoDB was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

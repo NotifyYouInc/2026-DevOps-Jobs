@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128657549-experte-technique-observabilite-dynatrace-ile-de-france) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133977193-experte-technique-observabilite-dynatrace-ile-de-france) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-05-27.
+This devops engineer position at Sopra Steria was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

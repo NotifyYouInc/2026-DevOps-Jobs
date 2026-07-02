@@ -5,12 +5,12 @@
 | Company | [Scalable Capital](https://scoutify.ai/companies/scalablecapital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000131709517-senior-cloud-site-reliability-engineer-scalability-mfx) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ScalableGmbH/744000133949518-senior-cloud-site-reliability-engineer-scalability-mfx) |
 
 ## About This Role
 
-This devops engineer position at Scalable Capital was posted on 2026-06-11.
+This devops engineer position at Scalable Capital was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

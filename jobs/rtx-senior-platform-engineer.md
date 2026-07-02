@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | Manchester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Senior-Platform-Engineer_01853649) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/Manchester-Lancashire/Senior-Platform-Engineer_01854500) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-06-18.
+This devops engineer position at RTX was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

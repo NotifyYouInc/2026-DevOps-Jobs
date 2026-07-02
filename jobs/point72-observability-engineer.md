@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8393928002?gh_jid=8393928002) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8599908002?gh_jid=8599908002) |
 
 ## About This Role
 
-This devops engineer position at Point72 was posted on 2026-02-04.
+This devops engineer position at Point72 was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

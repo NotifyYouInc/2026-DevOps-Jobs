@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Schiltigheim, Grand Est, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000114696226-ingenieure-devops-strasbourg) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133928840-ingenieure-devops-strasbourg) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-03-13.
+This devops engineer position at Sopra Steria was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

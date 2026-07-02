@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Florida, US |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0242665) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Eglin-AFB-FL/DevOps-Engineer_R0242810) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-06-22.
+This devops engineer position at Booz Allen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

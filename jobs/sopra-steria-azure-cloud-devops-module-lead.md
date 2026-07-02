@@ -1,16 +1,16 @@
-# Azure Cloud Devops Module Lead at Sopra Steria
+#  Azure Cloud Devops Module Lead at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133323779-azure-cloud-devops-module-lead) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133562269-azure-cloud-devops-module-lead) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-22.
+This devops engineer position at Sopra Steria was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

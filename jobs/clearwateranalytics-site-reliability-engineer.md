@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clearwateranalytics](https://scoutify.ai/companies/clearwateranalytics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Noida/Site-Reliability-Engineer_R3701-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://clearwateranalytics.wd1.myworkdayjobs.com/clearwater_analytics_careers/job/Office---Mumbai/Site-Reliability-Engineer_R11898) |
 
 ## About This Role
 
-This devops engineer position at Clearwateranalytics was posted on 2026-04-07.
+This devops engineer position at Clearwateranalytics was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

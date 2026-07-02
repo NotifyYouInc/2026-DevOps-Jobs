@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129561490-awsops-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000133942339-awsops-engineer) |
 
 ## About This Role
 
-This devops engineer position at MUFG Investor Services was posted on 2026-06-01.
+This devops engineer position at MUFG Investor Services was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

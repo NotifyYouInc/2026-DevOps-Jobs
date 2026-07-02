@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hartlepool, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000113194694-cloud-platform-engineer) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000133957379-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Northgate Information Solutions was posted on 2026-03-06.
+This devops engineer position at Northgate Information Solutions was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

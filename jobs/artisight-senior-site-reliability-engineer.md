@@ -5,12 +5,12 @@
 | Company | [Artisight](https://scoutify.ai/companies/artisight?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://artisight.com/positions/?gh_jid=4192887009) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://artisight.com/positions/?gh_jid=4288807009) |
 
 ## About This Role
 
-This devops engineer position at Artisight was posted on 2026-04-16.
+This devops engineer position at Artisight was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

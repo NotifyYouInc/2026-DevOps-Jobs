@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126364819-ingenieur-devsecops-aws-azure-cdi-hf) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000133986754-ingenieur-devsecops-aws-azure-cdi-hf) |
 
 ## About This Role
 
-This security engineer position at Talan was posted on 2026-05-13.
+This security engineer position at Talan was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

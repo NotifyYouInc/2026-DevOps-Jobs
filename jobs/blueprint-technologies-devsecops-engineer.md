@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blueprint Technologies](https://scoutify.ai/companies/blueprint-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/7954148) |
+| Location | Reston, Virginia, United States |
+| Category | Security Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bpcs/jobs/8027273) |
 
 ## About This Role
 
-This devops engineer position at Blueprint Technologies was posted on 2026-05-22.
+This security engineer position at Blueprint Technologies was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

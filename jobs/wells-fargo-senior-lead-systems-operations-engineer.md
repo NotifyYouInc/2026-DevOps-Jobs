@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Iselin, New Jersey, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Lead-Systems-Operations-Engineer_R-554525) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Senior-Lead-Systems-Operations-Engineer_R-555570) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-06-19.
+This devops engineer position at Wells Fargo was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Engineering Manager |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Director--Trading---Execution-Services-Tech---Head-of-Architecture---DevOps_R-0000175134-1) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Director--Trading---Execution-Services-Tech---Head-of-Architecture---DevOps_R-0000178164-2) |
 
 ## About This Role
 
-This engineering manager position at Royal Bank of Canada was posted on 2026-06-03.
+This devops engineer position at Royal Bank of Canada was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

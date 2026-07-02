@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418301/facility-operations-center-engineer-dcc-communities) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10457392/facility-operations-center-engineer-dcc-communities) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-13.
+This devops engineer position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

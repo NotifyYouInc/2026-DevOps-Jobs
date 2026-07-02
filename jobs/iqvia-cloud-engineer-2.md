@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Cloud-Engineer-2_R1545731) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Cloud-Engineer-2_R1545737) |
 
 ## About This Role
 
-This devops engineer position at IQVIA was posted on 2026-06-22.
+This devops engineer position at IQVIA was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

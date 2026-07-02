@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Budapest, Budapest, Hungary |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Incident-Management-Reliability-Engineer_R2847436) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Incident-Management-Reliability-Engineer_R2861911) |
 
 ## About This Role
 
-This devops engineer position at Sanofi was posted on 2026-03-18.
+This devops engineer position at Sanofi was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

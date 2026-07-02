@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133328249-so-senior-devops-azure) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000133504029-so-senior-devops-azure) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-22.
+This devops engineer position at Robert Bosch was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

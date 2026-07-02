@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Exadel Inc (Website)](https://scoutify.ai/companies/exadel-inc-website?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6092665004) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/exadelinc/jobs/6093496004) |
 
 ## About This Role
 
-This devops engineer position at Exadel Inc (Website) was posted on 2026-06-17.
+This devops engineer position at Exadel Inc (Website) was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

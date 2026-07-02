@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | Security Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000128705546-senior-devsecops-consultant-mwd) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000133945819-senior-devsecops-consultant-mwd) |
 
 ## About This Role
 
-This security engineer position at Sopra Steria was posted on 2026-05-27.
+This security engineer position at Sopra Steria was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
