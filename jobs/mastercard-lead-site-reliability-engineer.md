@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | O'Fallon, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Lead-Site-Reliability-Engineer_R-279410-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-BizOps-Engineer_R-253175) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-06-18.
+This devops engineer position at Mastercard was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

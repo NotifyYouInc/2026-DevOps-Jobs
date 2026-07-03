@@ -5,12 +5,12 @@
 | Company | [Thinkbrg](https://scoutify.ai/companies/thinkbrg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Senior-Cloud-Infrastructure-Engineer_JR100647) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://thinkbrg.wd5.myworkdayjobs.com/brg_external_career_site/job/Remote---USA/Senior-Cloud-Infrastructure-Engineer_JR100916) |
 
 ## About This Role
 
-This devops engineer position at Thinkbrg was posted on 2026-02-17.
+This devops engineer position at Thinkbrg was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

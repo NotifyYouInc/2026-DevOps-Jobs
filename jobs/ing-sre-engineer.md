@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/AME-Amsterdam---Maple/SRE-Engineer_REQ-10109387-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/SRE-Engineer_REQ-10117175) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-02-27.
+This devops engineer position at ING was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

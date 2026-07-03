@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Systems-Engineer_328066) |
+| Category | Software Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Systems-Engineer_328208) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-06-22.
+This software engineer position at CACI was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

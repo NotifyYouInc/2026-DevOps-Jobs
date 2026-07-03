@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Romania |
+| Location | Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4835897101?gh_jid=4835897101) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4907723101?gh_jid=4907723101) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-04-08.
+This devops engineer position at N-iX was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

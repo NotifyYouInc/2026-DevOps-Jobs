@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer---Target-India_R0000442855) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer---Target-India_R0000443186) |
 
 ## About This Role
 
-This devops engineer position at Target was posted on 2026-06-21.
+This devops engineer position at Target was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

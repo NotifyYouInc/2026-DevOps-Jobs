@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUo0BFaVq4H7En_DLmc4-BryHWeo5jYfAW1E2BuG_vPZEjsACxwdTNWzlmlivkCIlhbmH1pmZGLyWaxBOTeKHJ2vocfysZ16kIySlyqxiETh5Ic7QUPtrIRhJ1X3vg%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUlfd7efqonot1vPibwCSw0Bo7iC-TQ_12tTt28HG2i1EjoA1Ny_i5XMP1rGMl_4s1BRji4faaitcDEpAc8B0vyd6gOnnCmXgEHGRig7FaySB5FfL4kOfC729C5X_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-20.
+This devops engineer position at Google was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

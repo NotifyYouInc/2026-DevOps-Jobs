@@ -5,12 +5,12 @@
 | Company | [Reserve Bank of Australia](https://scoutify.ai/companies/reserve-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://rba.wd105.myworkdayjobs.com/rba_careers/job/Sydney/Cloud-Platform-Engineer_JR4391) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://rba.wd105.myworkdayjobs.com/rba_careers/job/Sydney/Cloud-Platform-Engineer_JR4617) |
 
 ## About This Role
 
-This devops engineer position at Reserve Bank of Australia was posted on 2026-04-21.
+This devops engineer position at Reserve Bank of Australia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

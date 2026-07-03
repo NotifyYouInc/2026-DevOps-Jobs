@@ -5,12 +5,12 @@
 | Company | [Sensara BV](https://scoutify.ai/companies/sensara-bv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sensarabv/744000129970920-platform-engineerdevops-engineer-gcp-cicd) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sensarabv/744000134265180-platform-engineerdevops-engineer-gcp-cicd) |
 
 ## About This Role
 
-This devops engineer position at Sensara BV was posted on 2026-06-03.
+This devops engineer position at Sensara BV was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

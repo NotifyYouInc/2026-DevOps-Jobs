@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Custom-Software-Engineering-Lead_ATCI-5617415-S2031655-1) |
+| Location | Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Custom-Software-Engineering-Lead_ATCI-5562101-S2033014-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-06-24.
+This devops engineer position at Accenture was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000114426590-technical-manager) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000134289655-technical-manager) |
 
 ## About This Role
 
-This engineering manager position at Avery Dennison Corporation was posted on 2026-03-12.
+This engineering manager position at Avery Dennison Corporation was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuora](https://scoutify.ai/companies/zuora?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/7649555?gh_jid=7649555) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boards.greenhouse.io/zuora/jobs/8027102?gh_jid=8027102) |
 
 ## About This Role
 
-This devops engineer position at Zuora was posted on 2026-03-09.
+This devops engineer position at Zuora was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

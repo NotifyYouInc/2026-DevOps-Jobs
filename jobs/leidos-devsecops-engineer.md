@@ -1,16 +1,16 @@
-# ​DevSecOps Engineer at Leidos
+# DevSec/Ops Engineer at Leidos
 
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/XMLNAME--DevSecOps-Engineer_R-00184681-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Rockville-MD/DevSec-Ops-Engineer_R-00186141) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-09.
+This devops engineer position at Leidos was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

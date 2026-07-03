@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Software-Engineer_R-057366) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune---Tower-6/Software-Engineer_R-056394-1) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-05-21.
+This devops engineer position at Red Hat was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

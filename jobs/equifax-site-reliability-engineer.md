@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer_J00176477) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Site-Reliability-Engineer_J00177787) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-05-21.
+This devops engineer position at Equifax was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

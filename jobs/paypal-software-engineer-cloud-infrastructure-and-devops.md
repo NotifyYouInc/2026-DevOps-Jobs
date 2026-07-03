@@ -1,16 +1,16 @@
-# Software Engineer - Cloud Infrastructure and Devops at PayPal
+# Software Engineer- Cloud Infrastructure and DevOps at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1) |
 
 ## About This Role
 
-This software engineer position at PayPal was posted on 2026-06-23.
+This software engineer position at PayPal was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

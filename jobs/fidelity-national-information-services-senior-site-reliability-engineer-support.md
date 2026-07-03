@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Senior-Site-Reliability-Engineer---Support_JR0307435) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Senior-Site-Reliability-Engineer---Support_JR0307460) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-06-12.
+This devops engineer position at Fidelity National Information Services was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

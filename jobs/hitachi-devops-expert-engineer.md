@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/DevOps-Expert-Engineer_R0125404) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/DevOps-Expert-Engineer_R0129457) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-04-30.
+This devops engineer position at Hitachi was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

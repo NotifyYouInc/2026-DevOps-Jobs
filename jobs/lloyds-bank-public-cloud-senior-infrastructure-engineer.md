@@ -1,16 +1,16 @@
-# Public Cloud Senior Infrastructure Engineer at Lloyds Bank
+# Public Cloud - Senior Infrastructure Engineer at Lloyds Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 5 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud-Senior-Infrastructure-Engineer_153454-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud---Senior-Infrastructure-Engineer_154927-1) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-03-04.
+This devops engineer position at Lloyds Bank was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

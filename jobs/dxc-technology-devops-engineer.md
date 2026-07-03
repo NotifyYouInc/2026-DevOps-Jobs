@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---SC---CHARLESTON/DevOps-Engineer_51582422) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/DevOps-Engineer_51583754) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-06-16.
+This devops engineer position at DXC Technology was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
