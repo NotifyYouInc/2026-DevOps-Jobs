@@ -5,12 +5,12 @@
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000121202537-cloud-engineer-hybrid) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000134441539-cloud-engineer-hybrid) |
 
 ## About This Role
 
-This devops engineer position at Colliers International UK was posted on 2026-04-16.
+This devops engineer position at Colliers International UK was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

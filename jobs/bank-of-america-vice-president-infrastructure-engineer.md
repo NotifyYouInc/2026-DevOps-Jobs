@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Vice-President--Infrastructure-Engineer_26021495) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Vice-President--Infrastructure-Engineer_26021785) |
 
 ## About This Role
 
-This devops engineer position at Bank of America was posted on 2026-06-24.
+This devops engineer position at Bank of America was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

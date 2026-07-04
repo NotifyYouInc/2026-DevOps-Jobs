@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000124823764-senior-cloud-engineer-aws-kubernetes-hf) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000134447684-senior-cloud-engineer-aws-kubernetes-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-05-06.
+This devops engineer position at Devoteam was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

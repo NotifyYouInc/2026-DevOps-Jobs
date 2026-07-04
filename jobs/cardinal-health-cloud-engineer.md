@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Cloud-Engineer_20181660-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Cloud-Engineer_20182941) |
 
 ## About This Role
 
-This devops engineer position at Cardinal Health was posted on 2026-06-04.
+This devops engineer position at Cardinal Health was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

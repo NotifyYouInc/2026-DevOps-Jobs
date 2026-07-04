@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redondo Beach, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Linux-Systems-Architect---Level-3-4_R10233593) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Linux-Systems-Architect---Level-3-4_R10237900) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-05-20.
+This devops engineer position at Northrop Grumman was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

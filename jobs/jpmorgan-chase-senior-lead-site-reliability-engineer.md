@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210748751) |
+| Posted | 2026-06-27 |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210764269) |
 
 ## About This Role
 
-This devops engineer position at JPMorgan Chase was posted on 2026-05-18.
+This devops engineer position at JPMorgan Chase was posted on 2026-06-27.
 
 ## Get Real-Time Alerts
 
