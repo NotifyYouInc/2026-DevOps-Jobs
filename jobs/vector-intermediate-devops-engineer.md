@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Intermediate DevOps Engineer at Vector
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Vector](https://scoutify.ai/companies/vectorlimited?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | DevOps Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VectorLimited/744000134661069-intermediate-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Vector was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

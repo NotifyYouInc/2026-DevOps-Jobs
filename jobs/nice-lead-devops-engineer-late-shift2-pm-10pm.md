@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Lead DevOps Engineer- Late Shift(2 PM - 10PM) at NiCE
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4906285101?gh_jid=4906285101) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at NiCE was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

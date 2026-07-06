@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Senior Platform Engineer at Zartis
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Zartis](https://scoutify.ai/companies/zartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.lever.co/zartis/7cacf01f-3c74-4760-a927-3d37bd716858) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Zartis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

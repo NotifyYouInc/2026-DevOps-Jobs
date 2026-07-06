@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Team Lead Software Systems Engineering at Sabre
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Team-Lead-Software-Systems-Engineering_JR108174) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Sabre was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

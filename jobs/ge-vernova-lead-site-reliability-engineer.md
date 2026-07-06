@@ -1,16 +1,16 @@
-# Senior Infrastructure Engineer at Wells Fargo
+# Lead Site Reliability Engineer at GE Vernova
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Oslo, Oslo, Norway |
 | Category | DevOps Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-556662) |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Oslo/Lead-Site-Reliability-Engineer_R5045645-2) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-06-29.
+This devops engineer position at GE Vernova was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

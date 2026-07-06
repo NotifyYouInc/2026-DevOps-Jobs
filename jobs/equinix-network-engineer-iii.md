@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Network Engineer III at Equinix
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Network-Engineer-III_JR-161746) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Equinix was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

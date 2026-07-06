@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001006870-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001192476-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at NCS Australia was posted on 2026-04-17.
+This devops engineer position at NCS Australia was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

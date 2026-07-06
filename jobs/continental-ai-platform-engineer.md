@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000132792252-ai-platform-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000134753090-ai-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Continental was posted on 2026-06-18.
+This devops engineer position at Continental was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

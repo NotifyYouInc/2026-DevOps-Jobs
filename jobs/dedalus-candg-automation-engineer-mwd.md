@@ -1,16 +1,16 @@
-# Senior Infrastructure Engineer at Wells Fargo
+# Automation Engineer (m/w/d) at Dedalus CandG
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bonn, North Rhine-Westphalia, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-556662) |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/DEU---Bonn/Automation-Engineer--m-w-d-_JR108594-1) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-06-29.
+This devops engineer position at Dedalus CandG was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

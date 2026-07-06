@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Junior DevOps Engineer at Airbus
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bucharest/Junior-DevOps-Engineer_JR10419568) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Airbus was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

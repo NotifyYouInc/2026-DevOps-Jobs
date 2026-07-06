@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# SRE [Antifraud] at Plata Card
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Plata Card](https://scoutify.ai/companies/plata-card?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://careers.bancoplata.mx/vacancy/details?id=5285368008&gh_jid=5285368008) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Plata Card was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

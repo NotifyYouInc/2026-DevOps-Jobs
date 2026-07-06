@@ -1,16 +1,16 @@
-# Senior Infrastructure Engineer at Wells Fargo
+# Cloud Middleware Delivery Engineer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
 | Posted | 2026-06-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer_R-556662) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000134725069-cloud-middleware-delivery-engineer) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-06-29.
+This devops engineer position at Avaloq was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

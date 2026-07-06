@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990011672275-senior-software-engineer-ii) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013829306-senior-software-engineer-ii) |
 
 ## About This Role
 
-This devops engineer position at The Nielsen Company was posted on 2026-02-13.
+This devops engineer position at The Nielsen Company was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

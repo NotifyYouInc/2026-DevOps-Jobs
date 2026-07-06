@@ -1,16 +1,16 @@
-# Senior Software Engineer at Red Hat
+# System Development Engineer, Blink at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lowell, Massachusetts, United States |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | North Reading, Massachusetts, United States |
 | Category | Software Engineer |
 | Posted | 2026-06-28 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Lowell/Senior-Software-Engineer_R-057290-1) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460557/system-development-engineer-blink) |
 
 ## About This Role
 
-This software engineer position at Red Hat was posted on 2026-06-28.
+This software engineer position at Amazon was posted on 2026-06-28.
 
 ## Get Real-Time Alerts
 

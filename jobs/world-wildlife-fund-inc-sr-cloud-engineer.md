@@ -5,12 +5,12 @@
 | Company | [World Wildlife Fund, Inc.](https://scoutify.ai/companies/world-wildlife-fund-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000134006747-sr-cloud-engineer) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000134067574-sr-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at World Wildlife Fund, Inc. was posted on 2026-06-24.
+This devops engineer position at World Wildlife Fund, Inc. was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

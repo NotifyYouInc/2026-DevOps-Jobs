@@ -1,16 +1,16 @@
-# DevOps Engineer at APM Group
+# Infrastructure Engineer at Deliverect
 
 | Field | Details |
 |-------|---------|
-| Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Company | [Deliverect](https://scoutify.ai/companies/deliverect?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.lever.co/deliverect/e63a9044-32e9-4495-95d4-2255cd508382) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at Deliverect was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
