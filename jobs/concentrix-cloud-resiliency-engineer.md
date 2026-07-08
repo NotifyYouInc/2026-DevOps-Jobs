@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/India-Hyderabad-Telangana/Cloud-Resiliency-Engineer_R1733750) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/KOR-Work-at-Home/Cloud-Resiliency-Engineer_R1742156) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-06-15.
+This devops engineer position at Concentrix was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

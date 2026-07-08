@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Grenoble, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133878308-senior-cloud-engineer-aws-fh) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135275459-senior-cloud-engineer-aws-fh) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-24.
+This devops engineer position at Devoteam was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

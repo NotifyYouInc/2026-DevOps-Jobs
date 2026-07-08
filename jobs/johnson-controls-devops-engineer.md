@@ -1,16 +1,16 @@
-# Devops Engineer at Johnson Controls
+# DevOps Engineer at Johnson Controls
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Boca Raton, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Devops-Engineer_WD30271418) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Boca-Raton-Florida-United-States-of-America/DevOps-Engineer_WD30273280) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-06-05.
+This devops engineer position at Johnson Controls was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

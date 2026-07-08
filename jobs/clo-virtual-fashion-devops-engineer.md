@@ -5,12 +5,12 @@
 | Company | [CLO Virtual Fashion](https://scoutify.ai/companies/clovirtualfashion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.lever.co/clovirtualfashion/1fcfaf81-2258-409d-b0df-ff1a3d6f6235) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/clovirtualfashion/d602cb3c-b7ab-42aa-918e-785af30aa608) |
 
 ## About This Role
 
-This devops engineer position at CLO Virtual Fashion was posted on 2026-03-03.
+This devops engineer position at CLO Virtual Fashion was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

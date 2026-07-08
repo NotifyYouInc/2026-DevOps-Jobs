@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459019/sysdev-engineer-ii-leo-networking-software) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10461872/sysdev-engineer-ii-leo-networking-software) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-25.
+This devops engineer position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

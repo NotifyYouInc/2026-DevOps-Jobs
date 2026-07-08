@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Security Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121847087-devops-senior-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135060907-devops-senior-engineer) |
 
 ## About This Role
 
-This security engineer position at Experian was posted on 2026-04-20.
+This devops engineer position at Experian was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

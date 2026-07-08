@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pennsylvania, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/DevOps-Engineer_R7813) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/India---Bengaluru/DevOps-Engineer_R8024) |
 
 ## About This Role
 
-This devops engineer position at CAI was posted on 2026-05-28.
+This devops engineer position at CAI was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

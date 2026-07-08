@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Deployment-Lead_ATCI-5452694-S1988400-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Deployment-Lead_ATCI-5641976-S2055754-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-02.
+This devops engineer position at Accenture was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

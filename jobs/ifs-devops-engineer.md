@@ -5,12 +5,12 @@
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000133509884-devops-engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000135160160-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-06-23.
+This devops engineer position at IFS was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

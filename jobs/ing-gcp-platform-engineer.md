@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Katowice-Zabrska-19/GCP-Platform-Engineer_REQ-10113125-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Warszawa-Paska-97/GCP-Platform-Engineer_REQ-10117409-1) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-04-14.
+This devops engineer position at ING was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

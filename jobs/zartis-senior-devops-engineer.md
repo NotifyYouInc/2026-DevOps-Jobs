@@ -5,12 +5,12 @@
 | Company | [Zartis](https://scoutify.ai/companies/zartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.lever.co/zartis/a476bce0-f17c-43cc-bf34-688a9c4c0159) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.lever.co/zartis/3a2a2400-effd-439a-9db2-2b7b21d94c5e) |
 
 ## About This Role
 
-This devops engineer position at Zartis was posted on 2026-06-24.
+This devops engineer position at Zartis was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

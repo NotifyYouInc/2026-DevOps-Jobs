@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000127233849-ingenieur-cloud-gcp-hf) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135303339-ingenieur-cloud-gcp-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-05-19.
+This devops engineer position at ALTEN was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

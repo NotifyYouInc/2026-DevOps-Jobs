@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckedzBw0xBnKOIY-jxG_FH58ogT8mhHODQ5M69-YgNQ8MEjoACxwdTN_QqWifc--_Xu28mSjTk6BBDQbvw5uShmFmCYDJotMjAG9V3Wo2jN_cBP3FkJUJhpIyviyN_V2&loc=AU&title=Systems+Development+Engineer) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdYZuMK1CWxqNVDnHETAzDBQYpmFExEOi92wvopRqHF8EjoA1Ny_i2tDAQTO1Bd0nHR311UFeqk9oJ2stQlM9duztHdJ7n6foQMhkW63qdMauEBlPJTQzgetWaGJ_V2&loc=AU&title=Systems+Development+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-01.
+This devops engineer position at Google was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

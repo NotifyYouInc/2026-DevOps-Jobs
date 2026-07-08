@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-5619520-S2029718-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Full-Stack-Engineer_ATCI-5377095-S1997101-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-06-16.
+This software engineer position at Accenture was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

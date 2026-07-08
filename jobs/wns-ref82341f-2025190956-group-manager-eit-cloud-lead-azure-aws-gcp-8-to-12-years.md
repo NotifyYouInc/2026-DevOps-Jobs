@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134698888-ref82341f-2025190956-group-manager-eit-cloud-lead-azure-aws-gcp-8-to-12-years) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000134936949-ref82341f-2025190956-group-manager-eit-cloud-lead-azure-aws-gcp-8-to-12-years) |
 
 ## About This Role
 
-This devops engineer position at WNS was posted on 2026-06-29.
+This devops engineer position at WNS was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

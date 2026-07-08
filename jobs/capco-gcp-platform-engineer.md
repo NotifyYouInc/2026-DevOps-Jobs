@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7983000) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8037847) |
 
 ## About This Role
 
-This devops engineer position at Capco was posted on 2026-06-09.
+This devops engineer position at Capco was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

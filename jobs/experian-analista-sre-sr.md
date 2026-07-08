@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000126779119-analista-sre-sr) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135005391-analista-sre-sr) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-05-16.
+This devops engineer position at Experian was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

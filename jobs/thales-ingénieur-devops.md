@@ -1,16 +1,16 @@
-# Ingénieur DevOps at Thales
+# Ingénieur Devops at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Vélizy-Villacoublay, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Ingnieur-DevOps_R0320347) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Vlizy-Villacoublay/Ingnieur-Devops_R0333374-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-04-10.
+This devops engineer position at Thales was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

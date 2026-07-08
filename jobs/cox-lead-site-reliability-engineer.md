@@ -1,16 +1,16 @@
-# Lead Site Reliability Engineer at Cox
+# LEAD SITE RELIABILITY ENGINEER at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Lead-Site-Reliability-Engineer_R202679287) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/LEAD-SITE-RELIABILITY-ENGINEER_R202679497) |
 
 ## About This Role
 
-This devops engineer position at Cox was posted on 2026-06-25.
+This devops engineer position at Cox was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

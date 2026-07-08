@@ -5,12 +5,12 @@
 | Company | [Saxobank](https://scoutify.ai/companies/saxobank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Gurugram/Devops-Engineer---Test-Environment_R-19145-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Gurugram/Devops-Engineer---Test-Environment_R-19127) |
 
 ## About This Role
 
-This devops engineer position at Saxobank was posted on 2026-06-29.
+This devops engineer position at Saxobank was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

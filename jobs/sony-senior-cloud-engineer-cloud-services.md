@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sony](https://scoutify.ai/companies/sony?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ontario, CA |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Remote---Ontario/Senior-Cloud-Engineer--Cloud-Services_JR-118693) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Toronto-375/Senior-Cloud-Engineer--Cloud-Services_JR-119325) |
 
 ## About This Role
 
-This devops engineer position at Sony was posted on 2026-02-10.
+This devops engineer position at Sony was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

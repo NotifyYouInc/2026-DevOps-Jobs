@@ -5,12 +5,12 @@
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lesquin, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000131847484-sre-ingenieure-outils-collaboratifs-hf) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000135042189-sre-ingenieure-outils-collaboratifs-hf) |
 
 ## About This Role
 
-This devops engineer position at Boulanger Electroménager & Multimédia was posted on 2026-06-12.
+This devops engineer position at Boulanger Electroménager & Multimédia was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

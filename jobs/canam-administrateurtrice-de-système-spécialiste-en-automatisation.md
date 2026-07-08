@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canam](https://scoutify.ai/companies/canam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sherbrooke, Quebec, Canada |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GroupeCanam/744000130233462-administrateurtrice-de-systeme-specialiste-en-automatisation) |
+| Location | 5 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GroupeCanam/744000135253037-administrateurtrice-de-systeme-specialiste-en-automatisation) |
 
 ## About This Role
 
-This it & systems administration position at Canam was posted on 2026-06-04.
+This devops engineer position at Canam was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

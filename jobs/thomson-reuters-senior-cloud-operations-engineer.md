@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Eagan, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-Operations-Engineer_JREQ192591) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Senior-Cloud-Operations-Engineer_JREQ201801-1) |
 
 ## About This Role
 
-This devops engineer position at Thomson Reuters was posted on 2026-04-07.
+This devops engineer position at Thomson Reuters was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

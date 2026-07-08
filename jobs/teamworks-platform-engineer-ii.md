@@ -5,12 +5,12 @@
 | Company | [Teamworks](https://scoutify.ai/companies/teamworks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teamworks/7be4b4a3-a5ba-43d0-b905-438e8d94ff4d) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teamworks/3951f154-b6bb-409a-8840-ebf96e0f384e) |
 
 ## About This Role
 
-This devops engineer position at Teamworks was posted on 2026-03-30.
+This devops engineer position at Teamworks was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

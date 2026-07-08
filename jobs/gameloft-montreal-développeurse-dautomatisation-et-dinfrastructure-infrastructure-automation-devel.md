@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000125888580-developpeurse-dautomatisation-et-dinfrastructure-infrastructure-automation-developer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000135040419-developpeurse-dautomatisation-et-dinfrastructure-infrastructure-automation-developer) |
 
 ## About This Role
 
-This devops engineer position at Gameloft Montreal was posted on 2026-05-11.
+This devops engineer position at Gameloft Montreal was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

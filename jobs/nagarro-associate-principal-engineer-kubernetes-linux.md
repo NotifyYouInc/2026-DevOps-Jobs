@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000133004382-associate-principal-engineer-kubernetes-linux) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000135014383-associate-principal-engineer-kubernetes-linux) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-06-19.
+This devops engineer position at Nagarro was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Corporate Finance |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000128198562-it-production-support-finops-specialist) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135218207-it-production-support-finops-specialist) |
 
 ## About This Role
 
-This corporate finance position at Inetum was posted on 2026-05-25.
+This devops engineer position at Inetum was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

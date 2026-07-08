@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000128534352-devops-hf) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000134999809-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-05-26.
+This devops engineer position at ALTEN Canada was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

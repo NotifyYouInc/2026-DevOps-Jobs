@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Security Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Site-Reliability-Engineer---Associate--Cyber-Security-Engineering_PT-JR035592-2) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/Site-Reliability-Engineer---Associate--Cyber-Security-Engineering_PT-JR039885) |
 
 ## About This Role
 
-This security engineer position at Morgan Stanley was posted on 2026-05-19.
+This security engineer position at Morgan Stanley was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

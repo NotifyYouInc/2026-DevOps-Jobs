@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intact](https://scoutify.ai/companies/intactfc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Senior-DevOps---AI_R153331-1) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://intactfc.wd3.myworkdayjobs.com/intactfc/job/Toronto-Ontario-CAN/Senior-DevOps---AI_R154049) |
 
 ## About This Role
 
-This devops engineer position at Intact was posted on 2026-06-01.
+This devops engineer position at Intact was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

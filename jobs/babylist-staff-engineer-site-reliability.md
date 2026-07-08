@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Babylist](https://scoutify.ai/companies/babylist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/babylist/jobs/6015140004) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/babylist/jobs/6104955004) |
 
 ## About This Role
 
-This devops engineer position at Babylist was posted on 2026-06-10.
+This devops engineer position at Babylist was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

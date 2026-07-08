@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Salzburg, Salzburg, Austria |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/DevOps-Engineer_19040959) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Salzburg/DevOps-Engineer_19041240) |
 
 ## About This Role
 
-This devops engineer position at TransUnion was posted on 2026-06-19.
+This devops engineer position at TransUnion was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

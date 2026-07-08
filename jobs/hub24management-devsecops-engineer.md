@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Security Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/DevSecOps-Engineer_JR100664) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/DevSecOps-Engineer_JR100854) |
 
 ## About This Role
 
-This security engineer position at Hub24management was posted on 2026-04-17.
+This devops engineer position at Hub24management was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

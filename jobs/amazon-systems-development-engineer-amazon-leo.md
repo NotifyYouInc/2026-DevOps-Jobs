@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bellevue, Washington, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459475/systems-development-engineer-amazon-leo) |
+| Location | Arlington, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10462184/systems-development-engineer-amazon-leo) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-26.
+This software engineer position at Amazon was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

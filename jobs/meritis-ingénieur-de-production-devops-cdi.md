@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000133017359-ingenieur-de-production-devops-cdi) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000134832228-ingenieur-de-production-devops-cdi) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-06-19.
+This devops engineer position at Meritis was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

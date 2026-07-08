@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sterling, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Principal-Software-Engineer---DevOps---Infrastructure--Onsite-_01852922) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Principal-Software-Engineer---DevOps---Infrastructure--Onsite-_01856707) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-06-16.
+This devops engineer position at RTX was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

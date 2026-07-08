@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Senior-Linux-Administrator--TS-SCI-_R-00185384-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Senior-Linux-Administrator--TS-SCI-_R-00186475) |
 
 ## About This Role
 
-This it & systems administration position at Leidos was posted on 2026-06-13.
+This it & systems administration position at Leidos was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
+| Location | Indaiatuba, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132070289-it-release-and-deployment-coordinator-mid-level) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135233295-it-release-and-deployment-coordinator-mid-level) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-06-14.
+This devops engineer position at Eurofins Scientific was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
