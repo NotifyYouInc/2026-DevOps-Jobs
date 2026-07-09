@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | Brisbane, Queensland, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/DevOps-Engineer_R0000359651) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Brisbane-Queensland/DevOps-Engineer_R0000380198) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar Inc. was posted on 2026-05-05.
+This devops engineer position at Caterpillar Inc. was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

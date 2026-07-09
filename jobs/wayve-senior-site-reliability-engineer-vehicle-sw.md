@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Baden-Wurttemberg, DE |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8435003002) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8615440002) |
 
 ## About This Role
 
-This devops engineer position at Wayve was posted on 2026-02-24.
+This devops engineer position at Wayve was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

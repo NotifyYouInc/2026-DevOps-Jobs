@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Cloud-Ops-Engineer-I_R1310075-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Lead-Cloud-Ops-Engineer-I_R1314527) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-04-22.
+This devops engineer position at Danaher was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

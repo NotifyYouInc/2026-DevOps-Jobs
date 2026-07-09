@@ -5,12 +5,12 @@
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Leeds, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Leeds-United-Kingdom/Lead-DevSecOps-Engineer_19040367) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Leeds-United-Kingdom/Lead-DevSecOps-Engineer_19041285) |
 
 ## About This Role
 
-This devops engineer position at TransUnion was posted on 2026-05-08.
+This devops engineer position at TransUnion was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

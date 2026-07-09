@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118589006-expert-openshift-conteneurisation-toulouse) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135440408-expert-openshift-conteneurisation-toulouse) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-04-03.
+This devops engineer position at Sopra Steria was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

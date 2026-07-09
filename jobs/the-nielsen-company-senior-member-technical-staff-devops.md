@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013636967-senior-member-technical-staff-devops) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990013896216-senior-member-technical-staff-devops) |
 
 ## About This Role
 
-This devops engineer position at The Nielsen Company was posted on 2026-06-16.
+This devops engineer position at The Nielsen Company was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
