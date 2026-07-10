@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132360177-ingenieur-devops) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135682862-ingenieur-devops) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-06-16.
+This devops engineer position at Inetum was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

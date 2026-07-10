@@ -5,12 +5,12 @@
 | Company | [MinIO](https://scoutify.ai/companies/minio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/minio/jobs/5157718008) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/minio/jobs/5290191008) |
 
 ## About This Role
 
-This devops engineer position at MinIO was posted on 2026-04-24.
+This devops engineer position at MinIO was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

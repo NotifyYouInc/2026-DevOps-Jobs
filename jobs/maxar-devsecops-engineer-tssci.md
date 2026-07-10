@@ -5,12 +5,12 @@
 | Company | [Maxar](https://scoutify.ai/companies/maxar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://maxar.wd1.myworkdayjobs.com/cleared_opportunities/job/Herndon-VA/DevSecOps-Engineer--TS-SCI-_R23983-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://maxar.wd1.myworkdayjobs.com/cleared_opportunities/job/Herndon-VA/DevSecOps-Engineer--TS-SCI-_R24213-3) |
 
 ## About This Role
 
-This devops engineer position at Maxar was posted on 2026-05-29.
+This devops engineer position at Maxar was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

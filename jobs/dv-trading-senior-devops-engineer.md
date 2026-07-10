@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DV Trading](https://scoutify.ai/companies/dvtrading?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4704781005) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dvtrading/jobs/4711521005) |
 
 ## About This Role
 
-This devops engineer position at DV Trading was posted on 2026-06-11.
+This devops engineer position at DV Trading was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

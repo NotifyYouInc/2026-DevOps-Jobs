@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | O'Fallon, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/AI-Platform-Operations--Senior_R0242552) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/OFallon-IL/AI-Platform-Operations--Senior_R0243664) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-06-18.
+This devops engineer position at Booz Allen was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

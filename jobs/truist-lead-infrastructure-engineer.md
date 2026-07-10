@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Lead-Infrastructure-Engineer_R0115742) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Lead-Infrastructure-Engineer_R0116392) |
 
 ## About This Role
 
-This devops engineer position at Truist was posted on 2026-06-15.
+This devops engineer position at Truist was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

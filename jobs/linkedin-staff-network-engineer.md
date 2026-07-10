@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115529357-staff-network-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000135548629-staff-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at LinkedIn was posted on 2026-03-18.
+This devops engineer position at LinkedIn was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

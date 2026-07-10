@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Cloud-Engineer--Specialist_179410) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Engineer--Specialist_179278-1) |
 
 ## About This Role
 
-This devops engineer position at Vanguard was posted on 2026-06-30.
+This software engineer position at Vanguard was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

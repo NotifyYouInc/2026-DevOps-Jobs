@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Obsidian Security](https://scoutify.ai/companies/obsidian-security?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cheltenham, England, United Kingdom |
+| Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5218385008) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290879008) |
 
 ## About This Role
 
-This devops engineer position at Obsidian Security was posted on 2026-05-13.
+This devops engineer position at Obsidian Security was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

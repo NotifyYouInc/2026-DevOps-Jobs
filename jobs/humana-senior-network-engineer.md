@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Senior-Network-Engineer_R-404442) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Work-at-Home---Florida/Senior-Network-Engineer_R-420737) |
 
 ## About This Role
 
-This devops engineer position at Humana was posted on 2026-02-09.
+This devops engineer position at Humana was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

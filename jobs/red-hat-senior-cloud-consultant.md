@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | Customer Success |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Cairo---MSO/Senior-Cloud-Consultant_R-055382-2) |
+| Location | Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-Brazil/Senior-Cloud-Consultant_R-057714-1) |
 
 ## About This Role
 
-This customer success position at Red Hat was posted on 2026-06-01.
+This devops engineer position at Red Hat was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

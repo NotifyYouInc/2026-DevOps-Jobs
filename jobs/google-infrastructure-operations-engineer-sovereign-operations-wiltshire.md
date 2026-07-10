@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckclmtCXy2X4DQwhJKN7dtvCLm7UHQz-ZWXO0fPoRpjG9EjsACxwdTPagIkichs4ATnSeva0ukDzofV78pFhSf2KKtrBjS1RfHuQcUvMYswCvWQ04LLtDDtWqlWDE3w%3D%3D_V2&loc=GB&title=Infrastructure+Operations+Engineer) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW3GgwTMfgD1VmG2sHddXDTCTmf9dxCxBVZKlwNACQdHEjsA1Ny_i9ytkI9LBfDa4l0ZIIpOftvy6Dc6iGAc8cv9p5IVpT-q_ug-scDZX8EZcK-bTSIPniUver5qnA%3D%3D_V2&loc=GB&title=Infrastructure+Operations+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-05-19.
+This devops engineer position at Google was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

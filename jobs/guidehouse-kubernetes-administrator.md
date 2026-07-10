@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Kubernetes-Administrator_40775) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---DC-Washington/Kubernetes-Administrator_41534) |
 
 ## About This Role
 
-This devops engineer position at Guidehouse was posted on 2026-06-18.
+This devops engineer position at Guidehouse was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

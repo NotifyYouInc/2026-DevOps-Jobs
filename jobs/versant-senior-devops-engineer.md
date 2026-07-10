@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131965989-senior-devops-engineer) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135575048-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Versant was posted on 2026-06-12.
+This devops engineer position at Versant was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

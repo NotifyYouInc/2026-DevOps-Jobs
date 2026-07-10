@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Platform-Engineer_REQ337319-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Platform-Engineer_REQ361405-1) |
 
 ## About This Role
 
-This devops engineer position at T-Mobile was posted on 2026-04-10.
+This devops engineer position at T-Mobile was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

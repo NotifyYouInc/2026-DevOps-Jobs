@@ -1,16 +1,16 @@
-# DevOps Engineer – Level 5 at Northrop Grumman
+# DevOps Engineer - Level 5 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Virginia, US |
+| Location | Redondo Beach, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-5_R10236625) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-5_R10238854-1) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-06-16.
+This devops engineer position at Northrop Grumman was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
