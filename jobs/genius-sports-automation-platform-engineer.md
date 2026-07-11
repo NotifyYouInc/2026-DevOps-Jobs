@@ -1,16 +1,16 @@
-# Sr Engineer - Target India at Target
+# Automation Platform Engineer at Genius Sports
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Genius Sports](https://scoutify.ai/companies/genius-sports?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Tallinn, Harjumaa, Estonia |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000443447) |
+| Apply | [View on company site](https://boards.greenhouse.io/geniussports/jobs/7793503003?gh_jid=7793503003) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-03.
+This software engineer position at Genius Sports was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

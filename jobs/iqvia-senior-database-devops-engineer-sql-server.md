@@ -1,16 +1,16 @@
-# Sr Engineer - Target India at Target
+# Senior Database DevOps Engineer (SQL Server) at IQVIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Database Administration |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000443447) |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Senior-Database-DevOps-Engineer--SQL-Server-_R1521549) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-03.
+This database administration position at IQVIA was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

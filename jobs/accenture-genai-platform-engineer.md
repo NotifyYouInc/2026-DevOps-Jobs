@@ -1,16 +1,16 @@
-# Infrastructure Engineer at Accenture
+# GenAI Platform Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infrastructure-Engineer_ATCI-5641978-S2056529-1) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon-Santos-37/GenAI-Platform-Engineer_R00340898) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-02.
+This ai / llm engineer position at Accenture was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

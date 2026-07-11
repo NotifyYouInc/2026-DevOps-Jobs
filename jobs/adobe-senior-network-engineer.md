@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Senior Network Engineer at Adobe
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Network-Engineer_R170164-1) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Adobe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Engineer - Target India at Target
+# Senior Systems Support Engineer(Node) at Referrals Only
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000443447) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8045122) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-03.
+This devops engineer position at Referrals Only was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

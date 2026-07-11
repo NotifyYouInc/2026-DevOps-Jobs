@@ -1,16 +1,16 @@
-# Senior Software Engineer at Appian
+# Software Engineer, Infrastructure at Sift
 
 | Field | Details |
 |-------|---------|
-| Company | [Appian](https://scoutify.ai/companies/appian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Sift](https://scoutify.ai/companies/sift?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appian/jobs/7950196) |
+| Posted | 2025-10-30 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/siftstack/a58c387f-d08e-4609-8ce3-eed5c624e61b) |
 
 ## About This Role
 
-This software engineer position at Appian was posted on 2026-07-01.
+This software engineer position at Sift was posted on 2025-10-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# DevOps Engineer DDI Services at Swisscom
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bern, Bern, Switzerland |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/DevOps-Engineer-DDI-Services_R-0005800) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Swisscom was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

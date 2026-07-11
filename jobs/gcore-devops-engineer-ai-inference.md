@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# DevOps Engineer (AI Inference) at Gcore
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000135707119-devops-engineer-ai-inference) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Gcore was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

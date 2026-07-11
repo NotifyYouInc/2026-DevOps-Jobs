@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# DevOps Engineer 2 (Intermediate) at Black Duck Software, Inc.
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Black Duck Software, Inc.](https://scoutify.ai/companies/black-duck-software-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Calgary, Alberta, Canada |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/blackduck/jobs/5276893008) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Black Duck Software, Inc. was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

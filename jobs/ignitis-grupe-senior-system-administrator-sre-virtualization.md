@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000128421300-senior-system-administrator-sre-virtualization) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000135706300-senior-system-administrator-sre-virtualization) |
 
 ## About This Role
 
-This it & systems administration position at Ignitis Grupe was posted on 2026-05-26.
+This it & systems administration position at Ignitis Grupe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

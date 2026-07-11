@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Lead DevOps Engineer (f/m/x) at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-Ion-Mihalache-Blvd/Lead-DevOps-Engineer--f-m-x-_R0441114-1) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Deutsche Bank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

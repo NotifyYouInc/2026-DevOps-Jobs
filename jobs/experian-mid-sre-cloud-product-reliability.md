@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Mid SRE – Cloud Product Reliability at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | São Carlos, São Paulo, Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135765499-mid-sre-cloud-product-reliability) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Experian was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Senior DevOps Engineer at Datatonic
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Datatonic](https://scoutify.ai/companies/datatonic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/datatonic/1165b8a0-deca-400b-84ff-b4ebb241663b) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Datatonic was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Infrastructure Engineer at Accenture
+# Dev Ops Software Engineer – Maritime Mission Systems at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Infrastructure-Engineer_ATCI-5641978-S2056529-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cheadle/Dev-Ops-Software-Engineer---Maritime-Mission-Systems_R0317454-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-02.
+This devops engineer position at Thales was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

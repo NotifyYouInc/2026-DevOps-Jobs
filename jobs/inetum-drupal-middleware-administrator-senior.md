@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Drupal Middleware Administrator Senior at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135727494-drupal-middleware-administrator-senior) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Inetum was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

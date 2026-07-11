@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Cloud Engineer at Oci
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Oci](https://scoutify.ai/companies/oci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Posted | 2025-04-03 |
+| Apply | [View on company site](https://jobs.lever.co/oci/c69b5353-d759-4209-941b-63c59c99e9a7) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Oci was posted on 2025-04-03.
 
 ## Get Real-Time Alerts
 

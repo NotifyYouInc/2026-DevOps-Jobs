@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Cloud Architecture at Mars
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Guararema, São Paulo, Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/BRA-Sao-Paulo-Guararema/Cloud-Architecture_R158263-1) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Mars was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Sr Engineer - Target India at Target
+# Staff IT Engineer for Automation & AI transformation (Remote) at Sosafe
 
 | Field | Details |
 |-------|---------|
-| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Sosafe](https://scoutify.ai/companies/sosafe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Software Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Engineer---Target-India_R0000443447) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691) |
 
 ## About This Role
 
-This software engineer position at Target was posted on 2026-07-03.
+This software engineer position at Sosafe was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

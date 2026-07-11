@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Senior DevOps Engineer at Fullscript
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Fullscript](https://scoutify.ai/companies/fullscript?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 4 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://jobs.lever.co/fullscript/f2ccb6f3-2ff3-4ab6-9d78-88cff616461c) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Fullscript was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000134721794-ingenieur-de-production-cloud-azure-monetique-paiement-bilingue-anglais-hf) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000135691088-ingenieur-de-production-cloud-azure-monetique-paiement-bilingue-anglais-hf) |
 
 ## About This Role
 
-This devops engineer position at Everience was posted on 2026-06-29.
+This devops engineer position at Everience was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

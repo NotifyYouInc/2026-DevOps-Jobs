@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# Lead Cloud Operations Engineer at Zafin
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Zafin](https://scoutify.ai/companies/zafinlabsamericasinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zafinlabsamericasinc/jobs/5169013007) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Zafin was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

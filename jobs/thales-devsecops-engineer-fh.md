@@ -1,16 +1,16 @@
-# Cloud Network Engineer (m/f/n) at INPOST
+# DevSecOps Engineer (F/H) at Thales
 
 | Field | Details |
 |-------|---------|
-| Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | La Ciotat, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
 | Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000135717449-cloud-network-engineer-mfn) |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/La-Ciotat/DevSecOps-Engineer--F-H-_R0333440) |
 
 ## About This Role
 
-This devops engineer position at INPOST was posted on 2026-07-03.
+This devops engineer position at Thales was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
