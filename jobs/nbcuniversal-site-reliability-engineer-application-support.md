@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000132908402-site-reliability-engineer-application-support) |
+| Posted | 2026-07-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135822659-site-reliability-engineer-application-support) |
 
 ## About This Role
 
-This devops engineer position at NBCUniversal was posted on 2026-06-18.
+This devops engineer position at NBCUniversal was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 
