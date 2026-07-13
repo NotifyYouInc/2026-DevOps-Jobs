@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Layer7 API Services Administrator / Engineer at Inetum
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135960799-layer7-api-services-administrator-engineer) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Inetum was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

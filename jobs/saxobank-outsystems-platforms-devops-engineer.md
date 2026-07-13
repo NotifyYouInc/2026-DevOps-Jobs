@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Outsystems Platforms - DevOps Engineer at Saxobank
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Saxobank](https://scoutify.ai/companies/saxobank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Gurugram/Devops-Engineer---Test-Environment_R-19146) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Saxobank was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

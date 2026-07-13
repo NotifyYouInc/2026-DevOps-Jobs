@@ -1,4 +1,4 @@
-# DevOps Engineer at DXC Technology
+# Senior DevOps Engineer at DXC Technology
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/DevOps-Engineer_51584537) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Senior-DevOps-Engineer_51584520) |
 
 ## About This Role
 

@@ -1,12 +1,12 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Architecte Infrastructure – On-Premise & Cloud (H/F) at ALTEN Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943779-architecte-infrastructure-on-premise-cloud-hf) |
 
 ## About This Role
 

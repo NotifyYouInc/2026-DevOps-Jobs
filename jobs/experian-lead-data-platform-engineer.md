@@ -1,16 +1,16 @@
-# Infrastructure Engineering Senior Advisor - HIH - Evernorth at Cigna
+# Lead Data Platform Engineer at Experian
 
 | Field | Details |
 |-------|---------|
-| Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Infrastructure-Engineering-Senior-Advisor---HIH---Evernorth_26007964) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135914471-lead-data-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Cigna was posted on 2026-07-06.
+This data engineer position at Experian was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

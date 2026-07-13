@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Senior Reliability Engineer at Amadeus
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Amadeus](https://scoutify.ai/companies/amadeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://amadeus.wd502.myworkdayjobs.com/jobs/job/Kuala-Lumpur/Senior-Reliability-Engineer_R35726) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Amadeus was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

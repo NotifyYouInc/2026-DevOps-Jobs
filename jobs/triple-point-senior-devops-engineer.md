@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# ​​Senior DevOps Engineer​  at Triple Point
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Triple Point](https://scoutify.ai/companies/triplepointllp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/triplepointllp/jobs/4919771101) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Triple Point was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

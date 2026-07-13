@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Robert Bosch
+# Software Engineer – Kubernetes Platform at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135911509-senior-devops-engineer) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer---Kubernetes-Platform_2017812-1) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-07-06.
+This software engineer position at Cisco was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

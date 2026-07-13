@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Cloud engineer at Accenture
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Stockholm/Cloud-engineer_14052412) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Accenture was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000129943779-specialiste-devops-senior) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135943449-specialiste-devops-senior) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-06-03.
+This devops engineer position at ALTEN was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

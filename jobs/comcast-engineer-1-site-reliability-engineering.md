@@ -1,4 +1,4 @@
-# Development Engineer 3 at Comcast
+# Engineer 1, Site Reliability Engineering at Comcast
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Development-Engineer-3_R439829) |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-1--Site-Reliability-Engineering_R439403) |
 
 ## About This Role
 

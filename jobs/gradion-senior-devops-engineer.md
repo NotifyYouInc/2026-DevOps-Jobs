@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Senior DevOps Engineer at Gradion
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Gradion](https://scoutify.ai/companies/gradion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://jobs.lever.co/gradion/78b3cecd-09e5-4a6a-8c87-d419392216d6) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Gradion was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

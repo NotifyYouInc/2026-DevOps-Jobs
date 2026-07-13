@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10399430/sr-systems-engineer-managed-operations) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10418408/sr-systems-engineer-managed-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-04-22.
+This devops engineer position at Amazon was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

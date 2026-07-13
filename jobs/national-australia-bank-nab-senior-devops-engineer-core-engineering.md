@@ -1,16 +1,16 @@
-# DevOps Engineer at DXC Technology
+# Senior Devops Engineer - Core Engineering at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
-| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/DevOps-Engineer_51584537) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Devops-Engineer---Core-Engineering_JR120008) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-07-06.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

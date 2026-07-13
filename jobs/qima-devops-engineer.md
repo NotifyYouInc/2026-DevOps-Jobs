@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# DevOps Engineer at QIMA
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000135916929-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at QIMA was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

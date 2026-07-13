@@ -1,16 +1,16 @@
-# Spécialiste DevOps Senior at ALTEN Canada
+# Cloud Infrastructure Engineer at Owensminor
 
 | Field | Details |
 |-------|---------|
-| Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Company | [Owensminor](https://scoutify.ai/companies/owensminor?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | India |
 | Category | DevOps Engineer |
 | Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135943449-specialiste-devops-senior) |
+| Apply | [View on company site](https://owensminor.wd1.myworkdayjobs.com/omcareers/job/3609-OM-Halyard-India/Cloud-Infrastructure-Engineer_REQ_26_32417) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-06.
+This devops engineer position at Owensminor was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
