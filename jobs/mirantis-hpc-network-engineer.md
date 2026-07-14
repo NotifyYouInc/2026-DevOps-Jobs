@@ -1,16 +1,16 @@
-# HPC Network Engineer  at Mirantis
+# HPC Network Engineer at Mirantis
 
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135442459-hpc-network-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135978259-hpc-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-02.
+This devops engineer position at Mirantis was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

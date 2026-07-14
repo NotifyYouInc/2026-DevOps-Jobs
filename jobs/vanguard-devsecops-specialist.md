@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/DevSecOps-Specialist_179193-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/DevSecOps-Specialist_179988-1) |
 
 ## About This Role
 
-This security engineer position at Vanguard was posted on 2026-06-19.
+This security engineer position at Vanguard was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

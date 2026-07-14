@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plume](https://scoutify.ai/companies/plume?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8444615002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://www.plume.com/career-opportunities/?gh_jid=8614746002) |
 
 ## About This Role
 
-This devops engineer position at Plume was posted on 2026-03-02.
+This devops engineer position at Plume was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

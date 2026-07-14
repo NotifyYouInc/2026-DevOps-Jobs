@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Director--Platform-Engineering_R-277375-1) |
+| Location | 2 locations |
+| Category | Engineering Manager |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Director--Platform-Engineering_R-281050) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-14.
+This engineering manager position at Mastercard was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-05-10 |
-| Apply | [View on company site](https://flix.careers/job/8542317002?gh_jid=8542317002) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://flix.careers/job/8620664002?gh_jid=8620664002) |
 
 ## About This Role
 
-This devops engineer position at Flix was posted on 2026-05-10.
+This devops engineer position at Flix was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

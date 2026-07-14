@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Poznań, Greater Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135447739-principal-hpc-network-engineer-remote-in-the-eu) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135972320-principal-hpc-network-engineer-remote-in-the-eu) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-02.
+This devops engineer position at Mirantis was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

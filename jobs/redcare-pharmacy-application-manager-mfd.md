@@ -1,16 +1,16 @@
-# Application Manager (m/f/d) at Redcare Pharmacy
+# Application Manager (m/f/d)  at Redcare Pharmacy
 
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134984360-application-manager-mfd) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000135978709-application-manager-mfd) |
 
 ## About This Role
 
-This devops engineer position at Redcare Pharmacy was posted on 2026-06-30.
+This devops engineer position at Redcare Pharmacy was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Carlos, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/0a4f3318-fe54-4f1b-b983-820714fda81c) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/891a8500-3b1a-455b-a5d8-6261cd39a1a3) |
 
 ## About This Role
 
-This software engineer position at Beaconai was posted on 2026-06-26.
+This ai / llm engineer position at Beaconai was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

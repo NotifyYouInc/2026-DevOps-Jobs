@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | La Chapelle-sur-Erdre, Pays de la Loire, France |
+| Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113126948-ingenieur-devops) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136036710-ingenieur-devops) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-03-06.
+This devops engineer position at Inetum was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

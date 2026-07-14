@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Datadog-Administration-and-Operations--Servicenow-_3155329) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Bengaluru-Karntaka-India/Datadog-Administration-and-Operations--Servicenow-_3165125-1) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard (HP) was posted on 2026-06-25.
+This devops engineer position at Hewlett Packard (HP) was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

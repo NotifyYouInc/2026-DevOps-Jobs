@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Group](https://scoutify.ai/companies/boyd-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Elmhurst, New York, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/AA-Elmhurst-Collision-Head-Office---000001/Senior-Platform-Engineer_R058385) |
+| Location | United States |
+| Category | Security Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/Corporate-Office---000800/Senior-Platform-Engineer_R062171) |
 
 ## About This Role
 
-This devops engineer position at Boyd Group was posted on 2026-03-27.
+This security engineer position at Boyd Group was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

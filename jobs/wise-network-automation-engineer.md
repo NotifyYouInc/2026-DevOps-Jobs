@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000134818489-network-automation-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000136041634-network-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at WISE was posted on 2026-06-29.
+This devops engineer position at WISE was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

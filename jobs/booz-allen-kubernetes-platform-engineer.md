@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Fayetteville, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Kubernetes-Platform-Engineer_R0242275) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Kubernetes-Platform-Engineer_R0243836) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-06-22.
+This devops engineer position at Booz Allen was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

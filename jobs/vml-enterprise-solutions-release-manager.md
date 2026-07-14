@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML Enterprise Solutions](https://scoutify.ai/companies/vml-enterprise-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8580029002) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Project Manager |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/vmlenterprisesolutions/jobs/8420044002) |
 
 ## About This Role
 
-This devops engineer position at VML Enterprise Solutions was posted on 2026-06-05.
+This project manager position at VML Enterprise Solutions was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

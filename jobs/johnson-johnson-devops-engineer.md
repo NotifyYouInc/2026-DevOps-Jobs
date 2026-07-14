@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Santa Clara, Villa Clara Province, Cuba |
+| Location | Santa Clara, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/DevOps-Engineer_R-067916-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/DevOps-Engineer_R-067918-2) |
 
 ## About This Role
 
-This devops engineer position at Johnson & Johnson was posted on 2026-04-14.
+This devops engineer position at Johnson & Johnson was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

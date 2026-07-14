@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000129131754-site-reliability-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000136035681-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lely was posted on 2026-05-29.
+This devops engineer position at Lely was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

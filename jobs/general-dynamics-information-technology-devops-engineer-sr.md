@@ -1,16 +1,16 @@
-# DevOps Engineer, Sr. at General Dynamics Information Technology
+# DevOps Engineer, Sr at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/DevOps-Engineer--Sr_RQ214523-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Springfield/DevOps-Engineer--Sr_RQ223729-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-02-09.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

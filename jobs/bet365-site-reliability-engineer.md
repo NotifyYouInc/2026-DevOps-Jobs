@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manchester, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000125804861-site-reliability-engineer) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000136041430-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at bet365 was posted on 2026-05-11.
+This devops engineer position at bet365 was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

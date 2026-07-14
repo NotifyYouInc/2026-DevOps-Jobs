@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vietnam |
-| Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Senior-System-Development-Engineer_R65313) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/System-Development-Engineer_R65314) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-05-28.
+This software engineer position at Motorola Solutions was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

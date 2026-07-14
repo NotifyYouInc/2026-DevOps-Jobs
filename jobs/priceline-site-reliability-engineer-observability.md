@@ -1,16 +1,16 @@
-# Site Reliability Engineer, Observability at Priceline
+# Site Reliability Engineer - Observability at Priceline
 
 | Field | Details |
 |-------|---------|
 | Company | [Priceline](https://scoutify.ai/companies/priceline?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Toronto/Observability-Developer_R5460) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://priceline.wd1.myworkdayjobs.com/Priceline/job/Mumbai/Site-Reliability-Engineer---Observability_R5737) |
 
 ## About This Role
 
-This devops engineer position at Priceline was posted on 2026-04-07.
+This devops engineer position at Priceline was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

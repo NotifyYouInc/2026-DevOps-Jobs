@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tucson, Arizona, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Principal-Digital-Product-Configuration-Management-Engineer_01852780) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Principal-Digital-Product-Configuration-Management-Engineer_01857348) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-06-17.
+This software engineer position at RTX was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

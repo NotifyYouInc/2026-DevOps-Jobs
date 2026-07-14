@@ -5,12 +5,12 @@
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000134727051-devops-cloud-engineer-hf) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000136002319-devops-cloud-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Meilleurtaux was posted on 2026-06-29.
+This devops engineer position at Meilleurtaux was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
