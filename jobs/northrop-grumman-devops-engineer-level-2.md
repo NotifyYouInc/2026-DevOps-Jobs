@@ -1,16 +1,16 @@
-# DevOps Engineer - Level 2 at Northrop Grumman
+# DevOps Engineer – Level 2 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boulder, Colorado, United States |
+| Location | Virginia, US |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/DevOps-Engineer---Level-2_R10232932) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-2_R10239152) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-05-14.
+This devops engineer position at Northrop Grumman was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Gradial](https://scoutify.ai/companies/gradial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4290695009) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gradial/jobs/4186603009) |
 
 ## About This Role
 
-This devops engineer position at Gradial was posted on 2026-06-19.
+This devops engineer position at Gradial was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

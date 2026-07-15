@@ -1,16 +1,16 @@
-# Devops Engineer at BigID
+# DevOps Engineer at BigID
 
 | Field | Details |
 |-------|---------|
 | Company | [BigID](https://scoutify.ai/companies/bigid?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://bigid.com/company/careers/job-details/8401720002?gh_jid=8401720002) |
+| Location | Argentina |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://bigid.com/company/careers/job-details/8622173002?gh_jid=8622173002) |
 
 ## About This Role
 
-This software engineer position at BigID was posted on 2026-02-04.
+This devops engineer position at BigID was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

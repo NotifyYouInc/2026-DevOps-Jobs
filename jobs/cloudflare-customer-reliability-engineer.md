@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudflare](https://scoutify.ai/companies/cloudflare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8018536?gh_jid=8018536) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://boards.greenhouse.io/cloudflare/jobs/8029976?gh_jid=8029976) |
 
 ## About This Role
 
-This devops engineer position at Cloudflare was posted on 2026-06-24.
+This devops engineer position at Cloudflare was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

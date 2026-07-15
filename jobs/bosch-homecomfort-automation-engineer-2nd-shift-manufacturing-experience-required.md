@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bosch-HomeComfort](https://scoutify.ai/companies/bosch-homecomfort?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wichita, Kansas, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000131439110-automation-engineer-2nd-shift-manufacturing-experience-required) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000136317399-automation-engineer-2nd-shift-manufacturing-experience-required) |
 
 ## About This Role
 
-This industrial automation position at Bosch-HomeComfort was posted on 2026-06-10.
+This devops engineer position at Bosch-HomeComfort was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

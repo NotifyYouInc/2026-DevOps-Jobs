@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Redwood City, California, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Redwood-City/Software-Engineering-SMTS_JR344325) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS_JR346091) |
 
 ## About This Role
 
-This devops engineer position at Salesforce was posted on 2026-06-03.
+This devops engineer position at Salesforce was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

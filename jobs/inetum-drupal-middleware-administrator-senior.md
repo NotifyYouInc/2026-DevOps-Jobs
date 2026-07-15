@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135727494-drupal-middleware-administrator-senior) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136178173-drupal-middleware-administrator-senior) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-07-03.
+This devops engineer position at Inetum was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

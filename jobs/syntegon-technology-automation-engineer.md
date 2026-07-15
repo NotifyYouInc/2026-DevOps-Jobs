@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bristol, England, United Kingdom |
-| Category | Industrial Automation |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000131104679-automation-engineer) |
+| Location | Denmark |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000136209399-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-06-09.
+This devops engineer position at Syntegon Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

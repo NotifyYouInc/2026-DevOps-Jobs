@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Reston, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000128794310-senior-saas-platform-engineer) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000136301899-senior-saas-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at CapTech Consulting was posted on 2026-05-27.
+This devops engineer position at CapTech Consulting was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

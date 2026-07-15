@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Reliability-Engineer_JR10419196-1) |
+| Location | Kinston, North Carolina, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Reliability-Engineer_JR10413704) |
 
 ## About This Role
 
-This engineering manager position at Airbus was posted on 2026-06-05.
+This devops engineer position at Airbus was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

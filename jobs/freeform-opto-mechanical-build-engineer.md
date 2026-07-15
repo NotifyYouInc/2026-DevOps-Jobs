@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freeform](https://scoutify.ai/companies/freeformfuturecorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7653288003) |
+| Category | DevOps Engineer |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7692969003) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Freeform was posted on 2026-04-16.
+This devops engineer position at Freeform was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

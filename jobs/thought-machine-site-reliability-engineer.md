@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thought Machine](https://scoutify.ai/companies/thought-machine?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thought-machine/75e0b466-b00c-4bea-9129-09706b04da44) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thought-machine/d1e5020a-adb8-4e29-8c62-a1b6985cb232) |
 
 ## About This Role
 
-This devops engineer position at Thought Machine was posted on 2026-06-03.
+This devops engineer position at Thought Machine was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

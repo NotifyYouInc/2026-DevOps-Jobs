@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portugal |
 | Category | Technology / IT Consulting |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000129763179-azure-cloud-consultant) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000136249069-azure-cloud-consultant) |
 
 ## About This Role
 
-This technology / it consulting position at Continental was posted on 2026-06-02.
+This technology / it consulting position at Continental was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

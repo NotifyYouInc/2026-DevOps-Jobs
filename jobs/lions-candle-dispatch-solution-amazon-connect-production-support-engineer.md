@@ -1,16 +1,16 @@
-# Amazon Connect Production Support Engineer  at Lions Candle-Dispatch Solution
+# Amazon Connect Production Support Engineer at Lions Candle-Dispatch Solution
 
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Technical Support Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000120721328-amazon-connect-production-support-engineer) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000136215901-amazon-connect-production-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-04-14.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117822) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=124243) |
 
 ## About This Role
 
-This it & systems administration position at IBM was posted on 2026-05-28.
+This devops engineer position at IBM was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

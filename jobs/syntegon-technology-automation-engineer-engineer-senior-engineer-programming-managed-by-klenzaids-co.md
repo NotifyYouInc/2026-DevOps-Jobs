@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Goa, IN |
-| Category | Industrial Automation |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000116317637-automation-engineer-engineer-senior-engineer-programming-managed-by-klenzaids-contamination-controls-pvt-ltd) |
+| Location | Verna, Goa, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000136214129-automation-engineer-engineer-senior-engineer-programming-managed-by-klenzaids-contamination-controls-pvt-ltd) |
 
 ## About This Role
 
-This industrial automation position at Syntegon Technology was posted on 2026-03-24.
+This devops engineer position at Syntegon Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

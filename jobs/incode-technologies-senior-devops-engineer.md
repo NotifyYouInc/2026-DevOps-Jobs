@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Incode Technologies](https://scoutify.ai/companies/incode-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Serbia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/incode/jobs/6008887004) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/incode/jobs/5651289004) |
 
 ## About This Role
 
-This devops engineer position at Incode Technologies was posted on 2026-06-01.
+This devops engineer position at Incode Technologies was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

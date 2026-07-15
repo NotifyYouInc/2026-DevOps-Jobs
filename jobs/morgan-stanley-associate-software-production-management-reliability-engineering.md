@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Hong Kong, Hong Kong |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Tokyo-Japan/Associate--Software-Production-Management---Reliability-Engineering_PT-JR039967-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Associate--Software-Production-Management---Reliability-Engineering_PT-JR039968-1) |
 
 ## About This Role
 
-This devops engineer position at Morgan Stanley was posted on 2026-07-06.
+This devops engineer position at Morgan Stanley was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

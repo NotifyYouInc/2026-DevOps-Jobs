@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5423377-S2056727-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5667067-S2057169-1) |
 
 ## About This Role
 
-This software engineer position at Accenture was posted on 2026-07-03.
+This software engineer position at Accenture was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

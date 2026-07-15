@@ -1,16 +1,16 @@
-# Senior Software Engineer - DevOps / Infrastructure  (Onsite) at RTX
+# Senior Software Engineer - DevOps / Infrastructure (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sterling, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---DevOps---Infrastructure---Onsite-_01841653) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Senior-Software-Engineer---DevOps---Infrastructure--Onsite-_01857805) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-04-28.
+This software engineer position at RTX was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

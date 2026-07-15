@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sarasota, Florida, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sarasota-FL/Automation-Engineer_REQ514352) |
+| Location | Gainesville, Florida, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gainesville-FL/Automation-Engineer_REQ518365-1) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-06-12.
+This devops engineer position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

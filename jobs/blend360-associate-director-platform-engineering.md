@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000135650799-associate-director-platform-engineering) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000136140389-associate-director-platform-engineering) |
 
 ## About This Role
 
-This devops engineer position at Blend360 was posted on 2026-07-03.
+This devops engineer position at Blend360 was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

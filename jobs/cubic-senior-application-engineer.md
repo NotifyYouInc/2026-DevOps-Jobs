@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Database Administration |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/IND-Hyderabad-Aparna/Senior-Application-Engineer_REQ_48297) |
+| Category | Software Engineer |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/IND-Hyderabad-Aparna/Senior-Application-Engineer_REQ_49213) |
 
 ## About This Role
 
-This database administration position at Cubic was posted on 2026-03-20.
+This software engineer position at Cubic was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

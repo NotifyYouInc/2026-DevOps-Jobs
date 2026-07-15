@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evooq](https://scoutify.ai/companies/evooq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lausanne, Vaud, Switzerland |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/evooq/744000123112519-platform-engineer) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/evooq/744000129790654-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Evooq was posted on 2026-04-27.
+This devops engineer position at Evooq was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
