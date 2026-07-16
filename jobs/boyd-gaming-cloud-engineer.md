@@ -5,12 +5,12 @@
 | Company | [Boyd Gaming](https://scoutify.ai/companies/boydgaming?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013936566-cloud-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoydGaming/3743990013989186-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Boyd Gaming was posted on 2026-07-06.
+This devops engineer position at Boyd Gaming was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

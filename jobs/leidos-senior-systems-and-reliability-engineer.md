@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Systems-and-Reliability-Engineer_R-00184369) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Systems-and-Reliability-Engineer_R-00186945) |
 
 ## About This Role
 
-This engineering manager position at Leidos was posted on 2026-05-29.
+This devops engineer position at Leidos was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

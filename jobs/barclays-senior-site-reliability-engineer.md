@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-Site-Reliability-Engineer_JR-0000086263-7) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Senior-Site-Reliability-Engineer_JR-0000053871) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-04-24.
+This devops engineer position at Barclays was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

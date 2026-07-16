@@ -5,12 +5,12 @@
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7720839003) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7799072003) |
 
 ## About This Role
 
-This devops engineer position at Dark Wolf Solutions was posted on 2026-04-30.
+This devops engineer position at Dark Wolf Solutions was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

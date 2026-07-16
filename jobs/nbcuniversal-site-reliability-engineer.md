@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Centennial, Colorado, United States |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000134504479-site-reliability-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000136565594-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at NBCUniversal was posted on 2026-06-26.
+This devops engineer position at NBCUniversal was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Charleston, South Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/North-Charleston-SC/Systems-Engineer-IV---Cloud-Engineering-Lead_R-00181249) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/North-Charleston-SC/Systems-Engineer-IV---Cloud-Engineering-Lead_R-00186901) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-20.
+This devops engineer position at Leidos was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

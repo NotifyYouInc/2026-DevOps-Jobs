@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Intuition](https://scoutify.ai/companies/appliedintuition?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/appliedintuition/jobs/4676285005?gh_jid=4676285005) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/applied/8369bf44-4d09-4fa7-9868-89d31ddcb65f) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Applied Intuition was posted on 2026-03-25.
+This devops engineer position at Applied Intuition was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

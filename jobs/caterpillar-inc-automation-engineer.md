@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Automation-Engineer_R0000374145) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Automation-Engineer_R0000380939) |
 
 ## About This Role
 
-This it & systems administration position at Caterpillar Inc. was posted on 2026-06-12.
+This devops engineer position at Caterpillar Inc. was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

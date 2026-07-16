@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intapp](https://scoutify.ai/companies/intapp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Charlotte-NC/Senior-Software-Engineer_R2024500-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://intapp.wd1.myworkdayjobs.com/Intapp/job/Portugal-Lisbon/Senior-DevOps-Engineer_R2025074-1) |
 
 ## About This Role
 
-This devops engineer position at Intapp was posted on 2026-03-31.
+This devops engineer position at Intapp was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

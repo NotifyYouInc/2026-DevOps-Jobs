@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Site-Reliability-Engineer_R-056761-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Senior-Site-Reliability-Engineer_R-057022-1) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-06-22.
+This devops engineer position at Red Hat was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133527289-ingenieur-sysops-hf) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136733964-ingenieur-sysops-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-23.
+This devops engineer position at Devoteam was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

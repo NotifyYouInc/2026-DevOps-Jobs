@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Software-Engineer---Cloud_R10237518) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Staff-Software-Engineer---Cloud_R10239533) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-06-25.
+This software engineer position at Northrop Grumman was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

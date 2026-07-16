@@ -5,12 +5,12 @@
 | Company | [Goldstone Partners, Inc.](https://scoutify.ai/companies/goldstone-partners-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Oak Brook, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/goldstonepartners/744000134520034-cloud-engineer-us-remote) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/goldstonepartners/744000136524419-cloud-engineer-us-remote) |
 
 ## About This Role
 
-This devops engineer position at Goldstone Partners, Inc. was posted on 2026-06-26.
+This devops engineer position at Goldstone Partners, Inc. was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

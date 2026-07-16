@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Career Team](https://scoutify.ai/companies/career-team?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denver, Colorado, United States |
+| Company | [Career Team](https://scoutify.ai/companies/cteph?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/careerteam/jobs/4711767005) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/cteph/jobs/4643521005) |
 
 ## About This Role
 
-This devops engineer position at Career Team was posted on 2026-07-02.
+This devops engineer position at Career Team was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

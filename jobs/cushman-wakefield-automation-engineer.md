@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stoughton, Massachusetts, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Stoughton---1000-Technology-Center-Drive/Automation-Engineer_R323969) |
+| Location | Salinas, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Salinas---200-Harris-Rd/Automation-Engineer_R327597) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-06-15.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

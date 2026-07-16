@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Sunnyvale, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000134840014-configuration-release-engineer) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136546941-configuration-release-engineer) |
 
 ## About This Role
 
-This devops engineer position at Intuitive Surgical was posted on 2026-06-29.
+This devops engineer position at Intuitive Surgical was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

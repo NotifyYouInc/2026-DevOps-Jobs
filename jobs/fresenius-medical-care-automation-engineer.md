@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Reynosa, Tamaulipas, Mexico |
-| Category | Industrial Automation |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Reynosa-TAMPS-MEX/Automation-Engineer-1----MX-REY----Maintenance-Of-Bl-Ii-Production-Equipment_R0176830) |
+| Location | Antalya, Antalya, Turkey |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Antalya-Turkey/Automation-Engineer_R0260810) |
 
 ## About This Role
 
-This industrial automation position at Fresenius Medical Care was posted on 2026-04-12.
+This devops engineer position at Fresenius Medical Care was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Petersburg, Virginia, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.lever.co/qualdoc/5372f15a-e848-4232-a538-9e67ea985f42) |
+| Location | Ashland, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.lever.co/qualdoc/f9d566e5-8106-44a2-821e-a12fa5b4f540) |
 
 ## About This Role
 
-This industrial automation position at Qualdoc was posted on 2026-06-12.
+This devops engineer position at Qualdoc was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hawthorne, California, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8489910002?gh_jid=8489910002) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8625576002?gh_jid=8625576002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SpaceX was posted on 2026-04-01.
+This devops engineer position at SpaceX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Industrial Automation |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Automation-Engineer_R-274569-1) |
+| Location | O'Fallon, Missouri, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Automation-Engineer_R-278557) |
 
 ## About This Role
 
-This industrial automation position at Mastercard was posted on 2026-04-22.
+This devops engineer position at Mastercard was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

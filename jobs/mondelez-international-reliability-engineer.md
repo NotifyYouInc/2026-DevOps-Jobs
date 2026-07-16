@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Chicago-Illinois-United-States/Reliability-Engineer_R-167393) |
+| Location | Melbourne, Victoria, Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Melbourne-Australia/Reliability-Engineer_R-172095) |
 
 ## About This Role
 
-This industrial automation position at Mondelez International was posted on 2026-05-11.
+This devops engineer position at Mondelez International was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
