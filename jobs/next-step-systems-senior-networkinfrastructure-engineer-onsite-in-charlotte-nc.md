@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Next Step Systems](https://scoutify.ai/companies/next-step-systems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nextstepsystems/744000134486379-senior-networkinfrastructure-engineer-onsite-in-charlotte-nc) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nextstepsystems/744000136872749-senior-networkinfrastructure-engineer-onsite-in-charlotte-nc) |
 
 ## About This Role
 
-This it & systems administration position at Next Step Systems was posted on 2026-06-26.
+This devops engineer position at Next Step Systems was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

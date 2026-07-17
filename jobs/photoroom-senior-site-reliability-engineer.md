@@ -5,12 +5,12 @@
 | Company | [Photoroom](https://scoutify.ai/companies/photoroom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/0138732d-6f29-4332-bcc7-de9d680e4d39) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/photoroom/66625037-19fb-46a0-af0f-0390ba16a955) |
 
 ## About This Role
 
-This devops engineer position at Photoroom was posted on 2026-06-03.
+This devops engineer position at Photoroom was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

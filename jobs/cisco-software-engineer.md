@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Software-Engineer_2015541-1) |
+| Location | North Carolina, US |
+| Category | Software Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2018266-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-06-01.
+This software engineer position at Cisco was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

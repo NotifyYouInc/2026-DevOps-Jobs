@@ -1,0 +1,22 @@
+# Senior Platform Engineer at 42dot
+
+| Field | Details |
+|-------|---------|
+| Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/e505b80b-4b42-401c-a36e-eb11fb422931) |
+
+## About This Role
+
+This devops engineer position at 42dot was posted on 2026-07-06.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

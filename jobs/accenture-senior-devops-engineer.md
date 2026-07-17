@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/Senior-DevOps-Engineer_R00326439) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Braga-Polo-de-Negocios-de-Braga/Senior-DevOps-Engineer_R00342172) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-30.
+This devops engineer position at Accenture was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

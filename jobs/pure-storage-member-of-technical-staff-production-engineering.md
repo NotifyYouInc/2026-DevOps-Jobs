@@ -1,16 +1,16 @@
-# Member of Technical Staff- Production Engineering at Pure Storage
+# Member of Technical Staff - Production Engineering at Pure Storage
 
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7942136) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8048044) |
 
 ## About This Role
 
-This devops engineer position at Pure Storage was posted on 2026-06-01.
+This devops engineer position at Pure Storage was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Database Administration |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000129733592-senior-database-reliability-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000136881589-senior-database-reliability-engineer) |
 
 ## About This Role
 
-This database administration position at MUFG Investor Services was posted on 2026-06-02.
+This devops engineer position at MUFG Investor Services was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

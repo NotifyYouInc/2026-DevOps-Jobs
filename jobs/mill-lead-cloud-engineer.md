@@ -5,12 +5,12 @@
 | Company | [Mill](https://scoutify.ai/companies/mill?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Bruno, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mill/jobs/4676978005) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mill/jobs/4713721005) |
 
 ## About This Role
 
-This devops engineer position at Mill was posted on 2026-03-24.
+This devops engineer position at Mill was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

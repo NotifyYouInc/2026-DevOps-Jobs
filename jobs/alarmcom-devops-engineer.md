@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alarm.com](https://scoutify.ai/companies/alarm-com?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Centennial, Colorado, United States |
+| Location | Lawrence, Kansas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8522951002) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/alarmcom/jobs/8594797002) |
 
 ## About This Role
 
-This devops engineer position at Alarm.com was posted on 2026-04-24.
+This devops engineer position at Alarm.com was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

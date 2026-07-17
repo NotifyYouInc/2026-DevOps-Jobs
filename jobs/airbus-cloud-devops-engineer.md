@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Cloud-DevOps-Engineer_JR10421731) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Cloud-DevOps-Engineer_JR10427392) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-06-17.
+This devops engineer position at Airbus was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130564206-ai-technical-leadsenior-developer-devopsmlops) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000136789699-ai-technical-leadsenior-developer-devopsmlops) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-06-05.
+This devops engineer position at Version 1 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

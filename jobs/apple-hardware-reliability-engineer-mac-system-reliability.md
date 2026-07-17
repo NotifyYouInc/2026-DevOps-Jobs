@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667320/hardware-reliability-engineer-mac-system-reliability) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671155/hardware-reliability-engineer-mac-system-reliability) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-06-09.
+This devops engineer position at Apple was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

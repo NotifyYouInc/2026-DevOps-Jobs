@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-27 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=da8be307-c096-421b-baa0-a16585e83bbe) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=14f92619-475f-4c5c-97be-6f512b3dbd91) |
 
 ## About This Role
 
-This software engineer position at GCI was posted on 2026-06-27.
+This devops engineer position at GCI was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

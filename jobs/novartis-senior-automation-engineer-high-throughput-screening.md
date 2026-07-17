@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | La Jolla, California, United States |
-| Category | Industrial Automation |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/LaJollaSD/Senior-Automation-Engineer--High-Throughput-Screening_REQ-10078226-2) |
+| Location | Cambridge, Massachusetts, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Cambridge-USA/Senior-Automation-Engineer--High-Throughput-Screening_REQ-10082813-1) |
 
 ## About This Role
 
-This industrial automation position at Novartis was posted on 2026-05-27.
+This devops engineer position at Novartis was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

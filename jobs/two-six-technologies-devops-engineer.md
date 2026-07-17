@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/5775367004) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6112857004) |
 
 ## About This Role
 
-This devops engineer position at Two Six Technologies was posted on 2026-05-21.
+This devops engineer position at Two Six Technologies was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Industrial Automation |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7735446003) |
+| Location | 4 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7800433003) |
 
 ## About This Role
 
-This industrial automation position at Enviva was posted on 2026-05-15.
+This devops engineer position at Enviva was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117031) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=124310) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-05-25.
+This devops engineer position at IBM was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

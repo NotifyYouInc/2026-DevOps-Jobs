@@ -1,16 +1,16 @@
-# Devops Engineer at Accenture
+# DevOps Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vietnam |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Ho-ChiMinh-Viettel-Building/Devops-Engineer_R00341300-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/DevOps-Engineer_ATCI-5590550-S2057848-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-07.
+This devops engineer position at Accenture was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

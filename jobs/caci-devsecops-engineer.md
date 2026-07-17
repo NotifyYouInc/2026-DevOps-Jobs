@@ -1,16 +1,16 @@
-# DEV/SEC/OPS Engineer at CACI
+# DevSecOps Engineer at CACI
 
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/DEV-SEC-OPS-Engineer_325895) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Fairfax-VA-US/DevSecOps-Engineer_328886) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-05-08.
+This devops engineer position at CACI was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

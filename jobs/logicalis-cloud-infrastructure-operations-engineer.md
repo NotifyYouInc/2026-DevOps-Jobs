@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Cyberjaya/Cloud---Infrastructure-Operations-Engineer_JR04737) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Cyberjaya/Cloud---Infrastructure-Operations-Engineer_JR05314) |
 
 ## About This Role
 
-This devops engineer position at Logicalis was posted on 2026-03-06.
+This it & systems administration position at Logicalis was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

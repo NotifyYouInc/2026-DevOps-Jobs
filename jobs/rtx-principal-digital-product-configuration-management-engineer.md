@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Principal-Digital-Product-Configuration-Management-Engineer_01857348) |
+| Location | Andover, Minnesota, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-ANDOVER-AN1--350-Lowell-St--AN1-ESSEX-BLDG/Principal-Digital-Product-Configuration-Management-Engineer_01858376) |
 
 ## About This Role
 
-This software engineer position at RTX was posted on 2026-07-06.
+This devops engineer position at RTX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
