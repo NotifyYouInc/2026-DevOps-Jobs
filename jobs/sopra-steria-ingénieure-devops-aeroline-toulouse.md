@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Colomiers, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000124819874-ingenieure-devops-aeroline-toulouse) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137064318-ingenieure-devops-aeroline-toulouse) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-05-06.
+This devops engineer position at Sopra Steria was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

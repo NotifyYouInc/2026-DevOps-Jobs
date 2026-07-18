@@ -5,12 +5,12 @@
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Cloud-Engineer_JR-024462) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Senior-Cloud-Engineer_JR-025649) |
 
 ## About This Role
 
-This devops engineer position at WGU was posted on 2026-02-27.
+This devops engineer position at WGU was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

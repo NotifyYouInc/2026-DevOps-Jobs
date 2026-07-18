@@ -6,7 +6,7 @@
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Software Engineer |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000136793839-senior-platform-engineer-go-kubernetes-iam) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000136838110-senior-platform-engineer-go-kubernetes-iam) |
 
 ## About This Role
 

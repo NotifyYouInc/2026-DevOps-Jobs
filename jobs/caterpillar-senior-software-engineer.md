@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 7 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Senior-Software-Engineer_R0000342238) |
+| Location | 3 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Senior-Software-Engineer_R0000381333) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-03-25.
+This software engineer position at Caterpillar was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

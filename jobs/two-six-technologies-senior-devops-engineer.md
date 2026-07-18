@@ -1,16 +1,16 @@
-# Senior DevOps Engineer  at Two Six Technologies
+# Senior DevOps Engineer at Two Six Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6092883004) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6113775004) |
 
 ## About This Role
 
-This devops engineer position at Two Six Technologies was posted on 2026-06-18.
+This devops engineer position at Two Six Technologies was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

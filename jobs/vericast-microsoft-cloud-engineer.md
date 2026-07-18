@@ -5,12 +5,12 @@
 | Company | [Vericast](https://scoutify.ai/companies/vericast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000136236739-microsoft-cloud-engineer) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vericast/744000137207669-microsoft-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Vericast was posted on 2026-07-07.
+This devops engineer position at Vericast was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 
