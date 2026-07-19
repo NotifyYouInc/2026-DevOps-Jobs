@@ -1,16 +1,16 @@
-# Senior Cloud/Backend Engineer at Triple Whale
+# Lead Engineer at Euroclear
 
 | Field | Details |
 |-------|---------|
-| Company | [Triple Whale](https://scoutify.ai/companies/triple-whale?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Euroclear](https://scoutify.ai/companies/em2-cx-oj36347?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Poland |
 | Category | Software Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/triplewhale/jobs/5313127008) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://don.fa.em2.oraclecloud.com/jobs/#8573) |
 
 ## About This Role
 
-This software engineer position at Triple Whale was posted on 2026-07-12.
+This software engineer position at Euroclear was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

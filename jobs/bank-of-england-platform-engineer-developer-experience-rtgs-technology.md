@@ -1,16 +1,16 @@
-# Cloud Platform Engineer at Accenture
+# Platform Engineer (Developer Experience), RTGS Technology at Bank of England
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Bank of England](https://scoutify.ai/companies/em1-ukg-cx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5641980-S2058023) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://eoff.fa.em1.ukg.oraclecloud.com/jobs/#2290) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-10.
+This devops engineer position at Bank of England was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

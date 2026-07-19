@@ -1,16 +1,16 @@
-# Senior Cloud/Backend Engineer at Triple Whale
+# Reliability Engineer - Southwestern PA at FirstEnergy
 
 | Field | Details |
 |-------|---------|
-| Company | [Triple Whale](https://scoutify.ai/companies/triple-whale?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [FirstEnergy](https://scoutify.ai/companies/ocs-cx-oj39340?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/triplewhale/jobs/5313127008) |
+| Category | DevOps Engineer |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#104615) |
 
 ## About This Role
 
-This software engineer position at Triple Whale was posted on 2026-07-12.
+This devops engineer position at FirstEnergy was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 
