@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/IT-Analyst-Technical-Infrastructure_R0000349563) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/IT-Analyst-Technical-Infrastructure_R0000381706) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-06-22.
+This devops engineer position at Caterpillar was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

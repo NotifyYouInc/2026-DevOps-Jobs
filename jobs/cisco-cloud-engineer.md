@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Milpitas, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Cloud-Engineer_2013368) |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Cloud-Engineer_2017918) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-06-16.
+This devops engineer position at Cisco was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

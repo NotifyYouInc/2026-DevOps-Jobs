@@ -1,16 +1,16 @@
-# Site Reliability Engineer  at Qube Research & Technologies
+# Site Reliability Engineer at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8200621002) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623704002) |
 
 ## About This Role
 
-This devops engineer position at Qube Research & Technologies was posted on 2026-02-10.
+This devops engineer position at Qube Research & Technologies was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

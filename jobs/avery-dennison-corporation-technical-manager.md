@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Engineering Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000134289655-technical-manager) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000137361779-technical-manager) |
 
 ## About This Role
 
-This engineering manager position at Avery Dennison Corporation was posted on 2026-06-25.
+This engineering manager position at Avery Dennison Corporation was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
