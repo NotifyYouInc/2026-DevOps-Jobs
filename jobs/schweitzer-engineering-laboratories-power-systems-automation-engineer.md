@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Georgia---Columbus/Application-Engineer---Automation_2026-21453) |
+| Location | Boise, Idaho, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Power-Systems-Automation-Engineer_2026-22023) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Schweitzer Engineering Laboratories was posted on 2026-06-04.
+This devops engineer position at Schweitzer Engineering Laboratories was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

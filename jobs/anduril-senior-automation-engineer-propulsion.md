@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | Robotics Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/4688746007?gh_jid=4688746007) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5185760007?gh_jid=5185760007) |
 
 ## About This Role
 
-This robotics engineer position at Anduril was posted on 2026-05-06.
+This devops engineer position at Anduril was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

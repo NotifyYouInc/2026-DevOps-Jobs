@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Data Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000133316500-data-operations-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000137419891-data-operations-engineer) |
 
 ## About This Role
 
-This data engineer position at Fastmarkets was posted on 2026-06-22.
+This devops engineer position at Fastmarkets was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

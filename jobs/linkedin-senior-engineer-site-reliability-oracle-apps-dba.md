@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Database Administration |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000120634562-senior-engineer-site-reliability-oracle-apps-dba) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000137580379-senior-engineer-site-reliability-oracle-apps-dba) |
 
 ## About This Role
 
-This database administration position at LinkedIn was posted on 2026-04-14.
+This database administration position at LinkedIn was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

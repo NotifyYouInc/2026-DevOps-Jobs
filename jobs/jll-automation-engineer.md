@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gainesville, Florida, United States |
+| Location | Florida, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gainesville-FL/Automation-Engineer_REQ518365-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Port-St-Lucie-FL/Automation-Engineer_REQ518366-1) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-07-07.
+This devops engineer position at JLL was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

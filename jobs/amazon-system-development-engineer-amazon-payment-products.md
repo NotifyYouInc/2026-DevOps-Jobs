@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10410947/system-development-engineer-amazon-payment-products) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10473475/system-development-engineer-amazon-payment-products) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-05-05.
+This software engineer position at Amazon was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

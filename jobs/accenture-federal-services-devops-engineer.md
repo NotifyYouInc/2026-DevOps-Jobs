@@ -1,16 +1,16 @@
-# DevOps Engineer  at Accenture Federal Services
+# DevOps Engineer at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4694181006?gh_jid=4694181006) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4689022006?gh_jid=4689022006) |
 
 ## About This Role
 
-This devops engineer position at Accenture Federal Services was posted on 2026-07-08.
+This devops engineer position at Accenture Federal Services was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

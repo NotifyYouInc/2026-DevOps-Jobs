@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [iFood](https://scoutify.ai/companies/ifood?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
-| Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ifoodcarreiras/jobs/8563149002) |
+| Company | [iFood](https://scoutify.ai/companies/indicacoesifoodinterno?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
+| Category | Software Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/indicacoesifoodinterno/jobs/8592984002) |
 
 ## About This Role
 
-This devops engineer position at iFood was posted on 2026-06-16.
+This software engineer position at iFood was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

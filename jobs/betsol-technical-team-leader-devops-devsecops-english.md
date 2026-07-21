@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Engineering Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000132907029-technical-team-leader-devops-devsecops-english) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000137541899-technical-team-leader-devops-devsecops-english) |
 
 ## About This Role
 
-This engineering manager position at BETSOL was posted on 2026-06-18.
+This devops engineer position at BETSOL was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

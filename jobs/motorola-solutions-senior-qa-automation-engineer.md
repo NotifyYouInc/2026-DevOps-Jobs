@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vietnam |
+| Location | Vancouver, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Senior-QA-Automation-Engineer_R63889) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-QA-Automation-Engineer_R64940) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-05-08.
+This devops engineer position at Motorola Solutions was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000111925686-staff-software-build-engineer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000137514819-staff-software-build-engineer) |
 
 ## About This Role
 
-This devops engineer position at Intuitive Surgical was posted on 2026-02-27.
+This devops engineer position at Intuitive Surgical was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

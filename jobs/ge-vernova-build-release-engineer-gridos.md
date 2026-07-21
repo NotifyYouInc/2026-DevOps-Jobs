@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | West Melbourne, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/West-Melbourne/Build---Release-Engineer--GridOS-_R5042754-2) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/West-Melbourne/Build---Release-Engineer--GridOS-_R5047336-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-05-22.
+This devops engineer position at GE Vernova was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

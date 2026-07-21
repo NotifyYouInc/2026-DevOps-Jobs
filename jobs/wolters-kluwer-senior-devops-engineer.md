@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Minnesota, US |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---St-Cloud-MN/Senior-DevOps-Engineer_R0056031) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-DevOps-Engineer_R0058175-2) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-05-01.
+This devops engineer position at Wolters Kluwer was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

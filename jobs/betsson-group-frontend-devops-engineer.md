@@ -1,16 +1,16 @@
-# Frontend DevOps Engineer at Betsson Group
+# Frontend Devops Engineer at Betsson Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Betsson Group](https://scoutify.ai/companies/betsson-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Valletta, Valletta, Malta |
-| Category | Frontend Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/7774628) |
+| Location | Budapest, Budapest, Hungary |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/betsson/jobs/8059614) |
 
 ## About This Role
 
-This frontend engineer position at Betsson Group was posted on 2026-04-19.
+This devops engineer position at Betsson Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

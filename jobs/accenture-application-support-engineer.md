@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Application-Support-Engineer_ATCI-5618463-S2056434-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Technical Support Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5677772-S2058248-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-02.
+This technical support engineer position at Accenture was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

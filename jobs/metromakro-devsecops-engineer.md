@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Security Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000133096439-devsecops-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137466921-devsecops-engineer) |
 
 ## About This Role
 
-This security engineer position at METRO/MAKRO was posted on 2026-06-19.
+This devops engineer position at METRO/MAKRO was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

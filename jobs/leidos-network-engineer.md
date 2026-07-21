@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Huntingdon, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Network-Engineer_R-00178979) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Network-Engineer_R-00187152) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-20.
+This devops engineer position at Leidos was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

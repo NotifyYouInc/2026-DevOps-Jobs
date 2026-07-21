@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Systems-Engineer---TS-SCI-w--Poly_RQ220589-2) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Herndon/Systems-Engineer---TS-SCI-w--Poly_RQ223816-1) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-05-29.
+This devops engineer position at General Dynamics Information Technology was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

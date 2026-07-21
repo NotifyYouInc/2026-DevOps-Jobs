@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Industrial Automation |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Automation-Engineer_R-058217-1) |
+| Location | Schaffhausen, Schaffhausen, Switzerland |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Schaffhausen-Switzerland/Automation-Engineer_R-087768) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-02-20.
+This devops engineer position at Johnson & Johnson was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

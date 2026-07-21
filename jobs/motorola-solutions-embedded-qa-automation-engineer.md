@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Edinburgh, Scotland, United Kingdom |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Embedded-QA-Automation-Engineer_R63508) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Embedded-QA-Automation-Engineer_R66568) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Motorola Solutions was posted on 2026-04-21.
+This devops engineer position at Motorola Solutions was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

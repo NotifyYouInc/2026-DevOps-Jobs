@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000136146494-devops-engineer-mwd-ai-infrastructure-automation-fur-devops-prozesse) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000137438780-devops-engineer-mwd-ai-infrastructure-automation-fur-devops-prozesse) |
 
 ## About This Role
 
-This devops engineer position at R+V Versicherung was posted on 2026-07-07.
+This devops engineer position at R+V Versicherung was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

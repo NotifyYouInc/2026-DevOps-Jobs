@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SecurityScorecard](https://scoutify.ai/companies/securityscorecard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/7991310) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/securityscorecard/jobs/8063043) |
 
 ## About This Role
 
-This devops engineer position at SecurityScorecard was posted on 2026-06-08.
+This devops engineer position at SecurityScorecard was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

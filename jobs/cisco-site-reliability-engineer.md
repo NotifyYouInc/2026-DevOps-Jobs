@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Site-Reliability-Engineer_2016183-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Site-Reliability-Engineer_2018693) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-06-29.
+This devops engineer position at Cisco was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

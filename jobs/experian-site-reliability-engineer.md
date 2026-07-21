@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132841079-site-reliability-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000137604560-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-06-18.
+This devops engineer position at Experian was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

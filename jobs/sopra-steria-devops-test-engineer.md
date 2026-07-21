@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nieuwegein, Utrecht, The Netherlands |
 | Category | QA Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135930769-devops-test-engineer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137424549-devops-test-engineer) |
 
 ## About This Role
 
-This qa engineer position at Sopra Steria was posted on 2026-07-06.
+This qa engineer position at Sopra Steria was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

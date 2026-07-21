@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Carolina, US |
-| Category | Industrial Automation |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Automation-Engineer_JR00030380) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Coimbatore-Tamil-Nadu-India/Automation-Engineer_JR00040845-1) |
 
 ## About This Role
 
-This industrial automation position at ABB was posted on 2026-04-02.
+This devops engineer position at ABB was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
