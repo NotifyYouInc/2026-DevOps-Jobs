@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Salinas, California, United States |
+| Location | Hesperia, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Salinas---200-Harris-Rd/Automation-Engineer_R327597) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/Automation-Engineer_R328056) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-07-08.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

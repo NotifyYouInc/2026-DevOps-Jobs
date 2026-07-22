@@ -5,12 +5,12 @@
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000132111319-aws-cloud-platform-engineer-mfd) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000137807429-aws-cloud-platform-engineer-mfd) |
 
 ## About This Role
 
-This devops engineer position at Axel Springer Corporate Solutions was posted on 2026-06-15.
+This devops engineer position at Axel Springer Corporate Solutions was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

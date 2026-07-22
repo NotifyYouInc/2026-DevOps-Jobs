@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132514079-senior-infrastructure-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000137754330-senior-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at SGS was posted on 2026-06-16.
+This devops engineer position at SGS was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

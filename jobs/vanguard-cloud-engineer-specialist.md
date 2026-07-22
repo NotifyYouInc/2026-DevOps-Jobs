@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Engineer--Specialist_179278-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Cloud-Engineer--Specialist_179738-1) |
 
 ## About This Role
 
-This software engineer position at Vanguard was posted on 2026-07-01.
+This devops engineer position at Vanguard was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

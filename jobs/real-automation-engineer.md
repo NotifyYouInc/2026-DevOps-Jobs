@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Real](https://scoutify.ai/companies/real?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | Industrial Automation |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/real/6b9cb515-0634-41d3-aebb-ef17e5dd2971) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/real/5b4664eb-6cd2-4a16-8286-f090cc77da92) |
 
 ## About This Role
 
-This industrial automation position at Real was posted on 2026-04-20.
+This devops engineer position at Real was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

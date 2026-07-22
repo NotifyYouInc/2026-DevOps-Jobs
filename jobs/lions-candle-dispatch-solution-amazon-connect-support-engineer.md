@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | United States |
 | Category | Technical Support Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000136216089-amazon-connect-support-engineer) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000137687048-amazon-connect-support-engineer) |
 
 ## About This Role
 
-This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-07.
+This technical support engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

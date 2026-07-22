@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Systems-Operations-Engineer--ITSM-Governance_R-542113) |
+| Location | 4 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Systems-Operations-Engineer--ITSM-Governance_R-559880-1) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-05-01.
+This devops engineer position at Wells Fargo was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

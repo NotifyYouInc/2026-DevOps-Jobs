@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Italy |
+| Location | Assago, Lombardy, Italy |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Milano/Infrastructure-Engineer-Analyst_13806721) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Roma/Infrastructure-Engineer-Analyst_R00343001) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-08.
+This devops engineer position at Accenture was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

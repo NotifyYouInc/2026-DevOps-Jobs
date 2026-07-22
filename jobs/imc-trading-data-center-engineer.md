@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Somerset, New Jersey, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4869766101) |
+| Location | Mumbai, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4912548101) |
 
 ## About This Role
 
-This it & systems administration position at IMC Trading was posted on 2026-05-18.
+This devops engineer position at IMC Trading was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [National Football League](https://scoutify.ai/companies/nflprivateposting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Inglewood, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nflprivateposting/jobs/5279183008) |
+| Category | Data Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nflprivateposting/jobs/5324955008) |
 
 ## About This Role
 
-This devops engineer position at National Football League was posted on 2026-06-25.
+This data engineer position at National Football League was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

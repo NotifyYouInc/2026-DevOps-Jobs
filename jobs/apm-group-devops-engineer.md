@@ -5,12 +5,12 @@
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001188560-devops-engineer) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001233543-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at APM Group was posted on 2026-06-28.
+This devops engineer position at APM Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thought Machine](https://scoutify.ai/companies/thought-machine?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Software Engineer |
-| Posted | 2025-12-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thought-machine/a462734a-7ade-4f4e-8fa8-5ff16ac63c95) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thought-machine/749ea1f5-6d4a-4562-a9fe-84f5e2e9447e) |
 
 ## About This Role
 
-This software engineer position at Thought Machine was posted on 2025-12-25.
+This software engineer position at Thought Machine was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

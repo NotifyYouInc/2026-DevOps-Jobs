@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Farnborough, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Cloud-Engineer_R-00186512) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Cloud-Engineer_R-00187291) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-01.
+This devops engineer position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

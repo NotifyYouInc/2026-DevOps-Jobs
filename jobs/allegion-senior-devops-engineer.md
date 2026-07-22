@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegion](https://scoutify.ai/companies/allegion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Carmel, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Senior-DevOps-Engineer_JR36524) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Senior-DevOps-Engineer_JR36609-1) |
 
 ## About This Role
 
-This devops engineer position at Allegion was posted on 2026-06-25.
+This devops engineer position at Allegion was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

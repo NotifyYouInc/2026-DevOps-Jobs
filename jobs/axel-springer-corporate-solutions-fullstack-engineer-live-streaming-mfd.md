@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axel Springer Corporate Solutions](https://scoutify.ai/companies/axelspringercorporatesolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000112363528-fullstack-engineer-live-streaming-mfd) |
+| Category | Software Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AxelSpringerNewsMediaNational/744000137808519-fullstack-engineer-live-streaming-mfd) |
 
 ## About This Role
 
-This devops engineer position at Axel Springer Corporate Solutions was posted on 2026-03-03.
+This software engineer position at Axel Springer Corporate Solutions was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

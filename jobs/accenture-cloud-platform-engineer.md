@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Cloud-Platform-Engineer_ATCI-5679231-S2058045-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Cloud-Platform-Engineer_ATCI-5627480-S2031192) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-10.
+This devops engineer position at Accenture was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

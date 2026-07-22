@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Database Administration |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Warsaw-Poland/Staff-Site-Reliability-Engineer_JR114027) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/India-Bengaluru-Karnataka/Staff-Site-Reliability-Engineer_JR115388) |
 
 ## About This Role
 
-This database administration position at ServiceTitan was posted on 2026-02-25.
+This devops engineer position at ServiceTitan was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

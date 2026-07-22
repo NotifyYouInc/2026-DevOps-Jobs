@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
-| Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/MSB-Singapore/Automation-Engineer_JR100732) |
+| Location | Sānand, Gujarat, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/Automation-Engineer_JR105936) |
 
 ## About This Role
 
-This industrial automation position at Micron was posted on 2026-05-13.
+This devops engineer position at Micron was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bethesda, Maryland, United States |
+| Location | Farnborough, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/DevOps-Engineer_R-00186614) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/DevOps-Engineer_R-00187284) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-02.
+This devops engineer position at Leidos was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

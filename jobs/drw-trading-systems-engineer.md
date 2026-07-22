@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DRW](https://scoutify.ai/companies/drweng?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/7297292) |
+| Category | Software Engineer |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/drweng/jobs/8064737) |
 
 ## About This Role
 
-This devops engineer position at DRW was posted on 2026-02-25.
+This software engineer position at DRW was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
