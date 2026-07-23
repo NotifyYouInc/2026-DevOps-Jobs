@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kenosha, Wisconsin, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/Senior-Automation-Engineer_REQ480340) |
+| Location | Carteret, New Jersey, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Carteret-NJ/Senior-Automation-Engineer_REQ520987-1) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-06-15.
+This devops engineer position at JLL was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

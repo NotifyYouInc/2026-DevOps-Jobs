@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000132905104-senior-cloud-engineer-devops-devsecops-english) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000137939619-senior-cloud-engineer-devops-devsecops-english) |
 
 ## About This Role
 
-This devops engineer position at BETSOL was posted on 2026-06-18.
+This devops engineer position at BETSOL was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

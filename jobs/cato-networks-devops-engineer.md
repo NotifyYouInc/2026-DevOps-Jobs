@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cato Networks](https://scoutify.ai/companies/cato-networks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Prague, Prague, Czechia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4897808101?gh_jid=4897808101) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://www.catonetworks.com/careers/careers-post/4927512101?gh_jid=4927512101) |
 
 ## About This Role
 
-This devops engineer position at Cato Networks was posted on 2026-06-18.
+This devops engineer position at Cato Networks was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wavre, Wallonia, Belgium |
-| Category | Industrial Automation |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Belgium-Wavre/Reliability-Engineer_441197-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Belgium-Wavre/Reliability-Engineer_444003-1) |
 
 ## About This Role
 
-This industrial automation position at GSK was posted on 2026-05-27.
+This devops engineer position at GSK was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

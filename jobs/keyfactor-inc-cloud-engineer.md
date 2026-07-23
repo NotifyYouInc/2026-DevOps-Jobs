@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Keyfactor, Inc.](https://scoutify.ai/companies/keyfactor-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/5985552004) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/keyfactorinc/jobs/6115874004) |
 
 ## About This Role
 
-This devops engineer position at Keyfactor, Inc. was posted on 2026-05-01.
+This devops engineer position at Keyfactor, Inc. was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

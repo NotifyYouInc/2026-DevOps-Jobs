@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warrington, England, United Kingdom |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Warrington-KG-United-Kingdom/Automation-Engineer-III_R-01358569) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Vilnius-Lithuania/Automation-Engineer-III_R-01358570) |
 
 ## About This Role
 
-This devops engineer position at Thermo Fisher Scientific was posted on 2026-07-08.
+This devops engineer position at Thermo Fisher Scientific was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

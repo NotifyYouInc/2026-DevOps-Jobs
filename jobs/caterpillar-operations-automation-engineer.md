@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Decatur, Illinois, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Operations-Automation-Engineer_R0000354563) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Operations-Automation-Engineer_R0000382868) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-04.
+This devops engineer position at Caterpillar was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

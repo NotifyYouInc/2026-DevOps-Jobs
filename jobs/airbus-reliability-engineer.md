@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kinston, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Reliability-Engineer_JR10413704) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Reliability-Engineer_JR10405882) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-07-07.
+This devops engineer position at Airbus was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

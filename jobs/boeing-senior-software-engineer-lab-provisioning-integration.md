@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berkeley, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Software-Engineer---Lab-Provisioning---Integration_JR2026515357-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Senior-Software-Engineer---Lab-Provisioning---Integration_JR2026519128-1) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-07-01.
+This software engineer position at Boeing was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aperia](https://scoutify.ai/companies/aperia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aperiasolutions/jobs/5149077007) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/aperiasolutions/jobs/5187679007) |
 
 ## About This Role
 
-This devops engineer position at Aperia was posted on 2026-05-28.
+This devops engineer position at Aperia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

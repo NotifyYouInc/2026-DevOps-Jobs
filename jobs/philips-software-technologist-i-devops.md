@@ -5,12 +5,12 @@
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---DevOps_578712) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Technologist-I---DevOps_586561) |
 
 ## About This Role
 
-This devops engineer position at Philips was posted on 2026-06-01.
+This devops engineer position at Philips was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
