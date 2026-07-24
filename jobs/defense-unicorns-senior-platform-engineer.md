@@ -5,12 +5,12 @@
 | Company | [Defense Unicorns](https://scoutify.ai/companies/defense-unicorns?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5176104007) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5188870007) |
 
 ## About This Role
 
-This devops engineer position at Defense Unicorns was posted on 2026-06-29.
+This devops engineer position at Defense Unicorns was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

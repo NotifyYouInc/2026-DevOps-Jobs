@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceTitan](https://scoutify.ai/companies/servicetitan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Yerevan, Yerevan, Armenia |
+| Location | Glendale, Arizona, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Yerevan-Armenia/Senior-Site-Reliability-Engineer_JR114420) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Glendale-CA/Senior-Site-Reliability-Engineer_JR115077) |
 
 ## About This Role
 
-This devops engineer position at ServiceTitan was posted on 2026-04-06.
+This devops engineer position at ServiceTitan was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

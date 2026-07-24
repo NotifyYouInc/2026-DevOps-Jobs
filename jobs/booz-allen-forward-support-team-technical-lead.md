@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kansas, US |
-| Category | Engineering Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Leavenworth-KS/Forward-Support-Team-Technical-Lead_R0235776-1) |
+| Location | Leavenworth, Kansas, United States |
+| Category | Software Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Leavenworth-KS/Forward-Support-Team-Technical-Lead_R0244732) |
 
 ## About This Role
 
-This engineering manager position at Booz Allen was posted on 2026-03-11.
+This software engineer position at Booz Allen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

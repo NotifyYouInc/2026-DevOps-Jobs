@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000127734749-lead-cloud-network-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138200739-lead-cloud-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-05-21.
+This devops engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

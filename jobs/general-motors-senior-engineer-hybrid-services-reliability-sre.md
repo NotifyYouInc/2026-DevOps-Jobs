@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Engineer--Hybrid-Services---Reliability--SRE-_JR-202602576) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Engineer--Hybrid-Services---Reliability--SRE-_JR-202615412) |
 
 ## About This Role
 
-This software engineer position at General Motors was posted on 2026-02-04.
+This devops engineer position at General Motors was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

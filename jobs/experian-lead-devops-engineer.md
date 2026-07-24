@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136844585-lead-devops-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138080139-lead-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-07-09.
+This devops engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

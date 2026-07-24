@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Knutsford, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/IFC---Business-Analyst_JR-0000083518-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Service-Engineer_JR-0000085880) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-06-17.
+This devops engineer position at Barclays was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

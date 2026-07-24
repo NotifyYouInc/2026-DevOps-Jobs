@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hampton, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Hampton-VA-US/Platform-Engineer_328793) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Hampton-VA-US/Platform-Engineer_329202) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-07-10.
+This devops engineer position at CACI was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

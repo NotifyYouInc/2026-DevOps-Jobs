@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000136740809-back-office-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000138062565-back-office-engineer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-07-09.
+This devops engineer position at Netcompany was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

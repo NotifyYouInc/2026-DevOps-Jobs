@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Carolina, US |
+| Location | Raleigh, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Remote-US-NC/Senior-Site-Reliability-Engineer_R-057129) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Senior-Site-Reliability-Engineer_R-056327-1) |
 
 ## About This Role
 
-This devops engineer position at Red Hat was posted on 2026-07-10.
+This devops engineer position at Red Hat was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

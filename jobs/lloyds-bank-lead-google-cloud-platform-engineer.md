@@ -5,12 +5,12 @@
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155224-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Lead-Google-Cloud-Platform-Engineer_155767-3) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-04-24.
+This devops engineer position at Lloyds Bank was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-848--1151-E-Hermans-Rd--BLDG-848/Senior-Reliability-Engineer_01842598) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Senior-Reliability-Engineer_01860039) |
 
 ## About This Role
 
-This engineering manager position at RTX was posted on 2026-05-05.
+This devops engineer position at RTX was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

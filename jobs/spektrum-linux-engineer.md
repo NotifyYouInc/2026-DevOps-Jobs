@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mons, Wallonia, Belgium |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4841949101) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4929713101) |
 
 ## About This Role
 
-This it & systems administration position at Spektrum was posted on 2026-04-15.
+This devops engineer position at Spektrum was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

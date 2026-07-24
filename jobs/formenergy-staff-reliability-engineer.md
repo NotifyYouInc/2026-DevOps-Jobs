@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Formenergy](https://scoutify.ai/companies/formenergy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berkeley, California, United States |
-| Category | Engineering Manager |
-| Posted | 2025-12-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/formenergy/a212e3c3-e6e4-4c0f-b77a-7b662e1c0846) |
+| Location | Somerville, Massachusetts, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/formenergy/acdfae7a-83ec-4321-a49a-3a92625ae586) |
 
 ## About This Role
 
-This engineering manager position at Formenergy was posted on 2025-12-20.
+This devops engineer position at Formenergy was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

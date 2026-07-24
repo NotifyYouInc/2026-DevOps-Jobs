@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000108444396-senior-automation-engineer) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138082599-senior-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-02-10.
+This devops engineer position at Experian was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

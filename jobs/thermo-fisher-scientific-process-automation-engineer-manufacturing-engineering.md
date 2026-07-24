@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | St. Louis, Missouri, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Process-Automation-Engineer--Manufacturing-Engineering_R-01345604) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/St-Louis-Missouri-USA/Process-Automation-Engineer--Manufacturing-Engineering_R-01359831) |
 
 ## About This Role
 
-This industrial automation position at Thermo Fisher Scientific was posted on 2026-03-31.
+This devops engineer position at Thermo Fisher Scientific was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sardine](https://scoutify.ai/companies/sardine?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-01-26 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/sardine/42ae8d19-4362-49df-b132-df5b32052576) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/sardine/882d9560-a554-4c52-b836-2d5213fc4acd) |
 
 ## About This Role
 
-This devops engineer position at Sardine was posted on 2026-01-26.
+This devops engineer position at Sardine was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

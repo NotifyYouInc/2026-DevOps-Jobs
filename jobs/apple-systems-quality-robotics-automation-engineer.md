@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671692/systems-quality-robotics-automation-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200672803/systems-quality-robotics-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-07-10.
+This devops engineer position at Apple was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

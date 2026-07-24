@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8599906002?gh_jid=8599906002) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8555513002?gh_jid=8555513002) |
 
 ## About This Role
 
-This devops engineer position at Point72 was posted on 2026-06-24.
+This devops engineer position at Point72 was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

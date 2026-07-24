@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hesperia, California, United States |
+| Location | Fresno, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/Automation-Engineer_R328056) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fresno---3611-S-Northpointe-Drive/Automation-Engineer_R328796) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-07-14.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

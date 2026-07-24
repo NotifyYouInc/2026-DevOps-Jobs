@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Infrastructure-Engineer_R0242169) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Infrastructure-Engineer_R0244611) |
 
 ## About This Role
 
-This it & systems administration position at Booz Allen was posted on 2026-06-12.
+This devops engineer position at Booz Allen was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

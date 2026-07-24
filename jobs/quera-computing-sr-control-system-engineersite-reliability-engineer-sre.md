@@ -5,12 +5,12 @@
 | Company | [QuEra Computing](https://scoutify.ai/companies/queracomputinginc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5270649008) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/queracomputinginc/jobs/5361478008) |
 
 ## About This Role
 
-This devops engineer position at QuEra Computing was posted on 2026-06-18.
+This devops engineer position at QuEra Computing was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
