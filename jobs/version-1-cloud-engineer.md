@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110185105-cloud-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000138386555-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-02-19.
+This devops engineer position at Version 1 was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

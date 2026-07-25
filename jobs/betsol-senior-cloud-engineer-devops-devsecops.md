@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000132906669-senior-cloud-engineer-devops-devsecops) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000138322300-senior-cloud-engineer-devops-devsecops) |
 
 ## About This Role
 
-This devops engineer position at BETSOL was posted on 2026-06-18.
+This devops engineer position at BETSOL was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

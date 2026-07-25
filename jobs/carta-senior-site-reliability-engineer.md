@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Carta](https://scoutify.ai/companies/carta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7688689003) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/carta/jobs/7807188003) |
 
 ## About This Role
 
-This devops engineer position at Carta was posted on 2026-04-03.
+This devops engineer position at Carta was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pokeno, Waikato Region, New Zealand |
-| Category | Industrial Automation |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/New-Zealand--Waikato-Pokeno-Plant/Reliability-Engineer_31151428) |
+| Location | Columbus, Ohio, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Reliability-Engineer_31156074-1) |
 
 ## About This Role
 
-This industrial automation position at Abbott was posted on 2026-05-28.
+This devops engineer position at Abbott was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

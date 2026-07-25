@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/SRE_51584843) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/SRE_51585319) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-07-10.
+This devops engineer position at DXC Technology was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

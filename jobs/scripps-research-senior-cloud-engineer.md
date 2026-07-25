@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scripps Research](https://scoutify.ai/companies/scripps-research?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | La Jolla, California, United States |
+| Location | California, US |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/scr1003tsri/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=69f0cc52-bab2-4bd7-931f-7eb3aec4b57f) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/scr1003tsri/JobBoard/98759e7d-7ede-4c0b-ac7b-2c6293c7b522/OpportunityDetail?opportunityId=d543db3d-781e-4160-b7ed-12e1d6a9501d) |
 
 ## About This Role
 
-This devops engineer position at Scripps Research was posted on 2026-05-07.
+This devops engineer position at Scripps Research was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/IN_Bangalore_Sattva-Knowledge-Court-Bdg_HII/Advanced-Specialist-Kubernetes---Cloud-Platform_R-54286-2026) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Specialist-Kubernetes-Cloud-Platform/32103) |
 
 ## About This Role
 
-This devops engineer position at HARMAN International was posted on 2026-07-01.
+This devops engineer position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

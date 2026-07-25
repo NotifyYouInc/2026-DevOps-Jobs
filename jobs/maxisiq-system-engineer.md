@@ -5,12 +5,12 @@
 | Company | [MAXISIQ](https://scoutify.ai/companies/maxisiq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-01-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990010924886-system-engineer) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IOMAXISLLC/3743990014156806-system-engineer) |
 
 ## About This Role
 
-This devops engineer position at MAXISIQ was posted on 2026-01-05.
+This devops engineer position at MAXISIQ was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

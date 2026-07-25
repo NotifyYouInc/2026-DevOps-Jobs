@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/140076849861403334-site-reliability-engineering-manager-caching-sre?sort_by=date&page=1) |
+| Location | New York City, New York, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdsebzdeU9LVrXjHz8Fx4lgrAJkfzm-JYNBd8mLYlInHEjsA1Ny_iyoKUbSLtBfxpVpkMHTtYzKZvnARlB4ClMSgpRvhUHWZ0AbJBy17DEgVQim7vT-V3ZzmZJa8Xg%3D%3D_V2&loc=US&title=Site+Reliability+Engineering+Manager) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-02-05.
+This devops engineer position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

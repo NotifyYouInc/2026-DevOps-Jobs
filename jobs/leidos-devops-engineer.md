@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/DevOps-Engineer_R-00187284) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/DevOps-Engineer_R-00187516) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-14.
+This devops engineer position at Leidos was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

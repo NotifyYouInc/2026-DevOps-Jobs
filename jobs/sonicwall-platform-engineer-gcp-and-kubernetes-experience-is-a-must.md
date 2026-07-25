@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SonicWall](https://scoutify.ai/companies/sonicwall?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/7899060) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonicwall/jobs/8071497) |
 
 ## About This Role
 
-This devops engineer position at SonicWall was posted on 2026-05-06.
+This devops engineer position at SonicWall was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Plaud](https://scoutify.ai/companies/plaud?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/80524b7c-d06e-465b-983f-30cf245297dd) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/plaud/c7310484-7b15-4f71-a14a-12b5dad4f149) |
 
 ## About This Role
 
-This devops engineer position at Plaud was posted on 2026-03-09.
+This devops engineer position at Plaud was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

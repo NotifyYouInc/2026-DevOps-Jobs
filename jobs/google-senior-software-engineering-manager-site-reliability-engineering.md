@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Engineering Manager |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQWTMtCFbYaUUhDyVNEjYi7g6lkAx5IcOuUGqL3aZ8ChEjsACxwdTFITF3HNNeS3AEQNV0JAvwgMbLZgkY2JiB-ZnPc-cjgHvFkGNJx-FFQYpHS4lWJmpU76N7L9Xw%3D%3D_V2&loc=AU&title=Senior+Software+Engineering+Manager) |
+| Location | Sunnyvale, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckStt4aMOjTOkC3YT6WHaxfntcLuEsHQ_Ejtahs30uoxIEjsA1Ny_i71285ROZfPuwHRLhpG7doVBxpUhjei1bEvi7KllQvwwFkSZKHHav2kfJij7iQli2sFQ0ihDGQ%3D%3D_V2&loc=US&title=Senior+Software+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-04-14.
+This devops engineer position at Google was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
