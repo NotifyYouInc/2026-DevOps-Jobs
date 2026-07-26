@@ -1,16 +1,16 @@
-# Lead Systems Engineer at DTCC
+# QA Automation Engineer (TOSCA) at Synechron
 
 | Field | Details |
 |-------|---------|
-| Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214167) |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chennai---Taramani-Ascendas/QA-Automation-Engineer--TOSCA-_JR1041852) |
 
 ## About This Role
 
-This devops engineer position at DTCC was posted on 2026-07-19.
+This devops engineer position at Synechron was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

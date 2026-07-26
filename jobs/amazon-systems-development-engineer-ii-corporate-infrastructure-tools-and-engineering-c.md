@@ -1,12 +1,12 @@
-# Systems Development Engineer at Amazon
+# Systems Development Engineer II , Corporate Infrastructure Tools and Engineering, Corporate Infrastructure Tools and Engineering at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Seattle, Washington, United States |
 | Category | Software Engineer |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478058/systems-development-engineer) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10478059/systems-development-engineer-ii-corporate-infrastructure-tools-and-engineering-corporate-infrastructure-tools-and-engineering) |
 
 ## About This Role
 

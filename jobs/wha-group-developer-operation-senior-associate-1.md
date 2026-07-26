@@ -1,16 +1,16 @@
-# Lead Systems Engineer at DTCC
+# Developer Operation Senior Associate 1 at WHA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [WHA Group](https://scoutify.ai/companies/ocs-cx-oj118111?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Thailand |
 | Category | DevOps Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214167) |
+| Posted | 2024-03-13 |
+| Apply | [View on company site](https://fa-evbk-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#95) |
 
 ## About This Role
 
-This devops engineer position at DTCC was posted on 2026-07-19.
+This devops engineer position at WHA Group was posted on 2024-03-13.
 
 ## Get Real-Time Alerts
 

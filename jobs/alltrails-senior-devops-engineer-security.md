@@ -1,16 +1,16 @@
-# Lead Systems Engineer at DTCC
+# Senior DevOps Engineer, Security at Alltrails
 
 | Field | Details |
 |-------|---------|
-| Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Alltrails](https://scoutify.ai/companies/alltrails?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 5 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214167) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobs.lever.co/alltrails/f5ca6ac1-44ac-469e-8a7b-ac821e7c49f4) |
 
 ## About This Role
 
-This devops engineer position at DTCC was posted on 2026-07-19.
+This devops engineer position at Alltrails was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

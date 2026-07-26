@@ -1,16 +1,16 @@
-# Lead Systems Engineer at DTCC
+# Dev Ops Engineering I-SUPPORT SERVICES-AI & Platforms - In House Engineering at Kotak Mahindra Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Kotak Mahindra Bank](https://scoutify.ai/companies/em2-cx-oj60191?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-07-19 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214167) |
+| Apply | [View on company site](https://hcbt.fa.em2.oraclecloud.com/jobs/#241512) |
 
 ## About This Role
 
-This devops engineer position at DTCC was posted on 2026-07-19.
+This devops engineer position at Kotak Mahindra Bank was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

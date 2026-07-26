@@ -1,16 +1,16 @@
-# Lead Systems Engineer at DTCC
+# Senior DevOps Engineer at Private Identity
 
 | Field | Details |
 |-------|---------|
-| Company | [DTCC](https://scoutify.ai/companies/us2-cx-oj32227?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Private Identity](https://scoutify.ai/companies/privateidentity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-07-19 |
-| Apply | [View on company site](https://ebxr.fa.us2.oraclecloud.com/jobs/#214167) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/privateidentity/jobs/4193542009) |
 
 ## About This Role
 
-This devops engineer position at DTCC was posted on 2026-07-19.
+This devops engineer position at Private Identity was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

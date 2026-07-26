@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
 | Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000138114129-ingenieur-systeme-linux-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000138148879-ingenieur-systeme-linux-hf) |
 
 ## About This Role
 
