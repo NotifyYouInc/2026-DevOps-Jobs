@@ -5,12 +5,12 @@
 | Company | [42dot](https://scoutify.ai/companies/42dot?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/c239b99e-9252-44e6-932e-401ec5cfdec1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/42dot/91a799ff-77da-49ef-ac35-6260de835827) |
 
 ## About This Role
 
-This devops engineer position at 42dot was posted on 2026-06-02.
+This devops engineer position at 42dot was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

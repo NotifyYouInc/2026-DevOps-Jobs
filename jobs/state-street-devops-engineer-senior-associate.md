@@ -1,16 +1,16 @@
-# DevOps Engineer - Senior Associate at State Street
+# DevOps Engineer – Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/DevOps-Engineer---Senior-Associate_R-790363) |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/DevOps-Engineer---Senior-Associate_R-794049) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-05-18.
+This devops engineer position at State Street was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

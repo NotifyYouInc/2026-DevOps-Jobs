@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-BizOps-Engineer_R-272427) |
+| Category | Strategy & Operations |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-BizOps-Engineer_R-282000) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-06-25.
+This strategy & operations position at Mastercard was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

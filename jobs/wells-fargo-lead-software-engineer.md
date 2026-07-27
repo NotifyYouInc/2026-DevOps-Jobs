@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Software-Engineer_R-558651) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-560625) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-07-16.
+This software engineer position at Wells Fargo was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000133310862-platform-engineer-iii) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000138605360-platform-engineer-iii) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-06-22.
+This devops engineer position at Entain was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
