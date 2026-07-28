@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Alliance Bancorporation](https://scoutify.ai/companies/western-alliance-bancorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | 3 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Staff-Engineer-II_R13347) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://westernalliancebank.wd5.myworkdayjobs.com/wab/job/Phoenix-AZ/Staff-Engineer-II_R13429) |
 
 ## About This Role
 
-This software engineer position at Western Alliance Bancorporation was posted on 2026-07-10.
+This software engineer position at Western Alliance Bancorporation was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Design-Release-Engineer_JR-202612132) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Design-Release-Engineer_JR-202615656) |
 
 ## About This Role
 
-This semiconductor / chip design position at General Motors was posted on 2026-06-01.
+This devops engineer position at General Motors was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

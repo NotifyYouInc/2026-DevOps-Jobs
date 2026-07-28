@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000130213459-data-ops-confirme-cdi-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138632535-data-ops-confirme-cdi-fh) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-06-04.
+This devops engineer position at Talan was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

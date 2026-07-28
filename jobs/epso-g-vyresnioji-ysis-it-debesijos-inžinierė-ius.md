@@ -5,12 +5,12 @@
 | Company | [EPSO-G](https://scoutify.ai/companies/epsog?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000132557585-vyresnioji-ysis-it-debesijos-inziniere-ius) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000138616607-vyresnioji-ysis-it-debesijos-inziniere-ius) |
 
 ## About This Role
 
-This devops engineer position at EPSO-G was posted on 2026-06-17.
+This devops engineer position at EPSO-G was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

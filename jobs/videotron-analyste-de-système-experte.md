@@ -5,12 +5,12 @@
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000132705579-analyste-de-systeme-experte) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000138618089-analyste-de-systeme-experte) |
 
 ## About This Role
 
-This devops engineer position at Videotron was posted on 2026-06-17.
+This devops engineer position at Videotron was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

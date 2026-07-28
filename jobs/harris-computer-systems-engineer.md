@@ -5,12 +5,12 @@
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Systems-Engineer_R0039828-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Systems-Engineer_R0044856) |
 
 ## About This Role
 
-This devops engineer position at Harris Computer was posted on 2026-02-19.
+This devops engineer position at Harris Computer was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

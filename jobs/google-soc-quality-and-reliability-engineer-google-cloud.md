@@ -1,16 +1,16 @@
-# SoC Quality and Reliability Engineer, Google Cloud at Google
+# SOC Quality and Reliability Engineer, Google Cloud at Google
 
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | Semiconductor / Chip Design |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRG3gq7n6FKp4TaIsydHG8FcdjmQyYnneRvZizncX_W5EjsACxwdTAXrs3BH09drVsaSCKldYYSRdcYOMlT6prlIDQE3X_s5uZXlHwn4PIFUOupNLuwUTqbPR7B6Kw%3D%3D_V2&loc=US&title=SoC+Quality+and+Reliability+Engineer) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckY16UeT_1kyt1e1LONGcPASou-08bCMDlNuhHEINoXZwEjsA1Ny_ixJVxRt_Fpl3Y7UeWpVMSnRLKKcy7B3DutvWI75XLBenUN2wIkHpAASWOyJs_UAr1wR2CTdNBA%3D%3D_V2&loc=IL&title=SOC+Quality+and+Reliability+Engineer) |
 
 ## About This Role
 
-This semiconductor / chip design position at Google was posted on 2026-04-16.
+This devops engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

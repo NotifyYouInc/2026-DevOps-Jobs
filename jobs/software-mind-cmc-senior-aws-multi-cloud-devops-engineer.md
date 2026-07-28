@@ -6,7 +6,7 @@
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000138292859-cmc-senior-aws-multi-cloud-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000138337106-cmc-senior-aws-multi-cloud-devops-engineer) |
 
 ## About This Role
 

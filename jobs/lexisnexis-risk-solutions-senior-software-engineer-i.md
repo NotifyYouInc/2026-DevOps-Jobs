@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Senior-Software-Engineer-I_R99819) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Bengaluru/Senior-Software-Engineer-I_R114514) |
 
 ## About This Role
 
-This devops engineer position at LexisNexis Risk Solutions was posted on 2026-03-02.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

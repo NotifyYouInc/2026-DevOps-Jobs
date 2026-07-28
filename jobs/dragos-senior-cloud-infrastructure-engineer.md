@@ -1,16 +1,16 @@
-# Senior Cloud Infrastructure Engineer  at Dragos
+# Senior Cloud Infrastructure Engineer at Dragos
 
 | Field | Details |
 |-------|---------|
 | Company | [Dragos](https://scoutify.ai/companies/dragos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5218498008) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dragos/jobs/5342409008) |
 
 ## About This Role
 
-This devops engineer position at Dragos was posted on 2026-05-21.
+This devops engineer position at Dragos was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

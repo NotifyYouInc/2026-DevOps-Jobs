@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Cork, Munster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662016/site-reliability-engineer-enterprise-technology-services) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671890/site-reliability-engineer-enterprise-technology-services) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-05-13.
+This devops engineer position at Apple was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

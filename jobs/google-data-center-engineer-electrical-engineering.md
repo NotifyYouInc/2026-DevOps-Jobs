@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 8 locations |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUT-q-PNpgleY3EcUy0mI2wodUJNnalqhuLx1wMUsHf9EjsACxwdTPhVPmiiE1xsJ4y5uHz2lS2AiiHEMOMoU3EOzlduJYz9CS7sXpDGYQ3r9dXSIRG2me6aX6ae_g%3D%3D_V2&loc=US&title=Data+Center+Engineer) |
+| Location | Denmark |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfEV8ZiNdYuzY7pbtBM0no4yy9U2CToX_q7oX8MFAdw9EjoA1Ny_iwosQu0S1D5VMGOpXidL_xKzGa2NjDrEMk6gxahcPSW-Y5IRxbWeGKSc8fRKm5AukHtP-kMn_V2&loc=DK&title=Data+Center+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-05-21.
+This devops engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

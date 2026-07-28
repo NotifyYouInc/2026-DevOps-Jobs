@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pennsylvania, US |
+| Location | Kolkata, West Bengal, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Senior-DevOps-Engineer_R0036616) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/IND-KOLKATA-FINOMIAL/Senior-DevOps-Engineer_R0037236) |
 
 ## About This Role
 
-This devops engineer position at SEI Investments was posted on 2026-05-13.
+This devops engineer position at SEI Investments was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

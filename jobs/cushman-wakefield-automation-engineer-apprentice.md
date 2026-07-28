@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fontana, California, United States |
+| Location | Fresno, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fontana---11263-Oleander-Ave/Automation-Engineer-Apprentice_R328412) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fresno---3575-South-Orange-Avenue/Automation-Engineer-Apprentice_R328500) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-07-16.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

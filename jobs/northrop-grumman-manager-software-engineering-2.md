@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Virginia, US |
+| Location | 3 locations |
 | Category | Engineering Manager |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Manager-Software-Engineering-2_R10226930) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Manager-Software-Engineering-2_R10240553) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-03-23.
+This engineering manager position at Northrop Grumman was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

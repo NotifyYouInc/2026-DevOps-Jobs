@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clio](https://scoutify.ai/companies/clio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Manchester/Manager--Systems-Engineering_REQ-4403) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://clio.wd3.myworkdayjobs.com/ClioCareerSite/job/Sydney/Manager--Systems-Engineering_REQ-5214) |
 
 ## About This Role
 
-This engineering manager position at Clio was posted on 2026-03-04.
+This engineering manager position at Clio was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXNPXZKIygBITYJ5tw1-eaSJz3Uh9NEzxpGKlMvycUvtEjsACxwdTKeO0L4Wm7R69CmToPfProGyumHS1Hfhc8N9EOH2fFUsLu6mQ73AYw_0TY6HsAtOWR2B_w8EIQ%3D%3D_V2&loc=US&title=Systems+Development+Engineer) |
+| Location | Hyderabad, Telangana, India |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke9p3d2pmqLQ-39Ks7aDOVIEjywXLTb7NkDsQCjV68uwEjsA1Ny_i5Rsi-aIuzf-vbwKOjdlKSf3eOPQ9HsjDThqt6_P7RESjGB-OoLuwE6WWnGi4VDqNV9joJ6k7A%3D%3D_V2&loc=IN&title=Systems+Development+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-04-15.
+This software engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

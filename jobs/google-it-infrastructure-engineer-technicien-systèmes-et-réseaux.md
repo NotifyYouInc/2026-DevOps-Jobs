@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSD-OG99mdUhi-7qc2ph9alYcK1YODvUixy2iNYiC7XlEjsACxwdTOwNlVR5LscOC9o4cFQoW-SYAuuS3VkIM906cCLM2GMxAdqDLYhllhSekuffEM5Ztusje1D2Lw%3D%3D_V2&loc=BE&title=IT+Infrastructure+Engineer) |
+| Location | Farciennes, Wallonia, Belgium |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRFg9Ky69MXIL0h-uUPlJ_ubBiqiOai5wtbVBfCWRjnJEjsA1Ny_i2_kMgyiIeRQF5nkQbbotGhQ4J9Hb3WdcGF09GvMeAecplWHa8Hw9g7iklMVw2j2nY4QB9h2Sw%3D%3D_V2&loc=BE&title=IT+Infrastructure+Engineer) |
 
 ## About This Role
 
-This it & systems administration position at Google was posted on 2026-04-23.
+This devops engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

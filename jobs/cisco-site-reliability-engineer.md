@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 11 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Site-Reliability-Engineer_2018406-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Site-Reliability-Engineer_2018207-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-07-15.
+This devops engineer position at Cisco was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

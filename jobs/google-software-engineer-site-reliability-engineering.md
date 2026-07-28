@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85717631713059526-software-engineer-site-reliability-engineering?sort_by=date&page=1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcKXFjVEwsDp5GB1gKT-oJgJOOyzhCiB-f-_-pghTiOcEjsA1Ny_i-9SCgNfYrIS9CK06OhSHf-Jgiou9mGZ3LUrfXHkV0G_GDkTNqkYSkMDRaqPz4JKNeuVLSZj0g%3D%3D_V2&loc=IN&title=Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-02.
+This software engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

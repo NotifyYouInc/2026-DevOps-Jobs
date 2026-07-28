@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ping Identity](https://scoutify.ai/companies/ping-identity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8446908002) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pingidentity/jobs/8631570002) |
 
 ## About This Role
 
-This devops engineer position at Ping Identity was posted on 2026-06-01.
+This devops engineer position at Ping Identity was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

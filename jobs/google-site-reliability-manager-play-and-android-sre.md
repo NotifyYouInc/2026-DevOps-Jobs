@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb7rFMPigN8yyPmMextQ3u33xKADtWv6vKcYkW9fuhh5EjsACxwdTNVIG_uQ7ffy-NEkDDs27FwtQW5bxjE1KywcnD5qFPbR2s6iUruCzgWehjdvUOJI6Rza0k6J1Q%3D%3D_V2&loc=US&title=Site+Reliability+Manager) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVRsXCvb5Fnm-O7muKCh1Wj4ZKFtXyd02YCARQSczBkEEjsA1Ny_i3a46ZpKDjCiBKM17uMLF5L6G0XYh3PSp-0d82oKXhJGurgt_B49iTWHhNN7qiNRSpYCaVg1ZA%3D%3D_V2&loc=US&title=Site+Reliability+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-06-11.
+This devops engineer position at Google was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

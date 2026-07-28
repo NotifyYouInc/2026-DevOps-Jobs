@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Engine-Transmission-Propulsion_JR-202610929) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer---Engine-Transmission-Propulsion_JR-202615599-1) |
 
 ## About This Role
 
-This engineering manager position at General Motors was posted on 2026-06-05.
+This devops engineer position at General Motors was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

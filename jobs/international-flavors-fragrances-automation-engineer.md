@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brugge, Flanders, Belgium |
+| Location | New Jersey, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Brugge-Belgium/Automation-Engineer_R19414) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hazlet-NJ-PlantCreative-Center-USA/Automation-Engineer_R19789) |
 
 ## About This Role
 
-This devops engineer position at International Flavors & Fragrances was posted on 2026-07-08.
+This devops engineer position at International Flavors & Fragrances was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
