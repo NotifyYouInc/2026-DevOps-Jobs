@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Marlborough, Massachusetts, United States |
+| Location | Massachusetts, US |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Platform-Operations-Engineer_01842875) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/Platform-Operations-Engineer_01858815) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-05-05.
+This devops engineer position at RTX was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

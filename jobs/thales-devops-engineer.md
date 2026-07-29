@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cheadle, England, United Kingdom |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cheadle/DevOps-Engineer_R0333653) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Crawley/DevOps-Engineer_R0334548) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-07-14.
+This devops engineer position at Thales was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

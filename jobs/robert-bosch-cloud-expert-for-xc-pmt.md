@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126270974-cloud-expert-for-xc-pmt) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138991425-cloud-expert-for-xc-pmt) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-05-13.
+This devops engineer position at Robert Bosch was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

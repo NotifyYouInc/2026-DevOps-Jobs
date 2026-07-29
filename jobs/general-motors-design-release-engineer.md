@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warren, Michigan, United States |
+| Location | Pontiac, Michigan, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer_JR-202615361) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Pontiac-Michigan-United-States-of-America/Design-Release-Engineer_JR-202615752) |
 
 ## About This Role
 
-This devops engineer position at General Motors was posted on 2026-07-16.
+This devops engineer position at General Motors was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

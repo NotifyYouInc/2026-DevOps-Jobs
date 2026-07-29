@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000125729004-devops-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000138891859-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at NielsenIQ was posted on 2026-05-11.
+This devops engineer position at NielsenIQ was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Industrial Automation |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/IaC-Automation-Engineer_R-10396634) |
+| Location | 4 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/IaC-Automation-Engineer_R-10399222) |
 
 ## About This Role
 
-This industrial automation position at Fiserv was posted on 2026-06-11.
+This devops engineer position at Fiserv was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

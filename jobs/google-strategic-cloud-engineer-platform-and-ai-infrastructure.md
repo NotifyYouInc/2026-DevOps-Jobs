@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckXV8VId2ZS8Idsu0tdGgYyo85BfCe8F2AnKyiRW3bKEsEjsACxwdTCqVDw46h2Gnw1r2HZznF25WDz2dVoavmriBoty5EqK3O94usKVvTcrcFZQdj0DtkDu0aDuPfA%3D%3D_V2&loc=AU&title=Strategic+Cloud+Engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWqXhQfCzgpTPjaydMzT7l8b403zYptMWPrIzjIsC4Z4EjsA1Ny_i1F3jBI6PAgge15Ca-PzUxnbP7n9YLhQb9Hw6YNfAbfJlY5C8inDNj8IwqK1xVdxCs6WUOs4Jg%3D%3D_V2&loc=AU&title=Strategic+Cloud+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-03.
+This devops engineer position at Google was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

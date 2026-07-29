@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | Concord, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MCLEAN-VA/Lead-Infrastructure-Engineer_R-560427) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CONCORD-CA/Lead-Infrastructure-Engineer_R-554358) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-07-17.
+This devops engineer position at Wells Fargo was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

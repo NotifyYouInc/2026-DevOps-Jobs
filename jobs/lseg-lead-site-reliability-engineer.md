@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Lead-Site-Reliability-Engineer_R0107298-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/ROU-Bucharest-Iuliu-Maniu-Boulevard/Lead-Site-Reliability-Engineer_R0121183-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-05-14.
+This devops engineer position at LSEG was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

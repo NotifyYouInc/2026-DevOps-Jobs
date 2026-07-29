@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137466921-devsecops-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139027809-devsecops-engineer) |
 
 ## About This Role
 
-This devops engineer position at METRO/MAKRO was posted on 2026-07-13.
+This devops engineer position at METRO/MAKRO was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fresno, California, United States |
+| Location | Rialto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Fresno---3611-S-Northpointe-Drive/Automation-Engineer_R328796) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Automation-Engineer_R329111) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-07-16.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

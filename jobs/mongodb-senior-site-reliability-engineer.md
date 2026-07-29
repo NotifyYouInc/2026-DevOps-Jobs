@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7793634) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=8051379) |
 
 ## About This Role
 
-This devops engineer position at MongoDB was posted on 2026-04-08.
+This devops engineer position at MongoDB was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

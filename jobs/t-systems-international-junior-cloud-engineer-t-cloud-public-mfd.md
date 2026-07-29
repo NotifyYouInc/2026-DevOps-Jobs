@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Granada, Andalusia, Spain |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000136245521-junior-cloud-engineer-t-cloud-public-mfd) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000139017882-junior-cloud-engineer-t-cloud-public-mfd) |
 
 ## About This Role
 
-This devops engineer position at T-Systems International was posted on 2026-07-07.
+This devops engineer position at T-Systems International was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

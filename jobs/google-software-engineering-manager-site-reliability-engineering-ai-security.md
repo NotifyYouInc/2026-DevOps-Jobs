@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcXAU26A-uaEO_7nX03h5QT1mrddZfsn7pv-uOWdVGFtEjsA1Ny_i2BFWl6YAbozoSHJvFzdIpUPMchJtMCG93xNaZsJCPRX8s3cmAMxuaEzAtCLKFAnqKAfUsYCMw%3D%3D_V2&loc=IE&title=Software+Engineering+Manager) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckenv4BnBptpZ6pg95wlngXCxfAriLNHvnDfyT5druz0-EjsA1Ny_i9p3UJswkiPbarzBDUP5qxb-1EyW4Oi3toYM1l3ZgCJbTYIzRM35KqS9KrYQSu2JWlDRje6D8g%3D%3D_V2&loc=IE&title=Software+Engineering+Manager) |
 
 ## About This Role
 
-This engineering manager position at Google was posted on 2026-06-15.
+This devops engineer position at Google was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DevOps Engineer at Inetum
+# Devops Engineer at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000132408330-devops-engineer) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000138879099-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-06-16.
+This devops engineer position at Inetum was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

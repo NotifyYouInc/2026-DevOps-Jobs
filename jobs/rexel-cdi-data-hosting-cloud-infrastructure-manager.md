@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000138619509-cdi-data-hosting-cloud-infrastructure-manager) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000139027130-cdi-data-hosting-cloud-infrastructure-manager) |
 
 ## About This Role
 
-This devops engineer position at REXEL was posted on 2026-07-20.
+This devops engineer position at REXEL was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
