@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bengaluru-Karnataka-India/Oracle-Fusion-Functional-Analyst_WD30271376) |
+| Category | Business Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Oracle-Fusion-Functional-Analyst_WD30275092) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-06-04.
+This business analyst position at Johnson Controls was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

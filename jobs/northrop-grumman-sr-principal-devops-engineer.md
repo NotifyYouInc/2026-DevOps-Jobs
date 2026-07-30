@@ -1,16 +1,16 @@
-# Sr. Principal DevOps Engineer at Northrop Grumman
+# Sr Principal DevOps Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Aurora, Colorado, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-DevOps-Engineer_R10236460) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-DevOps-Engineer_R10241735) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-06-15.
+This devops engineer position at Northrop Grumman was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Application--Infrastructure---Service-Management---Senior-Associate_R-790184) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Application--Infrastructure---Service-Management---Senior-Associate_R-794377) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-05-20.
+This devops engineer position at State Street was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

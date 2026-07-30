@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Principal---Sr-Principal--DevOps-Software-Engineer_R10236161) |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Principal---Sr-Principal--DevOps-Software-Engineer_R10241749) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-06-11.
+This software engineer position at Northrop Grumman was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

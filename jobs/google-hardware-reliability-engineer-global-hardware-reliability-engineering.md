@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTeevmOJjKS_XMQjceDAEQIw8GUvAkzj0BZqgCdVvEpIEjsACxwdTJNsvq9EnJK0Rs6OUwdpMDqxoa2ZnNgHHix21xE3D09aKHCZMSKQdvmhDkBupXOj65kNXs-vxA%3D%3D_V2&loc=US&title=Hardware+Reliability+Engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckX7b_9yMYKNdDhB48DQx-Z_UyTzYpylD64YSx_9sUYMnEjsA1Ny_ixJRrhrZrUUE6Bd_7dSPUnDYa2_7BzvGvMvvlLX6wQN5sRorHtVTG0Xx706xovBHqAzTZOqz2A%3D%3D_V2&loc=US&title=Hardware+Reliability+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-05-22.
+This devops engineer position at Google was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

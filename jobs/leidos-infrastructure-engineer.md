@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | Huntingdon, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Farnborough-Hampshire-UK/Infrastructure-Engineer_R-00187296) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Engineer_R-00187655) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-14.
+This devops engineer position at Leidos was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

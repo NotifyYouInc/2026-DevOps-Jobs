@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Mid-Software-Developer_R2124671) |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Mid-Software-Developer_R2127117) |
 
 ## About This Role
 
-This devops engineer position at KBR was posted on 2026-06-04.
+This software engineer position at KBR was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

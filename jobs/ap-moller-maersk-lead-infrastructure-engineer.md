@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Lead-Infrastructure-Engineer_R189384-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/INBLR02---Bangalore---Milesstone-Buildcon/Lead-Infrastructure-Engineer_R190028) |
 
 ## About This Role
 
-This devops engineer position at A.P. Moller - Maersk was posted on 2026-07-16.
+This devops engineer position at A.P. Moller - Maersk was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

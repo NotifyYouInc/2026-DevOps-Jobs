@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---CICD-DevOps_R29095) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Pune/Engineer-III---CICD-DevOps_R29096) |
 
 ## About This Role
 
-This devops engineer position at CrowdStrike was posted on 2026-07-07.
+This devops engineer position at CrowdStrike was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

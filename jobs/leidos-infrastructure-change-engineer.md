@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntingdon, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Change-Engineer_R-00187426) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/Infrastructure-Change-Engineer_R-00187654) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-16.
+This devops engineer position at Leidos was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

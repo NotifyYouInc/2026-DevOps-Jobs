@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Software Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Staff-Engineer---Platform-Engineering_REQ2026700) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Staff-Engineer---Platform-Engineering_REQ2026709) |
 
 ## About This Role
 
-This software engineer position at Earlywarning was posted on 2026-07-15.
+This software engineer position at Earlywarning was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

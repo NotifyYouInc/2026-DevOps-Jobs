@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alliander](https://scoutify.ai/companies/alliander?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arnhem, Gelderland, The Netherlands |
+| Location | Haarlem, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/Arnhem-Koningstraat-28-1/DevOps-Engineer_JR17424) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://alliander.wd3.myworkdayjobs.com/alliander/job/HAARLEM/DevOps-Engineer_JR19158) |
 
 ## About This Role
 
-This devops engineer position at Alliander was posted on 2026-03-06.
+This devops engineer position at Alliander was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

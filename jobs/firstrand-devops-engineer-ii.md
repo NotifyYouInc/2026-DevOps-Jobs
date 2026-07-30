@@ -5,12 +5,12 @@
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/DevOps-Engineer_R40852) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/DevOps-Engineer-II_R51677) |
 
 ## About This Role
 
-This devops engineer position at FirstRand was posted on 2026-02-23.
+This devops engineer position at FirstRand was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

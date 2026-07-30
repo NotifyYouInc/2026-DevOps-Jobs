@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000129709800-ingenieur-devops-hf) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139236219-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-02.
+This devops engineer position at Devoteam was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

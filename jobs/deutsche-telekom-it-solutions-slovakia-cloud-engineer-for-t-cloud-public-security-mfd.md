@@ -1,16 +1,16 @@
-# Cloud Engineer for T-cloud Public Security (m/f/d) at Deutsche Telekom IT Solutions Slovakia
+# Cloud Engineer for T Cloud Public Security (m/f/d) at Deutsche Telekom IT Solutions Slovakia
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000132404854-cloud-engineer-for-t-cloud-public-security-mfd) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000139050289-cloud-engineer-for-t-cloud-public-security-mfd) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-16.
+This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

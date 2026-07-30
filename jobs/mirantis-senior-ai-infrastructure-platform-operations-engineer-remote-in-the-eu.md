@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000135975899-senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139218967-senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-06.
+This devops engineer position at Mirantis was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

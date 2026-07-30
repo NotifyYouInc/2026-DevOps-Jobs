@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Huntley, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IN---Fort-Wayne---9798-Smith-Road/Automation-Engineer-Apprentice_R328501) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Huntley---11500-Freeman-Rd/Automation-Engineer-Apprentice_R328648) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-07-20.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000135740789-senior-session-border-controller-sbc-engineer) |
+| Location | India |
+| Category | Accounting |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000139048974-senior-session-border-controller-sbc-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-07-03.
+This accounting position at Lions Candle-Dispatch Solution was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

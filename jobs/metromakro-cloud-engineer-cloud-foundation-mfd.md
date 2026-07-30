@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000138651740-cloud-engineer-cloud-foundation-mfd) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139231829-cloud-engineer-cloud-foundation-mfd) |
 
 ## About This Role
 
-This devops engineer position at METRO/MAKRO was posted on 2026-07-20.
+This devops engineer position at METRO/MAKRO was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cube](https://scoutify.ai/companies/cube?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/cube/0434dca8-c128-4ba5-aba4-6b86c07b6d79) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/cube/5390b11f-bf94-46da-b867-3e5ed6026e3d) |
 
 ## About This Role
 
-This devops engineer position at Cube was posted on 2026-07-09.
+This devops engineer position at Cube was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

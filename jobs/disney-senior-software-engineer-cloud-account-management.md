@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Senior-Software-Engineer---Cloud-Account-Management_10142638) |
+| Location | 2 locations |
+| Category | Software Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Senior-Software-Engineer---Cloud-Account-Management_10142528-2) |
 
 ## About This Role
 
-This devops engineer position at Disney was posted on 2026-03-05.
+This software engineer position at Disney was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

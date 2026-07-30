@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cgm](https://scoutify.ai/companies/cgm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Noida/Quality-Assurance-Automation-Engineer_JR109600) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://cgm.wd3.myworkdayjobs.com/cgm/job/Noida/Quality-Assurance-Automation-Engineer_JR110019) |
 
 ## About This Role
 
-This industrial automation position at Cgm was posted on 2026-05-24.
+This devops engineer position at Cgm was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

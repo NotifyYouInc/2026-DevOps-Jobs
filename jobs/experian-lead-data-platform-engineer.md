@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Nottingham, England, United Kingdom |
 | Category | Data Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138088472-lead-data-platform-engineer) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139121720-lead-data-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at Experian was posted on 2026-07-16.
+This data engineer position at Experian was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

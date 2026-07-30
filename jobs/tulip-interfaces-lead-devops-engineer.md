@@ -5,12 +5,12 @@
 | Company | [Tulip Interfaces](https://scoutify.ai/companies/tulip-interfaces?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Somerville, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=7669229003) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://tulip.co/careers/job-posting/?gh_jid=7813176003) |
 
 ## About This Role
 
-This devops engineer position at Tulip Interfaces was posted on 2026-07-06.
+This devops engineer position at Tulip Interfaces was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
