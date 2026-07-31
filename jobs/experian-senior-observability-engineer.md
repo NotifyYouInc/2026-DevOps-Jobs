@@ -1,16 +1,16 @@
-# Senior Observability Engineer  at Experian
+# Senior Observability Engineer at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131831511-senior-observability-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000139278225-senior-observability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-06-12.
+This devops engineer position at Experian was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

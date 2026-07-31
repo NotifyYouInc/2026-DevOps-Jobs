@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Deerfield, Illinois, United States |
+| Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000134887379-staff-devops-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000139341360-staff-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-06-29.
+This devops engineer position at ServiceNow was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

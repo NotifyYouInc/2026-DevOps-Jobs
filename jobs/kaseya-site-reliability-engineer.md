@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kaseya](https://scoutify.ai/companies/kaseya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/5976107004/?gh_jid=5976107004) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.kaseya.com/careers/jobs/id/6106987004/?gh_jid=6106987004) |
 
 ## About This Role
 
-This devops engineer position at Kaseya was posted on 2026-05-18.
+This devops engineer position at Kaseya was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

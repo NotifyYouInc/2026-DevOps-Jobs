@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lille, Hauts-de-France, France |
+| Location | Marcq-en-Barœul, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000131397452-senior-cloud-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139532389-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-10.
+This devops engineer position at Devoteam was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

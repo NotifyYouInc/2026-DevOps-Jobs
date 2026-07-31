@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000138148879-ingenieur-systeme-linux-hf) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000139541954-ingenieur-systeme-linux-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-07-16.
+This devops engineer position at Meritis was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

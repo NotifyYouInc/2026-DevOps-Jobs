@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scale AI](https://scoutify.ai/companies/scaleai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4716453005) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/scaleai/jobs/4717105005) |
 
 ## About This Role
 
-This devops engineer position at Scale AI was posted on 2026-07-20.
+This devops engineer position at Scale AI was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

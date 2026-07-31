@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/Senior-DevOps-Engineer---Lunar-Permanence_R62334) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Senior-DevOps-Engineer---Lunar-Permanence_R68309) |
 
 ## About This Role
 
-This devops engineer position at Blue Origin was posted on 2026-04-29.
+This devops engineer position at Blue Origin was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

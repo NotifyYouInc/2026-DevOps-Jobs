@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1310867664496311) |
+| Location | Nebraska, US |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1008587122164422) |
 
 ## About This Role
 
-This devops engineer position at Meta was posted on 2026-06-26.
+This software engineer position at Meta was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8643171002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8635672002) |
 
 ## About This Role
 

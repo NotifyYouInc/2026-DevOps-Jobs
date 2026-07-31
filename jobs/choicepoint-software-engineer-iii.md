@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Georgia, US |
-| Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Home-based-Georgia/Software-Engineer-III_R109447) |
+| Location | United Kingdom |
+| Category | Software Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Grosvernor-House/Software-Engineer-III_R116043-3) |
 
 ## About This Role
 
-This devops engineer position at ChoicePoint was posted on 2026-03-02.
+This software engineer position at ChoicePoint was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

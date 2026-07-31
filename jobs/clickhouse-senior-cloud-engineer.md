@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/5994726004) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/5994727004) |
 
 ## About This Role
 
-This devops engineer position at ClickHouse was posted on 2026-06-04.
+This devops engineer position at ClickHouse was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Recorded Future](https://scoutify.ai/companies/recorded-future?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8504900002) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/recordedfuture/jobs/8532304002) |
 
 ## About This Role
 
-This devops engineer position at Recorded Future was posted on 2026-05-22.
+This devops engineer position at Recorded Future was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

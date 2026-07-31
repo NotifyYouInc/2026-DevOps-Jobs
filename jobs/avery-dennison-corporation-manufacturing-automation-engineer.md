@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mentor, Ohio, United States |
-| Category | Industrial Automation |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000126166979-manufacturing-automation-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000139272925-manufacturing-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Avery Dennison Corporation was posted on 2026-05-12.
+This devops engineer position at Avery Dennison Corporation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

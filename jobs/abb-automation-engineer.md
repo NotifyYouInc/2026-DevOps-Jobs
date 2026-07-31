@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Coimbatore, Tamil Nadu, India |
+| Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Coimbatore-Tamil-Nadu-India/Automation-Engineer_JR00040845-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Kosice-Kosicky-kraj-Slovakia/Automation-Engineer_JR00041461-1) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-07-13.
+This devops engineer position at ABB was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662000/database-systems-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673967/database-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-05-06.
+This devops engineer position at Apple was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Senior-DevOps-Engineer_R-10398693) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Remote-Maryland/Senior-DevOps-Engineer_R-10398948) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-07-21.
+This devops engineer position at Fiserv was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

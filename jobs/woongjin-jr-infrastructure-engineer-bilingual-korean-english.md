@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Auburn Hills, Michigan, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000138409950-jr-infrastructure-engineer-bilingual-korean-english) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000139346119-jr-infrastructure-engineer-bilingual-korean-english) |
 
 ## About This Role
 
-This devops engineer position at Woongjin was posted on 2026-07-17.
+This devops engineer position at Woongjin was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000129922559-site-reliability-engineer-mfx) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000139243150-site-reliability-engineer-mfx) |
 
 ## About This Role
 
-This devops engineer position at Tipico was posted on 2026-06-03.
+This devops engineer position at Tipico was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

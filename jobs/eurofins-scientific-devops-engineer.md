@@ -1,16 +1,16 @@
-# Devops Engineer at Eurofins Scientific
+# DevOps Engineer at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000137178590-devops-engineer) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000139285399-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Eurofins Scientific was posted on 2026-07-10.
+This devops engineer position at Eurofins Scientific was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

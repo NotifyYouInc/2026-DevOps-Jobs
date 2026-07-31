@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Network-Engineer_R-00177814) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Senior-Network-Engineer_R-00187945-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-09.
+This devops engineer position at Leidos was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

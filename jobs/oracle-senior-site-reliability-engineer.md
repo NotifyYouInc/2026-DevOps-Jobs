@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://careers.oracle.com/jobs/#335814) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#340300) |
 
 ## About This Role
 
-This devops engineer position at Oracle was posted on 2026-06-07.
+This devops engineer position at Oracle was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ipsen](https://scoutify.ai/companies/ipsen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Industrial Automation |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Dublin/Automation-Engineer_R-20963) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ipsen.wd103.myworkdayjobs.com/ipsen_careers/job/Dublin/Automation-Engineer_R-21991) |
 
 ## About This Role
 
-This industrial automation position at Ipsen was posted on 2026-03-11.
+This devops engineer position at Ipsen was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CoreWeave](https://scoutify.ai/companies/coreweave?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://coreweave.com/careers/job?4556808006&board=coreweave&gh_jid=4556808006) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://coreweave.com/careers/job?4699370006&board=coreweave&gh_jid=4699370006) |
 
 ## About This Role
 
-This devops engineer position at CoreWeave was posted on 2026-02-24.
+This devops engineer position at CoreWeave was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
