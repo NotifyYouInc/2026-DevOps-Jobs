@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiSource](https://scoutify.ai/companies/nisource?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Merrillville, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Principal-Cloud-Engineer_R00942340-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Columbus-OH---Arena-District/Principal-Cloud-Engineer_R00943277) |
 
 ## About This Role
 
-This devops engineer position at NiSource was posted on 2026-04-01.
+This devops engineer position at NiSource was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

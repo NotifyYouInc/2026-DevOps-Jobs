@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Technical Support Engineer |
 | Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Manila/Application-Support-Engineer_ATCP-1395385-S425893) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5346363-S2060224-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | SOC & Incident Response |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Remote/Incident-Response-Engineer-Facility-Operations-Center_JR2019259) |
+| Location | Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Australia-Remote/Incident-Response-Engineer-Facility-Operations-Center_JR2020253-1) |
 
 ## About This Role
 
-This soc & incident response position at Nvidia was posted on 2026-06-11.
+This devops engineer position at Nvidia was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Iaşi, Iași County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000138888058-internship-for-devops-advanced-systems-automation-engineer-iasi-mfd) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000139596494-internship-for-devops-advanced-systems-automation-engineer-iasi-mfd) |
 
 ## About This Role
 
-This devops engineer position at Aumovio was posted on 2026-07-21.
+This devops engineer position at Aumovio was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

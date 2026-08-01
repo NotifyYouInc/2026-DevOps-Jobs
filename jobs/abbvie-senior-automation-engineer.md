@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Chicago, Illinois, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011925266-senior-automation-engineer) |
+| Location | Tempe, Arizona, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014279946-senior-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-03-02.
+This devops engineer position at AbbVie was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

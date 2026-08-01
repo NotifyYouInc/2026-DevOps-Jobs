@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Diego, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Electronics-Engineer--Principal-Electronics-Engineer---Dev-Ops_R10240749) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Electronics-Engineer--Principal-Electronics-Engineer---Dev-Ops_R10242117) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Northrop Grumman was posted on 2026-07-16.
+This electrical / hardware engineer position at Northrop Grumman was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

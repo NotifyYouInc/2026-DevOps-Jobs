@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Take Two](https://scoutify.ai/companies/taketwo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/8072580) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/taketwo/jobs/8075054) |
 
 ## About This Role
 
-This devops engineer position at Take Two was posted on 2026-07-20.
+This devops engineer position at Take Two was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

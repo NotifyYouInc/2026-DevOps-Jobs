@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Jamshoro, Sindh, Pakistan |
-| Category | Industrial Automation |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Pakistan---Sindh---Jamshoro/Automation-Engineer_544867) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | DevOps Engineer |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Malaysia---Kuala-Lumpur/Automation-Engineer_546458-1) |
 
 ## About This Role
 
-This industrial automation position at Haleon was posted on 2026-06-11.
+This devops engineer position at Haleon was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

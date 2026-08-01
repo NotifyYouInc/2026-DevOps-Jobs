@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2025-12-16 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636738/site-reliability-engineer-aidp-production-engineering) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673805/site-reliability-engineer-aidp-production-engineering) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2025-12-16.
+This devops engineer position at Apple was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syniverse Technologies](https://scoutify.ai/companies/syniverse-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Costa Rica |
 | Category | DevOps Engineer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/Costa-Rica-San-Jose/Lead-Systems-Engineer_R0007298) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://syniverse.wd1.myworkdayjobs.com/syniversecareers/job/Costa-Rica-San-Jose/Lead-Systems-Engineer_R0007415) |
 
 ## About This Role
 
-This devops engineer position at Syniverse Technologies was posted on 2026-03-06.
+This devops engineer position at Syniverse Technologies was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

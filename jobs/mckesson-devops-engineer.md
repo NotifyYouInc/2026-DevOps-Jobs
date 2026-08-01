@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Atlanta-GA-USA---2-National-Data-Plaza-NE-8821/DevOps-Engineer_JR0150287) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/DevOps-Engineer_JR0151118) |
 
 ## About This Role
 
-This devops engineer position at McKesson was posted on 2026-07-08.
+This devops engineer position at McKesson was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

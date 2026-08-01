@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Symphony Communication Services](https://scoutify.ai/companies/symphony-communication-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://symphony.com/company/apply?gh_jid=7920638) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://symphony.com/company/apply?gh_jid=8015641) |
 
 ## About This Role
 
-This devops engineer position at Symphony Communication Services was posted on 2026-05-14.
+This devops engineer position at Symphony Communication Services was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

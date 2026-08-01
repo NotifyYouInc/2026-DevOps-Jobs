@@ -5,12 +5,12 @@
 | Company | [Ingram Barge Company](https://scoutify.ai/companies/ingrambargecompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramBargeCompany/744000138737889-devops-engineer) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramBargeCompany/744000139664012-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Ingram Barge Company was posted on 2026-07-20.
+This devops engineer position at Ingram Barge Company was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
