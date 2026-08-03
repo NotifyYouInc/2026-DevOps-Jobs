@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138782319-ingenieur-observabilite-sre-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000139931276-ingenieur-observabilite-sre-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-07-21.
+This devops engineer position at Devoteam was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

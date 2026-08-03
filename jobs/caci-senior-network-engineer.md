@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Senior-Network-Engineer_322690) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stuttgart-Germany/Senior-Network-Engineer_327822) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-03-02.
+This devops engineer position at CACI was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

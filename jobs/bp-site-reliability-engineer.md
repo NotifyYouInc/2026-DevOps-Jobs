@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Hungary---Budapest/Site-Reliability-Engineer_RQ110420-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Site-Reliability-Engineer_RQ113845) |
 
 ## About This Role
 
-This devops engineer position at BP was posted on 2026-06-22.
+This devops engineer position at BP was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

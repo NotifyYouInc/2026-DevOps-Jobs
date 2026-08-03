@@ -5,12 +5,12 @@
 | Company | [Dijital Team](https://scoutify.ai/companies/dijital-team?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/d9e97f94-65cb-4819-9062-afd5399b1ea2) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/46c41025-a0f0-4001-9f9c-dd4348af3416) |
 
 ## About This Role
 
-This devops engineer position at Dijital Team was posted on 2026-02-11.
+This devops engineer position at Dijital Team was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

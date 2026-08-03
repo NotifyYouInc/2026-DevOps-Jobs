@@ -1,16 +1,16 @@
-# Senior Devops Engineer at JLL
+# Senior DevOps Engineer at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Devops-Engineer_REQ493707) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-DevOps-Engineer_REQ523987) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-03-20.
+This devops engineer position at JLL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

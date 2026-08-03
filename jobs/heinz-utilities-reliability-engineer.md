@@ -1,0 +1,22 @@
+# Utilities & Reliability Engineer at Heinz
+
+| Field | Details |
+|-------|---------|
+| Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Egypt |
+| Category | DevOps Engineer |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/6-October-Factory/Utilities---Reliability-Engineer_R-105085) |
+
+## About This Role
+
+This devops engineer position at Heinz was posted on 2026-07-26.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

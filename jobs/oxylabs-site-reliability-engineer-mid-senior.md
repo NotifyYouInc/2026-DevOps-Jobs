@@ -5,12 +5,12 @@
 | Company | [Oxylabs](https://scoutify.ai/companies/oxylabs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.lever.co/oxylabs/84ea6cc4-2dae-465b-a803-55be0d129cc9) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.lever.co/oxylabs/404264b9-7b37-464d-9704-166185486bbe) |
 
 ## About This Role
 
-This devops engineer position at Oxylabs was posted on 2026-05-20.
+This devops engineer position at Oxylabs was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

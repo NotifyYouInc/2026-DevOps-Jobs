@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Senior-Site-Reliability-Engineer_2018630-1) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer_2015509-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-07-14.
+This devops engineer position at Cisco was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
