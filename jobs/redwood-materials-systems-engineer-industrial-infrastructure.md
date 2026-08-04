@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redwood Materials](https://scoutify.ai/companies/redwood-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nevada, US |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/6103562004?gh_jid=6103562004) |
 
 ## About This Role
 
-This devops engineer position at Redwood Materials was posted on 2026-07-25.
+This industrial automation position at Redwood Materials was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Missouri, US |
+| Location | Kansas City, Missouri, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4852103101) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4929266101) |
 
 ## About This Role
 
-This it & systems administration position at Nebius was posted on 2026-05-29.
+This it & systems administration position at Nebius was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

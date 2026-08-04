@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Zapopan, Jalisco, Mexico |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zapopan-Jalisco/Infrastructure-Engineer_R246129) |
 
 ## About This Role
 
-This devops engineer position at Arrow Electronics was posted on 2026-07-25.
+This it & systems administration position at Arrow Electronics was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

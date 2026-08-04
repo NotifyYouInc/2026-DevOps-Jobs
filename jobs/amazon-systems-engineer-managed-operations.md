@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438710/systems-engineer-managed-operations) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485761/systems-engineer-managed-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-03.
+This devops engineer position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
+| Location | Jonesboro, Arkansas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Burton-Factory/Reliability-Engineer_R-1182169) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Jonesboro-AR/Reliability-Engineer_R-1185832-1) |
 
 ## About This Role
 
-This industrial automation position at Unilever was posted on 2026-05-24.
+This industrial automation position at Unilever was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

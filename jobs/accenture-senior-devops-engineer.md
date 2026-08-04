@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cyberjaya-Century-Square/Senior-DevOps-Engineer_R00346491-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kuala-Lumpur-Vertical-Corp-Tower-B/Senior-DevOps-Engineer_14590983) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-23.
+This devops engineer position at Accenture was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

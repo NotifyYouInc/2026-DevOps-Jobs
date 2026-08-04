@@ -1,16 +1,16 @@
-# Principal Engineer - DevOps at Verizon
+# Principal Engineer-DevOps at Verizon
 
 | Field | Details |
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Principal-Engineer---DevOps_R-1093984) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Bangalore-India/Principal-Engineer-DevOps_R-1098690) |
 
 ## About This Role
 
-This devops engineer position at Verizon was posted on 2026-05-06.
+This devops engineer position at Verizon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

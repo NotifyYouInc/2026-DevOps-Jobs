@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ResMed](https://scoutify.ai/companies/resmed?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://resmed.wd3.myworkdayjobs.com/resmed_external_careers/job/Singapore-Singapore/Lead-Automation-Engineer---Supply-Chain_JR_052821) |
 
 ## About This Role
 
-This devops engineer position at ResMed was posted on 2026-07-25.
+This industrial automation position at ResMed was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

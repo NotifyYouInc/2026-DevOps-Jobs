@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Latitude AI](https://scoutify.ai/companies/latitude-ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/latitude/jobs/8074450) |
 
 ## About This Role
 
-This devops engineer position at Latitude AI was posted on 2026-07-24.
+This it & systems administration position at Latitude AI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

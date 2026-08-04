@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Herndon, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10455491/sr-infrastructure-reliability-engineer-infrastructure-reliability-quality) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485461/sr-infrastructure-reliability-engineer-infrastructure-reliability-quality) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-22.
+This electrical / hardware engineer position at Amazon was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

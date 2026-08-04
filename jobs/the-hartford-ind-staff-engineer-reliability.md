@@ -1,16 +1,16 @@
-# IND - Staff Engineer, Reliability at The Hartford
+# IND Staff Engineer, Reliability at The Hartford
 
 | Field | Details |
 |-------|---------|
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Staff-Engineer--Reliability_R2624792) |
+| Location | Hyderabad, Telangana, India |
+| Category | Machine Learning Engineer |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Staff-Engineer--Reliability_R2626209) |
 
 ## About This Role
 
-This devops engineer position at The Hartford was posted on 2026-04-26.
+This machine learning engineer position at The Hartford was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

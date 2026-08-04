@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cyprus |
+| Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000136223299-devops-engineersre-cloud-iaas) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000139991074-devops-engineersre-cloud-iaas) |
 
 ## About This Role
 
-This devops engineer position at Gcore was posted on 2026-07-07.
+This devops engineer position at Gcore was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

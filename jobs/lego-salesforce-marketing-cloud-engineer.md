@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United Kingdom |
-| Category | DevOps Engineer |
+| Category | Marketing Operations |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/London-Hub/SalesForce-Marketing-Cloud-Engineer_0000036804) |
 
 ## About This Role
 
-This devops engineer position at LEGO was posted on 2026-07-24.
+This marketing operations position at LEGO was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

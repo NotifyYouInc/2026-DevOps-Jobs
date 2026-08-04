@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simtra BioPharma Solutions](https://scoutify.ai/companies/simtra-biopharma-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bloomington, Minnesota, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/simtrabps/jobs/5187863007) |
 
 ## About This Role
 
-This devops engineer position at Simtra BioPharma Solutions was posted on 2026-07-24.
+This industrial automation position at Simtra BioPharma Solutions was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

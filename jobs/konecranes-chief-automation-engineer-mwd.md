@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000139960065-chief-automation-engineer-mwd) |
 
 ## About This Role
 
-This devops engineer position at Konecranes was posted on 2026-07-27.
+This industrial automation position at Konecranes was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

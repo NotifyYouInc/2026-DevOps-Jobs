@@ -1,16 +1,16 @@
-# Senior Software Engineer – DevOps at Danaher
+# Senior Software Engineer (DevOps) at Danaher
 
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer---DevOps_R1312345) |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer--DevOps-_R1315119) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-06-03.
+This software engineer position at Danaher was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

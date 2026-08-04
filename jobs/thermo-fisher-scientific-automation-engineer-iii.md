@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
-| Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Vilnius-Lithuania/Automation-Engineer-III_R-01358570) |
+| Location | Plainville, Connecticut, United States |
+| Category | Industrial Automation |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Plainville-Massachusetts-USA/Automation-Engineer-III_R-01362726) |
 
 ## About This Role
 
-This devops engineer position at Thermo Fisher Scientific was posted on 2026-07-16.
+This industrial automation position at Thermo Fisher Scientific was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

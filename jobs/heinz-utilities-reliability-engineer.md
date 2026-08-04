@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Egypt |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/6-October-Factory/Utilities---Reliability-Engineer_R-105085) |
 
 ## About This Role
 
-This devops engineer position at Heinz was posted on 2026-07-26.
+This industrial automation position at Heinz was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

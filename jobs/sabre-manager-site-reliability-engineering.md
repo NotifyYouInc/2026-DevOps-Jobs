@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Manager-Site-Reliability-Engineering_JR107468-1) |
+| Location | Kraków, Lesser Poland, Poland |
+| Category | DevOps Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Manager-Site-Reliability-Engineering_JR108278-1) |
 
 ## About This Role
 
-This engineering manager position at Sabre was posted on 2026-03-18.
+This devops engineer position at Sabre was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

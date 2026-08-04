@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Istanbul, Istanbul, Turkey |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/DevOps-Engineer_REQ-10118487) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/DevOps-Engineer_REQ-10118510) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-07-24.
+This devops engineer position at ING was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

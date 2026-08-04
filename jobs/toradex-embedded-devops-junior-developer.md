@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toradex](https://scoutify.ai/companies/toradex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Horw, Lucerne, Switzerland |
-| Category | DevOps Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/toradex/jobs/7809350003) |
 
 ## About This Role
 
-This devops engineer position at Toradex was posted on 2026-07-27.
+This embedded / firmware engineer position at Toradex was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

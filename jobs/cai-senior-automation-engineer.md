@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Senior-Automation-Engineer_R8163) |
 
 ## About This Role
 
-This devops engineer position at CAI was posted on 2026-07-24.
+This qa engineer position at CAI was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

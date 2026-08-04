@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Waco, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014272566-automation-engineer-iv) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-07-24.
+This industrial automation position at AbbVie was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

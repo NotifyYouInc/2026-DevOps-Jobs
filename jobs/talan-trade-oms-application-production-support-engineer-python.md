@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000136565639-trade-oms-application-production-support-engineer-python) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140038435-trade-oms-application-production-support-engineer-python) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-07-08.
+This devops engineer position at Talan was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

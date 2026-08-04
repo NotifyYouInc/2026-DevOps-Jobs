@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/IT-Networking-and-Infrastructure-Engineer---12-month-FTC_R0130818) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-07-24.
+This it & systems administration position at Hitachi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

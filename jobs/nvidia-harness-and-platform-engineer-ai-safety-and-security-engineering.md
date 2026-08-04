@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Trust & Safety |
+| Category | Software Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Harness-and-Platform-Engineer--AI-Safety-and-Security-Engineering_JR2021886) |
 
 ## About This Role
 
-This trust & safety position at Nvidia was posted on 2026-07-27.
+This software engineer position at Nvidia was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

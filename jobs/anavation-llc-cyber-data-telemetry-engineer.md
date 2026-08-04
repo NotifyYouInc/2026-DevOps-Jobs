@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AnaVation LLC](https://scoutify.ai/companies/anavationllc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.lever.co/anavationllc/aca55203-4bb2-4aa0-9031-b9c55633650c) |
 
 ## About This Role
 
-This devops engineer position at AnaVation LLC was posted on 2026-07-24.
+This data engineer position at AnaVation LLC was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

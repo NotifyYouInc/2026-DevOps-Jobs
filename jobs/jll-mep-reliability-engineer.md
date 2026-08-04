@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/St-Louis-MO/MEP-Reliability-Engineer_REQ524622) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-07-25.
+This industrial automation position at JLL was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

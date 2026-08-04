@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ashburn, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Operations---Maintenance-Cloud-Engineer_R-00188007) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Operations---Maintenance-Cloud-Engineer_R-00188054) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-23.
+This devops engineer position at Leidos was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

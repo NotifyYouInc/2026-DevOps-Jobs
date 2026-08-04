@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FirstEnergy](https://scoutify.ai/companies/ocs-cx-oj39340?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Erie, Pennsylvania, United States |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#104851) |
 
 ## About This Role
 
-This devops engineer position at FirstEnergy was posted on 2026-07-27.
+This electrical / hardware engineer position at FirstEnergy was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

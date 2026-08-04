@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Silfab Solar](https://scoutify.ai/companies/silfab-solar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Mill, South Carolina, United States |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/silfabsolar/744000139663779-product-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Silfab Solar was posted on 2026-07-24.
+This electrical / hardware engineer position at Silfab Solar was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

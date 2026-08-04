@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Terrassa, Catalonia, Spain |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000139924639-automation-engineer-hmi) |
 
 ## About This Role
 
-This devops engineer position at Syntegon Technology was posted on 2026-07-27.
+This industrial automation position at Syntegon Technology was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

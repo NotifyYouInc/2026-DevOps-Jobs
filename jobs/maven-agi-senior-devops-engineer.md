@@ -5,12 +5,12 @@
 | Company | [Maven Agi](https://scoutify.ai/companies/maven-agi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/maven-agi/e7a1dcbe-9324-4c68-94f3-140c6b16a666) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/maven-agi/e5986fa0-38b7-448f-8df1-6c42b0e7b9a7) |
 
 ## About This Role
 
-This devops engineer position at Maven Agi was posted on 2026-04-16.
+This devops engineer position at Maven Agi was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

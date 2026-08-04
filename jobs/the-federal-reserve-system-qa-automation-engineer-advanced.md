@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Federal Reserve System](https://scoutify.ai/companies/rb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/QA-Automation-Engineer-Advanced_R-0000032836-1) |
 
 ## About This Role
 
-This devops engineer position at The Federal Reserve System was posted on 2026-07-25.
+This qa engineer position at The Federal Reserve System was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

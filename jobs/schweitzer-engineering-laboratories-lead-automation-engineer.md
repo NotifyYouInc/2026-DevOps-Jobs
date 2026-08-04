@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Moscow, Idaho, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Moscow/Lead-Automation-Engineer_2026-21809) |
 
 ## About This Role
 
-This devops engineer position at Schweitzer Engineering Laboratories was posted on 2026-07-25.
+This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

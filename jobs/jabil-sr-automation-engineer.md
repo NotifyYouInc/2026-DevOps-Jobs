@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | India |
 | Category | Industrial Automation |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Sr-Automation-Engineer_J2449823) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Ranjangaon/Sr-Automation-Engineer_J2458667) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-14.
+This industrial automation position at Jabil was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

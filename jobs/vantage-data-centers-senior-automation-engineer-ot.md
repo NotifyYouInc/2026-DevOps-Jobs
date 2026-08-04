@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Phoenix-Arizona/Senior-Automation-Engineer-OT_R23995) |
 
 ## About This Role
 
-This devops engineer position at Vantage Data Centers was posted on 2026-07-24.
+This industrial automation position at Vantage Data Centers was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

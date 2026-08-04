@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sterling, Virginia, United States |
+| Location | Manassas, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/STERLING-VA/Senior-Infrastructure-Engineer---Data-Center_R-560387-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MANASSAS-VA/Senior-Infrastructure-Engineer---Data-Center_R-560724) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-07-20.
+This devops engineer position at Wells Fargo was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

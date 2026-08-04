@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Limerick/Product-Security-Incident-Response-Engineer_R263880-1) |
 
 ## About This Role
 
-This devops engineer position at Analog Devices was posted on 2026-07-24.
+This soc & incident response position at Analog Devices was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualdoc](https://scoutify.ai/companies/qualdoc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ashland, California, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://jobs.lever.co/qualdoc/1a668923-506e-4091-9672-0ff5b875a091) |
 
 ## About This Role
 
-This devops engineer position at Qualdoc was posted on 2026-07-26.
+This industrial automation position at Qualdoc was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

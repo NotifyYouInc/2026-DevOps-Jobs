@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Release-Engineer-Bumper--Grille--Fascia--Trim_JR-202614092) |
 
 ## About This Role
 
-This devops engineer position at General Motors was posted on 2026-07-24.
+This electrical / hardware engineer position at General Motors was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

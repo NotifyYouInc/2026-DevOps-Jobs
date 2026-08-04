@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloom Energy](https://scoutify.ai/companies/bloomenergy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fremont, California, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/Fremont-California/Automation-Engineer_JR-23377) |
 
 ## About This Role
 
-This devops engineer position at Bloom Energy was posted on 2026-07-25.
+This industrial automation position at Bloom Energy was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

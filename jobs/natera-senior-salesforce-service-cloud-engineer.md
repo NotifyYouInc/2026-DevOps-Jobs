@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Natera](https://scoutify.ai/companies/natera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/natera/jobs/6123519004) |
 
 ## About This Role
 
-This devops engineer position at Natera was posted on 2026-07-24.
+This software engineer position at Natera was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

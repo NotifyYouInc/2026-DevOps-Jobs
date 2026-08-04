@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LVT](https://scoutify.ai/companies/lvt?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | American Fork, Utah, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5290636008) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5371739008) |
 
 ## About This Role
 
-This devops engineer position at LVT was posted on 2026-07-02.
+This devops engineer position at LVT was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

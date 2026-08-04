@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Niort, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000137082406-ingenieur-devops-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140020290-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-07-10.
+This devops engineer position at Inetum was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

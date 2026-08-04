@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139308959-senior-devops-engineer-storage-remote-in-the-us) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139664499-senior-devops-engineer-storage-remote-in-the-us) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-23.
+This devops engineer position at Mirantis was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

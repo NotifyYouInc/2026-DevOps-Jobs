@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Sunnyvale, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fcke9p3d2pmqLQ-39Ks7aDOVIEjywXLTb7NkDsQCjV68uwEjsA1Ny_i5Rsi-aIuzf-vbwKOjdlKSf3eOPQ9HsjDThqt6_P7RESjGB-OoLuwE6WWnGi4VDqNV9joJ6k7A%3D%3D_V2&loc=IN&title=Systems+Development+Engineer) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckdxp-rVWVUg6FtiD3L9XkgjIkuGJviw3ooxp0Mycqn8UEjsA1Ny_i8hO_NDN4ykanX9VsCU8ctYYlYDaDBdoDOQfWobCevXZggdhNjb8SXXIL7nn9pZP8vGcFv2LqA%3D%3D_V2&loc=US&title=Systems+Development+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-20.
+This software engineer position at Google was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

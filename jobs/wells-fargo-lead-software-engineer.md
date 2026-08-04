@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Concord, California, United States |
 | Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Software-Engineer_R-560625) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CONCORD-CA/Lead-Software-Engineer_R-563222) |
 
 ## About This Role
 
-This software engineer position at Wells Fargo was posted on 2026-07-17.
+This software engineer position at Wells Fargo was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

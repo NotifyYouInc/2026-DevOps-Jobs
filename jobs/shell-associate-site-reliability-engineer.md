@@ -5,12 +5,12 @@
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Site-Reliability-Engineer_R205058-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Bangalore-RMZ-ECO-WORLD/Associate-Site-Reliability-Engineer_R206510-1) |
 
 ## About This Role
 
-This devops engineer position at Shell was posted on 2026-07-03.
+This devops engineer position at Shell was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
