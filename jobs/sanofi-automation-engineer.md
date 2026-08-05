@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Le Trait, Normandy, France |
-| Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Le-Trait/Automation-Engineer_R2863959-1) |
+| Location | Cuautitlán Izcalli, México, Mexico |
+| Category | Industrial Automation |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cuautitlan-Izcalli/Automation-Engineer_R2865549) |
 
 ## About This Role
 
-This devops engineer position at Sanofi was posted on 2026-07-15.
+This industrial automation position at Sanofi was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

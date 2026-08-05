@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Software Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000137399000-cloud-engineering-lead) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000140219357-cloud-engineering-lead) |
 
 ## About This Role
 
-This software engineer position at Fastmarkets was posted on 2026-07-13.
+This software engineer position at Fastmarkets was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

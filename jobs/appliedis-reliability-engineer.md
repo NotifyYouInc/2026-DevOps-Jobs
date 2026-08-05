@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Reliability-Engineer_JR2026001277-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Reliability-Engineer_JR2026001305-1) |
 
 ## About This Role
 
-This devops engineer position at Appliedis was posted on 2026-06-25.
+This devops engineer position at Appliedis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

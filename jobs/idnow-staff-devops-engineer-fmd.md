@@ -5,12 +5,12 @@
 | Company | [IDnow](https://scoutify.ai/companies/idnow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/idnow/jobs/4881376101) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/idnow/jobs/4939786101) |
 
 ## About This Role
 
-This devops engineer position at IDnow was posted on 2026-06-03.
+This devops engineer position at IDnow was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

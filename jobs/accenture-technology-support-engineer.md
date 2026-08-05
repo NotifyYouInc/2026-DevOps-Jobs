@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kolkata, West Bengal, India |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Technology-Support-Engineer_ATCI-5680057-S2059783-1) |
+| Location | Gurugram, Haryana, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5694006-S2060933-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-07-23.
+This devops engineer position at Accenture was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

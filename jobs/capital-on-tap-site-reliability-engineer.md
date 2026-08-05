@@ -5,12 +5,12 @@
 | Company | [Capital on Tap](https://scoutify.ai/companies/capital-on-tap?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capitalontap/jobs/8603757002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capitalontap/jobs/8653208002) |
 
 ## About This Role
 
-This devops engineer position at Capital on Tap was posted on 2026-06-23.
+This devops engineer position at Capital on Tap was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

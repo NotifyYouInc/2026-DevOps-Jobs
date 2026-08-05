@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Galway, Connacht, Ireland |
-| Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Software-Cloud-Engineer---PCS---IoT_R61212-1) |
+| Category | Software Engineer |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Software-Cloud-Engineer---PCS---IoT_R61384-1) |
 
 ## About This Role
 
-This devops engineer position at Medtronic was posted on 2026-03-12.
+This software engineer position at Medtronic was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

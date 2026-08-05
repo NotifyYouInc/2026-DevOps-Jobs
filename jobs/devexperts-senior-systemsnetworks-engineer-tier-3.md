@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devexperts](https://scoutify.ai/companies/devexperts?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Porto, Porto, Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000138594018-senior-systemsnetworks-engineer-tier-3) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000140206278-senior-systemsnetworks-engineer-tier-3) |
 
 ## About This Role
 
-This devops engineer position at Devexperts was posted on 2026-07-20.
+This it & systems administration position at Devexperts was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

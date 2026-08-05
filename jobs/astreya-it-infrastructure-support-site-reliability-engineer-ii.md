@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Atlanta-GA/IT-Infrastructure-Support-Site-Reliability-Engineer-II_R0014666) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Ireland/IT-Infrastructure-Support-Site-Reliability-Engineer-II_R0016399) |
 
 ## About This Role
 
-This devops engineer position at Astreya was posted on 2026-03-02.
+This devops engineer position at Astreya was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

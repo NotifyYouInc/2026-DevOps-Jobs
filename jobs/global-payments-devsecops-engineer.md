@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Columbus, Ohio, United States |
-| Category | Security Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/DevSecOps-Engineer_R0070445) |
+| Location | Alpharetta, Georgia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/DevSecOps-Engineer_R0072653) |
 
 ## About This Role
 
-This security engineer position at Global Payments was posted on 2026-03-20.
+This devops engineer position at Global Payments was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Columbia Sportswear](https://scoutify.ai/companies/columbia-sportswear?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Sr-Infrastructure-Engineer--Compute---Storage-_R-018756-1) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://columbiasportswearcompany.wd5.myworkdayjobs.com/columbia_career_site/job/Bangalore-Karnataka-India/Sr-Infrastructure-Engineer--Compute---Storage-_R-018745) |
 
 ## About This Role
 
-This devops engineer position at Columbia Sportswear was posted on 2026-06-01.
+This devops engineer position at Columbia Sportswear was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

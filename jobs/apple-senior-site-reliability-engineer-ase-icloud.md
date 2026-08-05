@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200655692/senior-site-reliability-engineer-ase-icloud) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674481/senior-site-reliability-engineer-ase-icloud) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-04-06.
+This devops engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

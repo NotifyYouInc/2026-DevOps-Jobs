@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139218187-hpc-network-engineer) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140208614-hpc-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-23.
+This devops engineer position at Mirantis was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

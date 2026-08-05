@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Da Nang, Da Nang City, Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000107218560-senior-devops-engineer-aws-based-in-da-nang) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140403884-senior-devops-engineer-aws-based-in-da-nang) |
 
 ## About This Role
 
-This devops engineer position at KMS Technology was posted on 2026-02-04.
+This devops engineer position at KMS Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

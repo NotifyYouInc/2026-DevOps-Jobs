@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DriveCam](https://scoutify.ai/companies/drivecam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | QA Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://lytx.wd1.myworkdayjobs.com/lytx/job/Office---Bangalore-India/Device-Automation-Engineer-III_R-4244-1) |
 
 ## About This Role
 
-This qa engineer position at DriveCam was posted on 2026-07-27.
+This industrial automation position at DriveCam was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

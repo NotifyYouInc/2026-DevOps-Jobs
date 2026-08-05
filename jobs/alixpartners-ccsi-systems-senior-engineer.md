@@ -5,12 +5,12 @@
 | Company | [AlixPartners](https://scoutify.ai/companies/alixpartners?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 5 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.alixpartners.com/careers/7738005003?gh_jid=7738005003) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://www.alixpartners.com/careers/7819205003?gh_jid=7819205003) |
 
 ## About This Role
 
-This devops engineer position at AlixPartners was posted on 2026-05-22.
+This devops engineer position at AlixPartners was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brasília, Federal District, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000139622089-senior-azure-site-reliability-engineer-cloud-platform) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000140011992-senior-azure-site-reliability-engineer-cloud-platform) |
 
 ## About This Role
 
-This devops engineer position at Applaudo Studios was posted on 2026-07-24.
+This devops engineer position at Applaudo Studios was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

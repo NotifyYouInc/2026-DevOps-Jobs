@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Jalisco, Chiapas, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Site-Reliability-Engineer-2_REQ514584) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/JaliscoMEX/Site-Reliability-Engineer-2_REQ522800) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-06-16.
+This devops engineer position at JLL was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

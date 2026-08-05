@@ -1,16 +1,16 @@
-# DevOps Engineer – Any database stack | AWS | Terraform | Ansible | Jenkins (Mandate Skils) (4–7 Years) at Cisco
+# DevOps Engineer – Any database stack | AWS | Terraform | Ansible | Jenkins (Mandate Skils) (4–8 Years) at Cisco
 
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/DevOps-Engineer---Any-database-stack---AWS---Terraform---Ansible---Jenkins--Mandate-Skils---4-7-Years-_2012961) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/DevOps-Engineer---Any-database-stack---AWS---Terraform---Ansible---Jenkins--Mandate-Skils---4-8-Years-_2020469) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-04-28.
+This devops engineer position at Cisco was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

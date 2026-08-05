@@ -5,12 +5,12 @@
 | Company | [Oddball](https://scoutify.ai/companies/oddball?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7810449003) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oddball/jobs/7819473003) |
 
 ## About This Role
 
-This devops engineer position at Oddball was posted on 2026-07-20.
+This devops engineer position at Oddball was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

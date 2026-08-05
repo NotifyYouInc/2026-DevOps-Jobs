@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667963/site-reliability-engineer-sre-london) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674323/site-reliability-engineer-sre-london) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-06-18.
+This devops engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

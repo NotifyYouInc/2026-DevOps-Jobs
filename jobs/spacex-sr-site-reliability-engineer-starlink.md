@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hawthorne, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8459936002?gh_jid=8459936002) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8639503002?gh_jid=8639503002) |
 
 ## About This Role
 
-This devops engineer position at SpaceX was posted on 2026-03-12.
+This devops engineer position at SpaceX was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 
