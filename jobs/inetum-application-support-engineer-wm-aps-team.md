@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000128691059-application-support-engineer-wm-aps-team) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140470849-application-support-engineer-wm-aps-team) |
 
 ## About This Role
 
-This technical support engineer position at Inetum was posted on 2026-05-27.
+This devops engineer position at Inetum was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

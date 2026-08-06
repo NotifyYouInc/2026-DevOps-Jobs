@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8082028?gh_jid=8082028) |
 
 ## About This Role
 
-This data engineer position at Okta was posted on 2026-07-28.
+This devops engineer position at Okta was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

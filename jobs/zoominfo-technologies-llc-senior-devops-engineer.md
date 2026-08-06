@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at ZoomInfo Technologies LLC
+# Senior DevOps Engineer  at ZoomInfo Technologies LLC
 
 | Field | Details |
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8584560002) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8654287002) |
 
 ## About This Role
 
-This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-06-15.
+This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

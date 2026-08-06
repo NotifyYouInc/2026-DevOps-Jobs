@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Platform-Integration-Engineer_JR105883) |
 
 ## About This Role
 
-This software engineer position at Micron was posted on 2026-07-28.
+This devops engineer position at Micron was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

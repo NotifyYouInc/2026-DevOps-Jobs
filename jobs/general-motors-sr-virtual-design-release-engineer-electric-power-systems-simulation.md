@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Virtual-Design-Release-Engineer---Electric-Power-Systems-Simulation_JR-202611478) |
 
 ## About This Role
 
-This electrical / hardware engineer position at General Motors was posted on 2026-07-28.
+This devops engineer position at General Motors was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

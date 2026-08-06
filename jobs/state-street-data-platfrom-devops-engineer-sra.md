@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hangzhou, Zhejiang, China |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Data-Platfrom-Dev-Ops-Engineer--SRA_R-795127) |
 
 ## About This Role
 
-This data engineer position at State Street was posted on 2026-07-29.
+This devops engineer position at State Street was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

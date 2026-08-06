@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Quality-Automation-Engineer-III_R261208) |
+| Location | San Antonio, Texas, United States |
+| Category | Industrial Automation |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/Quality-Automation-Engineer-III_R261323) |
 
 ## About This Role
 
-This devops engineer position at Frostbank was posted on 2026-07-14.
+This industrial automation position at Frostbank was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

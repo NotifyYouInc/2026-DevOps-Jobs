@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/CloudOps-Analyst---Cloud-Engineering_51584357) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHL---RM---SANTIAGO/CloudOps-Analyst---Cloud-Engineering_51585975) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-07-02.
+This devops engineer position at DXC Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

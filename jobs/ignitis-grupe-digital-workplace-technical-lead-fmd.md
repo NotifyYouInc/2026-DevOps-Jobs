@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140308899-digital-workplace-technical-lead-fmd) |
 
 ## About This Role
 
-This software engineer position at Ignitis Grupe was posted on 2026-07-28.
+This devops engineer position at Ignitis Grupe was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

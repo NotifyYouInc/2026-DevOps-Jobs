@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Waterloo, Ontario, Canada |
+| Location | Waterloo, Iowa, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUqZG1k9dRvSxPCrEHG4xVvm1EYwFfg9z3FU0BNRJkWZEjsA1Ny_i0nfTiiK0P706Vu_eUkSdvCjJL7hsc2KMSzuYA3Tu73x5o87y924JeFkVEhNRIO7quif2QZ40w%3D%3D_V2&loc=CA&title=Staff+Site+Reliability+Developer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckZ5V59VzrT59NOSCuScLvjZW2ltRp80nZvrQhxBwbufCEjsA1Ny_i6n0TFI89SeQoCIqbp4yvqOrRD5heI_VFC2tLSkOjINDMPAe4k3P0DZd3w69XBuqqHc0RFDYRQ%3D%3D_V2&loc=CA&title=Staff+Site+Reliability+Developer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-06-22.
+This devops engineer position at Google was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

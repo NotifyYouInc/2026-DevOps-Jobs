@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arcesium](https://scoutify.ai/companies/arcesiumllc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/arcesiumllc/jobs/5194791007) |
 
 ## About This Role
 
-This software engineer position at Arcesium was posted on 2026-07-28.
+This devops engineer position at Arcesium was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

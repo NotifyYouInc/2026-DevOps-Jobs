@@ -5,12 +5,12 @@
 | Company | [Enviva](https://scoutify.ai/companies/enviva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alabama, US |
 | Category | Industrial Automation |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7735925003) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/enviva/jobs/7821090003) |
 
 ## About This Role
 
-This industrial automation position at Enviva was posted on 2026-05-16.
+This industrial automation position at Enviva was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Whippany, New Jersey, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Sr-AWS-Cloud-Engineer_JR-0000104119) |
 
 ## About This Role
 
-This software engineer position at Barclays was posted on 2026-07-28.
+This devops engineer position at Barclays was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

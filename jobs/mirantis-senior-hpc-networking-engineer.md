@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000139158529-senior-hpc-networking-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140534519-senior-hpc-networking-engineer) |
 
 ## About This Role
 
-This software engineer position at Mirantis was posted on 2026-07-22.
+This devops engineer position at Mirantis was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

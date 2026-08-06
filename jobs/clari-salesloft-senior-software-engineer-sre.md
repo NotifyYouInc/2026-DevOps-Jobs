@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Clari + Salesloft](https://scoutify.ai/companies/clari-salesloft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://www.salesloft.com/company/careers?gh_jid=8070506) |
 
 ## About This Role
 
-This software engineer position at Clari + Salesloft was posted on 2026-07-28.
+This devops engineer position at Clari + Salesloft was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

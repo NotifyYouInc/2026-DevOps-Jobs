@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Karnataka, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/London-United-Kingdom/Senior-Infrastructure-Engineer_R-85828) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Karnataka-India/Senior-Infrastructure-Engineer_R-87209) |
 
 ## About This Role
 
-This devops engineer position at Nike was posted on 2026-07-07.
+This devops engineer position at Nike was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

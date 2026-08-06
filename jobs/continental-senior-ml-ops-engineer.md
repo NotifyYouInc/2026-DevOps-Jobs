@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portugal |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000140211899-senior-ml-ops-engineer) |
 
 ## About This Role
 
-This machine learning engineer position at Continental was posted on 2026-07-28.
+This devops engineer position at Continental was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

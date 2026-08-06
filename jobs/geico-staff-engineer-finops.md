@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Bethesda-MD/Staff-Engineer---FinOps_R0064258) |
 
 ## About This Role
 
-This software engineer position at Geico was posted on 2026-07-28.
+This devops engineer position at Geico was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

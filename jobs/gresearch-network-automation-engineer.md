@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gresearch](https://scoutify.ai/companies/gresearch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Network-Automation-Engineer_R3654) |
+| Category | Industrial Automation |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://gresearch.wd103.myworkdayjobs.com/g-research/job/London-UK/Network-Automation-Engineer_R3701) |
 
 ## About This Role
 
-This devops engineer position at Gresearch was posted on 2026-07-16.
+This industrial automation position at Gresearch was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

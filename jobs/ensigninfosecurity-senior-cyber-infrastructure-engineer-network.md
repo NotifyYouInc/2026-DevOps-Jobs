@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ensigninfosecurity](https://scoutify.ai/companies/ensigninfosecurity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Security Engineer |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Senior-Cyber-Infrastructure-Engineer--Network-_JOBREQ-0003421) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ensigninfosecurity.wd3.myworkdayjobs.com/ensign_careers/job/Singapore/Senior-Cyber-Infrastructure-Engineer--Network-_JOBREQ-0003567) |
 
 ## About This Role
 
-This security engineer position at Ensigninfosecurity was posted on 2026-04-09.
+This devops engineer position at Ensigninfosecurity was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

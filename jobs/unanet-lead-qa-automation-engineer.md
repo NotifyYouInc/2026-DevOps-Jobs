@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unanet](https://scoutify.ai/companies/unanet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | QA Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/unanet/jobs/7791515003) |
 
 ## About This Role
 
-This qa engineer position at Unanet was posted on 2026-07-28.
+This devops engineer position at Unanet was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

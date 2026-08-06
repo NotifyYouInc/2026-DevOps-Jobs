@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Laurel, Maryland, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6008671004) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6128343004) |
 
 ## About This Role
 
-This devops engineer position at Two Six Technologies was posted on 2026-06-01.
+This devops engineer position at Two Six Technologies was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

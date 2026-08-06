@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Onebrief](https://scoutify.ai/companies/onebrief?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/onebrief/8c804af9-d3c8-48bd-bef0-c21cd6052f0e) |
 
 ## About This Role
 
-This software engineer position at Onebrief was posted on 2026-07-28.
+This devops engineer position at Onebrief was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

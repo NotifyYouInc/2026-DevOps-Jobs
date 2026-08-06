@@ -5,12 +5,12 @@
 | Company | [SHI International](https://scoutify.ai/companies/shi-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/DevOps-Engineer_JR3061) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/DevOps-Engineer_JR3470) |
 
 ## About This Role
 
-This devops engineer position at SHI International was posted on 2026-05-11.
+This devops engineer position at SHI International was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

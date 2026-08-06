@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Senior-Database-Hybrid-Infrastructure-Engineer_42328) |
 
 ## About This Role
 
-This database administration position at Guidehouse was posted on 2026-07-28.
+This devops engineer position at Guidehouse was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

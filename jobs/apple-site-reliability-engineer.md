@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200673059/site-reliability-engineer) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674537/site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-07-22.
+This devops engineer position at Apple was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

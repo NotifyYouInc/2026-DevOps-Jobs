@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000135529729-devops-consultant-kubernetes-mwd) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000140494309-devops-consultant-kubernetes-mwd) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-07-02.
+This devops engineer position at Devoteam was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

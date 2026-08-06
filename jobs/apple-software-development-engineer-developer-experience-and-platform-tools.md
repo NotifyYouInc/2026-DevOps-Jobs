@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200674593/software-development-engineer-developer-experience-and-platform-tools) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-07-28.
+This devops engineer position at Apple was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

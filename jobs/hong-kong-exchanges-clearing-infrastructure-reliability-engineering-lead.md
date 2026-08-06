@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Kong Exchanges & Clearing](https://scoutify.ai/companies/hong-kong-exchanges-clearing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/UK-London/Infrastructure-Reliability-Engineering-Lead_R004241) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/UK-London/Infrastructure-Reliability-Engineering-Lead_R004264) |
 
 ## About This Role
 
-This software engineer position at Hong Kong Exchanges & Clearing was posted on 2026-07-28.
+This devops engineer position at Hong Kong Exchanges & Clearing was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

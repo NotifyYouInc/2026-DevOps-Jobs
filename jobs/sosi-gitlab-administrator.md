@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOSi](https://scoutify.ai/companies/sosi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990013838217-gitlab-administrator) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SOSi1/3743990014346656-gitlab-administrator) |
 
 ## About This Role
 
-This devops engineer position at SOSi was posted on 2026-06-29.
+This devops engineer position at SOSi was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

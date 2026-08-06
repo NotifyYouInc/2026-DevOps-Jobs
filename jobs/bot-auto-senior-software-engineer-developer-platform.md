@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bot Auto](https://scoutify.ai/companies/botauto?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/botauto/jobs/5373345008) |
 
 ## About This Role
 
-This software engineer position at Bot Auto was posted on 2026-07-28.
+This devops engineer position at Bot Auto was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

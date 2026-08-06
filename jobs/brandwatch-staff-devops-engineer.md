@@ -5,12 +5,12 @@
 | Company | [Brandwatch](https://scoutify.ai/companies/brandwatch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4864677101) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4940968101) |
 
 ## About This Role
 
-This devops engineer position at Brandwatch was posted on 2026-05-12.
+This devops engineer position at Brandwatch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buffalo, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Lead-Software-Engineer---SDLC-Tooling_R88376) |
 
 ## About This Role
 
-This software engineer position at M&T Bank was posted on 2026-07-28.
+This devops engineer position at M&T Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Gdansk/DevOps-Engineer_JR10416524) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/DevOps-Engineer_JR10431013-1) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-05-22.
+This devops engineer position at Airbus was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Zapopan, Jalisco, Mexico |
-| Category | IT & Systems Administration |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Zapopan-Jalisco/Infrastructure-Engineer_R246129) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Infrastructure-Engineer_R245364) |
 
 ## About This Role
 
-This it & systems administration position at Arrow Electronics was posted on 2026-07-25.
+This devops engineer position at Arrow Electronics was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

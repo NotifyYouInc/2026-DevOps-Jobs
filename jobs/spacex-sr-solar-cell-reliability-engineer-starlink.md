@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bastrop, Louisiana, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8653969002?gh_jid=8653969002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SpaceX was posted on 2026-07-28.
+This devops engineer position at SpaceX was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

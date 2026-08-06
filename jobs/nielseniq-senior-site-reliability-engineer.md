@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140014989-senior-site-reliability-engineer) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000140618149-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at NielsenIQ was posted on 2026-07-27.
+This devops engineer position at NielsenIQ was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

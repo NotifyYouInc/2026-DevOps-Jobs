@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Technical-Lead---Vice-President_26980005) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Java-Technical-Lead---Vice-President_26979959) |
 
 ## About This Role
 
-This software engineer position at Citigroup was posted on 2026-07-27.
+This devops engineer position at Citigroup was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

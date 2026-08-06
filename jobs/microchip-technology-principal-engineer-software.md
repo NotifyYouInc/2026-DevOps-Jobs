@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/India---Chennai/Principal-Engineer-Software_R3267-26) |
 
 ## About This Role
 
-This software engineer position at Microchip Technology was posted on 2026-07-28.
+This devops engineer position at Microchip Technology was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

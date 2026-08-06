@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
-| Category | Customer Success |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-United-Kingdom/Service-Delivery-Engineer_R268331) |
+| Location | 6 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Stoke-on-Trent-United-Kingdom/Service-Delivery-Engineer_R2613051) |
 
 ## About This Role
 
-This customer success position at Cencora was posted on 2026-05-29.
+This devops engineer position at Cencora was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

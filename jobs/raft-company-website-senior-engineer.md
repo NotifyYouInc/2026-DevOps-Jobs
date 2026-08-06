@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raft Company Website](https://scoutify.ai/companies/raft-company-website?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Diego, California, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/6117481004) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/raft/jobs/6110778004) |
 
 ## About This Role
 
-This devops engineer position at Raft Company Website was posted on 2026-07-23.
+This devops engineer position at Raft Company Website was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

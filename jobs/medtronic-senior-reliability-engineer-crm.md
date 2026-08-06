@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Minneapolis, Minnesota, United States |
-| Category | QA Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Senior-Reliability-Engineer---CRM_R72850-1) |
 
 ## About This Role
 
-This qa engineer position at Medtronic was posted on 2026-07-28.
+This devops engineer position at Medtronic was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

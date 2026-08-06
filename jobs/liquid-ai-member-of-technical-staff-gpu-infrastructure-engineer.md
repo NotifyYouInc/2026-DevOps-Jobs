@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Liquid Ai](https://scoutify.ai/companies/liquid-ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/liquid-ai/ec3912e6-3751-4b5a-8769-4509bdd750c4) |
 
 ## About This Role
 
-This software engineer position at Liquid Ai was posted on 2026-07-28.
+This devops engineer position at Liquid Ai was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

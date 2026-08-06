@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Coimbatore, Tamil Nadu, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140382319-iot-java-aws-tech-lead) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-07-29.
+This devops engineer position at Robert Bosch was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

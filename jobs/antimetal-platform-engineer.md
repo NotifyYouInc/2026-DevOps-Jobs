@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Antimetal](https://scoutify.ai/companies/antimetal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/antimetal/5cd7843d-613b-4497-a46f-40b17bfd09fb) |
 
 ## About This Role
 
-This software engineer position at Antimetal was posted on 2026-07-28.
+This devops engineer position at Antimetal was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

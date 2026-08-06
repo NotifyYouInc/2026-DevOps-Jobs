@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Software Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000139685518-full-stack-developer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000140494730-full-stack-developer) |
 
 ## About This Role
 
-This software engineer position at Sutherland was posted on 2026-07-24.
+This devops engineer position at Sutherland was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

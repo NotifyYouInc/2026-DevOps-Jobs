@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---DevSecOps-Engineer-Sr---C12_26974650) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---DevSecOps-Engineer-Sr---C12_26938590) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-07-27.
+This devops engineer position at Citigroup was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

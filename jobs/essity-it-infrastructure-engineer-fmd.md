@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-07-29 |
 | Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Lisbon-Portugal/IT-Infrastructure-Engineer--f-m-d-_Essity264091-1) |
 
 ## About This Role
 
-This it & systems administration position at Essity was posted on 2026-07-29.
+This devops engineer position at Essity was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

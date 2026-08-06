@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4927082101?gh_jid=4927082101) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4929898101?gh_jid=4929898101) |
 
 ## About This Role
 
-This devops engineer position at NiCE was posted on 2026-07-28.
+This devops engineer position at NiCE was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

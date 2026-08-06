@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138279269-senior-software-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140465151-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Experian was posted on 2026-07-17.
+This devops engineer position at Experian was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 
