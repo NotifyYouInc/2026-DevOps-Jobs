@@ -6,7 +6,7 @@
 | Location | Kaiserslautern, Rheinland-Pfalz, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140404535-senior-site-reliability-engineer-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140423079-senior-site-reliability-engineer-mfd) |
 
 ## About This Role
 

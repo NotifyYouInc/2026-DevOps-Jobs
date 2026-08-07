@@ -5,12 +5,12 @@
 | Company | [Jane Street](https://scoutify.ai/companies/jane-street?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/janestreet/jobs/8635672002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.janestreet.com/join-jane-street/apply/4276248002?gh_jid=4276248002) |
 
 ## About This Role
 
-This devops engineer position at Jane Street was posted on 2026-07-22.
+This devops engineer position at Jane Street was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

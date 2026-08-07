@@ -1,16 +1,16 @@
-# Hardware Reliability Engineer-Wearables at Apple
+# Hardware Reliability Engineer - Wearables at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200666526/hardware-reliability-engineer-wearables) |
+| Location | Shenzhen, Guangdong, China |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200674989/hardware-reliability-engineer-wearables) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-06-03.
+This devops engineer position at Apple was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

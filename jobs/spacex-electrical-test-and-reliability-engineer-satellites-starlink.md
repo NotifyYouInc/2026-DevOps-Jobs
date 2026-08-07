@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8476268002?gh_jid=8476268002) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8659087002?gh_jid=8659087002) |
 
 ## About This Role
 
-This electrical / hardware engineer position at SpaceX was posted on 2026-03-24.
+This devops engineer position at SpaceX was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

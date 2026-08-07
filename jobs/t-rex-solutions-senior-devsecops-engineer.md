@@ -5,12 +5,12 @@
 | Company | [T-Rex Solutions](https://scoutify.ai/companies/t-rex-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8600105002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8658486002) |
 
 ## About This Role
 
-This devops engineer position at T-Rex Solutions was posted on 2026-06-18.
+This devops engineer position at T-Rex Solutions was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

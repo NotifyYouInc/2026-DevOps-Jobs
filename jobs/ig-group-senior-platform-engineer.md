@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | City of London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/City-of-London---United-Kingdom/Senior-Platform-Engineer_R_17523) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Bangalore-India/Senior-Platform-Engineer_R_17546) |
 
 ## About This Role
 
-This devops engineer position at IG Group was posted on 2026-07-24.
+This devops engineer position at IG Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

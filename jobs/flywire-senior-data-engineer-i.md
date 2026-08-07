@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Valencia, Valencia, Spain |
-| Category | Data Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000137663269-senior-data-engineer-i) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000140638199-senior-data-engineer-i) |
 
 ## About This Role
 
-This data engineer position at Flywire was posted on 2026-07-14.
+This devops engineer position at Flywire was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

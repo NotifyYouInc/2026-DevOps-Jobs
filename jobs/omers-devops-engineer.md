@@ -5,12 +5,12 @@
 | Company | [Omers](https://scoutify.ai/companies/omers?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/DevOps-Engineer_JR-8077) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/DevOps-Engineer_JR-8284) |
 
 ## About This Role
 
-This devops engineer position at Omers was posted on 2026-05-21.
+This devops engineer position at Omers was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

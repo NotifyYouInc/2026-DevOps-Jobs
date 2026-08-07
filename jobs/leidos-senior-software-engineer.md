@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Maryland, US |
+| Location | Washington, District of Columbia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Senior-Software-Engineer_R-00178899) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Senior-Software-Engineer_R-00188395) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-03-20.
+This devops engineer position at Leidos was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aya Healthcare](https://scoutify.ai/companies/aya-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/7991323?gh_jid=7991323) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://www.ayahealthcare.com/corporate-careers/jobs/8097295?gh_jid=8097295) |
 
 ## About This Role
 
-This engineering manager position at Aya Healthcare was posted on 2026-06-08.
+This devops engineer position at Aya Healthcare was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Site-Reliability-Engineer---Container-Platform_JR-0000087534) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Site-Reliability-Engineer---Container-Platform_JR-0000084321-1) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-04-02.
+This devops engineer position at Barclays was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

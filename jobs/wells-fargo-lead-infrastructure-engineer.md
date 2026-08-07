@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Infrastructure-Engineer_R-561944) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Lead-Infrastructure-Engineer_R-552653-1) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-07-29.
+This devops engineer position at Wells Fargo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

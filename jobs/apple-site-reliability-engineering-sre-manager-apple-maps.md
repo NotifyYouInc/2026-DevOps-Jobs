@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | Engineering Manager |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652315/site-reliability-engineering-sre-manager-apple-maps) |
+| Location | Cupertino, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675095/site-reliability-engineering-sre-manager-apple-maps) |
 
 ## About This Role
 
-This engineering manager position at Apple was posted on 2026-03-19.
+This devops engineer position at Apple was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

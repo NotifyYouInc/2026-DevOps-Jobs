@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000137361779-technical-manager) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000140668069-technical-manager) |
 
 ## About This Role
 
-This engineering manager position at Avery Dennison Corporation was posted on 2026-07-13.
+This devops engineer position at Avery Dennison Corporation was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
