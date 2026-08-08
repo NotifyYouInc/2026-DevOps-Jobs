@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014326255-site-reliability-engineer-hybrid) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014387841-site-reliability-engineer-hybrid) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-07-28.
+This devops engineer position at AbbVie was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

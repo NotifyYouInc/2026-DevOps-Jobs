@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bosch-HomeComfort](https://scoutify.ai/companies/bosch-homecomfort?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Norman, Oklahoma, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/bosch-homecomfort/744000140763470-maintenance-and-reliability-engineer) |
 
 ## About This Role
 
-This industrial automation position at Bosch-HomeComfort was posted on 2026-07-30.
+This devops engineer position at Bosch-HomeComfort was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

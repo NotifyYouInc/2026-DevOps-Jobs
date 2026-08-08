@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Singapore-Singapore/AI-Security-Automation-Engineer--AVP_R-794582) |
 
 ## About This Role
 
-This industrial automation position at State Street was posted on 2026-07-30.
+This devops engineer position at State Street was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

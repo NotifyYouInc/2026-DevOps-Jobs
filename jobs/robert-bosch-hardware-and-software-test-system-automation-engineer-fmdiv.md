@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Braga, Braga, Portugal |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140652689-hardware-and-software-test-system-automation-engineer-fmdiv) |
 
 ## About This Role
 
-This industrial automation position at Robert Bosch was posted on 2026-07-30.
+This devops engineer position at Robert Bosch was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

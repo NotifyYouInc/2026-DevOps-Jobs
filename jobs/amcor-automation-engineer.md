@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Henderson, Nevada, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Henderson-NV/Automation-Engineer_REQ_87457) |
+| Location | Evansville, Indiana, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/CORP-Evansville-Head-Division-Office-IN/Automation-Engineer_REQ_94346) |
 
 ## About This Role
 
-This industrial automation position at Amcor was posted on 2026-03-10.
+This devops engineer position at Amcor was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

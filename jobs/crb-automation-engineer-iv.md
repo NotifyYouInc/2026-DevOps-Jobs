@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Diego, California, United States |
-| Category | Industrial Automation |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000140250685-automation-engineer-iv) |
+| Location | Denver, Colorado, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000140984799-automation-engineer-iv) |
 
 ## About This Role
 
-This industrial automation position at CRB was posted on 2026-07-28.
+This devops engineer position at CRB was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

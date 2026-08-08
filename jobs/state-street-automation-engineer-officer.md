@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Industrial Automation |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Automation-Engineer--Officer_R-792338) |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Automation-Engineer--Officer_R-795401) |
 
 ## About This Role
 
-This industrial automation position at State Street was posted on 2026-06-12.
+This devops engineer position at State Street was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

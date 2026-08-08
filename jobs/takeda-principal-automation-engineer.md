@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lexington, Kentucky, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/USA---MA---Lexington---BIO-OPS/Principal-Automation-Engineer_R0185552) |
 
 ## About This Role
 
-This industrial automation position at Takeda was posted on 2026-07-31.
+This devops engineer position at Takeda was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

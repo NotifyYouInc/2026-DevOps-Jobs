@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/Security-Detection---Automation-Engineer---Product-Security-Section--Cyber-Security-Defense-Department--CSDD-_1036389-146) |
 
 ## About This Role
 
-This industrial automation position at Rakuten was posted on 2026-07-30.
+This devops engineer position at Rakuten was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

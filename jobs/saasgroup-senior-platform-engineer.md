@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [saas.group](https://scoutify.ai/companies/saasgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/saasgroup/jobs/4858508101) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/saasgroup/jobs/4942636101) |
 
 ## About This Role
 
-This devops engineer position at saas.group was posted on 2026-05-05.
+This devops engineer position at saas.group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

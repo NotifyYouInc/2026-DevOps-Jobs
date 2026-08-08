@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Elmwood Park, Illinois, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000140770439-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Smiths Group was posted on 2026-07-30.
+This devops engineer position at Smiths Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1013403488198591) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1581412973346218) |
 
 ## About This Role
 

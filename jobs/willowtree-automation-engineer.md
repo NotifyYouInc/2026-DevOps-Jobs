@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
-| Category | Industrial Automation |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/ad1d800e-5f44-4def-8adf-a1519b3ffb84) |
+| Location | Sofia, Sofia-Capital, Bulgaria |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/a0fb2a9f-1212-408e-89b3-355af12dcfca) |
 
 ## About This Role
 
-This industrial automation position at WillowTree was posted on 2026-04-16.
+This devops engineer position at WillowTree was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

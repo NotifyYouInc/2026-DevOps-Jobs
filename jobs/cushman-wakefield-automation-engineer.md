@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Spring Valley, Nevada, United States |
-| Category | Industrial Automation |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Spring-Valley---2500-Sweetwater-Springs-Blvd/Automation-Engineer_R329948) |
+| Location | Tracy, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Tracy---6250-Promontory-Pkwy/Automation-Engineer_R330274) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-07-28.
+This devops engineer position at Cushman & Wakefield was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

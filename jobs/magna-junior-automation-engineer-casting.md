@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Birmingham, Alabama, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Birmingham-Alabama-US/Junior-Automation-Engineer---Casting_R00254395) |
 
 ## About This Role
 
-This industrial automation position at Magna was posted on 2026-07-30.
+This devops engineer position at Magna was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Oklahoma City, Oklahoma, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Senior-DevSecOps-Engineer_R-00180846) |
+| Location | Melbourne, Victoria, Australia |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Senior-DevSecOps-Engineer_R-00188512) |
 
 ## About This Role
 
-This security engineer position at Leidos was posted on 2026-04-14.
+This devops engineer position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

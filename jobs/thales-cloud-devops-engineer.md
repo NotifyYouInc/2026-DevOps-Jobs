@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Czechia |
+| Location | Amersfoort, Utrecht, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Cloud-DevOps-Engineer_R0323324) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Amersfoort-CDI/Cloud-DevOps-Engineer_R0334930) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-03-30.
+This devops engineer position at Thales was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

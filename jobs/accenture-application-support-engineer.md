@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cebu City, Central Visayas, Philippines |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cebu-City/Application-Support-Engineer_ATCP-1446861-S426846) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Application-Support-Engineer_ATCI-5697739-S2062210-1) |
 
 ## About This Role
 
-This technical support engineer position at Accenture was posted on 2026-07-24.
+This devops engineer position at Accenture was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

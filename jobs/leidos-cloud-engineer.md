@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Reston, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Cloud-Engineer_R-00188296) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cloud-Engineer_R-00188587) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-29.
+This devops engineer position at Leidos was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

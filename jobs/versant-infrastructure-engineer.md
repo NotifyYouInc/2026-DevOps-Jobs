@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000140539174-infrastructure-engineer) |
+| Category | IT & Systems Administration |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000140731759-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Versant was posted on 2026-07-29.
+This it & systems administration position at Versant was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

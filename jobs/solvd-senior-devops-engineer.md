@@ -5,12 +5,12 @@
 | Company | [Solvd](https://scoutify.ai/companies/solvd?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/solvd/3388c589-7669-4b0b-b935-f31e73319998) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/solvd/42cec0de-8969-4069-8674-b3c9afcfa40a) |
 
 ## About This Role
 
-This devops engineer position at Solvd was posted on 2026-06-10.
+This devops engineer position at Solvd was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ShopBack](https://scoutify.ai/companies/shopback?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.lever.co/shopback-2/0b3627b7-0c1a-46da-bc3d-699f8d5ca9e5) |
 
 ## About This Role
 
-This industrial automation position at ShopBack was posted on 2026-07-31.
+This devops engineer position at ShopBack was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

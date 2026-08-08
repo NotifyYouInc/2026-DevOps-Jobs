@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kallithéa, Attica, Greece |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000125332359-requirements-mgmt-tools-devops-engineer) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000140855835-requirements-mgmt-tools-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-05-08.
+This devops engineer position at Renesas Electronics was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

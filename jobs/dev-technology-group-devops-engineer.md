@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dev Technology Group](https://scoutify.ai/companies/devtechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Ashburn, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8530233002) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/devtechnology/jobs/8659985002) |
 
 ## About This Role
 
-This devops engineer position at Dev Technology Group was posted on 2026-04-29.
+This devops engineer position at Dev Technology Group was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

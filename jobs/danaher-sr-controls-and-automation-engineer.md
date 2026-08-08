@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pensacola, Florida, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Pensacola-Florida-United-States/Sr-Controls-and-Automation-Engineer_R1309980) |
 
 ## About This Role
 
-This industrial automation position at Danaher was posted on 2026-07-30.
+This devops engineer position at Danaher was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

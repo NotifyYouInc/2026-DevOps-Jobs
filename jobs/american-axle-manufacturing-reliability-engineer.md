@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Axle & Manufacturing](https://scoutify.ai/companies/aampower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bowling Green, Kentucky, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://aampower.wd1.myworkdayjobs.com/aam-career-site/job/Bowling-Green-OH/Reliability-Engineer_JREQ-222487) |
 
 ## About This Role
 
-This industrial automation position at American Axle & Manufacturing was posted on 2026-07-30.
+This devops engineer position at American Axle & Manufacturing was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

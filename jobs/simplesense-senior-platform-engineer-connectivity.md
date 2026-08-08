@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Simplesense](https://scoutify.ai/companies/simplesense?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Brooklyn, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/simplesense/jobs/4273593009) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/simplesense/jobs/4339507009) |
 
 ## About This Role
 
-This devops engineer position at Simplesense was posted on 2026-06-12.
+This devops engineer position at Simplesense was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

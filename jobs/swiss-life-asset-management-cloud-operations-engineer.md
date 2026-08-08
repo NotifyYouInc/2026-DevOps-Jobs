@@ -5,12 +5,12 @@
 | Company | [Swiss Life Asset Management](https://scoutify.ai/companies/swiss-life-asset-management?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Cloud-Operations-Engineer_R12257) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://swisslife.wd3.myworkdayjobs.com/swiss_life_asset_managers_career_site/job/Lisbon/Cloud-Operations-Engineer_R12258) |
 
 ## About This Role
 
-This devops engineer position at Swiss Life Asset Management was posted on 2026-04-22.
+This devops engineer position at Swiss Life Asset Management was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

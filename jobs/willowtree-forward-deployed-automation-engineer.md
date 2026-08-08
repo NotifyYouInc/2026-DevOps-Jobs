@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/29404ba4-1635-4513-9385-21968c5ece1c) |
 
 ## About This Role
 
-This industrial automation position at WillowTree was posted on 2026-07-30.
+This devops engineer position at WillowTree was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

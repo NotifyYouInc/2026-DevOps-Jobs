@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000139927969-regular-devops-engineer-1-so) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000140866600-regular-devops-engineer-1-so) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-07-27.
+This devops engineer position at Inetum was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

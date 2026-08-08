@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alexandria, Virginia, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Senior-Automation-Engineer--UiPath--_R-00188455) |
 
 ## About This Role
 
-This industrial automation position at Leidos was posted on 2026-07-30.
+This devops engineer position at Leidos was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
