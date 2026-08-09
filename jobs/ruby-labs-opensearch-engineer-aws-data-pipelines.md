@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ruby Labs](https://scoutify.ai/companies/ruby-labs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Serbia |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/ruby-labs/c67174be-959e-4cd9-ba7d-a2285739a059) |
 
 ## About This Role
 
-This devops engineer position at Ruby Labs was posted on 2026-07-30.
+This data engineer position at Ruby Labs was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

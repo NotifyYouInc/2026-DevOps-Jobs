@@ -1,16 +1,16 @@
-# DevSecOps Project Lead (Sr DevSecOps Engineer) at Red Cell Partners
+# DevSecOps Project Lead (Sr DevSecOps Engineer) at DEFCON AI
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Cell Partners](https://scoutify.ai/companies/red-cell-partners?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [DEFCON AI](https://scoutify.ai/companies/defcon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/redcellpartners/jobs/5201224007) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/defcon/jobs/5201223007) |
 
 ## About This Role
 
-This devops engineer position at Red Cell Partners was posted on 2026-08-02.
+This devops engineer position at DEFCON AI was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

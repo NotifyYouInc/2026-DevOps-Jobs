@@ -5,12 +5,12 @@
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140596959-devops-engineer-aws-cdk-english) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140826316-devops-engineer-aws-cdk-english) |
 
 ## About This Role
 
-This devops engineer position at KMS Technology was posted on 2026-07-30.
+This devops engineer position at KMS Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

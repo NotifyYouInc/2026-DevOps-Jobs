@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Beijing, Beijing, China |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---BEIJING/Apache-Doris_51586204-1) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-07-31.
+This data engineer position at DXC Technology was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

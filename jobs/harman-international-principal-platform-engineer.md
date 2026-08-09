@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Principal-Platform-Engineer/32476) |
 
 ## About This Role
 
-This devops engineer position at HARMAN International was posted on 2026-07-31.
+This data engineer position at HARMAN International was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Cloud-Data-Platform-Engineer_R158514-1) |
 
 ## About This Role
 
-This devops engineer position at Northern Trust was posted on 2026-07-31.
+This data engineer position at Northern Trust was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

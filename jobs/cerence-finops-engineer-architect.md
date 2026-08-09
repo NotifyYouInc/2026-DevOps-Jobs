@@ -1,16 +1,16 @@
-# DevSecOps Project Lead (Sr DevSecOps Engineer) at Red Cell Partners
+# FinOps Engineer / Architect at Cerence
 
 | Field | Details |
 |-------|---------|
-| Company | [Red Cell Partners](https://scoutify.ai/companies/red-cell-partners?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Cerence](https://scoutify.ai/companies/cerence?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/redcellpartners/jobs/5201224007) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---USA/FinOps-Engineer---Architect_R0006009) |
 
 ## About This Role
 
-This devops engineer position at Red Cell Partners was posted on 2026-08-02.
+This devops engineer position at Cerence was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
