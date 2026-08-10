@@ -1,4 +1,4 @@
-# Senior DevOps Engineer – Intelligent Access Platform (m/f/d) at Deutsche Telekom IT Solutions Slovakia
+# Senior DevOps Engineer (m/f/d)  REF2074B at Deutsche Telekom IT Solutions Slovakia
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000141185185-senior-devops-engineer-intelligent-access-platform-mfd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000141184599-senior-devops-engineer-mfd-ref2074b) |
 
 ## About This Role
 

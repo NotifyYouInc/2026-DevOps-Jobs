@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# Staff Network Engineer at Brandwatch
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Brandwatch](https://scoutify.ai/companies/brandwatch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/brandwatch/jobs/4943124101) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at Brandwatch was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

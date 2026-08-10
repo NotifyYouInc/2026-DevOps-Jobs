@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# Lead Software Engineer at AT&T
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | 5 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAlpharetta--500-North-Point-Pkwy---Adm-owned500-North-Point-Pkwy/Lead-Software-Engineer_R-117420) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at AT&T was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

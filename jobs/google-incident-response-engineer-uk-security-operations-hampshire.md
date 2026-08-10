@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdivmgivRQOSCMVA7ellHwccDR_jE19-8elVNDI-FL4iEjsA1Ny_i_W-PEGqifd2y9jlJIortpGsYivRSyKyEp300Ma-ggrQ2rHq4qN8-ol7whdHI7DUbROitzSjxw%3D%3D_V2&loc=GB&title=Incident+Response+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-07-31.
+This soc & incident response position at Google was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

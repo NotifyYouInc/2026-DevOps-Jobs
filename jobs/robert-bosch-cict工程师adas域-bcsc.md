@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# CICT工程师(ADAS域）_BCSC at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Wuxi, Jiangsu, China |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141196709-cictadas-bcsc) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at Robert Bosch was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

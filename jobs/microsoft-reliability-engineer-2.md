@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# Reliability Engineer 2 at Microsoft
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Haiphong, Hai Phong, Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556952573) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at Microsoft was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

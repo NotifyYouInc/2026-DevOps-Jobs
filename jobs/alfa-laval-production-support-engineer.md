@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kunshan, Jiangsu, China |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Kunshan/Production-support-engineer_JR0046897) |
 
 ## About This Role
 
-This devops engineer position at Alfa Laval was posted on 2026-07-31.
+This customer success position at Alfa Laval was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

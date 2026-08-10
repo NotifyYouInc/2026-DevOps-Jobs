@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tân Bình, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137377966-epm-devops-intern) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141184725-epm-devops-intern) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-07-13.
+This devops engineer position at Robert Bosch was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

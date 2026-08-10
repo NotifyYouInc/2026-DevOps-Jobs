@@ -1,16 +1,16 @@
-# Platform Engineer at Commonwealth Bank of Australia
+# Staff SRE for K8s Platform Team (AWS, Kubernetes, Platform Creation, Helm, Karpenter, Istio) at Okta
 
 | Field | Details |
 |-------|---------|
-| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Platform-Engineer_REQ261081) |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8102369?gh_jid=8102369) |
 
 ## About This Role
 
-This devops engineer position at Commonwealth Bank of Australia was posted on 2026-08-03.
+This devops engineer position at Okta was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

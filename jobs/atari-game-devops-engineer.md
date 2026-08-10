@@ -1,16 +1,16 @@
-# Senior Lead Systems Operations Engineer at Wells Fargo
+# Game DevOps Engineer at Atari
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Company | [Atari](https://scoutify.ai/companies/atariinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Sweden |
 | Category | DevOps Engineer |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/ISELIN-NJ/Senior-Lead-Systems-Operations-Engineer_R-560402-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/atariinc/jobs/5364271008) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-08-02.
+This devops engineer position at Atari was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

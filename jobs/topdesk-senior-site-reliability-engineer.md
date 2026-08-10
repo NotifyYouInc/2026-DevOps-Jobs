@@ -6,7 +6,7 @@
 | Location | Budapest, Budapest, Hungary |
 | Category | DevOps Engineer |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140613094-senior-site-reliability-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140711389-senior-site-reliability-engineer) |
 
 ## About This Role
 

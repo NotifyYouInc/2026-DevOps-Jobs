@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# Senior  DevOps Engineer Aerospace (all gender) at ALTEN
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bremen, City state Bremen, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141179159-senior-devops-engineer-aerospace-all-gender) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at ALTEN was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

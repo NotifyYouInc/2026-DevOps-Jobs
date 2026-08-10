@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Automation-Engineer-II_R-2026-44780-2) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Automation-Engineer-II_R-2026-48635-1) |
 
 ## About This Role
 
-This software engineer position at Alcon was posted on 2026-02-05.
+This devops engineer position at Alcon was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

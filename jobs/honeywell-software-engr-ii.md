@@ -1,16 +1,16 @@
-# Platform Engineer at Commonwealth Bank of Australia
+# Software Engr II at Honeywell
 
 | Field | Details |
 |-------|---------|
-| Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Platform-Engineer_REQ261081) |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154675) |
 
 ## About This Role
 
-This devops engineer position at Commonwealth Bank of Australia was posted on 2026-08-03.
+This devops engineer position at Honeywell was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

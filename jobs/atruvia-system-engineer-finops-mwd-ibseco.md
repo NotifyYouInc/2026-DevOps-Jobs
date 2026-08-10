@@ -1,16 +1,16 @@
-# Senior Enterprise Software Engineer at Wolters Kluwer
+# System Engineer FinOps (m/w/d) | IBSECO at Atruvia
 
 | Field | Details |
 |-------|---------|
-| Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Atruvia](https://scoutify.ai/companies/ocs-cx-oj9736?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | DevOps Engineer |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Enterprise-Software-Engineer_R0058642) |
+| Apply | [View on company site](https://fa-exxd-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#2298) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-03.
+This devops engineer position at Atruvia was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

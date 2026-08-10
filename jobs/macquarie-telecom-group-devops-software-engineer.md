@@ -5,12 +5,12 @@
 | Company | [Macquarie Telecom Group](https://scoutify.ai/companies/macquarie-telecom-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.lever.co/macquarietechnologygroup/fe87236f-b185-4787-93d0-37848b7010fe) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.lever.co/macquarietechnologygroup/2fe8955d-fa2f-4954-b6b2-d22c64b96a79) |
 
 ## About This Role
 
-This devops engineer position at Macquarie Telecom Group was posted on 2026-03-02.
+This devops engineer position at Macquarie Telecom Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 
