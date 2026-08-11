@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Katowice, Silesia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140399279-senior-infrastructure-engineer-with-french) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141212520-senior-infrastructure-engineer-with-french) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-07-29.
+This devops engineer position at Sopra Steria was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

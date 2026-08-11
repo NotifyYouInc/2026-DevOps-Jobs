@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | DevOps Engineer |
+| Category | AI / LLM Engineer |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sydney-International-House-3-Sussex-St/AI-Engineer_R00291606) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-31.
+This ai / llm engineer position at Accenture was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Cloud-Engineer--Specialist-CDAO-Data-Mgmt---Analytics-Platforms_179099) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Cloud-Engineer--Specialist-CDAO-Data-Mgmt---Analytics-Platforms_179100) |
 
 ## About This Role
 
-This devops engineer position at Vanguard was posted on 2026-07-30.
+This devops engineer position at Vanguard was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

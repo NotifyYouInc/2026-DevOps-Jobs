@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200656154/data-center-mlb-reliability-engineer) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200675136/data-center-mlb-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-04-07.
+This devops engineer position at Apple was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

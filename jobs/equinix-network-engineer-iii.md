@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Network-Engineer-III_JR-161746) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Singapore/Network-Engineer-III_JR-162641) |
 
 ## About This Role
 
-This devops engineer position at Equinix was posted on 2026-06-29.
+This devops engineer position at Equinix was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

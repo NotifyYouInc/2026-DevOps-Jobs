@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000126536109-senior-consultant-devops-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141291284-senior-consultant-devops-hf) |
 
 ## About This Role
 
-This strategy / management consulting position at Devoteam was posted on 2026-05-14.
+This devops engineer position at Devoteam was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

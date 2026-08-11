@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Shenzhen, Guangdong, China |
 | Category | DevOps Engineer |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200654544/reliability-engineer-iphone) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200662078/reliability-engineer-iphone) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-03-31.
+This devops engineer position at Apple was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

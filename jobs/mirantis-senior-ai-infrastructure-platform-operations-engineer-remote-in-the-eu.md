@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140616060-senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000141223249-senior-ai-infrastructure-platform-operations-engineer-remote-in-the-eu) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-30.
+This devops engineer position at Mirantis was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Lead-Automation-Engineer_30206166) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Building-No-12C-Floor-91011-Building-No-12B--Stilt-floor-Raheja-Mindspace-Cyberabad-Madhapur-Hyderabad---500081-Telangana-India/Lead-Automation-Engineer_30214247) |
 
 ## About This Role
 
-This industrial automation position at Carrier Global was posted on 2026-05-14.
+This devops engineer position at Carrier Global was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

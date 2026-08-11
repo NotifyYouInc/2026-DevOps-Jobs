@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Trimble](https://scoutify.ai/companies/trimble?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Portsmouth-NH/Site-Reliability-Engineer_R54327) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Site-Reliability-Engineer_R57303) |
 
 ## About This Role
 
-This devops engineer position at Trimble was posted on 2026-04-16.
+This devops engineer position at Trimble was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

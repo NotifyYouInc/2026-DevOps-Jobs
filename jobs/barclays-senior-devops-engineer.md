@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-DevOps-Engineer_JR-0000080934) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Senior-DevOps-Engineer_JR-0000093822-1) |
 
 ## About This Role
 
-This engineering manager position at Barclays was posted on 2026-03-20.
+This devops engineer position at Barclays was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer (Kubernetes,  at Mirantis
+# Senior Site Reliability Engineer (Kubernetes) at Mirantis
 
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140745764-senior-site-reliability-engineer-kubernetes) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140905709-senior-site-reliability-engineer-kubernetes) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-30.
+This devops engineer position at Mirantis was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

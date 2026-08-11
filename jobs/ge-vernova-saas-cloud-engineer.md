@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/SaaS-Cloud-Engineer_R5036319-2) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Mexico-City/SaaS-Cloud-Engineer_R5048782-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-03-25.
+This devops engineer position at GE Vernova was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

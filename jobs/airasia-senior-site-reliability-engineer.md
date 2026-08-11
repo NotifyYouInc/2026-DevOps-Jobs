@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airasia](https://scoutify.ai/companies/airasia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/KL-Sentral---Redstation/Senior-Site-Reliability-Engineer_JR0032102) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://airasia.wd3.myworkdayjobs.com/careers/job/Wisma-Capital-A/Senior-Site-Reliability-Engineer_JR0035076) |
 
 ## About This Role
 
-This devops engineer position at Airasia was posted on 2026-02-26.
+This devops engineer position at Airasia was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

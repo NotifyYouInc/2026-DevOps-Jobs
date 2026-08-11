@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florence, Alabama, United States |
-| Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Automation-Engineer-II_J2448649) |
+| Location | Mexico |
+| Category | DevOps Engineer |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Automation-Engineer-II_J2459507-1) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-13.
+This devops engineer position at Jabil was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

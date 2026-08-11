@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cyberjaya, Selangor, Malaysia |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Cyberjaya/Cloud-Middleware-Support-Engineer_JR00008499) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Cloud-Middleware-Support-Engineer_JR00009952) |
 
 ## About This Role
 
-This devops engineer position at OCBC was posted on 2026-06-22.
+This devops engineer position at OCBC was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

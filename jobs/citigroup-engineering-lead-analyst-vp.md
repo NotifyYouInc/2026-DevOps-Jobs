@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irving, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst---VP_26949120) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Engineering-Lead-Analyst---VP_26982153) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-03-30.
+This devops engineer position at Citigroup was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

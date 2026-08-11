@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8517324002) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8623614002) |
 
 ## About This Role
 
-This industrial automation position at ZoomInfo Technologies LLC was posted on 2026-05-07.
+This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

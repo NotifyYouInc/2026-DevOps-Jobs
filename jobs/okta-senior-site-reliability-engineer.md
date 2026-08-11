@@ -1,16 +1,16 @@
-# Senior Site Reliability Engineer -  at Okta
+# Senior Site Reliability Engineer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7591606?gh_jid=7591606) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8100444?gh_jid=8100444) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-02-12.
+This devops engineer position at Okta was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

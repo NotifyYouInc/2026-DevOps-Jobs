@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wayne, New Jersey, United States |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Platform-Engineer--Specialist_174009-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Platform-Engineer--Specialist_180417-1) |
 
 ## About This Role
 
-This devops engineer position at Vanguard was posted on 2026-02-13.
+This devops engineer position at Vanguard was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

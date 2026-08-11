@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Member-of-Technical-Staff-II_R166197) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Software-Development-Engineer_R170607) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-03-12.
+This devops engineer position at Adobe was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

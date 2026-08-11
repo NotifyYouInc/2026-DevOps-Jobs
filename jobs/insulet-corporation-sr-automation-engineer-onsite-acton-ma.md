@@ -5,12 +5,12 @@
 | Company | [Insulet Corporation](https://scoutify.ai/companies/insulet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Acton, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Sr-Automation-Engineer--Onsite---Acton--MA-_REQ-2026-17119) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Sr-Automation-Engineer--Onsite---Acton--MA-_REQ-2026-17455-1) |
 
 ## About This Role
 
-This devops engineer position at Insulet Corporation was posted on 2026-07-10.
+This devops engineer position at Insulet Corporation was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

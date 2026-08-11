@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Bangalore-India/Senior-Platform-Engineer_R_17546) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Krakw---Poland/Senior-Platform-Engineer_R_17551) |
 
 ## About This Role
 
-This devops engineer position at IG Group was posted on 2026-07-30.
+This devops engineer position at IG Group was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

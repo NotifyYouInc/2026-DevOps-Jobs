@@ -6,7 +6,7 @@
 | Location | Da Nang, Da Nang City, Vietnam |
 | Category | DevOps Engineer |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140822059-senior-java-azureaws-devops-skill-based-in-da-nang) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000140824299-senior-java-azureaws-devops-skill-based-in-da-nang) |
 
 ## About This Role
 

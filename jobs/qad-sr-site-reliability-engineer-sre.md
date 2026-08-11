@@ -1,16 +1,16 @@
-# Sr. Site Reliability Engineer - SRE  at QAD
+# Sr. Site Reliability Engineer - SRE at QAD
 
 | Field | Details |
 |-------|---------|
 | Company | [QAD](https://scoutify.ai/companies/qad?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000132773409-sr-site-reliability-engineer-sre) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QADInc/744000141294329-sr-site-reliability-engineer-sre) |
 
 ## About This Role
 
-This devops engineer position at QAD was posted on 2026-06-18.
+This devops engineer position at QAD was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

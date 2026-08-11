@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Delft, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000140711389-senior-site-reliability-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000141421971-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at TOPdesk was posted on 2026-07-30.
+This devops engineer position at TOPdesk was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
