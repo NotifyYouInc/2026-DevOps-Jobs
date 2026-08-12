@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001257506-senior-cloud-engineer-azure) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001286440-senior-cloud-engineer-azure) |
 
 ## About This Role
 
-This devops engineer position at NCS Australia was posted on 2026-07-24.
+This devops engineer position at NCS Australia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

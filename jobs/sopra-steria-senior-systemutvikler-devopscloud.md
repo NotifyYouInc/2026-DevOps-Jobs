@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stavanger, Rogaland, Norway |
+| Location | Kristiansand, Agder, Norway |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134993889-senior-systemutvikler-devopscloud) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141493209-senior-systemutvikler-devopscloud) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-30.
+This devops engineer position at Sopra Steria was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

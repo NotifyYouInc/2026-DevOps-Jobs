@@ -5,12 +5,12 @@
 | Company | [Treeswift](https://scoutify.ai/companies/treeswift?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/treeswift/856905f1-f4a5-408d-ba08-13807121a841) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/treeswift/3718c171-cf51-49c5-86a3-c5d8b0d31f4c) |
 
 ## About This Role
 
-This devops engineer position at Treeswift was posted on 2026-06-11.
+This devops engineer position at Treeswift was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

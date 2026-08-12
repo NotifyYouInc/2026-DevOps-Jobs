@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-02 |
 | Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Engineer-Data-Platform_R0056589-2) |
 
 ## About This Role
 
-This data engineer position at Empower was posted on 2026-08-02.
+This devops engineer position at Empower was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

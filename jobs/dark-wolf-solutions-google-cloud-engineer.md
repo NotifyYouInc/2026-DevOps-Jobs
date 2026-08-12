@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7753864003) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7826219003) |
 
 ## About This Role
 
-This devops engineer position at Dark Wolf Solutions was posted on 2026-06-02.
+This devops engineer position at Dark Wolf Solutions was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

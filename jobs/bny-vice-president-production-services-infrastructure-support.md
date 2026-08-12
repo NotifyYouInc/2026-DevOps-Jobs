@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BNY](https://scoutify.ai/companies/us2-cx-oj13796?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#76056) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://eofe.fa.us2.oraclecloud.com/jobs/#79671) |
 
 ## About This Role
 
-This devops engineer position at BNY was posted on 2026-06-25.
+This devops engineer position at BNY was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

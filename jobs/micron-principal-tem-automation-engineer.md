@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Semiconductor / Chip Design |
+| Category | DevOps Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10NX-Singapore/Principal-TEM-Automation-Engineer_JR107446) |
 
 ## About This Role
 
-This semiconductor / chip design position at Micron was posted on 2026-08-04.
+This devops engineer position at Micron was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

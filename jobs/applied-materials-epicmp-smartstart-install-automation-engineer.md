@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pyeongtaek, Gyeonggi-do, South Korea |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Pyeongtaek-NF-SummitKOR/EPI-CMP-SmartStart-Install-Automation-Engineer_R2622858) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/SingaporeSGP/EPI-CMP-SmartStart-Install-Automation-Engineer_R2625498) |
 
 ## About This Role
 
-This devops engineer position at Applied Materials was posted on 2026-07-20.
+This devops engineer position at Applied Materials was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Delhi, Delhi, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000137944999-module-lead-dotnet-application-support) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000141639850-module-lead-dotnet-application-support) |
 
 ## About This Role
 
-This devops engineer position at Clifford Chance was posted on 2026-07-15.
+This devops engineer position at Clifford Chance was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

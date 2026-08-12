@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Engineering Manager |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001182394-chapter-lead-cloud-platform-engineering) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001284807-chapter-lead-cloud-platform-engineering) |
 
 ## About This Role
 
-This engineering manager position at Air New Zealand was posted on 2026-06-25.
+This devops engineer position at Air New Zealand was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

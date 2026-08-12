@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Reliability-Engineer_R0118815-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Hyderabad-CapitaLand/Senior-Reliability-Engineer_R0121900) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-04-24.
+This devops engineer position at LSEG was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

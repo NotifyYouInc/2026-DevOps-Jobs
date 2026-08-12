@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sun Prairie, Wisconsin, United States |
+| Location | Brookshire, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sun-Prairie-WI/Automation-Engineer_REQ523040) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brookshire-TX/Automation-Engineer_REQ525286-1) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-07-17.
+This devops engineer position at JLL was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

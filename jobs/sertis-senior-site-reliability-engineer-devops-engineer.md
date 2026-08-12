@@ -5,12 +5,12 @@
 | Company | [Sertis](https://scoutify.ai/companies/sertis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8644296002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sertis/jobs/8682204002) |
 
 ## About This Role
 
-This devops engineer position at Sertis was posted on 2026-07-22.
+This devops engineer position at Sertis was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
