@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8599908002?gh_jid=8599908002) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8541455002?gh_jid=8541455002) |
 
 ## About This Role
 
-This devops engineer position at Point72 was posted on 2026-06-24.
+This devops engineer position at Point72 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

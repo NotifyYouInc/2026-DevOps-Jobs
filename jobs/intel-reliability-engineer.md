@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Massachusetts-Beaver-Brook/Reliability-Engineer_JR0285885) |
 
 ## About This Role
 
-This devops engineer position at Intel was posted on 2026-08-04.
+This electrical / hardware engineer position at Intel was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

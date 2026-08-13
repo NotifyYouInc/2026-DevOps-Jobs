@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Wilmington, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Chicago---2420-S-Halsted/Automation-Engineer_R330796) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Wilmington---800-Salem-St/Automation-Engineer_R330853) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-08-03.
+This devops engineer position at Cushman & Wakefield was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

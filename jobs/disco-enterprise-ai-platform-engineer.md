@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DISCO](https://scoutify.ai/companies/disco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8573237002) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.csdisco.com/careers-listing?gh_jid=8656281002) |
 
 ## About This Role
 
-This devops engineer position at DISCO was posted on 2026-06-02.
+This devops engineer position at DISCO was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

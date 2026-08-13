@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hosūr, Tamil Nadu, India |
+| Location | Sesto San Giovanni, Lombardy, Italy |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Hosur/Lead-Robotics---Automation-Engineer_R5048498-2) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Sesto-San-Giovanni/Lead-Robotics---Automation-Engineer_R5048689-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-08-03.
+This devops engineer position at GE Vernova was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

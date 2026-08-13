@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toluca, México, Mexico |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-05 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Toluca-Mexico-Mexico/PSDS-Design-Release-Engineer_JR-202616180) |
 
 ## About This Role
 
-This devops engineer position at General Motors was posted on 2026-08-05.
+This electrical / hardware engineer position at General Motors was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

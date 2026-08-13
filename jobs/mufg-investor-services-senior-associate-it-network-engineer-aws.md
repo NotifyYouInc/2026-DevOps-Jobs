@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000138317604-senior-associate-it-network-engineer-aws) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000141764967-senior-associate-it-network-engineer-aws) |
 
 ## About This Role
 
-This devops engineer position at MUFG Investor Services was posted on 2026-07-17.
+This devops engineer position at MUFG Investor Services was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Denver-CO---USA/Staff-DevOps-Engineer_JR13274) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Denver-CO---USA/Staff-DevOps-Engineer_JR15354) |
 
 ## About This Role
 
-This devops engineer position at Generac was posted on 2026-03-25.
+This devops engineer position at Generac was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

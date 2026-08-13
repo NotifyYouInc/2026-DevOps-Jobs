@@ -1,16 +1,16 @@
-# Senior Azure (devops) Engineer at Accenture
+# Senior Azure DevOps Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/Azure-Engineer--Dutch-speaker-_R00280310) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/Senior-Azure-DevOps-Engineer_R00333942) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-04-16.
+This devops engineer position at Accenture was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

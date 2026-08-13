@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Database Administration |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000109752536-staff-systems-engineer) |
+| Location | Toronto, Ontario, Canada |
+| Category | DevOps Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141764187-staff-systems-engineer) |
 
 ## About This Role
 
-This database administration position at ServiceNow was posted on 2026-02-17.
+This devops engineer position at ServiceNow was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

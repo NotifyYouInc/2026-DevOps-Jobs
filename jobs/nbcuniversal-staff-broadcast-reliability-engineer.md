@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Centennial, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000141351954-staff-broadcast-reliability-engineer) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000141527263-staff-broadcast-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at NBCUniversal was posted on 2026-08-03.
+This devops engineer position at NBCUniversal was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

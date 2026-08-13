@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Kolkata, West Bengal, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000118319127-system-engineer) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000141662550-system-engineer) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-04-02.
+This devops engineer position at IFS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

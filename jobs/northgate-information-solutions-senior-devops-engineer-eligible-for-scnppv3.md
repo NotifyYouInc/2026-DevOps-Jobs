@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000139555996-senior-devops-engineer-eligible-for-scnppv3) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000141750059-senior-devops-engineer-eligible-for-scnppv3) |
 
 ## About This Role
 
-This devops engineer position at Northgate Information Solutions was posted on 2026-07-24.
+This devops engineer position at Northgate Information Solutions was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

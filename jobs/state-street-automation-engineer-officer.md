@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Burlington, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Automation-Engineer--Officer_R-795401) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Automation-Engineer--Officer_R-795667-1) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-07-31.
+This devops engineer position at State Street was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

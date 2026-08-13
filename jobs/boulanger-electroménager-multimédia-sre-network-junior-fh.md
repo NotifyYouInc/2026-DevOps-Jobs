@@ -5,12 +5,12 @@
 | Company | [Boulanger Electroménager & Multimédia](https://scoutify.ai/companies/boulangerelectromnagermultimdia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lesquin, Hauts-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000123695249-sre-network-junior-fh) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Boulanger/744000141845629-sre-network-junior-fh) |
 
 ## About This Role
 
-This devops engineer position at Boulanger Electroménager & Multimédia was posted on 2026-04-29.
+This devops engineer position at Boulanger Electroménager & Multimédia was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

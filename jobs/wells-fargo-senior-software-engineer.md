@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Software-Engineer_R-561805) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Senior-Software-Engineer_R-563875) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-08-03.
+This devops engineer position at Wells Fargo was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

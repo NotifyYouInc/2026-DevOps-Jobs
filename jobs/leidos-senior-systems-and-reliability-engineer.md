@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Senior-Systems-and-Reliability-Engineer_R-00188717) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-04.
+This electrical / hardware engineer position at Leidos was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

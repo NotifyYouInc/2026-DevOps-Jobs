@@ -5,12 +5,12 @@
 | Company | [dili](https://scoutify.ai/companies/dili?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/mTPjPZe-devops-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/dili/jobs/mmx2Ckt-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at dili was posted on 2026-07-29.
+This devops engineer position at dili was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

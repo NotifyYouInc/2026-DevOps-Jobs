@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Joliet, Illinois, United States |
-| Category | Industrial Automation |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Joliet-Illinois-USA/Automation-Engineer-Apprentice_R328514) |
+| Location | Visalia, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Visalia---8817-W-Kibler-Ave/Automation-Engineer-Apprentice_R331404) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-07-28.
+This devops engineer position at Cushman & Wakefield was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

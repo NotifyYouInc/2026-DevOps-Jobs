@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Vice-President_JR118435) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Vice-President_JR120795-4) |
 
 ## About This Role
 
-This devops engineer position at National Australia Bank (NAB) was posted on 2026-06-10.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

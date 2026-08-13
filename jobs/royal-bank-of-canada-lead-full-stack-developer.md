@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Full-Stack-Developer_R-0000163643-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Full-Stack-Developer_R-0000182591) |
 
 ## About This Role
 
-This frontend engineer position at Royal Bank of Canada was posted on 2026-03-13.
+This devops engineer position at Royal Bank of Canada was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

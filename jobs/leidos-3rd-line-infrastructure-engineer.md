@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
-| Category | Technical Writer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Leominster-UK/XMLNAME-3rd-Line-Infrastructure-Engineer_R-00176779) |
+| Location | Huntingdon, England, United Kingdom |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Huntingdon-UK/XMLNAME-3rd-Line-Infrastructure-Engineer_R-00188692) |
 
 ## About This Role
 
-This technical writer position at Leidos was posted on 2026-02-24.
+This it & systems administration position at Leidos was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

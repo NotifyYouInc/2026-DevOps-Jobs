@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Getafe, Madrid, Spain |
-| Category | DevOps Engineer |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-04 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe/Low-Observability-Engineer_JR10431213-1) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-08-04.
+This electrical / hardware engineer position at Airbus was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

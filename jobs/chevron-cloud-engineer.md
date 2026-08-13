@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Cloud-Engineer_R000071857) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Houston-Texas-United-States-of-America/Cloud-Engineer_R000070827) |
 
 ## About This Role
 
-This security engineer position at Chevron was posted on 2026-06-10.
+This devops engineer position at Chevron was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

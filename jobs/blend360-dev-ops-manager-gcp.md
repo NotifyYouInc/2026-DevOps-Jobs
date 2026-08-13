@@ -5,12 +5,12 @@
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141426989-dev-ops-manager-gcp) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000141760739-dev-ops-manager-gcp) |
 
 ## About This Role
 
-This devops engineer position at Blend360 was posted on 2026-08-04.
+This devops engineer position at Blend360 was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

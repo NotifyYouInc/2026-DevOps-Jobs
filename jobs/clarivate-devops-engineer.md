@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/DevOps-Engineer_JREQ135205-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/DevOps-Engineer_JREQ136032) |
 
 ## About This Role
 
-This devops engineer position at Clarivate was posted on 2026-03-13.
+This devops engineer position at Clarivate was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

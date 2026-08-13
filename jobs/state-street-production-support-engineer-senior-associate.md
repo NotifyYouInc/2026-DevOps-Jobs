@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Berwyn, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Production-Support-Engineer--Senior-Associate_R-795470-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Berwyn-Pennsylvania/Production-Support-Engineer--Senior-Associate_R-794413) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-08-03.
+This devops engineer position at State Street was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
