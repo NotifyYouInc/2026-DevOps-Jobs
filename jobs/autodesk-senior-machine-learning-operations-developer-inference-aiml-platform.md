@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Senior-Machine-Learning-Operations-Developer--Inference--AI-ML-Platform_26WD99668-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Senior-Machine-Learning-Operations-Engineer---AI-ML-Platform_26WD94525-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-07-14.
+This devops engineer position at Autodesk was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

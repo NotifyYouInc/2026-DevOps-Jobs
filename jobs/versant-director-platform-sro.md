@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000135579780-director-platform-sro) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000141972508-director-platform-sro) |
 
 ## About This Role
 
-This devops engineer position at Versant was posted on 2026-07-02.
+This devops engineer position at Versant was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

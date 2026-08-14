@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Staff-Engineer-High-Performance-Computing_4958290-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---New-York---New-York-City/Staff-Engineer-High-Performance-Computing_4961722) |
 
 ## About This Role
 
-This devops engineer position at Pfizer was posted on 2026-06-08.
+This devops engineer position at Pfizer was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

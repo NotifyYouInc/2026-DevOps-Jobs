@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madison, Wisconsin, United States |
-| Category | Industrial Automation |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000255-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Wisconsin---Madison/Equipment-Automation-Engineer-I_35000251-1) |
 
 ## About This Role
 
-This industrial automation position at Abbott was posted on 2026-07-27.
+This devops engineer position at Abbott was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

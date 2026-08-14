@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hampton, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Senior-Linux-Engineer_R-00188674) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Senior-Linux-Engineer_R-00188911) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-03.
+This devops engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

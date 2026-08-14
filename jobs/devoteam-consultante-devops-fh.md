@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000116617085-consultante-devops-fh) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000142065631-consultante-devops-fh) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-03-25.
+This devops engineer position at Devoteam was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

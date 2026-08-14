@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Systems-Operations-Engineer---Technology-Major-Incident-Management_R-527684) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operations-Engineer---Technology-Major-Incident-Management_R-564076) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-03-19.
+This devops engineer position at Wells Fargo was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Minnesota, US |
+| Location | Texas, US |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MN---Work-from-home/Senior-Software-Development-Engineer_R0916589) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Software-Development-Engineer_R0990485) |
 
 ## About This Role
 
-This devops engineer position at CVS Health was posted on 2026-05-19.
+This devops engineer position at CVS Health was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

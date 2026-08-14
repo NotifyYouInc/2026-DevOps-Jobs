@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Belvoir, Virginia, United States |
-| Category | Technical Support Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Belvoir-VA/Cloud-Infrastructure-Support-Engineer--Senior_R0244799) |
+| Location | Charlottesville, Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charlottesville-VA/Cloud-Infrastructure-Support-Engineer--Senior_R0246261-1) |
 
 ## About This Role
 
-This technical support engineer position at Booz Allen was posted on 2026-07-20.
+This devops engineer position at Booz Allen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Oshkosh, Wisconsin, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/US-WI-Oshkosh-Harrison-Plant/Reliability-Engineer_R45657) |
+| Category | Data Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/US-WI-Oshkosh-Harrison-Plant/Reliability-Engineer_R47537) |
 
 ## About This Role
 
-This engineering manager position at Oshkosh was posted on 2026-04-07.
+This data analyst position at Oshkosh was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

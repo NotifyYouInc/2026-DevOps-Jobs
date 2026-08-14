@@ -1,16 +1,16 @@
-# Senior Software Developer, Delivery Platform at wealthsimple
+# Senior Software Developer, Delivery Platform at Wealthsimple
 
 | Field | Details |
 |-------|---------|
-| Company | [wealthsimple](https://scoutify.ai/companies/wealthsimple-wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Wealthsimple](https://scoutify.ai/companies/wealthsimple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/d91b2292-6227-4194-b112-42f0e85df6b4) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/wealthsimple/68e0b248-0762-48a6-af51-a984396470a2) |
 
 ## About This Role
 
-This devops engineer position at wealthsimple was posted on 2026-02-10.
+This devops engineer position at Wealthsimple was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

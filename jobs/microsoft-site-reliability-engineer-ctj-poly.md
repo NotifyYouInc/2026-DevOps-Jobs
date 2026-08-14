@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868612) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556957397) |
 
 ## About This Role
 
-This devops engineer position at Microsoft was posted on 2026-05-22.
+This devops engineer position at Microsoft was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

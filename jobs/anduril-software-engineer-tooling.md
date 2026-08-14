@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Collins, Colorado, United States |
-| Category | Software Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5131150007?gh_jid=5131150007) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007) |
 
 ## About This Role
 
-This software engineer position at Anduril was posted on 2026-06-24.
+This devops engineer position at Anduril was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

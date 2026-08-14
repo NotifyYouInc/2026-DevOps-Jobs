@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wrike](https://scoutify.ai/companies/wrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cyprus |
+| Location | Nicosia, Nicosia, Cyprus |
 | Category | Database Administration |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4721397005) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wrike/jobs/4722160005) |
 
 ## About This Role
 
-This database administration position at Wrike was posted on 2026-08-05.
+This database administration position at Wrike was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

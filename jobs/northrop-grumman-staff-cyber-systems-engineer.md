@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Diego, California, United States |
+| Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Staff-Cyber-Systems-Engineer_R10241803) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Staff-Cyber-Systems-Engineer_R10244315) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-07-23.
+This devops engineer position at Northrop Grumman was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

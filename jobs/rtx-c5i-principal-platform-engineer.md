@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tewksbury, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/C5I-Principal-Platform-Engineer_01845649) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/C5I-Principal-Platform-Engineer_01865116) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-05-14.
+This devops engineer position at RTX was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

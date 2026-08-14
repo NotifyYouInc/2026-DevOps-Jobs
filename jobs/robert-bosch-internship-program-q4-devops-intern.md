@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000140817139-internship-program-q4-devops-intern) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142038969-internship-program-q4-devops-intern) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-07-31.
+This devops engineer position at Robert Bosch was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

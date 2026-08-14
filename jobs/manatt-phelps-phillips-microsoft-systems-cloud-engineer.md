@@ -5,12 +5,12 @@
 | Company | [Manatt Phelps & Phillips](https://scoutify.ai/companies/manatt-phelps-phillips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Tampa/Microsoft-Systems-Cloud-Engineer_JR100539-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://manatt.wd1.myworkdayjobs.com/manatt_global_careers/job/Tampa/Microsoft-Systems-Cloud-Engineer_JR100595) |
 
 ## About This Role
 
-This it & systems administration position at Manatt Phelps & Phillips was posted on 2026-05-26.
+This it & systems administration position at Manatt Phelps & Phillips was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

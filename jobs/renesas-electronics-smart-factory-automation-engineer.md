@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000136862029-smart-factory-automation-engineer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142064424-smart-factory-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-07-09.
+This devops engineer position at Renesas Electronics was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meilleurtaux](https://scoutify.ai/companies/meilleurtaux?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000136024679-platform-engineer-senior-hf) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meilleurtaux/744000141913694-platform-engineer-senior-hf) |
 
 ## About This Role
 
-This devops engineer position at Meilleurtaux was posted on 2026-07-06.
+This devops engineer position at Meilleurtaux was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

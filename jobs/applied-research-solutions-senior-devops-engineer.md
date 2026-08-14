@@ -5,12 +5,12 @@
 | Company | [Applied Research Solutions](https://scoutify.ai/companies/recruiting-ultipro-com-oj7520?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=7041682b-da44-4022-9040-81c502fb671f) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=ae96ea81-030d-4020-9ada-1a9ec956a69b) |
 
 ## About This Role
 
-This devops engineer position at Applied Research Solutions was posted on 2026-06-29.
+This devops engineer position at Applied Research Solutions was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

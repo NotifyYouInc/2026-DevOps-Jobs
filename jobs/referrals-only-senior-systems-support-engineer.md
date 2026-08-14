@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Referrals Only](https://scoutify.ai/companies/referrals-only?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Porto Alegre, Rio Grande do Sul, Brazil |
-| Category | Technical Support Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7988370) |
+| Location | Cincinnati, Ohio, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8082477) |
 
 ## About This Role
 
-This technical support engineer position at Referrals Only was posted on 2026-06-12.
+This devops engineer position at Referrals Only was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

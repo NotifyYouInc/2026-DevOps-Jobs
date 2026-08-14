@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-Victoria-Australia/Senior-DevSecOps-Engineer_R-00188512) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Senior-DevSecOps-Engineer_R-00188964) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-31.
+This devops engineer position at Leidos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

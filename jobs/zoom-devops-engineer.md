@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote-IND/DevOps-Engineer_R19087-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/Remote--US/DevOps-Engineer_R19515-1) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-06-24.
+This devops engineer position at Zoom was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1132517168952699) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/4468178560134387) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Meta was posted on 2026-03-24.
+This electrical / hardware engineer position at Meta was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

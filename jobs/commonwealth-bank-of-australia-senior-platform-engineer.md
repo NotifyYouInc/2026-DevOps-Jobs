@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Bangalore---Manyata-Tech-Park-Road/Senior-Platform-Engineer_REQ258748) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/VIC-CBD-Melbourne-Area/Senior-Platform-Engineer_REQ263606) |
 
 ## About This Role
 
-This devops engineer position at Commonwealth Bank of Australia was posted on 2026-05-15.
+This devops engineer position at Commonwealth Bank of Australia was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

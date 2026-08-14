@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead--Site-Reliability-Engineer--Infrastructure-operations-_R-277212) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Lead--Site-Reliability-Engineer--Infrastructure-operations-_R-286469) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-07.
+This devops engineer position at Mastercard was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

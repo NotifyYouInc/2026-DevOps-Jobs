@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000130495139-senior-platform-engineer-azure) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000141915196-senior-platform-engineer-azure) |
 
 ## About This Role
 
-This devops engineer position at Legal & General was posted on 2026-06-05.
+This devops engineer position at Legal & General was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

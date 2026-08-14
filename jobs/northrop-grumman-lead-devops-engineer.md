@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Engineering Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Manchester/Lead-DevOps-Engineer_R10222188-1) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-London/Lead-DevOps-Engineer_R10215374-1) |
 
 ## About This Role
 
-This engineering manager position at Northrop Grumman was posted on 2026-03-04.
+This devops engineer position at Northrop Grumman was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

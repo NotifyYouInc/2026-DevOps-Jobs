@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Engineer-I--IT-Cloud_Req-49235) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Engineer-I--IT-Cloud_Req-49234) |
 
 ## About This Role
 
-This devops engineer position at Edwards Lifesciences was posted on 2026-07-10.
+This devops engineer position at Edwards Lifesciences was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
