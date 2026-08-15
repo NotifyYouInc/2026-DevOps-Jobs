@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berkeley, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/DevSecOps-Agile-Leaders--Experienced-and-Senior-_JR2026515186-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/DevSecOps-Agile-Leaders--Experienced-and-Senior-_JR2026521607-1) |
 
 ## About This Role
 
-This devops engineer position at Boeing was posted on 2026-07-01.
+This devops engineer position at Boeing was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138593923-kubernetes-engineer-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000142161919-kubernetes-engineer-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-07-20.
+This devops engineer position at Devoteam was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

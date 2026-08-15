@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000140984799-automation-engineer-iv) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000142183829-automation-engineer-iv) |
 
 ## About This Role
 
-This devops engineer position at CRB was posted on 2026-07-31.
+This devops engineer position at CRB was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Zoom](https://scoutify.ai/companies/zoom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Staff-Infrastructure-Engineer--IAM-and-Cloud-Services-_R19309) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Staff-Infrastructure-Engineer--IAM-and-Cloud-Services-_R19521) |
 
 ## About This Role
 
-This devops engineer position at Zoom was posted on 2026-07-01.
+This devops engineer position at Zoom was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

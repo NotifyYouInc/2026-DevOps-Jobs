@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Orlando, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Senior-Network-Engineer_R-00187945-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Senior-Network-Engineer_R-00189015) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-23.
+This devops engineer position at Leidos was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

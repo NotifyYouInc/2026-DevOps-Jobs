@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appfire](https://scoutify.ai/companies/appfire?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | Industrial Automation |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/appfire/jobs/4667233005) |
+| Location | Spain |
+| Category | DevOps Engineer |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/appfire/jobs/4722192005) |
 
 ## About This Role
 
-This industrial automation position at Appfire was posted on 2026-04-24.
+This devops engineer position at Appfire was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

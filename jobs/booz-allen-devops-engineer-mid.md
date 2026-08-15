@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Redstone Arsenal, Alabama, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0245245) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Redstone-Arsenal-AL/DevOps-Engineer--Mid_R0246269-1) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-07-24.
+This devops engineer position at Booz Allen was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

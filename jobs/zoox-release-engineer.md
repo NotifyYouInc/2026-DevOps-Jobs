@@ -5,12 +5,12 @@
 | Company | [Zoox](https://scoutify.ai/companies/zoox?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Foster City, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/zoox/89410e34-6554-4d41-89e3-35f403d72fe8) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.lever.co/zoox/89d5927e-db67-443b-9dd2-53d367c11f9b) |
 
 ## About This Role
 
-This devops engineer position at Zoox was posted on 2026-06-01.
+This devops engineer position at Zoox was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

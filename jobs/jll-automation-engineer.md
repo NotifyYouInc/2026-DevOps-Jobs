@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brookshire, Texas, United States |
+| Location | Oak Creek, Wisconsin, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Brookshire-TX/Automation-Engineer_REQ525286-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Oak-Creek-WI/Automation-Engineer_REQ526661) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-04.
+This devops engineer position at JLL was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

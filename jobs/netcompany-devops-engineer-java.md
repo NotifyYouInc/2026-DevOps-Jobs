@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000141288627-devops-engineer-java) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000142092013-devops-engineer-java) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-08-03.
+This devops engineer position at Netcompany was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

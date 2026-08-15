@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TOPdesk](https://scoutify.ai/companies/topdesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kaiserslautern, Rheinland-Pfalz, Germany |
+| Location | Budapest, Budapest, Hungary |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000141687725-senior-infrastructure-engineer) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/topdesk/744000141910549-senior-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at TOPdesk was posted on 2026-08-05.
+This devops engineer position at TOPdesk was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

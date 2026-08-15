@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138779519-tech-leader-observabilite-hf) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000142161159-tech-leader-observabilite-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-07-21.
+This devops engineer position at Devoteam was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
