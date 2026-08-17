@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fronius](https://scoutify.ai/companies/fronius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Thalheim bei Wels, Upper Austria, Austria |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Thalheim-bei-Wels/Data-Platform-Engineer--m-w-d-_REQ-10009475-2) |
 
 ## About This Role
 
-This devops engineer position at Fronius was posted on 2026-08-06.
+This data engineer position at Fronius was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

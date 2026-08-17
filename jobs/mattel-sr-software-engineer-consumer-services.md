@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000141838940-sr-software-engineer-consumer-services) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000141889710-sr-software-engineer-consumer-services) |
 
 ## About This Role
 

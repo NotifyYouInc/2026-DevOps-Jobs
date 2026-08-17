@@ -1,16 +1,16 @@
-# DevOps Engineer  at Endava
+# DevOps Engineer at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000115533027-devops-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142565669-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-03-18.
+This devops engineer position at Endava was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

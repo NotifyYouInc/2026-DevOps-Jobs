@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/GCO-Technology-Data---Analytics-Associate-Director_R-251657) |
 
 ## About This Role
 
-This devops engineer position at Amgen was posted on 2026-08-06.
+This data engineer position at Amgen was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

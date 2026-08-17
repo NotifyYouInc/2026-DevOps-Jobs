@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Collibra](https://scoutify.ai/companies/collibra?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8013670) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.collibra.com/us/en/company/careers/job-listing/?gh_jid=8112006) |
 
 ## About This Role
 
-This devops engineer position at Collibra was posted on 2026-06-19.
+This devops engineer position at Collibra was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

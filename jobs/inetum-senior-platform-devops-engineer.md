@@ -6,7 +6,7 @@
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000141867122-senior-platform-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000141942299-senior-platform-devops-engineer) |
 
 ## About This Role
 

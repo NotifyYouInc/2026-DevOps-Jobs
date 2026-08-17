@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://flix.careers/job/8690650002?gh_jid=8690650002) |
 
 ## About This Role
 
-This devops engineer position at Flix was posted on 2026-08-07.
+This data engineer position at Flix was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

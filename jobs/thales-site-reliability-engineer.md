@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Noida/Site-Reliability-Engineer_R0331421-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/Site-Reliability-Engineer_R0336474-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-07-21.
+This devops engineer position at Thales was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

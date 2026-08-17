@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth.com.au?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Heidi Health](https://scoutify.ai/companies/heidihealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | AI / LLM Engineer |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/5ecbe1b3-5649-4592-ba98-ee7f9fd1c84d) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/heidihealth.com.au/4f287875-c13f-483c-af50-d48f7d637d73) |
 
 ## About This Role
 
-This ai / llm engineer position at Heidi Health was posted on 2026-03-16.
+This ai / llm engineer position at Heidi Health was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

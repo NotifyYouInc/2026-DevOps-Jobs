@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | DevOps Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Senior-Infrastructure-Automation-Engineer---Silicon-Co-Design-Group_JR2020805) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-08-07.
+This semiconductor / chip design position at Nvidia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

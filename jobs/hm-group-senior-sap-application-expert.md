@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000140379509-senior-sap-application-expert) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000142559262-senior-sap-application-expert) |
 
 ## About This Role
 
-This devops engineer position at H&M Group was posted on 2026-07-29.
+This devops engineer position at H&M Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

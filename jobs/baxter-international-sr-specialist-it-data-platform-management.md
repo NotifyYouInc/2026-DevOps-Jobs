@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baxter International](https://scoutify.ai/companies/baxter-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://baxter.wd1.myworkdayjobs.com/baxter/job/Guadalajara-Jalisco/Sr-Specialist--IT-Data-Platform-Management_JR-207320) |
 
 ## About This Role
 
-This devops engineer position at Baxter International was posted on 2026-08-07.
+This data engineer position at Baxter International was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
