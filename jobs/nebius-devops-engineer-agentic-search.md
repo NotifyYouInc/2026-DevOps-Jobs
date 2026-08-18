@@ -5,12 +5,12 @@
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Israel |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4856667101) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4948062101) |
 
 ## About This Role
 
-This devops engineer position at Nebius was posted on 2026-05-18.
+This devops engineer position at Nebius was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

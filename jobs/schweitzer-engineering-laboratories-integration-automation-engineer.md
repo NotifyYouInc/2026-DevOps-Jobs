@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Schweitzer Engineering Laboratories](https://scoutify.ai/companies/selinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
-| Category | Industrial Automation |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/North-Carolina---Charlotte/Integration---Automation-Engineer_2026-19786) |
+| Location | King of Prussia, Pennsylvania, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Integration---Automation-Engineer_2026-22621) |
 
 ## About This Role
 
-This industrial automation position at Schweitzer Engineering Laboratories was posted on 2026-03-03.
+This devops engineer position at Schweitzer Engineering Laboratories was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

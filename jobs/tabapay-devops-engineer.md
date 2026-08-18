@@ -5,12 +5,12 @@
 | Company | [TabaPay](https://scoutify.ai/companies/tabapay?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://tabapay.com/careers.html?gh_jid=4598347006) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://tabapay.com/careers?gh_jid=4702751006) |
 
 ## About This Role
 
-This devops engineer position at TabaPay was posted on 2026-02-20.
+This devops engineer position at TabaPay was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

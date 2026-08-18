@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Toronto-ON/AI-Platform-Engineer---DevOps_JR1041211) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Halifax-NS/AI-Platform-Engineer---DevOps_JR1042960) |
 
 ## About This Role
 
-This devops engineer position at Synechron was posted on 2026-06-24.
+This devops engineer position at Synechron was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

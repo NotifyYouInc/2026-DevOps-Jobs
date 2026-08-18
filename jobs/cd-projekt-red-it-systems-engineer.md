@@ -5,12 +5,12 @@
 | Company | [CD PROJEKT RED](https://scoutify.ai/companies/cd-projekt-red?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000136730510-it-systems-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cdprojektred/744000142627079-it-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at CD PROJEKT RED was posted on 2026-07-09.
+This devops engineer position at CD PROJEKT RED was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

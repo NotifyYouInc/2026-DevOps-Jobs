@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Beijing, Beijing, China |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Louis-Missouri/Site-Reliability-Engineer_R0121776-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Site-Reliability-Engineer_R0122116) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-07-22.
+This devops engineer position at LSEG was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

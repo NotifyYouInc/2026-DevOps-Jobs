@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hilversum, North Holland, The Netherlands |
-| Category | Security Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000129494750-devops-engineer-high-secure-platform) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000142600951-devops-engineer-high-secure-platform) |
 
 ## About This Role
 
-This security engineer position at KPN was posted on 2026-06-01.
+This devops engineer position at KPN was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

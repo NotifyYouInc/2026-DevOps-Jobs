@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vendor---Pune-India-Fulcrum/Site-Reliability-Engineer-I_R-271674) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-I_R-286909-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-06-25.
+This devops engineer position at Mastercard was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

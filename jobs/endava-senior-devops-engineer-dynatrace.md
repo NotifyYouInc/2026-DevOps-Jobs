@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000138151835-senior-devops-engineer-dynatrace) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142703459-senior-devops-engineer-dynatrace) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-07-16.
+This devops engineer position at Endava was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

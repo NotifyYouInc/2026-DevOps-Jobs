@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ramat Gan, Tel Aviv, Israel |
-| Category | Software Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ2cQcHMD0FVyjOora7djqoF4-3f-iWBjm68q3qz8Ux7EjsA1Ny_i0x_X97GeZJrf0j-zBZvQNbAywNTurqaliW1HJEPNUgOUbcOByyNJsEXor7G3MBGH8otzMDFMw%3D%3D_V2&loc=IL&title=Software+Engineer+III) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQoSyAo5Ef2yaJ4ox-RylmIH62FoAi6RspJmK_28L7B-EjsA1Ny_izlQojeGgWxITG0GIeAolh7jK6XBprgrW0VkPd3emlcWOLyA78z8dHPIH793kGUq7_kd2nnVfg%3D%3D_V2&loc=IL&title=Software+Engineer+III) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-06-30.
+This devops engineer position at Google was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

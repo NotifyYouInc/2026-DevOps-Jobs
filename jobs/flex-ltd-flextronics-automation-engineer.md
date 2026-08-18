@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Automation-Engineer_WD225511) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Automation-Engineer_WD226928) |
 
 ## About This Role
 
-This devops engineer position at FLEX LTD. Flextronics was posted on 2026-07-23.
+This devops engineer position at FLEX LTD. Flextronics was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

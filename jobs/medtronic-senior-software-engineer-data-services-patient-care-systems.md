@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Galway, Connacht, Ireland |
-| Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Software-Engineer---Data-Services--Patient-Care-Systems-_R61602) |
+| Category | Data Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Senior-Software-Engineer---Data-Services--Patient-Care-Systems-_R61297) |
 
 ## About This Role
 
-This devops engineer position at Medtronic was posted on 2026-03-13.
+This data engineer position at Medtronic was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

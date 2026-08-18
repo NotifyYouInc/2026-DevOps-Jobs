@@ -5,12 +5,12 @@
 | Company | [Hôpitaux Universitaires de Genève](https://scoutify.ai/companies/hug?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Carouge, Geneva, Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HUG/744000140841769-ingenieure-ou-ingenieur-systeme-100) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HUG/744000142582829-ingenieure-ou-ingenieur-systeme-100) |
 
 ## About This Role
 
-This devops engineer position at Hôpitaux Universitaires de Genève was posted on 2026-07-31.
+This devops engineer position at Hôpitaux Universitaires de Genève was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

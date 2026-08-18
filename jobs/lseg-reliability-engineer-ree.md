@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Reliability-Engineer----REE-_R0122020) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-08-07.
+This customer success position at LSEG was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

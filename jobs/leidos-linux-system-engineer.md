@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Linux-System-Engineer_R-00181074) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Oklahoma-City-OK/Linux-System-Engineer_R-00189163) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-16.
+This devops engineer position at Leidos was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

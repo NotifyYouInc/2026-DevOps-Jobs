@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magna](https://scoutify.ai/companies/magna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Troy, Michigan, United States |
-| Category | Industrial Automation |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Troy-Michigan-US/Controls---Automation-Engineer_R00242697) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://magna.wd3.myworkdayjobs.com/magna/job/Troy-Michigan-US/Controls---Automation-Engineer_R00254986-1) |
 
 ## About This Role
 
-This industrial automation position at Magna was posted on 2026-05-21.
+This devops engineer position at Magna was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

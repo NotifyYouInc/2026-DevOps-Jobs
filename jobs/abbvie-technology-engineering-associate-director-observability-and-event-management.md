@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Field & Event Marketing |
+| Category | DevOps Engineer |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014504486-technology-engineering-associate-director-observability-and-event-management) |
 
 ## About This Role
 
-This field & event marketing position at AbbVie was posted on 2026-08-07.
+This devops engineer position at AbbVie was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

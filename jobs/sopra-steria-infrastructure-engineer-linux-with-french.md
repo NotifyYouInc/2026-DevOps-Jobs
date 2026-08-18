@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Katowice, Silesia, Poland |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140452851-infrastructure-engineer-linux-with-french) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142595129-infrastructure-engineer-linux-with-french) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-07-29.
+This it & systems administration position at Sopra Steria was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

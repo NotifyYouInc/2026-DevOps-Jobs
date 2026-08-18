@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philippines |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/DevSecOps-Engineer--Senior-Associate_R0120437-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/DevSecOps-Engineer--Senior-Associate_R0121780-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-06-24.
+This devops engineer position at LSEG was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

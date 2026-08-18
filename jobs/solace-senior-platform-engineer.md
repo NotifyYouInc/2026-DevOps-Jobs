@@ -5,12 +5,12 @@
 | Company | [Solace](https://scoutify.ai/companies/solace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/solace/8dd0b019-9a70-4e20-bc06-d9f737cafc12) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/solace/cae03f74-44a4-484c-8613-143e875f9c9f) |
 
 ## About This Role
 
-This devops engineer position at Solace was posted on 2026-02-24.
+This devops engineer position at Solace was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Associate-Engineer--Application-Management_R0121002-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Colombo-Sri-Lanka/Associate-Engineer--Application-Management_R0121561) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-07-13.
+This devops engineer position at LSEG was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

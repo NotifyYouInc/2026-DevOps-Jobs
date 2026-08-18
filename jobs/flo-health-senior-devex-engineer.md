@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flo Health](https://scoutify.ai/companies/flo-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/flohealth/jobs/7658126003) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/flohealth/jobs/7835367003) |
 
 ## About This Role
 
-This devops engineer position at Flo Health was posted on 2026-04-08.
+This devops engineer position at Flo Health was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

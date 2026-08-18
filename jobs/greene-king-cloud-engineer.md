@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000141927159-cloud-engineer) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000142601130-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Greene King was posted on 2026-08-06.
+This devops engineer position at Greene King was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 
