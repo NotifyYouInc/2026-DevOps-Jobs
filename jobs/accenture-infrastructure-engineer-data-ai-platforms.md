@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Riga, Riga, Latvia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Infrastructure-Engineer---Data---AI-Platforms_R00344072) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/Infrastructure-Engineer---Data---AI-Platforms_R00319497-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-16.
+This devops engineer position at Accenture was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

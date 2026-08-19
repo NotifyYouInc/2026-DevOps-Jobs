@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/BangaloreIND/Automation-Engineer_R2623772) |
+| Location | Tainan, Taiwan, Taiwan |
+| Category | DevOps Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TainanTWN/Automation-Engineer_R2624240) |
 
 ## About This Role
 
-This industrial automation position at Applied Materials was posted on 2026-07-29.
+This devops engineer position at Applied Materials was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

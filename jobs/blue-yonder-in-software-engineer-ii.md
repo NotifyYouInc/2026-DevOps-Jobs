@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/IN-Software-Engineer-II_253812) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Hyderabad/IN-Software-Engineer-II_262618) |
 
 ## About This Role
 
-This devops engineer position at Blue Yonder was posted on 2026-03-10.
+This devops engineer position at Blue Yonder was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

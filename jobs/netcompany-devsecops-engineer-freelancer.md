@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Strasbourg, Grand Est, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000140847040-devsecops-engineer-freelancer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000142815011-devsecops-engineer-freelancer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-07-31.
+This devops engineer position at Netcompany was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

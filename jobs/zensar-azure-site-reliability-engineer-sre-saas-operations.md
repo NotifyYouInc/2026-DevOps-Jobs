@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#148611_2) |
 
 ## About This Role
 
-This database administration position at Zensar was posted on 2026-08-11.
+This devops engineer position at Zensar was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

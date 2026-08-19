@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Georgia, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Georgia-USA---Remote/Network-Engineer_26WD95014-2) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Bengaluru-IND/Principal-Network-Engineer_26WD100250-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-02-24.
+This devops engineer position at Autodesk was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Director, Head SRE and Production Operations at Royal Bank of Canada
+# Senior Director, Head, SRE and Production Operations at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Operations |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Director--Head-SRE-and-Production-Operations_R-0000158180-2) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Director--Head--SRE-and-Production-Operations_R-0000183821-1) |
 
 ## About This Role
 
-This operations position at Royal Bank of Canada was posted on 2026-02-07.
+This devops engineer position at Royal Bank of Canada was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

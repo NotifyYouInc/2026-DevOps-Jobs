@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Oak Creek, Wisconsin, United States |
+| Location | Apopka, Florida, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Oak-Creek-WI/Automation-Engineer_REQ526661) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Apopka-FL/Automation-Engineer_REQ524640) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-07.
+This devops engineer position at JLL was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000141083889-staff-devops-engineer-federal) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142977046-staff-devops-engineer-federal) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-08-01.
+This devops engineer position at ServiceNow was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

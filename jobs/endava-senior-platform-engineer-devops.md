@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000139197429-senior-platform-engineer-devops) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142818759-senior-platform-engineer-devops) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-07-23.
+This devops engineer position at Endava was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

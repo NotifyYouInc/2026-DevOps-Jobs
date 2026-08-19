@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chantilly, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Systems-Engineer-Expert_R-00185127) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Systems-Engineer-Expert_R-00189372) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-09.
+This devops engineer position at Leidos was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

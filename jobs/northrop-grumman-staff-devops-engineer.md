@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Staff-DevOps-Engineer_R10241738) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Staff-DevOps-Engineer_R10245186) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-07-22.
+This devops engineer position at Northrop Grumman was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

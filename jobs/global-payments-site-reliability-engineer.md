@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Warsaw-Poland/Site-Reliability-Engineer_R0065990-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Site-Reliability-Engineer_R0073736-1) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-04-14.
+This devops engineer position at Global Payments was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

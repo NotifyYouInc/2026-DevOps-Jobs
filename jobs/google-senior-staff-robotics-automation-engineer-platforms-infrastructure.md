@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckVDlL6j0I3jUdmdF8Ow4h55rhG460Q1g_n8h3CyVF_GUEjoA1Ny_i2UKNmFppwz1KQZxF4CTS0HzK2lASqfxiriNmirqfAbeZnw5RA1NTjJQ5M3jipIH7kaG6TIi_V2&loc=US&title=Senior+Staff+Robotics+Automation+Engineer) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckSqbKoNDC-FaeBagbKJxnZtqCwGYAmhEou_6rCJN5dPhEjoA1Ny_i8ZFdgaTTvv8oFHOUv5CYEBDUL9mU89aMQB6KrIPujN09i8G--v6Ihq6MedGQAIBqM2CJLAV_V2&loc=US&title=Senior+Staff+Robotics+Automation+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-07-09.
+This devops engineer position at Google was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Cloud-Engineer_R-00188587) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Cloud-Engineer_R-00189330-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-31.
+This devops engineer position at Leidos was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SCOR](https://scoutify.ai/companies/ocs-cx-oj97530?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ilfov, RO |
+| Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2025-09-18 |
-| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4249) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4246) |
 
 ## About This Role
 
-This devops engineer position at SCOR was posted on 2025-09-18.
+This devops engineer position at SCOR was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

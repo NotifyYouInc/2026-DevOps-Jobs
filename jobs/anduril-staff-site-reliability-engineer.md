@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Costa Mesa, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5176769007?gh_jid=5176769007) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5201151007?gh_jid=5201151007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-06-30.
+This devops engineer position at Anduril was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

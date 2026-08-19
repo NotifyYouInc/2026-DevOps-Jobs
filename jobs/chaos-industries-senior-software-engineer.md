@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5189955007) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5209448007) |
 
 ## About This Role
 
-This software engineer position at CHAOS Industries was posted on 2026-07-17.
+This devops engineer position at CHAOS Industries was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
