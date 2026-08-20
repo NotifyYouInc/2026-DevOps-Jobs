@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maharashtra, IN |
-| Category | DevOps Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Maharashtra-India/Sr-Engineer--DevSecOps-IoT-_R1315002) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-08-11.
+This embedded / firmware engineer position at Danaher was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

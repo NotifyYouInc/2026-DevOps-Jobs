@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ringcentral](https://scoutify.ai/companies/ringcentral?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belmont, California, United States |
+| Location | Denver, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Belmont-California/Network-Engineer--NetOps-Infrastructure_R078389) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ringcentral.wd1.myworkdayjobs.com/ringcentral_careers/job/Denver-Colorado/Network-Engineer--NetOps-Infrastructure_R078407) |
 
 ## About This Role
 
-This devops engineer position at Ringcentral was posted on 2026-08-06.
+This devops engineer position at Ringcentral was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

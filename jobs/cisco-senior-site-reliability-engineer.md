@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Senior-Site-Reliability-Engineer_2020341) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Senior-Site-Reliability-Engineer_2020487-1) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-07-31.
+This devops engineer position at Cisco was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

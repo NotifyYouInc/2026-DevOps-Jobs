@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Lead-Automation-Engineer_J2460988-1) |
 
 ## About This Role
 
-This devops engineer position at Jabil was posted on 2026-08-11.
+This industrial automation position at Jabil was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

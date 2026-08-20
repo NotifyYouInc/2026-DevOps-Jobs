@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ciena](https://scoutify.ai/companies/ciena?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Pune/DevOps-Engineer_R030712) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ciena.wd5.myworkdayjobs.com/Careers/job/Gurugram/Software-Engineer-2b_R030250) |
 
 ## About This Role
 
-This devops engineer position at Ciena was posted on 2026-04-23.
+This devops engineer position at Ciena was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

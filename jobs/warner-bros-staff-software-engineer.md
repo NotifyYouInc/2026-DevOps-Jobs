@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros.](https://scoutify.ai/companies/warnerbros?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Stockholm, Stockholm, Sweden |
+| Location | Bellevue, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Stockholm-Tegeluddsvgen-80/Staff-Software-Engineer_R000099122) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/WA-Bellevue-205-108th-Avenue-NE-Suite-S200/Staff-Software-Engineer_R000107437) |
 
 ## About This Role
 
-This devops engineer position at Warner Bros. was posted on 2026-05-21.
+This devops engineer position at Warner Bros. was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

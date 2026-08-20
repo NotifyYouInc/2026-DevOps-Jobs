@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irving, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Irving-TX/Automation-Engineer---Power-Automate-Unattended_2026-0024818) |
 
 ## About This Role
 
-This devops engineer position at U.S. Bancorp was posted on 2026-08-11.
+This industrial automation position at U.S. Bancorp was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

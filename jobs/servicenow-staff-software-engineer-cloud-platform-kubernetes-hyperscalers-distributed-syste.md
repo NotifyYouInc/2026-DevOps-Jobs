@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000142057526-staff-software-engineer-cloud-platform-kubernetes-hyperscalers-distributed-systems) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000143152039-staff-software-engineer-cloud-platform-kubernetes-hyperscalers-distributed-systems) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-08-07.
+This devops engineer position at ServiceNow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5167021007) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5204725007) |
 
 ## About This Role
 
-This devops engineer position at Clarity Innovations was posted on 2026-06-29.
+This devops engineer position at Clarity Innovations was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Camping World](https://scoutify.ai/companies/campingworld?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lincolnshire, Illinois, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/AI-Platform-Engineer_26_04883) |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://campingworld.wd5.myworkdayjobs.com/Jobs/job/Lincolnshire-IL/AI-Platform-Engineer_26_07740-1) |
 
 ## About This Role
 
-This devops engineer position at Camping World was posted on 2026-05-15.
+This ai / llm engineer position at Camping World was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

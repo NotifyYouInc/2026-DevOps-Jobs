@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Changning, Shanghai, China |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137402059-sr-dev-ops-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000143220369-sr-dev-ops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-07-13.
+This devops engineer position at Renesas Electronics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

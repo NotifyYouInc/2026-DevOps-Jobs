@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bern, Bern, Switzerland |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Zurich/IaaS-Automation-Engineer_R-0006245) |
 
 ## About This Role
 
-This devops engineer position at Swisscom was posted on 2026-08-11.
+This industrial automation position at Swisscom was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

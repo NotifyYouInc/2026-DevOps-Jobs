@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Senior-Anaplan-Developer--IT_Req-48432) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/India-Pune/Senior-Anaplan-Developer--IT_Req-49813) |
 
 ## About This Role
 
-This devops engineer position at Edwards Lifesciences was posted on 2026-06-11.
+This devops engineer position at Edwards Lifesciences was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brooklyn, New York, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014532476-principal-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at City of New York was posted on 2026-08-11.
+This industrial automation position at City of New York was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Graviton Research Capital](https://scoutify.ai/companies/gravitonresearchcapital?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8185148002?gh_jid=8185148002) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://boards.greenhouse.io/gravitonresearchcapital/jobs/8699031002?gh_jid=8699031002) |
 
 ## About This Role
 
-This devops engineer position at Graviton Research Capital was posted on 2026-04-13.
+This devops engineer position at Graviton Research Capital was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

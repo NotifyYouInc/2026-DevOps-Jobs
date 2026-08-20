@@ -5,12 +5,12 @@
 | Company | [Turnitin](https://scoutify.ai/companies/turnitin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000131188169-principal-devops-engineer-poland-remote) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnitinLLC/744000143167429-principal-devops-engineer-poland-remote) |
 
 ## About This Role
 
-This devops engineer position at Turnitin was posted on 2026-06-09.
+This devops engineer position at Turnitin was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Apopka, Florida, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Apopka-FL/Automation-Engineer_REQ524640) |
+| Location | Ankeny, Iowa, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ankeny-IA/Automation-Engineer_REQ528427) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-11.
+This industrial automation position at JLL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

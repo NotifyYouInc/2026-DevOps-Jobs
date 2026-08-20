@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8097766?gh_jid=8097766) |
 
 ## About This Role
 
-This devops engineer position at HelloFresh was posted on 2026-08-11.
+This industrial automation position at HelloFresh was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

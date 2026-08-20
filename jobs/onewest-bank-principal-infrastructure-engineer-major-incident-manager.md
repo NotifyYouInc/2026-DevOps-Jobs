@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OneWest Bank](https://scoutify.ai/companies/onewest-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://svb.wd5.myworkdayjobs.com/firstcitizensindia/job/Bangalore-India/Principal-Infrastructure-Engineer---Major-Incident-Manager_24777-1) |
 
 ## About This Role
 
-This devops engineer position at OneWest Bank was posted on 2026-08-11.
+This cybersecurity engineer position at OneWest Bank was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IKO](https://scoutify.ai/companies/iko?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brampton, Ontario, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Brampton-ON/Reliability-Engineer_REQ-13623) |
+| Location | Madoc, Ontario, Canada |
+| Category | Industrial Automation |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Madoc-ON/Reliability-Engineer_REQ-13488) |
 
 ## About This Role
 
-This devops engineer position at IKO was posted on 2026-08-10.
+This industrial automation position at IKO was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

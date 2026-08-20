@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Windows-Systems-Automation-Engineer_R0246488) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-12.
+This industrial automation position at Booz Allen was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

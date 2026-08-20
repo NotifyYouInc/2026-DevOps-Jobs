@@ -1,16 +1,16 @@
-# Cloud SW QA and Automation Engineer at Hewlett Packard Enterprise
+# Cloud SW QA and automation Engineer at Hewlett Packard Enterprise
 
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Cloud-SW-QA-and-Automation-Engineer_1206179) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/Cloud-SW-QA-and-automation-Engineer_1210293) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-05-06.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

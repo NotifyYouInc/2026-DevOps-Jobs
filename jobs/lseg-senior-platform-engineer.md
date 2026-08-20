@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gdynia, Pomerania, Poland |
-| Category | Software Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/POL-Gdynia-3T-Office-Park-Tower-C/Senior-Platform-Engineer_R0121393) |
+| Location | St. Louis, Missouri, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Louis-Missouri/Senior-Platform-Engineer_R0122111) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-07-16.
+This devops engineer position at LSEG was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

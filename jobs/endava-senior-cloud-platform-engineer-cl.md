@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000142050179-senior-cloud-platform-engineer-cl) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000143227445-senior-cloud-platform-engineer-cl) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-08-07.
+This devops engineer position at Endava was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

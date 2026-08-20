@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redhorsecorp](https://scoutify.ai/companies/redhorsecorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.lever.co/redhorsecorp/21e2c728-87da-408c-9acc-6affba1ee33a) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.lever.co/redhorsecorp/6a68d0e1-1358-4342-97fb-d852004d7903) |
 
 ## About This Role
 
-This devops engineer position at Redhorsecorp was posted on 2026-08-10.
+This devops engineer position at Redhorsecorp was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

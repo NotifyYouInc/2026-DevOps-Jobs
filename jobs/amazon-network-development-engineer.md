@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Software Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10485490/network-development-engineer) |
+| Location | London, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10499500/network-development-engineer) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-07-28.
+This devops engineer position at Amazon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

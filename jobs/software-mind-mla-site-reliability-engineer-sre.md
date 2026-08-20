@@ -5,12 +5,12 @@
 | Company | [Software Mind](https://scoutify.ai/companies/software-mind?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000141916404-mla-site-reliability-engineer-sre) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/softwaremind/744000143237579-mla-site-reliability-engineer-sre) |
 
 ## About This Role
 
-This devops engineer position at Software Mind was posted on 2026-08-06.
+This devops engineer position at Software Mind was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

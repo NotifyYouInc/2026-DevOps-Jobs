@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bangalore---Indraprastha/Senior-DevOps-Engineer_R0329499-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Senior-DevOps-Engineer_R0337025) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-05-28.
+This devops engineer position at Thales was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

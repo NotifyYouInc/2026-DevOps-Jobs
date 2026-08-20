@@ -5,12 +5,12 @@
 | Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Zionsville, Indiana, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Senior-Network-Reliability-Engineer_R26_0208) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Senior-Network-Reliability-Engineer_R26_0207) |
 
 ## About This Role
 
-This devops engineer position at Group 1001 was posted on 2026-05-07.
+This devops engineer position at Group 1001 was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

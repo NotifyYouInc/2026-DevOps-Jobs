@@ -5,12 +5,12 @@
 | Company | [PaperCut Software](https://scoutify.ai/companies/papercutsoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Camberwell, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PaperCutSoftware/744000141858089-senior-devops-engineer) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PaperCutSoftware/744000143231049-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at PaperCut Software was posted on 2026-08-06.
+This devops engineer position at PaperCut Software was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

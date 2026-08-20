@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7624244032742770949/detail) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7672559124790102277/detail) |
 
 ## About This Role
 
-This devops engineer position at TikTok was posted on 2026-04-10.
+This devops engineer position at TikTok was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

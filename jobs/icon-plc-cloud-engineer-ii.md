@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Raleigh, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Ireland-Dublin/Cloud-Engineer-II_JR153951) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Raleigh-NC/Cloud-Engineer-II_JR154091-1) |
 
 ## About This Role
 
-This devops engineer position at ICON plc was posted on 2026-08-05.
+This devops engineer position at ICON plc was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

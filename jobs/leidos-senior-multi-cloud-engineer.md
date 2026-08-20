@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Multi-Cloud-Engineer_R-00183601) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Senior-Multi-Cloud-Engineer_R-00189421-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-05-19.
+This devops engineer position at Leidos was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

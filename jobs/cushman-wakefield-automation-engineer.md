@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canton, Michigan, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---OH---Canton---4747-Rebar-Ave-NE/Automation-Engineer_R332023) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-08-11.
+This industrial automation position at Cushman & Wakefield was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

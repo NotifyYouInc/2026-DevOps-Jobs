@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | DevOps Engineer |
+| Category | Learning & Development |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Enablement-Lead-for-Container-Hosting-Platforms_202608-120819-1) |
 
 ## About This Role
 
-This devops engineer position at Genentech was posted on 2026-08-12.
+This learning & development position at Genentech was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

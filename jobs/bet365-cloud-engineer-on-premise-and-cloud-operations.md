@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manchester, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000137877788-cloud-engineer-on-premise-and-cloud-operations) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000143172369-cloud-engineer-on-premise-and-cloud-operations) |
 
 ## About This Role
 
-This devops engineer position at bet365 was posted on 2026-07-15.
+This it & systems administration position at bet365 was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vista, California, United States |
+| Location | Honolulu, Hawaii, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Vista-CA/Site-Reliability-Engineer_R-00184836) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Honolulu-HI/Site-Reliability-Engineer_R-00189467) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-04.
+This devops engineer position at Leidos was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

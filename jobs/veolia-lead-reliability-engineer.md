@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Minnetonka, Minnesota, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000142703584-lead-reliability-engineer) |
+| Category | Industrial Automation |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000143179739-lead-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Veolia was posted on 2026-08-10.
+This industrial automation position at Veolia was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

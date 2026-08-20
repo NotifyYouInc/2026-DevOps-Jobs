@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-DevOps-Engineer---Lead_R-115863) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Irvine-CA-United-States-of-America/Sr-DevOps-Engineer---Lead_R-116996) |
 
 ## About This Role
 
-This devops engineer position at Ingram Micro was posted on 2026-06-10.
+This devops engineer position at Ingram Micro was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | São Bernardo do Campo, São Paulo, Brazil |
+| Location | Araraquara, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---SAOBERNARDO-DOCAMPO/Analista-DevOps_51586292) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BRA---SP---ARARAQUARA/Analista-DevOps_51586295) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-08-04.
+This devops engineer position at DXC Technology was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

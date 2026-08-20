@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Senior---Cloud-Platform-Engineer_724512WD) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Buenos-Aires/Senior---Cloud-Platform-Engineer_751930WD) |
 
 ## About This Role
 
-This devops engineer position at PwC was posted on 2026-04-27.
+This devops engineer position at PwC was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

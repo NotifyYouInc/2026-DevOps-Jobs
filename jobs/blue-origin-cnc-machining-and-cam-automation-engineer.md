@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Huntsville-AL/CNC-Machining-and-CAM-Automation-Engineer_R69447) |
 
 ## About This Role
 
-This devops engineer position at Blue Origin was posted on 2026-08-11.
+This industrial automation position at Blue Origin was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

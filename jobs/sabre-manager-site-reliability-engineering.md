@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Manager-Site-Reliability-Engineering_JR108278-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Krakow-Maopolskie-Poland/Manager-Site-Reliability-Engineering_JR108473-1) |
 
 ## About This Role
 
-This devops engineer position at Sabre was posted on 2026-07-28.
+This devops engineer position at Sabre was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

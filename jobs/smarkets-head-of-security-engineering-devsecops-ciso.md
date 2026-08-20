@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smarkets](https://scoutify.ai/companies/smarkets?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/smarkets/1d8143b9-96fb-4a75-9f17-0642f7056cb5) |
 
 ## About This Role
 
-This devops engineer position at Smarkets was posted on 2026-08-11.
+This cybersecurity engineer position at Smarkets was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

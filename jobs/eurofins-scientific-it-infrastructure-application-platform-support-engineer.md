@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000141524024-it-infrastructure-application-platform-support-engineer) |
+| Location | Indaiatuba, São Paulo, Brazil |
+| Category | DevOps Engineer |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000143071049-it-infrastructure-application-platform-support-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Eurofins Scientific was posted on 2026-08-04.
+This devops engineer position at Eurofins Scientific was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Suzhou, Jiangsu, China |
-| Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/SuZhou/Lead-Robotics---Automation-Engineer_R5049659-2) |
+| Location | Tamil Nadu, IN |
+| Category | Industrial Automation |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Padappai/Lead-Robotics---Automation-Engineer_R5048714-2) |
 
 ## About This Role
 
-This devops engineer position at GE Vernova was posted on 2026-08-10.
+This industrial automation position at GE Vernova was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

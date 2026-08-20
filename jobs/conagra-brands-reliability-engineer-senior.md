@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 8 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Reliability-Engineer-Senior_Req-039586) |
 
 ## About This Role
 
-This devops engineer position at Conagra Brands was posted on 2026-08-12.
+This industrial automation position at Conagra Brands was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

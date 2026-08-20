@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OpenGov](https://scoutify.ai/companies/opengov?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Boston, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/1b77433f-6659-4960-ad8a-f32e03274f32) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/opengov/1dd82366-c11d-4d5a-b937-54629fb691f6) |
 
 ## About This Role
 
-This devops engineer position at OpenGov was posted on 2026-04-29.
+This devops engineer position at OpenGov was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

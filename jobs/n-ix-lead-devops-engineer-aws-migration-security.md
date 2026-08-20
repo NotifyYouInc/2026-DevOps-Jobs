@@ -1,16 +1,16 @@
-#  Lead DevOps Engineer (AWS Migration & Security)  at N-iX
+# Lead DevOps Engineer (AWS Migration & Security)  at N-iX
 
 | Field | Details |
 |-------|---------|
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ukraine |
-| Category | DevOps Engineer |
+| Location | Colombia |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-11 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4945625101?gh_jid=4945625101) |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4950434101?gh_jid=4950434101) |
 
 ## About This Role
 
-This devops engineer position at N-iX was posted on 2026-08-11.
+This cybersecurity engineer position at N-iX was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
