@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Muttenz, Basel-Landschaft, Switzerland |
-| Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000136832080-automation-engineer) |
+| Location | Manisa, Manisa, Turkey |
+| Category | Industrial Automation |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000143281275-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Syngenta was posted on 2026-07-09.
+This industrial automation position at Syngenta was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

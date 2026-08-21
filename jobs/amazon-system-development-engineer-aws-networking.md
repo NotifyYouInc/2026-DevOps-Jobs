@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10498256/system-development-engineer-aws-networking) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10499501/system-development-engineer-aws-networking) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-08-11.
+This devops engineer position at Amazon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

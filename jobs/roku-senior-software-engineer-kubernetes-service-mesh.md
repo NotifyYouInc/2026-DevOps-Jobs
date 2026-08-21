@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roku](https://scoutify.ai/companies/roku?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://www.weareroku.com/jobs/7957320?gh_jid=7957320) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://www.weareroku.com/jobs/8095705?gh_jid=8095705) |
 
 ## About This Role
 
-This software engineer position at Roku was posted on 2026-07-07.
+This devops engineer position at Roku was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

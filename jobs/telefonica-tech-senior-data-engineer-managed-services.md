@@ -5,12 +5,12 @@
 | Company | [Telefonica Tech](https://scoutify.ai/companies/telefonica-tech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Data Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/telefonicatech/744000137634979-senior-data-engineer-managed-services) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/telefonicatech/744000143269830-senior-data-engineer-managed-services) |
 
 ## About This Role
 
-This data engineer position at Telefonica Tech was posted on 2026-07-14.
+This data engineer position at Telefonica Tech was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

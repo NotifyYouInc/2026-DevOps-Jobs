@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133003054-cloud-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143449530-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Smiths Group was posted on 2026-06-19.
+This devops engineer position at Smiths Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

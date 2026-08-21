@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | City of London, England, United Kingdom |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/City-of-London---United-Kingdom/Senior-Platform-SRE_R_17565) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Krakw---Poland/Senior-Platform-SRE_R_17566-1) |
 
 ## About This Role
 
-This devops engineer position at IG Group was posted on 2026-08-04.
+This devops engineer position at IG Group was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

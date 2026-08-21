@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-Ion-Mihalache-Blvd/DevOps-Engineer--f-m-x-_R0425066) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-6A-Dimitrie-Pompeiu-Blvd/DevOps-Engineer--f-m-x-_R0436269) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Bank was posted on 2026-02-18.
+This devops engineer position at Deutsche Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

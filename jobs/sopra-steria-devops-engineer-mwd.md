@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000141225841-devops-engineer-mwd) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143241494-devops-engineer-mwd) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-08-03.
+This devops engineer position at Sopra Steria was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

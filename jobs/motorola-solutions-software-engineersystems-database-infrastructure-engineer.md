@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Database Administration |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer-Systems---Database-Infrastructure-Engineer-_R67057) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-08-12.
+This database administration position at Motorola Solutions was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

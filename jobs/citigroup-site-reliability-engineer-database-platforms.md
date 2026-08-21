@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | DevOps Engineer |
+| Category | Database Administration |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Site-Reliability-Engineer-Database-Platforms_26983451) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-08-12.
+This database administration position at Citigroup was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

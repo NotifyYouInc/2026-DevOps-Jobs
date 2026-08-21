@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/megaport/585060ec-e1c2-4f63-8edf-d6813826c557) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.lever.co/megaport/6c1090bf-d792-4334-a9b1-f78259913512) |
 
 ## About This Role
 
-This devops engineer position at Megaport was posted on 2026-05-08.
+This devops engineer position at Megaport was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

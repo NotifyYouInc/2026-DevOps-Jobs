@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombo, Western Province, Sri Lanka |
+| Location | Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000108123235-cloud-engineer-aws-igt1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000143262719-cloud-engineer-aws-igt1) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-02-09.
+This devops engineer position at IFS was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
