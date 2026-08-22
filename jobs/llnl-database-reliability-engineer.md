@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Livermore, California, United States |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014596596-database-reliability-engineer) |
 
 ## About This Role
 
-This database administration position at LLNL was posted on 2026-08-13.
+This devops engineer position at LLNL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

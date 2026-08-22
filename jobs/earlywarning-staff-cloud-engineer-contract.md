@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Staff-Cloud-Engineer---Contract_REQ2026513) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Staff-Cloud-Engineer---Contract_REQ2026514) |
 
 ## About This Role
 
-This devops engineer position at Earlywarning was posted on 2026-06-17.
+This devops engineer position at Earlywarning was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

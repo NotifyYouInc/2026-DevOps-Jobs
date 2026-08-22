@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/1170-Peachtree-St-Ste-1200----ATLANTA-GA/Security-Incident-Response-Engineer_JR114072) |
+| Location | Atlanta, Georgia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/ATLANTA-GA/Security-Incident-Response-Engineer_JR114085) |
 
 ## About This Role
 
-This cybersecurity engineer position at Acrisure was posted on 2026-08-12.
+This devops engineer position at Acrisure was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

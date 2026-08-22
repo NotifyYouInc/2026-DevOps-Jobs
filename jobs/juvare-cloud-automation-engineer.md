@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Juvare](https://scoutify.ai/companies/juvare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/juvare/jobs/4723928005) |
 
 ## About This Role
 
-This industrial automation position at Juvare was posted on 2026-08-13.
+This devops engineer position at Juvare was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

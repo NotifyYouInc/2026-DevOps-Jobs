@@ -1,16 +1,16 @@
-# DevOps Engineer at Sutherland
+# Devops Engineer at Sutherland
 
 | Field | Details |
 |-------|---------|
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000125310594-devops-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000143542049-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Sutherland was posted on 2026-05-08.
+This devops engineer position at Sutherland was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

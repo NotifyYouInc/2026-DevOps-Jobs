@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Build-Engineer---C12---CHENNAI_26985931) |
 
 ## About This Role
 
-This cybersecurity engineer position at Citigroup was posted on 2026-08-13.
+This devops engineer position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airspace Intelligence](https://scoutify.ai/companies/airspace-intelligence?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/airspace-intelligence.com/de0e53fb-8f74-4c65-8958-a5f54a1f93f7) |
 
 ## About This Role
 
-This cybersecurity engineer position at Airspace Intelligence was posted on 2026-08-12.
+This devops engineer position at Airspace Intelligence was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

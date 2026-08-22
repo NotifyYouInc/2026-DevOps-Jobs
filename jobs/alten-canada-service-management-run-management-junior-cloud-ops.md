@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000140654189-service-management-run-management-junior-cloud-ops) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000143539829-service-management-run-management-junior-cloud-ops) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-07-30.
+This devops engineer position at ALTEN Canada was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

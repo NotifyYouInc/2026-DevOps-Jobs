@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112368103-senior-platform-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000143501812-senior-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at H&M Group was posted on 2026-03-03.
+This devops engineer position at H&M Group was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

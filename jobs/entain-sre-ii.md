@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000140386859-sre-ii) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000143461448-sre-ii) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-07-29.
+This devops engineer position at Entain was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

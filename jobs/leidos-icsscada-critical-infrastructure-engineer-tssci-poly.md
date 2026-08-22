@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/ICS-SCADA---Critical-Infrastructure-Engineer---TS-SCI-Poly_R-00189550) |
 
 ## About This Role
 
-This industrial automation position at Leidos was posted on 2026-08-14.
+This devops engineer position at Leidos was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

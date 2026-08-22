@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Site-Reliability-Engineer_R0122116) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Site-Reliability-Engineer_R0122007) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-08-11.
+This devops engineer position at LSEG was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

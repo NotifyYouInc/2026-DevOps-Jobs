@@ -5,12 +5,12 @@
 | Company | [Xplor Technologies](https://scoutify.ai/companies/xplortechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000140844525-senior-devops-engineer) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Xplor/744000143467134-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Xplor Technologies was posted on 2026-07-31.
+This devops engineer position at Xplor Technologies was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

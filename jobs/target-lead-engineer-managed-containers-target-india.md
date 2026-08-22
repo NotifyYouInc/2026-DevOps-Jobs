@@ -1,0 +1,22 @@
+# Lead Engineer Managed Containers - Target India at Target
+
+| Field | Details |
+|-------|---------|
+| Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Lead-Engineer---Target-India_R0000443184-1) |
+
+## About This Role
+
+This devops engineer position at Target was posted on 2026-08-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

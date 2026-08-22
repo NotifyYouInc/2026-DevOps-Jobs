@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Czechia |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Praha/Site-Reliability-Engineer_R0330119) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin---Arboretum-Plaza/Site-Reliability-Engineer_R0296407) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-08-12.
+This devops engineer position at Thales was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

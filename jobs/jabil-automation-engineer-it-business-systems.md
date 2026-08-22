@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Automation-Engineer---IT---Business-Systems_J2460296) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-08-13.
+This devops engineer position at Jabil was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

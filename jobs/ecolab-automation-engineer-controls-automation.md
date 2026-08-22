@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Calgary, Alberta, Canada |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CAN---Alberta---Calgary/Automation-Engineer---Controls---Automation_R00302559) |
 
 ## About This Role
 
-This industrial automation position at Ecolab was posted on 2026-08-14.
+This devops engineer position at Ecolab was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

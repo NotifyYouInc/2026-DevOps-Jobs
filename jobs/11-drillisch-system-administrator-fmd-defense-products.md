@@ -1,0 +1,22 @@
+# System Administrator (f/m/d) - Defense Products  at 1&1 Drillisch
+
+| Field | Details |
+|-------|---------|
+| Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Karlsruhe, Baden-Wurttemberg, Germany |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4952835101) |
+
+## About This Role
+
+This it & systems administration position at 1&1 Drillisch was posted on 2026-08-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

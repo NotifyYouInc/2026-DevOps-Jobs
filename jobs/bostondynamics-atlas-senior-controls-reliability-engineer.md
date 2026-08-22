@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bostondynamics](https://scoutify.ai/companies/bostondynamics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Waltham, Massachusetts, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics/job/Waltham-MA/Atlas-Senior-Controls-Reliability-Engineer_R2998) |
 
 ## About This Role
 
-This industrial automation position at Bostondynamics was posted on 2026-08-13.
+This devops engineer position at Bostondynamics was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lafayette, Louisiana, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Engineer_R73034-1) |
 
 ## About This Role
 
-This industrial automation position at Medtronic was posted on 2026-08-14.
+This devops engineer position at Medtronic was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

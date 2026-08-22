@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
+| Posted | 2026-08-14 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/DevOps-Engineer--Assistant-Vice-President_R-784673) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-03-09.
+This devops engineer position at State Street was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

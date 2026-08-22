@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000142039729-devops-engineer-technology-rd-lab) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000143513292-devops-engineer-technology-rd-lab) |
 
 ## About This Role
 
-This devops engineer position at Avaloq was posted on 2026-08-07.
+This devops engineer position at Avaloq was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

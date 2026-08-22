@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meriton](https://scoutify.ai/companies/meriton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/meriton/jobs/5389363008) |
 
 ## About This Role
 
-This industrial automation position at Meriton was posted on 2026-08-13.
+This devops engineer position at Meriton was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 
