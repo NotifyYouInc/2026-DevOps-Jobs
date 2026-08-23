@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
-| Category | Technical Writer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Integration-Ops-Analyst_WD30264588-1) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Integration-Ops-Analyst_WD30276147) |
 
 ## About This Role
 
-This technical writer position at Johnson Controls was posted on 2026-03-24.
+This devops engineer position at Johnson Controls was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

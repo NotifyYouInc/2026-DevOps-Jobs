@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ankeny, Iowa, United States |
+| Location | Windsor, Connecticut, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ankeny-IA/Automation-Engineer_REQ528427) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/WINDSOR-CT/Automation-Engineer_REQ527426) |
 
 ## About This Role
 

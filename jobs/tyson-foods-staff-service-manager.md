@@ -1,16 +1,16 @@
-# AI Automation Engineer at Fortinet
+# Staff Service Manager at Tyson Foods
 
 | Field | Details |
 |-------|---------|
-| Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Springdale, Arkansas, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23821) |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate-JTL-Building---Springdale-Arkansas/Staff-Service-Manager_R0479473) |
 
 ## About This Role
 
-This devops engineer position at Fortinet was posted on 2026-08-14.
+This devops engineer position at Tyson Foods was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

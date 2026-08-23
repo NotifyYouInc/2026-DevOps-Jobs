@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Suitland, Maryland, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4701476006?gh_jid=4701476006) |
 
 ## About This Role
 
-This data engineer position at Accenture Federal Services was posted on 2026-08-14.
+This devops engineer position at Accenture Federal Services was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

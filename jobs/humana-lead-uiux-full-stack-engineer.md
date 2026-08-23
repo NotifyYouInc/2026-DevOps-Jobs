@@ -1,16 +1,16 @@
-# AI Automation Engineer at Fortinet
+# Lead UI/UX Full Stack Engineer at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Massachusetts, US |
 | Category | DevOps Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23821) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Lead-UI-UX-Full-Stack-Engineer_R-426396) |
 
 ## About This Role
 
-This devops engineer position at Fortinet was posted on 2026-08-14.
+This devops engineer position at Humana was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

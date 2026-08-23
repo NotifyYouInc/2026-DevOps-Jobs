@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143459269-software-engineer-data-engineer-python-sql-snowflake-cloud-devops-cicd-pipeline-ai-co-pilot-usage-and-prompt-engineering-gen-ai-docker-kubernetes) |
 
 ## About This Role
 
-This data engineer position at NielsenIQ was posted on 2026-08-14.
+This devops engineer position at NielsenIQ was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

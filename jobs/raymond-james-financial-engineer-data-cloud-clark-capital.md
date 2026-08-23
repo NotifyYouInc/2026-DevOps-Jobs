@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/PA---Philadelphia---1650-Market-Street-Floor-53/Engineer--Data---Cloud_R-0012577) |
 
 ## About This Role
 
-This data engineer position at Raymond James Financial was posted on 2026-08-14.
+This devops engineer position at Raymond James Financial was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TechVedika](https://scoutify.ai/companies/techvedika?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/techvedika/744000143448109-google-cloud-engineer) |
 
 ## About This Role
 
-This data engineer position at TechVedika was posted on 2026-08-14.
+This devops engineer position at TechVedika was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

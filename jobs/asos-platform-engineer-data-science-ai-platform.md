@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASOS](https://scoutify.ai/companies/asos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Scientist |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ASOS/744000143391739-platform-engineer-data-science-ai-platform) |
 
 ## About This Role
 
-This data scientist position at ASOS was posted on 2026-08-13.
+This devops engineer position at ASOS was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | SOC & Incident Response |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Senior-Lead-Cyber-Security---Incident-Response-Engineer_32166) |
 
 ## About This Role
 
-This devops engineer position at FICO was posted on 2026-08-14.
+This soc & incident response position at FICO was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

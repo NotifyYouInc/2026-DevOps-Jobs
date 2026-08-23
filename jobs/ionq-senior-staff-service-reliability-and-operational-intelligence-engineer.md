@@ -1,16 +1,16 @@
-# AI Automation Engineer at Fortinet
+# Senior Staff Service Reliability and Operational Intelligence Engineer at IonQ
 
 | Field | Details |
 |-------|---------|
-| Company | [Fortinet](https://scoutify.ai/companies/us2-cx-oj39798?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sunnyvale, California, United States |
+| Company | [IonQ](https://scoutify.ai/companies/ionq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Santa Clara, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://edel.fa.us2.oraclecloud.com/jobs/#23821) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ionq/jobs/6144665004) |
 
 ## About This Role
 
-This devops engineer position at Fortinet was posted on 2026-08-14.
+This devops engineer position at IonQ was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

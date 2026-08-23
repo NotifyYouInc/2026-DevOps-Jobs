@@ -1,16 +1,16 @@
-# Site Reliability Engineer at Leidos
+# AVP, Senior Network Engineer at LPL Financial Holdings
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Site-Reliability-Engineer_R-00189616) |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/AVP--Senior-Network-Engineer_R-052580-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-14.
+This devops engineer position at LPL Financial Holdings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

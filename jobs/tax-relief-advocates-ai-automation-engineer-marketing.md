@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tax Relief Advocates](https://scoutify.ai/companies/taxreliefadvocates?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4895362008) |
 
 ## About This Role
 
-This data engineer position at Tax Relief Advocates was posted on 2026-08-13.
+This devops engineer position at Tax Relief Advocates was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

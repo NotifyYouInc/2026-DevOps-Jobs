@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zaimler](https://scoutify.ai/companies/zaimler?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Mateo, California, United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.lever.co/zaimler/28868c70-2d24-4446-9d9f-fa89f0649b02) |
 
 ## About This Role
 
-This data engineer position at Zaimler was posted on 2026-08-13.
+This devops engineer position at Zaimler was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

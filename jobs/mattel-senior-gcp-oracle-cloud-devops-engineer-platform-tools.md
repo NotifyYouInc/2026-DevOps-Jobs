@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143220219-senior-gcp-oracle-cloud-devops-engineer-platform-tools) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000143439649-senior-gcp-oracle-cloud-devops-engineer-platform-tools) |
 
 ## About This Role
 
-This devops engineer position at Mattel was posted on 2026-08-13.
+This devops engineer position at Mattel was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
