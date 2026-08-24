@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Chennai-India/Sr-Engr-Cslt-Ntwk-Engring_R-1098925) |
 
 ## About This Role
 
-This devops engineer position at Verizon was posted on 2026-08-12.
+This software engineer position at Verizon was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

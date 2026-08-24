@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wisconsin, US |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/US-Wisconsin-Remote/Senior-Staff-System-Engineer---Taikun-APIs_261217) |
 
 ## About This Role
 
-This devops engineer position at Cloudera was posted on 2026-08-13.
+This software engineer position at Cloudera was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

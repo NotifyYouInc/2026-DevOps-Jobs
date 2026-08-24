@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WTW](https://scoutify.ai/companies/em3-cx-oj120216?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202604891) |
 
 ## About This Role
 
-This devops engineer position at WTW was posted on 2026-08-13.
+This software engineer position at WTW was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

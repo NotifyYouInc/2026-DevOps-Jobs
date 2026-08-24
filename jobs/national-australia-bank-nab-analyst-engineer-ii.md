@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sector, Uttar Pradesh, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Phase-3-Sector-24-Gurugram/Analyst---Engineer-II_JR120521) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Analyst---Engineer-II_JR120900) |
 
 ## About This Role
 
-This devops engineer position at National Australia Bank (NAB) was posted on 2026-07-22.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10502028/system-development-engineer-ii-time-pay-innovation) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-08-14.
+This software engineer position at Amazon was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

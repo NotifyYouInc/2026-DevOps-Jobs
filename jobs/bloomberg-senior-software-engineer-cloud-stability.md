@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bloomberg](https://scoutify.ai/companies/bloomberg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://bloomberg.avature.net/careers/JobDetail/Senior-Software-Engineer-Cloud-Stability/20226) |
 
 ## About This Role
 
-This devops engineer position at Bloomberg was posted on 2026-08-14.
+This software engineer position at Bloomberg was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

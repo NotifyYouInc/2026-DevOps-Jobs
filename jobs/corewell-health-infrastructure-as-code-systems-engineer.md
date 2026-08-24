@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Grand Rapids, Michigan, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Infrastructure-as-Code-Systems-Engineer_R222846) |
 
 ## About This Role
 
-This devops engineer position at Corewell Health was posted on 2026-08-14.
+This software engineer position at Corewell Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Expert-Engineer----Cloud---Java-Enterprise-Application-_J69627-1) |
 
 ## About This Role
 
-This devops engineer position at Fil was posted on 2026-08-13.
+This software engineer position at Fil was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

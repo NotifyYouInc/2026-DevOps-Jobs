@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toradex](https://scoutify.ai/companies/toradex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/toradex/jobs/7864043003) |
 
 ## About This Role
 
-This devops engineer position at Toradex was posted on 2026-08-13.
+This software engineer position at Toradex was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

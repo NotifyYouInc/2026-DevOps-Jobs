@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 7 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/Automation-Engineer-3--Mainframe-Hogan-_2026-0024629) |
 
 ## About This Role
 
-This devops engineer position at U.S. Bank was posted on 2026-08-13.
+This software engineer position at U.S. Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

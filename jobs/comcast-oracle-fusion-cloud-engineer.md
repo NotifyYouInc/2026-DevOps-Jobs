@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pennsylvania, US |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Oracle-Fusion-Cloud-Engineer_R442372) |
 
 ## About This Role
 
-This devops engineer position at Comcast was posted on 2026-08-13.
+This software engineer position at Comcast was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

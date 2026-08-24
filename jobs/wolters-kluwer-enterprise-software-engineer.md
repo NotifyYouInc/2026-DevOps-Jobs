@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Enterprise-Software-Engineer_R0059244) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-08-13.
+This software engineer position at Wolters Kluwer was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

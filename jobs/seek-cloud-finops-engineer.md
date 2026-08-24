@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cremorne, New South Wales, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000138021059-cloud-finops-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000143735239-cloud-finops-engineer) |
 
 ## About This Role
 
-This devops engineer position at SEEK was posted on 2026-07-16.
+This devops engineer position at SEEK was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

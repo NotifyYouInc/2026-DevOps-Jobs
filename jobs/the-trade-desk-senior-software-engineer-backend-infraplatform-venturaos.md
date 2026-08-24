@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Trade Desk](https://scoutify.ai/companies/the-trade-desk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/thetradedesk/jobs/5211351007) |
 
 ## About This Role
 
-This devops engineer position at The Trade Desk was posted on 2026-08-13.
+This software engineer position at The Trade Desk was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

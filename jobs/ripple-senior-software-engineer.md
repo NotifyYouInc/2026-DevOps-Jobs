@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ripple](https://scoutify.ai/companies/ripple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://ripple.com/careers/all-jobs/job/8110122?gh_jid=8110122) |
 
 ## About This Role
 
-This devops engineer position at Ripple was posted on 2026-08-13.
+This software engineer position at Ripple was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

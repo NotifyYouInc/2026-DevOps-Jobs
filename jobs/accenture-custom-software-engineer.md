@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Location | Gurugram, Haryana, India |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Custom-Software-Engineer_ATCI-5712405-S2063869-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Custom-Software-Engineer_ATCI-5711530-S2063890-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-13.
+This software engineer position at Accenture was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

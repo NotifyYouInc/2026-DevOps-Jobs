@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TJX](https://scoutify.ai/companies/tjx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Hyderabad-TS-500081/HS-Hybrid-Cloud-Senior-Staff-Engineer_REQ145351) |
 
 ## About This Role
 
-This devops engineer position at TJX was posted on 2026-08-13.
+This software engineer position at TJX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gloucester, Massachusetts, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762) |
 
 ## About This Role
 
-This devops engineer position at Applied Materials was posted on 2026-08-13.
+This software engineer position at Applied Materials was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

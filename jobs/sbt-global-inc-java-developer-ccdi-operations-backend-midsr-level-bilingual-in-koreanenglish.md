@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990014587836-java-developer-ccdi-operations-backend-midsr-level-bilingual-in-koreanenglish) |
 
 ## About This Role
 
-This devops engineer position at SBT Global, Inc. was posted on 2026-08-13.
+This software engineer position at SBT Global, Inc. was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

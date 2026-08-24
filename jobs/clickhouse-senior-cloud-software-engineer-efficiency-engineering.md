@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ClickHouse](https://scoutify.ai/companies/clickhouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/clickhouse/jobs/6142785004) |
 
 ## About This Role
 
-This devops engineer position at ClickHouse was posted on 2026-08-13.
+This software engineer position at ClickHouse was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

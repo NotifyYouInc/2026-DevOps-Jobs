@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137230) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-08-12.
+This software engineer position at PayPal was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

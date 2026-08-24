@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Columbus, Ohio, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Sr-Engineer--Software-Engineer---Java_099617-1) |
 
 ## About This Role
 
-This devops engineer position at Nationwide was posted on 2026-08-13.
+This software engineer position at Nationwide was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

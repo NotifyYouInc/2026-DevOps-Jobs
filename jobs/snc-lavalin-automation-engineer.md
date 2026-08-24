@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/GBBirmingham---Chamberlain-Square/Automation-Engineer_R-160909) |
 
 ## About This Role
 
-This devops engineer position at SNC-Lavalin was posted on 2026-08-14.
+This software engineer position at SNC-Lavalin was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

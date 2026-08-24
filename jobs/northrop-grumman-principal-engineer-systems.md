@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Melbourne, Florida, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Systems_R10241665) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-13.
+This software engineer position at Northrop Grumman was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

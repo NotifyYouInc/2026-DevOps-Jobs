@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ralliant](https://scoutify.ai/companies/ocs-cx-oj90966?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karnataka, IN |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://ibwujb.fa.ocs.oraclecloud.com/jobs/#10119) |
 
 ## About This Role
 
-This devops engineer position at Ralliant was posted on 2026-08-13.
+This software engineer position at Ralliant was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

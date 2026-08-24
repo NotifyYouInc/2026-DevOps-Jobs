@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chainalysis](https://scoutify.ai/companies/chainalysis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/chainalysis-careers/2445c799-1e82-47fc-8218-1a5591e8351c) |
 
 ## About This Role
 
-This devops engineer position at Chainalysis was posted on 2026-08-13.
+This software engineer position at Chainalysis was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Isomorphic Labs](https://scoutify.ai/companies/isomorphic-labs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6144041004) |
 
 ## About This Role
 
-This devops engineer position at Isomorphic Labs was posted on 2026-08-14.
+This software engineer position at Isomorphic Labs was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
