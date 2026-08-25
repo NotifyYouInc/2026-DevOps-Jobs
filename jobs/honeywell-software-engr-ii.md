@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#154675) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155661) |
 
 ## About This Role
 
-This devops engineer position at Honeywell was posted on 2026-08-03.
+This software engineer position at Honeywell was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

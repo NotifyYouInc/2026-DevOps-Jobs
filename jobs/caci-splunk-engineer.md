@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | McLean, Virginia, United States |
 | Category | SOC & Incident Response |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Chantilly/Splunk-Engineer_323509) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Mclean-VA-US/Splunk-Engineer_330550) |
 
 ## About This Role
 
-This soc & incident response position at CACI was posted on 2026-03-19.
+This soc & incident response position at CACI was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

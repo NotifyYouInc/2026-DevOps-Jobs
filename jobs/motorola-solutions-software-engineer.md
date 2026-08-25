@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Bangalore-India/Software-Engineer_R62270) |
+| Location | Allen, Texas, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-Engineer_R67011) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-03-30.
+This software engineer position at Motorola Solutions was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

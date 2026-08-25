@@ -5,12 +5,12 @@
 | Company | [Keenfinity](https://scoutify.ai/companies/keenfinity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000135436978-devops-entwickler-fur-embedded-linux-video-applikationen-wmdiv) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/keenfinity/744000143807069-devops-entwickler-fur-embedded-linux-video-applikationen-wmdiv) |
 
 ## About This Role
 
-This devops engineer position at Keenfinity was posted on 2026-07-02.
+This devops engineer position at Keenfinity was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

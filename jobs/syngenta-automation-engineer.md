@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manisa, Manisa, Turkey |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000143281275-automation-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000143791469-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Syngenta was posted on 2026-08-13.
+This devops engineer position at Syngenta was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

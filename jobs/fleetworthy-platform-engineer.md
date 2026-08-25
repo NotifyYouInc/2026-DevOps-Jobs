@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fleetworthy](https://scoutify.ai/companies/fleetworthy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/bestpass/jobs/4686402006) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/bestpass/jobs/4705408006) |
 
 ## About This Role
 
-This devops engineer position at Fleetworthy was posted on 2026-06-04.
+This devops engineer position at Fleetworthy was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

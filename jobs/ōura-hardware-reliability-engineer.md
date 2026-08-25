@@ -1,16 +1,16 @@
-# Hardware Reliability Engineer at Ōura
+# Hardware Reliability Engineer  at Ōura
 
 | Field | Details |
 |-------|---------|
 | Company | [Ōura](https://scoutify.ai/companies/ura?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | San Francisco, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4113965009) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/oura/jobs/4371707009) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Ōura was posted on 2026-04-28.
+This electrical / hardware engineer position at Ōura was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

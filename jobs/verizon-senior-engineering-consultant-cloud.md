@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verizon](https://scoutify.ai/companies/verizon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Senior-Engineering-Consultant---Cloud_R-1096957-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Hyderabad-India/Senior-Engineering-Consultant---Cloud_R-1099703) |
 
 ## About This Role
 
-This devops engineer position at Verizon was posted on 2026-06-29.
+This software engineer position at Verizon was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

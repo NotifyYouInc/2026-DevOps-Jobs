@@ -5,12 +5,12 @@
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Senior-AI-Operations-Engineer_R-256341-2) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Senior-AI-Operations-Engineer_R-258295-1) |
 
 ## About This Role
 
-This devops engineer position at AstraZeneca was posted on 2026-07-14.
+This devops engineer position at AstraZeneca was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

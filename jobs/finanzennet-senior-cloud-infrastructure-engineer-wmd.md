@@ -5,12 +5,12 @@
 | Company | [Finanzen.net](https://scoutify.ai/companies/finanzennetgmbh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000137090814-senior-cloud-infrastructure-engineer-wmd) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FinanzennetGmbH/744000143847460-senior-cloud-infrastructure-engineer-wmd) |
 
 ## About This Role
 
-This devops engineer position at Finanzen.net was posted on 2026-07-10.
+This devops engineer position at Finanzen.net was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

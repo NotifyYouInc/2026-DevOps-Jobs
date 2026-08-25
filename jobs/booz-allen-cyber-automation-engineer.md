@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Cyber-Automation-Engineer_R0240170-1) |
+| Location | 3 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Cyber-Automation-Engineer_R0247165) |
 
 ## About This Role
 
-This industrial automation position at Booz Allen was posted on 2026-05-14.
+This devops engineer position at Booz Allen was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

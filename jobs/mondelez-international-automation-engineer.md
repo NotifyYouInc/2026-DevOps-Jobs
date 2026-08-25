@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ringwood, Victoria, Australia |
-| Category | Industrial Automation |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Ringwood---Melbourne-Australia/Automation-Engineer_R-161659) |
+| Location | Monterrey, Nuevo León, Mexico |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Monterrey-Mexico/Automation-Engineer_R-167298) |
 
 ## About This Role
 
-This industrial automation position at Mondelez International was posted on 2026-03-06.
+This devops engineer position at Mondelez International was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

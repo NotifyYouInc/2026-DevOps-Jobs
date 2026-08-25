@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/DevOps-Engineer-III_R-107379) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Bangalore-India-Office/DevOps-Engineer-III_R-109193) |
 
 ## About This Role
 
-This devops engineer position at MRI Software was posted on 2026-04-03.
+This devops engineer position at MRI Software was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

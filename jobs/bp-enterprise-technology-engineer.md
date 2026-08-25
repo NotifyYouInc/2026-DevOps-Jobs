@@ -1,16 +1,16 @@
-# Enterprise Technology Engineer at BP
+# Enterprise technology engineer at BP
 
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-Technology-Engineer_RQ112489) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Enterprise-technology-engineer_RQ114675) |
 
 ## About This Role
 
-This software engineer position at BP was posted on 2026-07-03.
+This devops engineer position at BP was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

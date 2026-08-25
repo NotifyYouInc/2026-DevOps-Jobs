@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Košice, Košice Region, Slovakia |
-| Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000143266225-engineer-backend-senior-ict-engineer-t-cloud-public-mfd) |
+| Category | Software Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000143800229-engineer-backend-senior-ict-engineer-t-cloud-public-mfd) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-08-13.
+This software engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

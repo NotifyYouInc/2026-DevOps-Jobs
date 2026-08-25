@@ -5,12 +5,12 @@
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cloud-DevSecOps-Engineer_R104201-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cloud-DevSecOps-Engineer_R104196-1) |
 
 ## About This Role
 
-This devops engineer position at Regions Bank was posted on 2026-07-27.
+This devops engineer position at Regions Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

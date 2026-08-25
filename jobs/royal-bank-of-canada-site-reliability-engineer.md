@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Port of Spain, Port of Spain, Trinidad and Tobago |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Port-of-Spain-Trinidad-and-Tobago/Site-Reliability-Engineer_R-0000167761) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Site-Reliability-Engineer_R-0000182658-1) |
 
 ## About This Role
 
-This devops engineer position at Royal Bank of Canada was posted on 2026-04-17.
+This devops engineer position at Royal Bank of Canada was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

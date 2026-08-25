@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Technology-Service-Specialist--AVP_R0432586) |
+| Location | Singapore, Singapore |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Technology-Service-Specialist--AVP_R0440892) |
 
 ## About This Role
 
-This customer success position at Deutsche Bank was posted on 2026-06-25.
+This devops engineer position at Deutsche Bank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

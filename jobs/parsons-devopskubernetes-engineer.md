@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/DevOps-Kubernetes-Engineer_R180036-2) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Annapolis-Junction/DevOps-Kubernetes-Engineer_R184898) |
 
 ## About This Role
 
-This devops engineer position at Parsons was posted on 2026-04-27.
+This devops engineer position at Parsons was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

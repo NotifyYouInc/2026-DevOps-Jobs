@@ -5,12 +5,12 @@
 | Company | [Samsung](https://scoutify.ai/companies/samsung?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Semiconductor / Chip Design |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/BEOL-Reliability-Engineer_R114934) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/BEOL-TQR-Engineer_R113367-1) |
 
 ## About This Role
 
-This semiconductor / chip design position at Samsung was posted on 2026-03-02.
+This semiconductor / chip design position at Samsung was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

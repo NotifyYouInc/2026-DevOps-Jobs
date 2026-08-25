@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Infrastructure-Engineer_39997) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Infrastructure-Engineer_43344) |
 
 ## About This Role
 
-This devops engineer position at Guidehouse was posted on 2026-05-29.
+This devops engineer position at Guidehouse was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

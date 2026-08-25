@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Clovis, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Melbourne-FL/Systems-Engineer_R-00180516) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Clovis-NM/Systems-Engineer_R-00189769) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-04-10.
+This devops engineer position at Leidos was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

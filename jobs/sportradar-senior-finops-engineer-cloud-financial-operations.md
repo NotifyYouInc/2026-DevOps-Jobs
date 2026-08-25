@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000143478826-senior-finops-engineer-cloud-financial-operations) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000143520650-senior-finops-engineer-cloud-financial-operations) |
 
 ## About This Role
 

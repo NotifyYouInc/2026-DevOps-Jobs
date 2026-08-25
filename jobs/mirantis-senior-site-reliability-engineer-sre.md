@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000140709968-senior-site-reliability-engineer-sre) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000143848301-senior-site-reliability-engineer-sre) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-07-30.
+This devops engineer position at Mirantis was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

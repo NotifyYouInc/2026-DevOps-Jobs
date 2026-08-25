@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Myhcm](https://scoutify.ai/companies/myhcm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | 2 locations |
 | Category | DevOps Engineer |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/Cape-Town/Senior-DevSecOps-Engineer_JR13433-1) |
+| Apply | [View on company site](https://myhcm.wd3.myworkdayjobs.com/betway/job/Johannesburg/Senior-DevSecOps-Engineer_JR13479) |
 
 ## About This Role
 

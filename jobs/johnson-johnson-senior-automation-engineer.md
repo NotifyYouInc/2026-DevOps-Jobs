@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leiden, South Holland, The Netherlands |
-| Category | Industrial Automation |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Leiden-South-Holland-Netherlands/Senior-Automation-Engineer_R-081283) |
+| Location | Malvern, Arkansas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Malvern-Pennsylvania-United-States-of-America/Senior-Automation-Engineer_R-093706-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-06-10.
+This devops engineer position at Johnson & Johnson was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

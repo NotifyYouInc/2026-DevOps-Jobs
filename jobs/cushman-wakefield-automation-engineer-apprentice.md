@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Akron, Ohio, United States |
-| Category | Industrial Automation |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Akron-Ohio-USA/Automation-Engineer-Apprentice_R328411-1) |
+| Location | Eastvale, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Eastvale---4950-GOODMAN-WAY/Automation-Engineer-Apprentice_R328507) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-08-11.
+This devops engineer position at Cushman & Wakefield was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

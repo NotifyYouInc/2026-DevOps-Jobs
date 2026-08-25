@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 6 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000138668077-aws-devops-engineer) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000143860674-aws-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Version 1 was posted on 2026-07-20.
+This devops engineer position at Version 1 was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

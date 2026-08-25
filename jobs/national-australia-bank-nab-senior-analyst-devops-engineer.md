@@ -1,16 +1,16 @@
-# Senior Analyst, Devops Engineer at National Australia Bank (NAB)
+# Senior Analyst, DevOps Engineer at National Australia Bank (NAB)
 
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Analyst--Devops-Engineer_JR119436) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Senior-Analyst--DevOps-Engineer_JR120903) |
 
 ## About This Role
 
-This devops engineer position at National Australia Bank (NAB) was posted on 2026-06-18.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
