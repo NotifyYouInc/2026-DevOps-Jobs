@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Leeds, England, United Kingdom |
+| Location | Brussels, Brussels Capital, Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000138151970-operations-engineer) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000144075545-operations-engineer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-07-16.
+This devops engineer position at Netcompany was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

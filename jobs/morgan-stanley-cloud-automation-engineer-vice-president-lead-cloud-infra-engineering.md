@@ -5,12 +5,12 @@
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-01 |
+| Posted | 2026-08-18 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Bengaluru-India/VP--P4--Lead-Cloud---Infra-Eng_PT-JR029686-2) |
 
 ## About This Role
 
-This devops engineer position at Morgan Stanley was posted on 2026-04-01.
+This devops engineer position at Morgan Stanley was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Pune/Automation-Engineer_R-140391) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Pune/Automation-Engineer_R-144968) |
 
 ## About This Role
 
-This industrial automation position at Coca-Cola was posted on 2026-05-06.
+This devops engineer position at Coca-Cola was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

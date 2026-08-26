@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Essex Junction, Vermont, United States |
-| Category | DevOps Engineer |
+| Category | Robotics Engineer |
 | Posted | 2026-08-17 |
 | Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Fab-Automation-Engineer--2027-New-College-Graduate-_JR-2604699) |
 
 ## About This Role
 
-This devops engineer position at GlobalFoundries was posted on 2026-08-17.
+This robotics engineer position at GlobalFoundries was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

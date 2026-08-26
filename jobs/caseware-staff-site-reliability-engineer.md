@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caseware](https://scoutify.ai/companies/caseware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.lever.co/caseware/a4e85cf9-6d52-4343-bbf6-411a252bba90) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.lever.co/caseware/528ac6dc-dd08-4853-adc1-99d8b1776486) |
 
 ## About This Role
 
-This devops engineer position at Caseware was posted on 2026-04-14.
+This devops engineer position at Caseware was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

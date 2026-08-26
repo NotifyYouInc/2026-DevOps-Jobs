@@ -5,12 +5,12 @@
 | Company | [2K](https://scoutify.ai/companies/2k?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7807539003) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/2k/jobs/7829580003) |
 
 ## About This Role
 
-This devops engineer position at 2K was posted on 2026-07-17.
+This devops engineer position at 2K was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

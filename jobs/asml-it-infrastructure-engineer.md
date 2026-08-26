@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chandler, Arizona, United States |
+| Location | Wilton, Connecticut, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chandler-AZ-USA/IT-Infrastructure-Engineer_J-00342481) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/IT-Infrastructure-Engineer_J-00349925) |
 
 ## About This Role
 
-This it & systems administration position at ASML was posted on 2026-06-02.
+This it & systems administration position at ASML was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

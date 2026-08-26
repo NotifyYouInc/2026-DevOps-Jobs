@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astemo](https://scoutify.ai/companies/astemo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berea, Ohio, United States |
+| Location | Bolton, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://astemo.wd102.myworkdayjobs.com/global_career_site/job/Berea-Kentucky-United-States/Automation-Engineer_J0050999) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://astemo.wd102.myworkdayjobs.com/global_career_site/job/Bolton-Manchester-United-Kingdom/Automation-Engineer_J0051150-1) |
 
 ## About This Role
 
-This devops engineer position at Astemo was posted on 2026-07-22.
+This devops engineer position at Astemo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bhubaneswar, Odisha, India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bhubaneswar/Application-Support-Engineer_ATCI-R1-S1956203-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Cloud-Platform-Engineer_ATCI-5724482-S2064648-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-14.
+This devops engineer position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

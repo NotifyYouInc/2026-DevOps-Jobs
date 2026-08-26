@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000107709926-sre-iii) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000144006826-sre-iii) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-02-06.
+This devops engineer position at Entain was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Louis-Missouri/Senior-Platform-Engineer_R0122111) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/St-Louis-Missouri/Senior-Platform-Engineer_R0122109) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-08-12.
+This devops engineer position at LSEG was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

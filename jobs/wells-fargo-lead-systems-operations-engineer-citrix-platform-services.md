@@ -1,16 +1,16 @@
-# Lead Systems Operations Engineer - Citrix Platform Services at Wells Fargo
+# Lead systems operations engineer, Citrix platform services at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Systems-Operations-Engineer---Citrix-Platform-Services_R-567958) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-systems-operations-engineer--Citrix-platform-services_R-568048) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-08-14.
+This it & systems administration position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

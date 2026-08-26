@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Waterford, Munster, Ireland |
-| Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=118218) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129367) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-07-10.
+This software engineer position at IBM was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

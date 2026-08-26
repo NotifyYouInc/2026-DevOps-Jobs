@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sri Lanka |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Site-Reliability-Engineer_R250904) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Site-Reliability-Engineer_R262011) |
 
 ## About This Role
 
-This devops engineer position at Sysco was posted on 2026-08-05.
+This devops engineer position at Sysco was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

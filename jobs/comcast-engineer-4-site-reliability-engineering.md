@@ -1,16 +1,16 @@
-# Engineer 4, Site Reliability Engineering at Comcast
+# Engineer 4 - Site Reliability Engineering at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4--Site-Reliability-Engineering_R440230) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Engineer-4---Site-Reliability-Engineering_R442580) |
 
 ## About This Role
 
-This devops engineer position at Comcast was posted on 2026-07-02.
+This devops engineer position at Comcast was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

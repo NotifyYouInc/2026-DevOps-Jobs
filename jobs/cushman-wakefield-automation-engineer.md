@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canton, Michigan, United States |
-| Category | Industrial Automation |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---OH---Canton---4747-Rebar-Ave-NE/Automation-Engineer_R332023) |
+| Location | Chicago, Illinois, United States |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Chicago---10500-South-Woodlawn-Avenue/Automation-Engineer_R332761) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-08-11.
+This electrical / hardware engineer position at Cushman & Wakefield was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

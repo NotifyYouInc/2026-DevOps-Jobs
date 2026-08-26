@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Orange-County---CA/DevOps-Engineer-II_R39312) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Orange-County---CA/DevOps-Engineer-II_R39537) |
 
 ## About This Role
 
-This devops engineer position at CoStar Group was posted on 2026-07-08.
+This devops engineer position at CoStar Group was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

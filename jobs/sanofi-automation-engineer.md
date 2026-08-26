@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cuautitlán Izcalli, México, Mexico |
-| Category | Industrial Automation |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cuautitlan-Izcalli/Automation-Engineer_R2865549) |
+| Location | Pennsylvania, US |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Engineer_R2867496) |
 
 ## About This Role
 
-This industrial automation position at Sanofi was posted on 2026-07-28.
+This devops engineer position at Sanofi was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

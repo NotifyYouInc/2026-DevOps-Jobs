@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Queensland](https://scoutify.ai/companies/university-of-queensland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Queensland, AU |
+| Location | Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://uq.wd3.myworkdayjobs.com/uqcareers/job/St-Lucia-Campus/Senior-Platform-Engineer_R-62837-1) |
 
 ## About This Role
 
-This devops engineer position at University of Queensland was posted on 2026-03-30.
+This devops engineer position at University of Queensland was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

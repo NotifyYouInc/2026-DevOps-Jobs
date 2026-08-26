@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5712522-S2064538-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Operations-Engineer_ATCI-5712572-S2064572-1) |
 
 ## About This Role
 

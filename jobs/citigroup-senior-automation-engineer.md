@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Senior-Automation-Engineer_26956219) |
+| Location | Belfast, Northern Ireland, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Senior-Automation-Engineer_26986736) |
 
 ## About This Role
 
-This industrial automation position at Citigroup was posted on 2026-04-27.
+This devops engineer position at Citigroup was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

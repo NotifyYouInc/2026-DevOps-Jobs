@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Helsing](https://scoutify.ai/companies/helsing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://helsing.ai/jobs/4900453101?gh_jid=4900453101) |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://helsing.ai/jobs/4953564101?gh_jid=4953564101) |
 
 ## About This Role
 
-This security engineer position at Helsing was posted on 2026-06-16.
+This software engineer position at Helsing was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

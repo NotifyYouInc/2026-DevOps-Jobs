@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vietnam |
+| Location | Rugby, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ho-Chi-Minh-Vietnam/Senior-System-Engineer_R65315) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Rugby-UK-ZUK107/Senior-System-Engineer_R66872) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-07-07.
+This devops engineer position at Motorola Solutions was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
