@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-281478) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Software Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Engineer_R-275300) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-07-20.
+This software engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

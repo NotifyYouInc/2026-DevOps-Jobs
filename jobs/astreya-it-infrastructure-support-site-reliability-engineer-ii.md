@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Ireland/IT-Infrastructure-Support-Site-Reliability-Engineer-II_R0016399) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-Ireland/IT-Infrastructure-Support-Site-Reliability-Engineer-II_R0016398) |
 
 ## About This Role
 
-This devops engineer position at Astreya was posted on 2026-07-29.
+This devops engineer position at Astreya was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

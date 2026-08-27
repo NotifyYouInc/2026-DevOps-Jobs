@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000141455479-site-reliability-engineer-ii) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144517164-site-reliability-engineer-ii) |
 
 ## About This Role
 
-This devops engineer position at Flywire was posted on 2026-08-04.
+This devops engineer position at Flywire was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

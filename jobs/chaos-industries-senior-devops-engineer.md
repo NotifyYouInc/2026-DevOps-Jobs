@@ -5,12 +5,12 @@
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5205728007) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5217532007) |
 
 ## About This Role
 
-This devops engineer position at CHAOS Industries was posted on 2026-08-06.
+This devops engineer position at CHAOS Industries was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

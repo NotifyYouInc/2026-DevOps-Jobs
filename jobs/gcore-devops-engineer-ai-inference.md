@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gcore](https://scoutify.ai/companies/gcore?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000135707119-devops-engineer-ai-inference) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gcore/744000144282799-devops-engineer-ai-inference) |
 
 ## About This Role
 
-This devops engineer position at Gcore was posted on 2026-07-03.
+This devops engineer position at Gcore was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000141911418-devops-consultant-kubernetes-mwd) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000144345819-devops-consultant-kubernetes-mwd) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-08-06.
+This devops engineer position at Devoteam was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

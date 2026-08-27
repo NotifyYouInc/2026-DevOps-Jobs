@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | South Africa |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/AI-Platform-Engineer--Cloud-_R-15989911-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Sandton/AI-Platform-Engineer--Cloud-_R-15990107) |
 
 ## About This Role
 
-This devops engineer position at Absa was posted on 2026-08-11.
+This devops engineer position at Absa was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

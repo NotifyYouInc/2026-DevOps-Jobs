@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Software Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBBirmingham---Chamberlain-Square/Automation-Engineer_R-160909) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Industrial Automation |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/INBangaloreRMZ-Galleria/Automation-Engineer_R-162284) |
 
 ## About This Role
 
-This software engineer position at AtkinsRéalis was posted on 2026-08-14.
+This industrial automation position at AtkinsRéalis was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

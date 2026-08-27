@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roboyo](https://scoutify.ai/companies/roboyo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4950761101) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4955890101) |
 
 ## About This Role
 
-This industrial automation position at Roboyo was posted on 2026-08-12.
+This industrial automation position at Roboyo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

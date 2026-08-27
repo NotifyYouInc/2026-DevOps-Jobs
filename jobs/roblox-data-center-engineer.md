@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ashburn, Virginia, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/7807930?gh_jid=7807930) |
+| Location | Goodyear, Arizona, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8047875?gh_jid=8047875) |
 
 ## About This Role
 
-This it & systems administration position at Roblox was posted on 2026-04-13.
+This devops engineer position at Roblox was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

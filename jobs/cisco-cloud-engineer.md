@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Milpitas, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Cloud-Engineer_2023197) |
+| Location | San Jose, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Cloud-Engineer_2019819) |
 
 ## About This Role
 
-This software engineer position at Cisco was posted on 2026-08-17.
+This devops engineer position at Cisco was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

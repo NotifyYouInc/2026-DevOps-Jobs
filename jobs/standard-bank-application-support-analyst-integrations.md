@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nairobi, Nairobi County, Kenya |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143749640-application-support-analyst-integrations) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000144292224-application-support-analyst-integrations) |
 
 ## About This Role
 
-This devops engineer position at Standard Bank was posted on 2026-08-17.
+This devops engineer position at Standard Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

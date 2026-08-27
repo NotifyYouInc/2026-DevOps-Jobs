@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Spring Hill, Florida, United States |
+| Location | Bay City, Michigan, United States |
 | Category | Industrial Automation |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Spring-Hill-Tennessee-United-States-of-America/Maintenance-Reliability-Engineer_JR-202611779) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Bay-City-Michigan-United-States-of-America/Maintenance-Reliability-Engineer_JR-202618292) |
 
 ## About This Role
 
-This industrial automation position at General Motors was posted on 2026-06-02.
+This industrial automation position at General Motors was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

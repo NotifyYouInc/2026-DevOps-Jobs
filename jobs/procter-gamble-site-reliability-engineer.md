@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Taguig-City/Site-Reliability-Engineer_R000156530) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/MANILA-NET-PARK-OFFICE/Site-Reliability-Engineer_R000157623) |
 
 ## About This Role
 
-This devops engineer position at Procter & Gamble was posted on 2026-08-03.
+This devops engineer position at Procter & Gamble was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

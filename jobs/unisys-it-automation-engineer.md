@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/IT-Automation-Engineer_REQ574466) |
+| Category | Industrial Automation |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/IT-Automation-Engineer_REQ575152) |
 
 ## About This Role
 
-This devops engineer position at Unisys was posted on 2026-07-14.
+This industrial automation position at Unisys was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

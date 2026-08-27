@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Worldpay](https://scoutify.ai/companies/worldpay?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/BENGALURU--INDIA/Senior-AWS-Cloud-Engineer--Devops--Terraform--Ansible--7--Yrs-Bangalore-Pune-Indore_JR0609255) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://worldpay.wd5.myworkdayjobs.com/worldpay_external_careers_site/job/BENGALURU--INDIA/Senior-Devops-AWS-Cloud-Engineer--Terraform--Ansible--Docker--Kubernetes--7--Yrs-Bangalore-Pune-Indore_JR0610964) |
 
 ## About This Role
 
-This devops engineer position at Worldpay was posted on 2026-04-22.
+This devops engineer position at Worldpay was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Machine Learning Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Edina-MN-55435/Senior-AI-Quality---Reliability-Engineer_34413R-1) |
+| Location | 3 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/Senior-AI-Quality---Reliability-Engineer_34662R) |
 
 ## About This Role
 
-This machine learning engineer position at Vizient was posted on 2026-07-24.
+This devops engineer position at Vizient was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

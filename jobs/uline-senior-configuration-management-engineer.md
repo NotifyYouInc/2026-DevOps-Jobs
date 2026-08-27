@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 5 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Configuration-Management-Engineer_R265629-1) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Senior-Configuration-Management-Engineer_R266712-1) |
 
 ## About This Role
 
-This devops engineer position at Uline was posted on 2026-07-16.
+This it & systems administration position at Uline was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

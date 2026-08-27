@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Quincy, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-04 |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Azure-Platform-Engineer--Assistant-Vice-President_R-784908) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-03-04.
+This devops engineer position at State Street was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

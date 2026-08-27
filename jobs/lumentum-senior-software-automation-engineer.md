@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lumentum](https://scoutify.ai/companies/lumentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Software Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Senior-Software-Automation-Engineer_2026527) |
 
 ## About This Role
 
-This software engineer position at Lumentum was posted on 2026-08-18.
+This industrial automation position at Lumentum was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

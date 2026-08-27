@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Cloud-Migration-Engineer_ATCI-5678955-S2060412) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Migration-Engineer_ATCI-5552887-S2064935-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-24.
+This devops engineer position at Accenture was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

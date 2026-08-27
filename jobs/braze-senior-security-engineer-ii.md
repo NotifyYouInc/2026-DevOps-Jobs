@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://boards.greenhouse.io/braze/jobs/8140264?gh_jid=8140264) |
 
 ## About This Role
 
-This devops engineer position at Braze was posted on 2026-08-18.
+This cybersecurity engineer position at Braze was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

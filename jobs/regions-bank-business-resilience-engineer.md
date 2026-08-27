@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hoover, Alabama, United States |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Resilience-Engineer_R105097) |
 
 ## About This Role
 
-This devops engineer position at Regions Bank was posted on 2026-08-19.
+This cybersecurity engineer position at Regions Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

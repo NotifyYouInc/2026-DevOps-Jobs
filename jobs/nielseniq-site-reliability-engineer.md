@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143243879-site-reliability-engineer) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000144412549-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at NielsenIQ was posted on 2026-08-13.
+This devops engineer position at NielsenIQ was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

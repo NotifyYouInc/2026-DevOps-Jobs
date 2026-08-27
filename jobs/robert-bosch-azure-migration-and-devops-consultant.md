@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142558738-azure-migration-and-devops-consultant) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144471688-azure-migration-and-devops-consultant) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-08-10.
+This devops engineer position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

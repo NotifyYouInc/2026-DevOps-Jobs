@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Security Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/BWD-GERMANY-STUTTGART/Sr-Network-Engineer--SME-_327876) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Stuttgart-Germany/Sr-Network-Engineer--SME-_330841-1) |
 
 ## About This Role
 
-This security engineer position at CACI was posted on 2026-07-02.
+This devops engineer position at CACI was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

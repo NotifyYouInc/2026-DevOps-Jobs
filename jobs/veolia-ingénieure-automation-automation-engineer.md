@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141798088-ingenieure-automation-automation-engineer) |
+| Category | Industrial Automation |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000144343548-ingenieure-automation-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Veolia was posted on 2026-08-05.
+This industrial automation position at Veolia was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

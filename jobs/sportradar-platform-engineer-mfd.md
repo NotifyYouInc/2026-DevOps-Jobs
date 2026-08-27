@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ljubljana, Ljubljana, Slovenia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000138629615-platform-engineer-mfd) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000144552355-platform-engineer-mfd) |
 
 ## About This Role
 
-This devops engineer position at Sportradar was posted on 2026-07-20.
+This devops engineer position at Sportradar was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

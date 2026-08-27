@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
-| Posted | 2026-03-11 |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND---Chennai-Neville-Towers/Enterprise-Cloud-Software-Engineer--Cloud-Operations--AI-Engineering--Azure-AWS-_R0054651-2) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-03-11.
+This software engineer position at Wolters Kluwer was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Elastic-Engineer_R0247250) |
+| Location | Camp H.M. Smith, Hawaii, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-HM-Smith-HI/Elastic-Engineer_R0247389) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-18.
+This cybersecurity engineer position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

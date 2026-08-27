@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Lead-Automation-Engineer_R1317095) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-08-19.
+This industrial automation position at Danaher was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

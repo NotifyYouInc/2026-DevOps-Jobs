@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sèvres, Île-de-France, France |
-| Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141427799-stage-innovation-ingenieur-reseaux-devops) |
+| Category | Software Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144245925-stage-innovation-ingenieur-reseaux-devops) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-08-04.
+This software engineer position at ALTEN was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

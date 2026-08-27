@@ -1,16 +1,16 @@
-# Sr Applications Operations Engineer at GE Aerospace
+# Sr. Applications Operations Engineer at GE Aerospace
 
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lafayette, Louisiana, United States |
+| Location | West Chester, Pennsylvania, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lafayette-IN-USA/Sr-Applications-Operations-Engineer_R5035921-2) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/West-Chester/Sr-Applications-Operations-Engineer_R5037899-2) |
 
 ## About This Role
 
-This devops engineer position at GE Aerospace was posted on 2026-06-18.
+This devops engineer position at GE Aerospace was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

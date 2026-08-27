@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Covestro](https://scoutify.ai/companies/covestro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, CN |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Jinshan-District-Shanghai-China/Senior-Automation-Engineer_JR-2026-01723) |
 
 ## About This Role
 
-This devops engineer position at Covestro was posted on 2026-08-19.
+This industrial automation position at Covestro was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

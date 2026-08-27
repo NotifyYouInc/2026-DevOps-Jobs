@@ -5,12 +5,12 @@
 | Company | [StraitsX](https://scoutify.ai/companies/straitsx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4891950101) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/straitsx/jobs/4956513101) |
 
 ## About This Role
 
-This devops engineer position at StraitsX was posted on 2026-06-10.
+This devops engineer position at StraitsX was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colorado, US |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sr-Principal-Cyber-Systems-Engineer---X-Lab-Platform-Engr--26-375-_R10245789) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-18.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
