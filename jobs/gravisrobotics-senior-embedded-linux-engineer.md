@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gravisrobotics](https://scoutify.ai/companies/gravisrobotics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
-| Category | DevOps Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.lever.co/gravisrobotics/a7b8cb11-3d48-487a-add7-bf8301088cd0) |
 
 ## About This Role
 
-This devops engineer position at Gravisrobotics was posted on 2026-08-20.
+This embedded / firmware engineer position at Gravisrobotics was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

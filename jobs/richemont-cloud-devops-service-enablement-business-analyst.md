@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Moscow, Moscow, Russia |
-| Category | DevOps Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MOSCAVIDE/Cloud---DevOps-Service-Enablement-Business-Analyst_JR132867) |
 
 ## About This Role
 
-This devops engineer position at Richemont was posted on 2026-08-20.
+This business analyst position at Richemont was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

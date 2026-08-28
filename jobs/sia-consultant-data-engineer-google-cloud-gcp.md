@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
-| Category | DevOps Engineer |
+| Location | 2 locations |
+| Category | Data Engineer |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144270686-consultant-data-engineer-google-cloud-gcp) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144379945-consultant-data-engineer-google-cloud-gcp) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-08-19.
+This data engineer position at SIA was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Richmond, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000144162539-devops-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000144553524-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at CapTech Consulting was posted on 2026-08-18.
+This devops engineer position at CapTech Consulting was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

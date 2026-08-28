@@ -1,16 +1,16 @@
-# Operations Engineer at Apple
+# Operations Engineer  at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Shanghai, Shanghai, China |
 | Category | DevOps Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200647783/operations-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678940/operations-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-02-26.
+This devops engineer position at Apple was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

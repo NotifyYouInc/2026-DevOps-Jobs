@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
-| Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7694238003) |
+| Location | Peru |
+| Category | Data Engineer |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) |
 
 ## About This Role
 
-This devops engineer position at Sezzle was posted on 2026-08-18.
+This data engineer position at Sezzle was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

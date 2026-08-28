@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-27 |
+| Posted | 2026-08-21 |
 | Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Chennai/Regional-IT-Infrastructure-Engineer_REQ2026070991) |
 
 ## About This Role
 
-This it & systems administration position at Valeo was posted on 2026-04-27.
+This it & systems administration position at Valeo was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Wuhan, Hubei, China |
-| Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---WUHAN/Cloud-Engineer_51585795-1) |
+| Location | Suzhou, Jiangsu, China |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SUZHOU/Cloud-Engineer_51587470) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-07-27.
+This it & systems administration position at DXC Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

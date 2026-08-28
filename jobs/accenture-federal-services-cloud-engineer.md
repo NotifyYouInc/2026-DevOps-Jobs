@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Los Angeles, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4693021006?gh_jid=4693021006) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4703608006?gh_jid=4703608006) |
 
 ## About This Role
 
-This devops engineer position at Accenture Federal Services was posted on 2026-06-29.
+This devops engineer position at Accenture Federal Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

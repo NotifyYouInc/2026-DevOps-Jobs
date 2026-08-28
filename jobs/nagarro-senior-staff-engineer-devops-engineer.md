@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000142784899-senior-staff-engineer-devops-engineer) |
+| Location | Quito, Pichincha, Ecuador |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000144630889-senior-staff-engineer-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nagarro was posted on 2026-08-11.
+This machine learning engineer position at Nagarro was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

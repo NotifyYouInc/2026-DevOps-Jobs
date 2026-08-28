@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Cloud-Engineer_R26-6337) |
 
 ## About This Role
 
-This devops engineer position at Rockwell Automation was posted on 2026-08-20.
+This data engineer position at Rockwell Automation was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

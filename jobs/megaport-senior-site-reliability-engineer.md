@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Megaport](https://scoutify.ai/companies/megaport?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.lever.co/megaport/6c1090bf-d792-4334-a9b1-f78259913512) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.lever.co/megaport/702e2f84-4f18-436f-9759-478360102241) |
 
 ## About This Role
 
-This devops engineer position at Megaport was posted on 2026-08-13.
+This devops engineer position at Megaport was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

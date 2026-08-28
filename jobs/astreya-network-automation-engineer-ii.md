@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Dublin-Ireland/Network-Automation-Engineer-II_R0016321) |
+| Location | Texas, US |
+| Category | Industrial Automation |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-TX/Network-Automation-Engineer-II_R0016823) |
 
 ## About This Role
 
-This devops engineer position at Astreya was posted on 2026-07-16.
+This industrial automation position at Astreya was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

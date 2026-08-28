@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000144244702-junior-infrastructure-engineer) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000144452705-junior-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-08-19.
+This devops engineer position at Endava was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

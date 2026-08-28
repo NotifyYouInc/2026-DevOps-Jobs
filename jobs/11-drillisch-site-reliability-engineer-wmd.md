@@ -5,12 +5,12 @@
 | Company | [1&1 Drillisch](https://scoutify.ai/companies/1-1-drillisch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4703553101) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/ionos/jobs/4957641101) |
 
 ## About This Role
 
-This devops engineer position at 1&1 Drillisch was posted on 2026-06-18.
+This devops engineer position at 1&1 Drillisch was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

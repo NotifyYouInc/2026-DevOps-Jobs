@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Vancouver, British Columbia, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Manager--Site-Reliability-Engineering_R-279502-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Manager--Site-Reliability-Engineering_R-288380) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-07-03.
+This devops engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

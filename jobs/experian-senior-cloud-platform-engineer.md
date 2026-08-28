@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138934019-senior-cloud-platform-engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144782209-senior-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-07-21.
+This devops engineer position at Experian was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bern, Bern, Switzerland |
+| Location | Switzerland |
 | Category | Data Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Zurich/Data-Platform-Engineer_R-0006004) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Zurich/Data-Platform-Engineer_R-0006109) |
 
 ## About This Role
 
-This data engineer position at Swisscom was posted on 2026-07-07.
+This data engineer position at Swisscom was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

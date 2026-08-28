@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014617576-director-mts-devops) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014733766-director-mts-devops) |
 
 ## About This Role
 
-This devops engineer position at The Nielsen Company was posted on 2026-08-17.
+This devops engineer position at The Nielsen Company was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

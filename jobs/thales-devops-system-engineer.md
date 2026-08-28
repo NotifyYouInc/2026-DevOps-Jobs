@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Cuernavaca, Morelos, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Austin/DevOps-System-Engineer_R0328460-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Cuernavaca/DevOps-System-Engineer_R0333020) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-06-17.
+This devops engineer position at Thales was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

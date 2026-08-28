@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | London, England, United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000130792182-platform-support-analyst) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000144789986-platform-support-analyst) |
 
 ## About This Role
 
-This customer success position at Entain was posted on 2026-06-08.
+This customer success position at Entain was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

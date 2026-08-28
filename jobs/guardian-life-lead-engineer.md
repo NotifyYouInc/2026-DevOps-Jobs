@@ -5,12 +5,12 @@
 | Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Lead-Engineer_R000108701-2) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Chennai/Lead-Engineer_R000109862) |
 
 ## About This Role
 
-This devops engineer position at Guardian Life was posted on 2026-03-13.
+This devops engineer position at Guardian Life was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

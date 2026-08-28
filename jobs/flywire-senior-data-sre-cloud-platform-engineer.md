@@ -5,12 +5,12 @@
 | Company | [Flywire](https://scoutify.ai/companies/flywire?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Valencia, Valencia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144065740-senior-data-sre-cloud-platform-engineer) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Flywire1/744000144803124-senior-data-sre-cloud-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at Flywire was posted on 2026-08-18.
+This devops engineer position at Flywire was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

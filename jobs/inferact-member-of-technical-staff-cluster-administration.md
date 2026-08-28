@@ -5,12 +5,12 @@
 | Company | [Inferact](https://scoutify.ai/companies/inferact?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/inferact/c1db91ef-e580-44fb-8a39-f5dfbab611fd) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/inferact/595cbea0-7099-4416-a87c-efcc2876e654) |
 
 ## About This Role
 
-This devops engineer position at Inferact was posted on 2026-06-17.
+This devops engineer position at Inferact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

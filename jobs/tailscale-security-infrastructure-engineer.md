@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tailscale](https://scoutify.ai/companies/tailscale?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Canada |
-| Category | Security Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4648927005) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tailscale/jobs/4726152005) |
 
 ## About This Role
 
-This security engineer position at Tailscale was posted on 2026-03-18.
+This cybersecurity engineer position at Tailscale was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

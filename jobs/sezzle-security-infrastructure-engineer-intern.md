@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Colombia |
+| Location | Peru |
 | Category | Cybersecurity Engineer |
 | Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7694916003) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) |
 
 ## About This Role
 

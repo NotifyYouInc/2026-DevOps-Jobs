@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Engineer-II--Cloud_JR0308909) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Cloud-Engineer--AWS-_JR0308755) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-08-17.
+This devops engineer position at Fidelity National Information Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
