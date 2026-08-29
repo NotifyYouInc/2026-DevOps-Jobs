@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144450889-senior-software-engineer) |
 
 ## About This Role
 
-This software engineer position at Smiths Group was posted on 2026-08-20.
+This devops engineer position at Smiths Group was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

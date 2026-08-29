@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Telangana, IN |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/Lead-Software-Engineer--Net-Full-Stack_R2626476) |
 
 ## About This Role
 
-This software engineer position at Hartford Financial Services was posted on 2026-08-20.
+This devops engineer position at Hartford Financial Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

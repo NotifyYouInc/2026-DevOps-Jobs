@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--DevOps-Engineer_R264018) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--DevOps-Engineer_R266149) |
 
 ## About This Role
 
-This devops engineer position at Blackrock was posted on 2026-05-22.
+This devops engineer position at Blackrock was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

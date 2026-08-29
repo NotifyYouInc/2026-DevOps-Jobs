@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Dallas-Infomart-Office-DAI/Senior-Network-Automation-Engineer_JR-162884-1) |
 
 ## About This Role
 
-This industrial automation position at Equinix was posted on 2026-08-20.
+This devops engineer position at Equinix was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

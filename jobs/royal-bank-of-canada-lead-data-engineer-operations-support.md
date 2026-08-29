@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Lead-Data-Engineer_R-0000183166-1) |
 
 ## About This Role
 
-This data engineer position at Royal Bank of Canada was posted on 2026-08-20.
+This devops engineer position at Royal Bank of Canada was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

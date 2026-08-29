@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brest, Brittany, France |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000144726021-developpeur-devops-c-hf) |
 
 ## About This Role
 
-This software engineer position at ALTEN Canada was posted on 2026-08-21.
+This devops engineer position at ALTEN Canada was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

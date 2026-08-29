@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reston, Virginia, United States |
-| Category | SOC & Incident Response |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USAVAReston/Software-Development-Engineer--DevOps--US-Federal-_JR-0097414) |
 
 ## About This Role
 
-This soc & incident response position at Workday was posted on 2026-08-21.
+This devops engineer position at Workday was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Box](https://scoutify.ai/companies/box?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/boxinc/jobs/8133193) |
 
 ## About This Role
 
-This software engineer position at Box was posted on 2026-08-21.
+This devops engineer position at Box was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

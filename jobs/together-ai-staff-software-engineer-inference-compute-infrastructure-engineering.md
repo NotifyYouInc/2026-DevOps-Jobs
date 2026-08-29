@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Together AI](https://scoutify.ai/companies/together-ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/togetherai/jobs/5214645007) |
 
 ## About This Role
 
-This software engineer position at Together AI was posted on 2026-08-20.
+This devops engineer position at Together AI was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

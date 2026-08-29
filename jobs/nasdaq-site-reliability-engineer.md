@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Site-Reliability-Engineer_R0026305-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/Site-Reliability-Engineer_R0026718-1) |
 
 ## About This Role
 
-This devops engineer position at Nasdaq was posted on 2026-06-16.
+This devops engineer position at Nasdaq was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

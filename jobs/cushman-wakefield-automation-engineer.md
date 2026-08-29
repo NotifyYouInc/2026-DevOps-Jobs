@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Oakley, California, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Oakley---4000-Wilbur-Ave/Automation-Engineer_R333246) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-08-20.
+This devops engineer position at Cushman & Wakefield was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

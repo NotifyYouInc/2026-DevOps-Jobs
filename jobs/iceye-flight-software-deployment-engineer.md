@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ICEYE](https://scoutify.ai/companies/iceye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Espoo, Uusimaa, Finland |
-| Category | Embedded / Firmware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/iceye/e8a204a5-9a8b-4fe5-b4ff-bedf3cb7ad79) |
 
 ## About This Role
 
-This embedded / firmware engineer position at ICEYE was posted on 2026-08-21.
+This devops engineer position at ICEYE was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

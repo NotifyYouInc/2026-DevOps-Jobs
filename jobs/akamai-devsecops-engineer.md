@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Spain |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3721) |
 
 ## About This Role
 
-This cybersecurity engineer position at Akamai was posted on 2026-08-21.
+This devops engineer position at Akamai was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

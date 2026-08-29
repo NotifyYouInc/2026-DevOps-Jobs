@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PerkinElmer Canada](https://scoutify.ai/companies/perkinelmer-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://newperkinelmer.wd1.myworkdayjobs.com/external/job/Merck-Boston---Customer-Site-MA/Automation-Engineer_REQ-058274) |
 
 ## About This Role
 
-This industrial automation position at PerkinElmer Canada was posted on 2026-08-21.
+This devops engineer position at PerkinElmer Canada was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solidigm](https://scoutify.ai/companies/solidigm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rancho Cordova, California, United States |
-| Category | Product Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Solidigm/744000144414679-firmware-product-lead) |
 
 ## About This Role
 
-This product manager position at Solidigm was posted on 2026-08-19.
+This devops engineer position at Solidigm was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

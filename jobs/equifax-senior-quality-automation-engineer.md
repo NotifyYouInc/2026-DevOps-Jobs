@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CRI-Sabana/Senior-Quality-Automation-Engineer_J00178055-1) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-08-19.
+This devops engineer position at Equifax was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

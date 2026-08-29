@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Operations-Engineer_ATCI-5722035-S2065191-1) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-08-20.
+This devops engineer position at Accenture was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

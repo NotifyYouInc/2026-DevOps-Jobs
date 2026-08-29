@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Saputo](https://scoutify.ai/companies/saputo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Burnie, Tasmania, Australia |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Burnie-TAS/Automation-Engineer_JR66187) |
 
 ## About This Role
 
-This industrial automation position at Saputo was posted on 2026-08-21.
+This devops engineer position at Saputo was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

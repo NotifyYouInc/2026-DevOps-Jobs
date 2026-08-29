@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AeroVironment](https://scoutify.ai/companies/avav?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maryland, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://avav.wd1.myworkdayjobs.com/AVAV/job/Annapolis-Junction-MD/Software-System-Engineer_8484) |
 
 ## About This Role
 
-This software engineer position at AeroVironment was posted on 2026-08-20.
+This devops engineer position at AeroVironment was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

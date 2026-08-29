@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8130056?gh_jid=8130056) |
 
 ## About This Role
 
-This cybersecurity engineer position at Okta was posted on 2026-08-21.
+This devops engineer position at Okta was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

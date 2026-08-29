@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Saltillo, Coahuila, Mexico |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Saltillo-COA-MX/Control-and-Automation-Engineer_DT-19237) |
 
 ## About This Role
 
-This industrial automation position at Daimler Truck was posted on 2026-08-20.
+This devops engineer position at Daimler Truck was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

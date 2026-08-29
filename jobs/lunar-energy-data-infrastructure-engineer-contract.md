@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lunar Energy](https://scoutify.ai/companies/lunarenergy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/lunarenergy/jobs/6147647004) |
 
 ## About This Role
 
-This database administration position at Lunar Energy was posted on 2026-08-19.
+This devops engineer position at Lunar Energy was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

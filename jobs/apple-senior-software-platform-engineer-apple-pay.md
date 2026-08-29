@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200679060/senior-software-platform-engineer-apple-pay) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-19.
+This devops engineer position at Apple was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Infrastructure-Engineer---End-User-Compute_R-568436) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-08-20.
+This devops engineer position at Wells Fargo was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

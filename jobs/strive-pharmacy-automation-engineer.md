@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Strive Pharmacy](https://scoutify.ai/companies/strive-pharmacy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alachua, Florida, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/strivepharmacy/jobs/5216746007) |
 
 ## About This Role
 
-This industrial automation position at Strive Pharmacy was posted on 2026-08-19.
+This devops engineer position at Strive Pharmacy was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

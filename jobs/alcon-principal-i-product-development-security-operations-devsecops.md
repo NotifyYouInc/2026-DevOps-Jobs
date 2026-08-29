@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcon](https://scoutify.ai/companies/alcon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Bangalore-India/Principal-I--Product-Development--Security---Operations--DevSecOps-_R-2026-48796-1) |
 
 ## About This Role
 
-This software engineer position at Alcon was posted on 2026-08-20.
+This devops engineer position at Alcon was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

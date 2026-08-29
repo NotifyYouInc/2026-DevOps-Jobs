@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Platform-Engineer_R-275300) |
 
 ## About This Role
 
-This software engineer position at Mastercard was posted on 2026-08-20.
+This devops engineer position at Mastercard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

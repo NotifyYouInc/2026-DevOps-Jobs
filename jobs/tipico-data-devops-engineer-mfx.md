@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Malta |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000144537189-data-devops-engineer-mfx) |
 
 ## About This Role
 
-This data engineer position at Tipico was posted on 2026-08-20.
+This devops engineer position at Tipico was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pigment](https://scoutify.ai/companies/pigment?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.lever.co/pigment/373b9e9c-59a2-4e0b-91e8-cf1c49db444b) |
 
 ## About This Role
 
-This software engineer position at Pigment was posted on 2026-08-20.
+This devops engineer position at Pigment was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

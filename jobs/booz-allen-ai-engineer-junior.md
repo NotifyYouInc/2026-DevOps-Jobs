@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Machine Learning Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Junior_R0247417) |
 
 ## About This Role
 
-This machine learning engineer position at Booz Allen was posted on 2026-08-19.
+This devops engineer position at Booz Allen was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

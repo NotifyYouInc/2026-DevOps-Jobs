@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [N26](https://scoutify.ai/companies/n26?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berlin, State of Berlin, Germany |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://n26.com/en-eu/careers/positions/8138777?gh_jid=8138777) |
 
 ## About This Role
 
-This data engineer position at N26 was posted on 2026-08-21.
+This devops engineer position at N26 was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

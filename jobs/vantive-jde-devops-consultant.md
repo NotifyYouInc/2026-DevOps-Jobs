@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Guadalajara-Jalisco/JDE-DevOps-Consultant_JR-191993-1) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/JDE-DevOps-Consultant_JR-197197) |
 
 ## About This Role
 
-This devops engineer position at Vantive was posted on 2026-02-13.
+This devops engineer position at Vantive was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

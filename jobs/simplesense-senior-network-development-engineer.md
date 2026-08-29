@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simplesense](https://scoutify.ai/companies/simplesense?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/simplesense/jobs/4376155009) |
 
 ## About This Role
 
-This software engineer position at Simplesense was posted on 2026-08-20.
+This devops engineer position at Simplesense was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

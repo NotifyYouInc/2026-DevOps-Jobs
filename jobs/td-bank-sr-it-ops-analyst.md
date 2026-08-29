@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/740-Progress-Avenue-Toronto-Ontario/Sr-IT-Ops-Analyst_R_1505974) |
 
 ## About This Role
 
-This it & systems administration position at TD Bank was posted on 2026-08-20.
+This devops engineer position at TD Bank was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

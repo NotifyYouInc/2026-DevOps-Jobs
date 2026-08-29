@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boston, Massachusetts, United States |
-| Category | Database Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Database---Cloud-Platform-Support-Lead--AVP---State-Street-Investment-Management_R-796393) |
 
 ## About This Role
 
-This database administration position at State Street was posted on 2026-08-20.
+This devops engineer position at State Street was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

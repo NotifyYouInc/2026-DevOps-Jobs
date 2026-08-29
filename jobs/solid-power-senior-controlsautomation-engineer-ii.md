@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Solid Power](https://scoutify.ai/companies/solidpower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Thornton, Colorado, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/solidpower/jobs/6146877004) |
 
 ## About This Role
 
-This industrial automation position at Solid Power was posted on 2026-08-20.
+This devops engineer position at Solid Power was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

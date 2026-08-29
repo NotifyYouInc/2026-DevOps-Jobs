@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/INBangaloreRMZ-Galleria/Automation-Engineer_R-162284) |
 
 ## About This Role
 
-This industrial automation position at SNC-Lavalin was posted on 2026-08-20.
+This devops engineer position at SNC-Lavalin was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

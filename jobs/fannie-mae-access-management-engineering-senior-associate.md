@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fannie Mae](https://scoutify.ai/companies/fannie-mae?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Access-Management--Engineering--Senior-Associate_JR2745) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fannie Mae was posted on 2026-08-20.
+This devops engineer position at Fannie Mae was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

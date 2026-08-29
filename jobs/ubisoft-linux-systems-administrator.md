@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ubisoft](https://scoutify.ai/companies/ubisoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Ubisoft2/744000144570418-linux-systems-administrator) |
 
 ## About This Role
 
-This it & systems administration position at Ubisoft was posted on 2026-08-20.
+This devops engineer position at Ubisoft was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

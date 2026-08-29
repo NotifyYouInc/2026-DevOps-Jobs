@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Overland Park, Kansas, United States |
-| Category | Learning & Development |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000144802429-ai-engineering-enablement-lead) |
 
 ## About This Role
 
-This learning & development position at EVERSANA was posted on 2026-08-21.
+This devops engineer position at EVERSANA was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

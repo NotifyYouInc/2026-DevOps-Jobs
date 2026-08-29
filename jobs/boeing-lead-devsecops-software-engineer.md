@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Lead-DevSecOps-Software-Engineer_JR2026522639) |
 
 ## About This Role
 
-This software engineer position at Boeing was posted on 2026-08-19.
+This devops engineer position at Boeing was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

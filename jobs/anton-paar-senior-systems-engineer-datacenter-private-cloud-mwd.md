@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Graz, Styria, Austria |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000144475459-senior-systems-engineer-datacenter-private-cloud-mwd) |
 
 ## About This Role
 
-This it & systems administration position at Anton Paar was posted on 2026-08-20.
+This devops engineer position at Anton Paar was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

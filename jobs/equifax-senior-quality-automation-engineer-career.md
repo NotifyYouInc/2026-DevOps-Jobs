@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kerala, IN |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Senior-Quality-Automation-Engineer---Career_J00178141) |
 
 ## About This Role
 
-This industrial automation position at Equifax was posted on 2026-08-20.
+This devops engineer position at Equifax was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

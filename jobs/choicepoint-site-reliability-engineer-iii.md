@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Alpharetta, Georgia, United States |
-| Category | Cybersecurity Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-19 |
 | Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Alpharetta-GA/Site-Reliability-Engineer-III_R117005) |
 
 ## About This Role
 
-This cybersecurity engineer position at ChoicePoint was posted on 2026-08-19.
+This devops engineer position at ChoicePoint was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

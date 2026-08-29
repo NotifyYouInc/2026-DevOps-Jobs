@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gt Hq](https://scoutify.ai/companies/gt-hq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/gt-hq/f75e1028-c89c-4c20-8ec5-c0be093a8e70) |
 
 ## About This Role
 
-This software engineer position at Gt Hq was posted on 2026-08-20.
+This devops engineer position at Gt Hq was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

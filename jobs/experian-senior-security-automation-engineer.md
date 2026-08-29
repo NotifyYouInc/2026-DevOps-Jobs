@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Heredia, Heredia Province, Costa Rica |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000144621689-senior-security-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Experian was posted on 2026-08-20.
+This devops engineer position at Experian was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
