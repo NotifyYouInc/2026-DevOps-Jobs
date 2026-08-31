@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roboyo](https://scoutify.ai/companies/roboyo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Australia |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4957030101) |
 
 ## About This Role
 
-This devops engineer position at Roboyo was posted on 2026-08-21.
+This software engineer position at Roboyo was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Remote/Senior-Site-Reliability-Engineer_JR2020225) |
+| Location | Israel |
+| Category | Database Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2023915) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-07-14.
+This database administration position at Nvidia was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

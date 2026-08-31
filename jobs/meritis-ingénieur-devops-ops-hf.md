@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000141743254-ingenieur-devops-ops-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145286065-ingenieur-devops-ops-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-08-05.
+This devops engineer position at Meritis was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

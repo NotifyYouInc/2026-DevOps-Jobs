@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000144789986-platform-support-analyst) |
 
 ## About This Role
 
-This devops engineer position at Entain was posted on 2026-08-21.
+This customer success position at Entain was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

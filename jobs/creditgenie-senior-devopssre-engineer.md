@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Creditgenie](https://scoutify.ai/companies/creditgenie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Plymouth Meeting, Pennsylvania, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/creditgenie/5ed75275-bdf0-4f4f-89c5-6340c6cfed08) |
 
 ## About This Role
 
-This devops engineer position at Creditgenie was posted on 2026-08-21.
+This software engineer position at Creditgenie was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

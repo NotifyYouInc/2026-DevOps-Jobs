@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Senior-Software-Engineer---CI-CD-and-Software-Development-Tools_JR-202615962-1) |
 
 ## About This Role
 
-This devops engineer position at General Motors was posted on 2026-08-21.
+This software engineer position at General Motors was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

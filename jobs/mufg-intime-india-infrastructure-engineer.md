@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MUFG Intime India](https://scoutify.ai/companies/ap1-cx-oj72475?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Australia |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://hcmn.fa.ap1.oraclecloud.com/jobs/#15578) |
 
 ## About This Role
 
-This devops engineer position at MUFG Intime India was posted on 2026-08-21.
+This it & systems administration position at MUFG Intime India was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/Cloud-Engineer-3---Python--SQL_R171272) |
 
 ## About This Role
 
-This devops engineer position at Adobe was posted on 2026-08-20.
+This software engineer position at Adobe was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

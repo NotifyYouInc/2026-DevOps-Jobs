@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ZoomInfo Technologies LLC](https://scoutify.ai/companies/zoominfo-technologies-llc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.zoominfo.com/careers?gh_jid=8737995002) |
 
 ## About This Role
 
-This devops engineer position at ZoomInfo Technologies LLC was posted on 2026-08-21.
+This software engineer position at ZoomInfo Technologies LLC was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-23 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000145029619-devsecops-tech-lead) |
 
 ## About This Role
 
-This devops engineer position at Wix.com was posted on 2026-08-23.
+This cybersecurity engineer position at Wix.com was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

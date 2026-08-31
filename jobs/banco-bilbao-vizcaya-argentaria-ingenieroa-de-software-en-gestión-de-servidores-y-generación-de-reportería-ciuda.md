@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Miguel Hidalgo, Mexico City, Mexico |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Ingeniero-a-de-Software-en-Gestin-de-Servidores-y-Generacin-de-Reportera--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00112427) |
 
 ## About This Role
 
-This devops engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-21.
+This software engineer position at Banco Bilbao Vizcaya Argentaria was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

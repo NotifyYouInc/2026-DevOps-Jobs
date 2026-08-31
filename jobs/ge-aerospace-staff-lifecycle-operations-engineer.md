@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hooksett, New Hampshire, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Hooksett/Staff-Lifecycle-Operations-Engineer_R5038414-2) |
+| Location | Lafayette, Louisiana, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lafayette-IN-USA/Staff-Lifecycle-Operations-Engineer_R5038691-1) |
 
 ## About This Role
 
-This software engineer position at GE Aerospace was posted on 2026-08-18.
+This it & systems administration position at GE Aerospace was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Jersey City, New Jersey, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Senior-Python-Architect-Developer---Vice-President_26987789) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-08-20.
+This software engineer position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

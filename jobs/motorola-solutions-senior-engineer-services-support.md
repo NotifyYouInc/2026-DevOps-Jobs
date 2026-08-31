@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rugby, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Rugby-UK-ZUK107/Senior-Engineer-Services-Support_R67482) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-08-20.
+This customer success position at Motorola Solutions was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Artefact](https://scoutify.ai/companies/artefact?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://www.artefact.com/careers/7804852002?gh_jid=7804852002) |
 
 ## About This Role
 
-This devops engineer position at Artefact was posted on 2026-08-21.
+This software engineer position at Artefact was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

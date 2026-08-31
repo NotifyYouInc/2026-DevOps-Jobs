@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ashburn Consulting](https://scoutify.ai/companies/ashburnconsulting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/AshburnConsulting/744000144590734-systems-engineer) |
 
 ## About This Role
 
-This devops engineer position at Ashburn Consulting was posted on 2026-08-20.
+This cybersecurity engineer position at Ashburn Consulting was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

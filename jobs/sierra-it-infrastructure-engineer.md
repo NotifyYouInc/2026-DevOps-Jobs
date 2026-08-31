@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sierra](https://scoutify.ai/companies/sierra?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) |
 
 ## About This Role
 
-This devops engineer position at Sierra was posted on 2026-08-21.
+This it & systems administration position at Sierra was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

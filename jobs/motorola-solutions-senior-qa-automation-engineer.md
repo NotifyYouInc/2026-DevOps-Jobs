@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-QA-Automation-Engineer_R64940) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-QA-Automation-Engineer_R67041) |
 
 ## About This Role
 
-This devops engineer position at Motorola Solutions was posted on 2026-07-13.
+This devops engineer position at Motorola Solutions was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

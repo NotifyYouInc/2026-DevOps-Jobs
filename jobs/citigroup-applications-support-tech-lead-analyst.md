@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Haryana, IN |
-| Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Applications-Support-Tech-Lead-Analyst_26947456) |
+| Location | Tampa, Florida, United States |
+| Category | Database Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Applications-Support-Tech-Lead-Analyst_26979875) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-03-25.
+This database administration position at Citigroup was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

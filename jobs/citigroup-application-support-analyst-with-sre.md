@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Application-Support-Analyst-with-SRE_26985646) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-08-20.
+This customer success position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

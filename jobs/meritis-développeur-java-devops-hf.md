@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Software Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000144005007-developpeur-java-devops-hf) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145235415-developpeur-java-devops-hf) |
 
 ## About This Role
 
-This software engineer position at Meritis was posted on 2026-08-18.
+This software engineer position at Meritis was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

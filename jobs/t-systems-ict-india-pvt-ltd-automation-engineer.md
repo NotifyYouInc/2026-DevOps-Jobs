@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
-| Posted | 2026-01-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000105839283-automation-engineer) |
+| Location | Pune, Maharashtra, India |
+| Category | DevOps Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000145202969-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at T-Systems ICT India Pvt. Ltd. was posted on 2026-01-27.
+This devops engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

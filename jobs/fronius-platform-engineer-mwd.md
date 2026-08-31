@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fronius](https://scoutify.ai/companies/fronius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Thalheim-bei-Wels/Platform-Engineer--m-w-d-_REQ-10009438) |
 
 ## About This Role
 
-This devops engineer position at Fronius was posted on 2026-08-20.
+This software engineer position at Fronius was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

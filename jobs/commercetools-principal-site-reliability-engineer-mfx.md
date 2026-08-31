@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [commercetools](https://scoutify.ai/companies/commercetools?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/commercetools/jobs/7919164003) |
 
 ## About This Role
 
-This devops engineer position at commercetools was posted on 2026-08-20.
+This software engineer position at commercetools was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

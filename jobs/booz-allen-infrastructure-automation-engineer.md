@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dahlgren, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dahlgren-VA/Infrastructure-Automation-Engineer_R0246023) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dahlgren-VA/Infrastructure-Automation-Engineer_R0247672-1) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-04.
+This devops engineer position at Booz Allen was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

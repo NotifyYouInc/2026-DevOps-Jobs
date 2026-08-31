@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kabam](https://scoutify.ai/companies/kabam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.lever.co/kabam/7b7becfb-5567-40c2-b0e8-d3e271f113be) |
 
 ## About This Role
 
-This devops engineer position at Kabam was posted on 2026-08-21.
+This software engineer position at Kabam was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

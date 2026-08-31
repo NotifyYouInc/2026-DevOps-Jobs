@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Chennai-Flexible/Senior-Operations-Reliability-Engineer---Enterprise-Platforms---Tools_JR110135) |
 
 ## About This Role
 
-This devops engineer position at Genesys was posted on 2026-08-21.
+This it & systems administration position at Genesys was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

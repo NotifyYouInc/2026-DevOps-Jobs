@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irving, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Build-Engineer-Assistant-Vice-President-Conversion_26986703) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-08-21.
+This cybersecurity engineer position at Citigroup was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

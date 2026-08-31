@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Waymo](https://scoutify.ai/companies/waymo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://careers.withwaymo.com/jobs?gh_jid=8148444) |
 
 ## About This Role
 
-This devops engineer position at Waymo was posted on 2026-08-22.
+This software engineer position at Waymo was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

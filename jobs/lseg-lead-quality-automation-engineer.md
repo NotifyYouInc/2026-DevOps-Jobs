@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Philippines |
-| Category | Industrial Automation |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Lead-Quality-Automation-Engineer_R0118140-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Lead-Quality-Automation-Engineer_R0122322) |
 
 ## About This Role
 
-This industrial automation position at LSEG was posted on 2026-06-15.
+This devops engineer position at LSEG was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

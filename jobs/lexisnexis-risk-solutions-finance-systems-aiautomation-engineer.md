@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LexisNexis Risk Solutions](https://scoutify.ai/companies/relx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Dayton-OH/Finance-Systems-AI-Automation-Engineer_R116686) |
 
 ## About This Role
 
-This devops engineer position at LexisNexis Risk Solutions was posted on 2026-08-21.
+This software engineer position at LexisNexis Risk Solutions was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
