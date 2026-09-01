@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | Customer Success |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/IN-Sr-Support-Engineer-1_254660) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/IND---Coimbatore-708/IN-Sr-Support-Engineer-1_254601) |
 
 ## About This Role
 
-This customer success position at Blue Yonder was posted on 2026-02-04.
+This customer success position at Blue Yonder was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

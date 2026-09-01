@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Braine-l'Alleud, Wallonia, Belgium |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4958356101) |
 
 ## About This Role
 
-This it & systems administration position at Spektrum was posted on 2026-08-21.
+This devops engineer position at Spektrum was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

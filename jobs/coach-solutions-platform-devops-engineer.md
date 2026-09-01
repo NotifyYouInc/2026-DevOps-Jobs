@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coach Solutions](https://scoutify.ai/companies/coachsolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Copenhagen, Capital Region, Denmark |
+| Location | Denmark |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/COACHSolutions/744000141889695-platform-devops-engineer) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/COACHSolutions/744000145287559-platform-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Coach Solutions was posted on 2026-08-06.
+This devops engineer position at Coach Solutions was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

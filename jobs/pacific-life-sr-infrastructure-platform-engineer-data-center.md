@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Newport Beach, California, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-22 |
 | Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-800/Sr-Infrastructure-Platform-Engineer---Data-Center_R17541) |
 
 ## About This Role
 
-This it & systems administration position at Pacific Life was posted on 2026-08-22.
+This devops engineer position at Pacific Life was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

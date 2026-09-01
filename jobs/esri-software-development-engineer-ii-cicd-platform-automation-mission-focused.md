@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://www.esri.com/careers/5172045007?gh_jid=5172045007) |
+| Location | Redlands, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.esri.com/careers/5219799007?gh_jid=5219799007) |
 
 ## About This Role
 
-This devops engineer position at Esri was posted on 2026-06-23.
+This software engineer position at Esri was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

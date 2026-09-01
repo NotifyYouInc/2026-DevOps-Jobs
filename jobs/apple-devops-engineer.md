@@ -1,16 +1,16 @@
-# DevOps Engineer at Apple
+# Devops Engineer at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200676030/devops-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200628323/devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-08-11.
+This devops engineer position at Apple was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

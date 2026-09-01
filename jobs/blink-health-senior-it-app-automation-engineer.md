@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blink Health](https://scoutify.ai/companies/blink-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-23 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/blinkhealth/jobs/8740411002) |
 
 ## About This Role
 
-This it & systems administration position at Blink Health was posted on 2026-08-23.
+This devops engineer position at Blink Health was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

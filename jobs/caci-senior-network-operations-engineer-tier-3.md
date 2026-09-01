@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Washington, District of Columbia, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Senior-Network-Operations-Engineer---Tier-3_330958-1) |
 
 ## About This Role
 
-This it & systems administration position at CACI was posted on 2026-08-21.
+This devops engineer position at CACI was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

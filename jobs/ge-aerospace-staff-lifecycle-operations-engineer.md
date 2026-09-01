@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Aerospace](https://scoutify.ai/companies/ge-aerospace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lafayette, Louisiana, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Lafayette-IN-USA/Staff-Lifecycle-Operations-Engineer_R5038691-1) |
 
 ## About This Role
 
-This it & systems administration position at GE Aerospace was posted on 2026-08-24.
+This devops engineer position at GE Aerospace was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000138920509-principal-systems-design-engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000145375230-principal-systems-design-engineer) |
 
 ## About This Role
 
-This devops engineer position at ServiceNow was posted on 2026-07-21.
+This cybersecurity engineer position at ServiceNow was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

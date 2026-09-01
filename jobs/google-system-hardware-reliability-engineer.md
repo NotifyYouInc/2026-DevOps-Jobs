@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYT_ZByjjevU-KomZQxVWniIOB3hUOdurqyiab-wyV7wEjsACxwdTMp_ZmGK5VXF1Cj6SWun_ZOiZw6F0NtVazUFPbIhzrPV2pnxImx1CO_H4faCbH589Ic7YqNP0A%3D%3D_V2&loc=US&title=System+Hardware+Reliability+Engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckW7B8hm6hnNY9ZYR0vAlFUHRmHrfcZsHeSLj59yDFENHEjsA1Ny_i5OtNzi70bBpvnudAEDMGBMWTUrDL0uQ20cRzcekdd5U690SeJp10U-bZiQ7vOE59a9gqLzA5Q%3D%3D_V2&loc=US&title=System+Hardware+Reliability+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-05-22.
+This electrical / hardware engineer position at Google was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

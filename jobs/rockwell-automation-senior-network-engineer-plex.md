@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Troy-Michigan-United-States/Senior-Network-Engineer---Plex_R26-1686) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Ohio-United-States/Senior-Network-Engineer---Plex_R26-1686) |
 
 ## About This Role
 
-This devops engineer position at Rockwell Automation was posted on 2026-03-27.
+This devops engineer position at Rockwell Automation was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cloud-DevSecOps-Engineer_R104196-1) |
+| Location | Hoover, Alabama, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Cloud-DevSecOps-Engineer_R103737-1) |
 
 ## About This Role
 
-This devops engineer position at Regions Bank was posted on 2026-08-18.
+This cybersecurity engineer position at Regions Bank was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Clera](https://scoutify.ai/companies/clera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/clera/7bd24a55-3465-4a57-9aad-379bcacb90b9) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/clera/aa1223bb-9435-4728-b6be-26270ca7b9fe) |
 
 ## About This Role
 
-This devops engineer position at Clera was posted on 2026-08-04.
+This devops engineer position at Clera was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

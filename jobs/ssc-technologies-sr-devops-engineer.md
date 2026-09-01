@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | Kansas City, Missouri, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---New-York-US/Sr-DevOps-Engineer_R42366) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Kansas-City-MO/Sr-DevOps-Engineer_R45092) |
 
 ## About This Role
 
-This devops engineer position at SS&C Technologies was posted on 2026-05-12.
+This devops engineer position at SS&C Technologies was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

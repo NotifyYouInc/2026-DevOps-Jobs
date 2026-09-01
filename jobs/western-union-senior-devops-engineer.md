@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at Western Union
+# Senior Devops Engineer at Western Union
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | DevOps Engineer |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/ARG---Buenos-Aires/Senior-DevOps-Engineer_JR0129227) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/ARG---Buenos-Aires/Senior-Devops-Engineer_JR0131460) |
 
 ## About This Role
 
-This devops engineer position at Western Union was posted on 2026-04-14.
+This devops engineer position at Western Union was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptiv](https://scoutify.ai/companies/aptiv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | China |
+| Location | Wuhu, Anhui, China |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Jingzhou-City-China/Design-Release-Engineer_J000692924) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Wuhu-City-China/Design-Release-Engineer_J000702880) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Aptiv was posted on 2026-03-27.
+This electrical / hardware engineer position at Aptiv was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

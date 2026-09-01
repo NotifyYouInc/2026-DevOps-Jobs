@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amwell](https://scoutify.ai/companies/amwell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/amwell/jobs/4219249009) |
 
 ## About This Role
 
-This devops engineer position at Amwell was posted on 2026-04-17.
+This devops engineer position at Amwell was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
