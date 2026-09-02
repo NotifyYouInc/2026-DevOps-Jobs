@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Desktop-Automation-Engineer_JR107599) |
 
 ## About This Role
 
-This devops engineer position at Westpac New Zealand was posted on 2026-08-25.
+This industrial automation position at Westpac New Zealand was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

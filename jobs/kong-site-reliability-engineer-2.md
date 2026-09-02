@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kong](https://scoutify.ai/companies/kong?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Singapore, Singapore |
+| Location | Washington, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/kong/3897636f-8d00-4096-88b5-808e104a19d9) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/kong/7ae8b357-a8f0-4c3d-868d-add1789de7ff) |
 
 ## About This Role
 
-This devops engineer position at Kong was posted on 2026-07-15.
+This devops engineer position at Kong was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Silao, Guanajuato, Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000144165970-test-automation-engineer) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000145607529-test-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Aumovio was posted on 2026-08-18.
+This industrial automation position at Aumovio was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

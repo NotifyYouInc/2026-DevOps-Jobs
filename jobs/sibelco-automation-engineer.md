@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sibelco](https://scoutify.ai/companies/sibelco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Arcos, Madrid, Spain |
 | Category | Industrial Automation |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/SP-Schoolhouse/Automation-Engineer_J017015) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://sibelco.wd502.myworkdayjobs.com/sibelco-careers/job/Arcos/Automation-Engineer_J017808) |
 
 ## About This Role
 
-This industrial automation position at Sibelco was posted on 2026-05-05.
+This industrial automation position at Sibelco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

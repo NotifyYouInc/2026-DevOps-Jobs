@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
-| Category | Security Engineer |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000126234669-ingenieur-devsecops-hf) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145505720-ingenieur-devsecops-hf) |
 
 ## About This Role
 
-This security engineer position at Inetum was posted on 2026-05-13.
+This cybersecurity engineer position at Inetum was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

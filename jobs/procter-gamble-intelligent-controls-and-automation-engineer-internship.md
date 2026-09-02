@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pomezia, Lazio, Italy |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/POMEZIA-PLANT--TECH-CENTER/Intelligent-Controls-and-Automation-Engineer-Internship_R000157957) |
 
 ## About This Role
 
-This devops engineer position at Procter & Gamble was posted on 2026-08-25.
+This industrial automation position at Procter & Gamble was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

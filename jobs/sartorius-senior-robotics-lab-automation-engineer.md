@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Royston, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Royston/Senior-Machine-Learning-Scientist---Advanced-AI-Focus---Remote_R38797) |
 
 ## About This Role
 
-This devops engineer position at Sartorius was posted on 2026-08-25.
+This industrial automation position at Sartorius was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

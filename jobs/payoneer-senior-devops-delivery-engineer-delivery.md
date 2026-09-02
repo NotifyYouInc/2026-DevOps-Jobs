@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://www.payoneer.com/careers/position/7256653/?gh_jid=7256653) |
 
 ## About This Role
 
-This software engineer position at Payoneer was posted on 2026-02-04.
+This devops engineer position at Payoneer was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

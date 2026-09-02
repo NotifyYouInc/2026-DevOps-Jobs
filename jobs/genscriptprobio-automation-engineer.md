@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GenScript/ProBio](https://scoutify.ai/companies/genscriptprobio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Piscataway, New Jersey, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/genscript/jobs/5220214007) |
 
 ## About This Role
 
-This devops engineer position at GenScript/ProBio was posted on 2026-08-24.
+This industrial automation position at GenScript/ProBio was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

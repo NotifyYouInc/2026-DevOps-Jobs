@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Israel |
-| Category | Database Administration |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2023915) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Site-Reliability-Engineer_JR2024251) |
 
 ## About This Role
 
-This database administration position at Nvidia was posted on 2026-08-24.
+This devops engineer position at Nvidia was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

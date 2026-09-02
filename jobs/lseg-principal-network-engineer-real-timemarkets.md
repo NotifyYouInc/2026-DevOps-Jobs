@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Principal-Network-Engineer--Real-Time-Markets-_R0115162-1) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Principal-Network-Engineer--Real-Time-Markets-_R0115161-1) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-07-17.
+This software engineer position at LSEG was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

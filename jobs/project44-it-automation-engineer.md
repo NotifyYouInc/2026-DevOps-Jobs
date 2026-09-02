@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [project44](https://scoutify.ai/companies/project44?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8127958) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Industrial Automation |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/project44/jobs/8156663) |
 
 ## About This Role
 
-This it & systems administration position at project44 was posted on 2026-08-13.
+This industrial automation position at project44 was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

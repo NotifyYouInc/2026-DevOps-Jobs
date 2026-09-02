@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Software-Engineer-II---DevOps_19041131) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/Software-Engineer-II---DevOps_19041696) |
 
 ## About This Role
 
-This devops engineer position at TransUnion was posted on 2026-06-29.
+This software engineer position at TransUnion was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

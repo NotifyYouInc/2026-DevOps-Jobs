@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dundalk, Leinster, Ireland |
+| Location | Haarlem, North Holland, The Netherlands |
 | Category | Industrial Automation |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IRL---Louth-County---Dundalk/Automation-Engineer_R396214-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Holland---Haarlem/Automation-Engineer_R412223-1) |
 
 ## About This Role
 
-This industrial automation position at Merck was posted on 2026-05-12.
+This industrial automation position at Merck was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

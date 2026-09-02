@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portugal |
-| Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000142172779-platform-engineer-devops-dataops) |
+| Category | Data Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000145539753-platform-engineer-devops-dataops) |
 
 ## About This Role
 
-This devops engineer position at Continental was posted on 2026-08-07.
+This data engineer position at Continental was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

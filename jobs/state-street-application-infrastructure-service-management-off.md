@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Application--Infrastructure---Service-Management--Off_R-796473) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Application--Infrastructure---Service-Management--Off_R-796472) |
 
 ## About This Role
 
-This devops engineer position at State Street was posted on 2026-08-24.
+This devops engineer position at State Street was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

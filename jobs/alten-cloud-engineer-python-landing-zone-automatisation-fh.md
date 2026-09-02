@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138131459-cloud-engineer-python-landing-zone-automatisation-fh) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145676520-cloud-engineer-python-landing-zone-automatisation-fh) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-07-16.
+This devops engineer position at ALTEN was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

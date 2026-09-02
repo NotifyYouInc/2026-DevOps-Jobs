@@ -5,12 +5,12 @@
 | Company | [Best Buy Express](https://scoutify.ai/companies/best-buy-express?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Software Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Platform-Development-Engineer-II_R-51801) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/00000-Canadian-Headquarters/Platform-Development-Engineer-II_R-52623) |
 
 ## About This Role
 
-This software engineer position at Best Buy Express was posted on 2026-07-22.
+This software engineer position at Best Buy Express was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

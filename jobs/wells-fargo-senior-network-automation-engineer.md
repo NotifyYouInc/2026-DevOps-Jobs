@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Industrial Automation |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Senior-Network-Engineer_R-517985) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/COLUMBUS-OH/Senior-Network-Automation-Engineer_R-569630-1) |
 
 ## About This Role
 
-This industrial automation position at Wells Fargo was posted on 2026-02-26.
+This industrial automation position at Wells Fargo was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Redlands, California, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Software Engineer |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://www.esri.com/careers/5219799007?gh_jid=5219799007) |
+| Apply | [View on company site](https://www.esri.com/careers/5219797007?gh_jid=5219797007) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Customer Reliability Engineer - Infrastructure at Astronomer
+# Customer Reliability Engineer, Infrastructure at Astronomer
 
 | Field | Details |
 |-------|---------|
 | Company | [Astronomer](https://scoutify.ai/companies/astronomer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/0ec38426-ed92-4a59-bb91-7aa65ea3e3b2) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/astronomer/c9261f1a-8f90-4d9e-a5b2-2123bfd6e77b) |
 
 ## About This Role
 
-This devops engineer position at Astronomer was posted on 2026-06-24.
+This devops engineer position at Astronomer was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

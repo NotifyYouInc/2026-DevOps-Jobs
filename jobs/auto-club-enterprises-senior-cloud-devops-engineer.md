@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Senior-Cloud-DevOps-Engineer_JR202636119) |
+| Category | Machine Learning Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Senior-Cloud-DevOps-Engineer_JR202638793) |
 
 ## About This Role
 
-This devops engineer position at Auto Club Enterprises was posted on 2026-04-28.
+This machine learning engineer position at Auto Club Enterprises was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

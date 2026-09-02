@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Bracknell, England, United Kingdom |
 | Category | Software Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000143367084-staff-engineer-cloud-foundations) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000145575791-staff-engineer-cloud-foundations) |
 
 ## About This Role
 
-This software engineer position at Syngenta was posted on 2026-08-13.
+This software engineer position at Syngenta was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

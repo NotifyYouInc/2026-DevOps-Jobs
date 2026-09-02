@@ -5,12 +5,12 @@
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000142077479-senior-devops-specialist-saas-healthcare) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000145598489-senior-devops-specialist-saas-healthcare) |
 
 ## About This Role
 
-This devops engineer position at Medfar was posted on 2026-08-07.
+This devops engineer position at Medfar was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

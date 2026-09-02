@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/MLOps-Automation-Engineer-Lead_R0073882) |
 
 ## About This Role
 
-This devops engineer position at Huntington Bancshares was posted on 2026-08-24.
+This industrial automation position at Huntington Bancshares was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

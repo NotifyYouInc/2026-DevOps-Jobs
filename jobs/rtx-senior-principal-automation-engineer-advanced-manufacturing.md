@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Iowa, US |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-REMOTE/Senior-Principal-Automation-Engineer---Advanced-Manufacturing_01869416) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-08-24.
+This industrial automation position at RTX was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

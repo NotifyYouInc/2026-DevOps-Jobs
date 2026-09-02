@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000137652339-prodops-engineer-intern) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000145522006-prodops-engineer-intern) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-07-14.
+This devops engineer position at Playtech was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

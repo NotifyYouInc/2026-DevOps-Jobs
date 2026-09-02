@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kyndryl Holdings](https://scoutify.ai/companies/kyndryl?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tres Cantos, Madrid, Spain |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Tres-Cantos-Madrid-Spain/Infrastructure-Specialist_R-58620-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Hyderabad-Telangana-India/Infrastructure-Specialist_R-66948-1) |
 
 ## About This Role
 
-This devops engineer position at Kyndryl Holdings was posted on 2026-03-18.
+This devops engineer position at Kyndryl Holdings was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Swansea, Massachusetts, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-06 |
+| Category | DevOps Engineer |
+| Posted | 2026-08-25 |
 | Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Swansea-IL/Cloud-Operations-System-Administrator_JR2026505731-1) |
 
 ## About This Role
 
-This it & systems administration position at Boeing was posted on 2026-05-06.
+This devops engineer position at Boeing was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

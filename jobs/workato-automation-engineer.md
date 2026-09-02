@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workato](https://scoutify.ai/companies/workato?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://www.workato.com/careers?gh_jid=8616337002#open-roles) |
 
 ## About This Role
 
-This devops engineer position at Workato was posted on 2026-08-25.
+This industrial automation position at Workato was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

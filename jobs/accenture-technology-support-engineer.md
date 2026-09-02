@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Technology-Support-Engineer_ATCI-5721251-S2066066-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Technology-Support-Engineer_ATCI-5744790-S2066237-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-24.
+This devops engineer position at Accenture was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

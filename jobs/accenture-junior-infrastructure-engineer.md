@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sofia/Junior-Infrastructure-Engineer_R00315760) |
+| Location | Brussels, Brussels Capital, Belgium |
+| Category | DevOps Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Junior-Infrastructure-Engineer_R00330479) |
 
 ## About This Role
 
-This it & systems administration position at Accenture was posted on 2026-06-11.
+This devops engineer position at Accenture was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DevOps Engineer Level 3 or 4 at Northrop Grumman
+# DevOps Engineer – Level 3 or 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Linthicum, Maryland, United States |
+| Location | El Segundo, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/DevOps-Engineer-Level-3-or-4_R10245415) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/DevOps-Engineer---Level-3-or-4_R10247671) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-19.
+This devops engineer position at Northrop Grumman was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portsmouth, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Senior-Reliability-Engineer-Onsite_01861298) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-RI-PORTSMOUTH-PS2--1847-W-Main-Rd--NIMITZ-SOUTH-BLDG/Senior-Reliability-Engineer-Onsite_01869519) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-07-22.
+This electrical / hardware engineer position at RTX was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

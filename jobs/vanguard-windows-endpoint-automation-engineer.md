@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Wayne-PA/Windows-Endpoint-Automation-Engineer_178140) |
 
 ## About This Role
 
-This devops engineer position at Vanguard was posted on 2026-08-24.
+This industrial automation position at Vanguard was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

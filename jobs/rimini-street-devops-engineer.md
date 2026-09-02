@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/DevOps-Engineer_R-102060) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/DevOps-Engineer_R-102392) |
 
 ## About This Role
 
-This devops engineer position at Rimini Street was posted on 2026-03-03.
+This devops engineer position at Rimini Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

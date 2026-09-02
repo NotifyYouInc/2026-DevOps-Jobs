@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-DevOps-Engineer_R-243832) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-DevOps-Engineer_R-252194) |
 
 ## About This Role
 
-This devops engineer position at Amgen was posted on 2026-05-15.
+This devops engineer position at Amgen was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

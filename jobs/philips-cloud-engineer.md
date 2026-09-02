@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Cloud-engineer_588902-1) |
 
 ## About This Role
 
-This software engineer position at Philips was posted on 2026-08-25.
+This data engineer position at Philips was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [State of Wisconsin Investment Board](https://scoutify.ai/companies/swib?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-03 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Senior-Cloud-Site-Reliability-Engineer_R-001304) |
 
 ## About This Role
 
-This devops engineer position at State of Wisconsin Investment Board was posted on 2026-04-03.
+This devops engineer position at State of Wisconsin Investment Board was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

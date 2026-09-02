@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Brazil |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-24 |
 | Apply | [View on company site](https://careers.airbnb.com/positions/8154749?gh_jid=8154749) |
 
 ## About This Role
 
-This devops engineer position at Airbnb was posted on 2026-08-24.
+This industrial automation position at Airbnb was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
