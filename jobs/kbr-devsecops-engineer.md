@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/El-Segundo-California/DevSecOps-Engineer_R2128803) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Massachusetts/DevSecOps-Engineer_R2128782) |
 
 ## About This Role
 
-This devops engineer position at KBR was posted on 2026-08-24.
+This devops engineer position at KBR was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

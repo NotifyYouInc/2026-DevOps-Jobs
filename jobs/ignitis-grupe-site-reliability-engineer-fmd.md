@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140623996-site-reliability-engineer-fmd) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000145933380-site-reliability-engineer-fmd) |
 
 ## About This Role
 
-This devops engineer position at Ignitis Grupe was posted on 2026-07-30.
+This devops engineer position at Ignitis Grupe was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

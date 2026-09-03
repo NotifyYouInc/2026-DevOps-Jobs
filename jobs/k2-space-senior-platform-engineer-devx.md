@@ -1,16 +1,16 @@
-# Senior Platform Engineer (DevX) at K2 Space
+# Senior Platform Engineer (DevX)  at K2 Space
 
 | Field | Details |
 |-------|---------|
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5392179008) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5407432008) |
 
 ## About This Role
 
-This devops engineer position at K2 Space was posted on 2026-08-15.
+This devops engineer position at K2 Space was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

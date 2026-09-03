@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Orlando, Florida, United States |
-| Category | Engineering Manager |
-| Posted | 2026-03-18 |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Orlando-FL-USA/Sr-Mgr--Site-Reliability-Engineer--SRE-_10145210) |
 
 ## About This Role
 
-This engineering manager position at Disney was posted on 2026-03-18.
+This devops engineer position at Disney was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Cloud and Enterprise Infrastructure, Lead Specialist at Dyson
+# Cloud and Enterprise Infrastructure - Lead Specialist at Dyson
 
 | Field | Details |
 |-------|---------|
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Philippines---Technology-Campus/Cloud-and-Enterprise-Infrastructure--Lead-Specialist_JR38262) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/India---Bangalore-IT-Capability-Centre/Cloud-and-Enterprise-Infrastructure---Lead-Specialist_JR38242) |
 
 ## About This Role
 
-This devops engineer position at Dyson was posted on 2026-08-17.
+This devops engineer position at Dyson was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

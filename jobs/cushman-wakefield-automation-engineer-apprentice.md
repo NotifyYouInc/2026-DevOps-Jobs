@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Eastvale, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Eastvale---4950-GOODMAN-WAY/Automation-Engineer-Apprentice_R328507) |
+| Location | Charlton, Massachusetts, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---MA---Charlton---53-Sturbridge-Rd/Automation-Engineer-Apprentice_R328646) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-08-17.
+This industrial automation position at Cushman & Wakefield was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

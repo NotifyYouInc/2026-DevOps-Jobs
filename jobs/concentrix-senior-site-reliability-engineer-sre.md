@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Bellevue-13555-SE-36th-Street/Senior-Site-Reliability-Engineer--SRE-_R1745027) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-Atlanta-GA/Senior-Site-Reliability-Engineer--SRE-_R1758856) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-07-09.
+This devops engineer position at Concentrix was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

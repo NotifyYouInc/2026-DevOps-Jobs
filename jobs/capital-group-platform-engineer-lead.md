@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Irvine/Platform-Engineer-Lead_JR6175-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/Platform-Engineer-Lead_JR6888) |
 
 ## About This Role
 
-This devops engineer position at Capital Group was posted on 2026-03-25.
+This devops engineer position at Capital Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

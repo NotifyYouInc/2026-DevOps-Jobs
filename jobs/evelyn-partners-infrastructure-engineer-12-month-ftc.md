@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evelyn Partners](https://scoutify.ai/companies/evelynpartners?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Liverpool, England, United Kingdom |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000142164409-infrastructure-engineer-12-month-ftc) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EvelynPartners/744000145775931-infrastructure-engineer-12-month-ftc) |
 
 ## About This Role
 
-This it & systems administration position at Evelyn Partners was posted on 2026-08-07.
+This devops engineer position at Evelyn Partners was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

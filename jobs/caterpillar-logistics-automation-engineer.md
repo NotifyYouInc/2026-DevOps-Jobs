@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Illinois, US |
+| Location | East Peoria, Illinois, United States |
 | Category | Industrial Automation |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Logistics-Automation-Engineer_R0000357197-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Logistics-Automation-Engineer_R0000390728) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-03-13.
+This industrial automation position at Caterpillar was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

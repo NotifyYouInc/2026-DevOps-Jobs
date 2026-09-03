@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truetandem](https://scoutify.ai/companies/truetandem?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.lever.co/truetandem/1ef33657-6f27-4a4c-9da7-32ab33080b0c) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/truetandem/d27000e6-0a64-481e-b62a-1165138735b4) |
 
 ## About This Role
 
-This devops engineer position at Truetandem was posted on 2026-03-20.
+This devops engineer position at Truetandem was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

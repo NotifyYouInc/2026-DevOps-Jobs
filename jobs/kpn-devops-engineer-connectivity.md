@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145307222-devops-engineer-connectivity) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000145912263-devops-engineer-connectivity) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-08-24.
+This devops engineer position at KPN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

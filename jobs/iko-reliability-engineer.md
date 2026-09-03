@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IKO](https://scoutify.ai/companies/iko?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Madoc, Ontario, Canada |
+| Location | Ashcroft, British Columbia, Canada |
 | Category | Industrial Automation |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Madoc-ON/Reliability-Engineer_REQ-13488) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ashcroft-BC/Reliability-Engineer_REQ-13742) |
 
 ## About This Role
 
-This industrial automation position at IKO was posted on 2026-08-12.
+This industrial automation position at IKO was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

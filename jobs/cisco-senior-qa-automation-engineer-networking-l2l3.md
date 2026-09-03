@@ -5,12 +5,12 @@
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Milpitas, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Senior-QA-Automation-Engineer---Networking-L2-L3_1439415) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Senior-QA-Automation-Engineer---Networking-L2-L3_2010405) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-04-21.
+This devops engineer position at Cisco was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

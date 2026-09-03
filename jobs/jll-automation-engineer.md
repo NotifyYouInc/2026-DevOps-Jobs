@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Windsor, Connecticut, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/WINDSOR-CT/Automation-Engineer_REQ527426) |
+| Location | New Orleans, Louisiana, United States |
+| Category | Industrial Automation |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-Orleans-LA/Automation-Engineer_REQ531676) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-13.
+This industrial automation position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

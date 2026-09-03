@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-12 |
+| Category | Industrial Automation |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Control---Automation-Engineer_RQ111995-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at BP was posted on 2026-06-12.
+This industrial automation position at BP was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

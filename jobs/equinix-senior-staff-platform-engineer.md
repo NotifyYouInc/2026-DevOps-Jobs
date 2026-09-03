@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Software Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Senior-Staff-Platform-Engineer_JR-158034) |
+| Category | DevOps Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Warsaw/Senior-Staff-Platform-Engineer_JR-162995) |
 
 ## About This Role
 
-This software engineer position at Equinix was posted on 2026-02-04.
+This devops engineer position at Equinix was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

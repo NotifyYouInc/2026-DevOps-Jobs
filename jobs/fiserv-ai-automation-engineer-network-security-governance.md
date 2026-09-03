@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Cybersecurity Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/AI-Automation-Engineer---Network-Security-Governance_R-10398800) |
 
 ## About This Role
 
-This cybersecurity engineer position at Fiserv was posted on 2026-08-25.
+This industrial automation position at Fiserv was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

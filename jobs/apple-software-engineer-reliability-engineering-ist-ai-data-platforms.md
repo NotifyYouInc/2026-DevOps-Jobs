@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Software Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678898/software-engineer-reliability-engineering-is-t-ai-data-platforms) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678903/software-engineer-reliability-engineering-is-t-ai-data-platforms) |
 
 ## About This Role
 
-This software engineer position at Apple was posted on 2026-08-24.
+This software engineer position at Apple was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

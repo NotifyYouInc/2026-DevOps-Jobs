@@ -6,7 +6,7 @@
 | Location | Auckland, Auckland, New Zealand |
 | Category | DevOps Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001347352-senior-platform-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001349898-senior-platform-engineer) |
 
 ## About This Role
 

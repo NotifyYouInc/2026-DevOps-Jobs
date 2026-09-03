@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xsolla](https://scoutify.ai/companies/xsolla?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Baku, Baki, Azerbaijan |
+| Location | Russia |
 | Category | DevOps Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.lever.co/xsolla/e4a4a1a0-1411-44a2-9457-0460348a89dd) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.lever.co/xsolla/6d28bd24-fbf5-4334-b844-d988b5a28f8f) |
 
 ## About This Role
 
-This devops engineer position at Xsolla was posted on 2026-08-20.
+This devops engineer position at Xsolla was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

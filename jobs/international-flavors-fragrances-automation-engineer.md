@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Palo Alto, California, United States |
+| Location | Tilburg, North Brabant, The Netherlands |
 | Category | Industrial Automation |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Palo-Alto-CA-USA/Automation-Engineer_R20190) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Tilburg-Plant-Netherlands/Engineer-II--Manufacturing-Technology_R17961) |
 
 ## About This Role
 
-This industrial automation position at International Flavors & Fragrances was posted on 2026-07-28.
+This industrial automation position at International Flavors & Fragrances was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# DEVOPS ENGINEER at City of New York
+# DevOps Engineer at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013612228-devops-engineer) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014864051-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at City of New York was posted on 2026-06-13.
+This devops engineer position at City of New York was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

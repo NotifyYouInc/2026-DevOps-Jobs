@@ -5,12 +5,12 @@
 | Company | [Attio](https://scoutify.ai/companies/attio?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/attio/c05a61a4-ae7c-4d93-a920-08d60c7448ad) |
 
 ## About This Role
 
-This devops engineer position at Attio was posted on 2026-06-10.
+This devops engineer position at Attio was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

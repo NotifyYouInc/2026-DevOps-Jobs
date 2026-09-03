@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Auckland, Auckland, New Zealand |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001347268-principal-platform-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001349892-principal-platform-engineer) |
 
 ## About This Role
 
-This software engineer position at Air New Zealand was posted on 2026-08-25.
+This devops engineer position at Air New Zealand was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

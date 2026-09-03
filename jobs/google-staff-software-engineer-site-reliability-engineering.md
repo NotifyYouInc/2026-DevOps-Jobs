@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeEd4tKKKx_zYNnC-JCP2kS-__6GhhFiZ5CKyGnvw3i0EjoA1Ny_i2pVacZggqIm0E1IOXoAQoeOyIKgBZ8YqUIUxVMuGTWaFIgfGaQMSacvU6yrECJp9t-cEmpW_V2&loc=US&title=Staff+Software+Engineer) |
+| Location | San Jose, California, United States |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRoZ6cVE-C_Irm0Fsax0iIkI2fmkIfZ-u8Tziq0kb0KREjsA1Ny_i-iHBEH6291wMFvbqvAmUVU80Tg4TQokTL6aoIwokNq4PMelj4HqwkXgfzSN0Rnu6t3iz5mE0w%3D%3D_V2&loc=US&title=Staff+Software+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-08-03.
+This software engineer position at Google was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

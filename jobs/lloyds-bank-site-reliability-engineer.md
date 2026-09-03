@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London-1-10-Praed-Mews/Site-Reliability-Engineer_162008-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Site-Reliability-Engineer_162162) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-08-14.
+This devops engineer position at Lloyds Bank was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

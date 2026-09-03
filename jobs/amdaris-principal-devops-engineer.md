@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amdaris](https://scoutify.ai/companies/amdaris?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chisinau, Chișinău Municipality, Moldova |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
 | Posted | 2026-08-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/amdaris/jobs/4960196101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/amdaris/jobs/4880810101) |
 
 ## About This Role
 

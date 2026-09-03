@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lyric](https://scoutify.ai/companies/lyric?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Software-Engineer_JR806) |
+| Category | Software Engineer |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://tbc.wd12.myworkdayjobs.com/lyriccareers/job/Remote---US/Senior-Software-Engineer_JR901) |
 
 ## About This Role
 
-This devops engineer position at Lyric was posted on 2026-04-23.
+This software engineer position at Lyric was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
