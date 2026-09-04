@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7743339?gh_jid=7743339) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-03-24.
+This devops engineer position at Okta was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Whitestown, Indiana, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Whitestown-IN/Electrical-Mechanical-Technician--Automation-Engineer-Senior-Analyst----Accredo---Onsite_26010411) |
 
 ## About This Role
 
-This industrial automation position at Cigna was posted on 2026-08-26.
+This devops engineer position at Cigna was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

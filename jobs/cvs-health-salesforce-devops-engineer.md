@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arkansas, US |
+| Location | North Carolina, US |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AR---Work-from-home/Salesforce-DevOps-Engineer_R1002160) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NC---Work-from-home/Salesforce-DevOps-Engineer_R1023407) |
 
 ## About This Role
 
-This devops engineer position at CVS Health was posted on 2026-08-14.
+This devops engineer position at CVS Health was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

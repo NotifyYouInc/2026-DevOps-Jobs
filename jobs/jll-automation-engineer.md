@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Orleans, Louisiana, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-Orleans-LA/Automation-Engineer_REQ531676) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-08-26.
+This devops engineer position at JLL was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/BANGKOK-PLANT/Automation-Engineer_R000157850) |
 
 ## About This Role
 
-This industrial automation position at Procter & Gamble was posted on 2026-08-27.
+This devops engineer position at Procter & Gamble was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

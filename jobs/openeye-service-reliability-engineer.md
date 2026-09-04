@@ -5,12 +5,12 @@
 | Company | [OpenEye](https://scoutify.ai/companies/openeye?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Liberty Lake, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8549026002) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/openeye/jobs/8756197002) |
 
 ## About This Role
 
-This devops engineer position at OpenEye was posted on 2026-05-14.
+This devops engineer position at OpenEye was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

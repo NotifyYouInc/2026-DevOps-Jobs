@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 5 locations |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Quality-Assurance-Automation-Engineer_R266892-1) |
 
 ## About This Role
 
-This industrial automation position at Uline was posted on 2026-08-27.
+This devops engineer position at Uline was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

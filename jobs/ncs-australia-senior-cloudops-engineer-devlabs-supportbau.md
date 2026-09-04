@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001251336-senior-cloudops-engineer-devlabs-supportbau) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001360070-senior-cloudops-engineer-devlabs-supportbau) |
 
 ## About This Role
 
-This devops engineer position at NCS Australia was posted on 2026-07-22.
+This devops engineer position at NCS Australia was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

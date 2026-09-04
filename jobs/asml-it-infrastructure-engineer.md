@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hillsboro, Oregon, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Hillsboro-OR-USA/IT-Infrastructure-Engineer_J-00349169) |
 
 ## About This Role
 
-This devops engineer position at ASML was posted on 2026-08-26.
+This it & systems administration position at ASML was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

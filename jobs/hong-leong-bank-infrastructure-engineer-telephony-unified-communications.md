@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hong Leong Bank](https://scoutify.ai/companies/hong-leong-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hlb.wd3.myworkdayjobs.com/hlbcareers/job/PJC-PJ-City/Infrastructure-Engineer--Telephony---Unified-Communications-_JR0000025820) |
 
 ## About This Role
 
-This devops engineer position at Hong Leong Bank was posted on 2026-08-27.
+This it & systems administration position at Hong Leong Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Saint-Herblain, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138355439-ingenieure-devops-stack-elk-digital-platform-services-nantes) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146124788-ingenieure-devops-stack-elk-digital-platform-services-nantes) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-07-17.
+This devops engineer position at Sopra Steria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

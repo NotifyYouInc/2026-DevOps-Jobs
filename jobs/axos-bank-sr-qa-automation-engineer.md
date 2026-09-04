@@ -1,16 +1,16 @@
-# Sr QA Automation Engineer at Axos Bank
+# Sr. QA Automation Engineer at Axos Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Axos Bank](https://scoutify.ai/companies/axos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-QA-Automation-Engineer_JR5125) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Sr-QA-Automation-Engineer_JR5164) |
 
 ## About This Role
 
-This devops engineer position at Axos Bank was posted on 2026-08-12.
+This devops engineer position at Axos Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

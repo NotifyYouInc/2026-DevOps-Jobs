@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verista, Inc.](https://scoutify.ai/companies/verista-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Indianapolis, Indiana, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/veristainc/jobs/5406958008) |
 
 ## About This Role
 
-This industrial automation position at Verista, Inc. was posted on 2026-08-26.
+This devops engineer position at Verista, Inc. was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

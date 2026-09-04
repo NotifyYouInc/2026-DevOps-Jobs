@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cesson-Sévigné, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135687112-ingenieure-devops-infrastructure-rennes) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146125088-ingenieure-devops-infrastructure-rennes) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-07-03.
+This devops engineer position at Sopra Steria was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

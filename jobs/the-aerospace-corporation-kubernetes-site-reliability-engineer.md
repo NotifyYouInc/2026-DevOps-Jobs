@@ -5,12 +5,12 @@
 | Company | [The Aerospace Corporation](https://scoutify.ai/companies/aero?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | El Segundo, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Kubernetes-Site-Reliability-Engineer_R015452) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Kubernetes-Site-Reliability-Engineer_R016275) |
 
 ## About This Role
 
-This devops engineer position at The Aerospace Corporation was posted on 2026-05-20.
+This devops engineer position at The Aerospace Corporation was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

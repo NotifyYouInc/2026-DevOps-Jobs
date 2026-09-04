@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gaithersburg, Maryland, United States |
+| Location | New Jersey, US |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Lead-Software-Developer_R-00186841) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Egg-Harbor-Township-NJ/Lead-Software-Developer_R-00190791) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-07-07.
+This software engineer position at Leidos was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

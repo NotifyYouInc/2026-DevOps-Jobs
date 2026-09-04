@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tsc](https://scoutify.ai/companies/tsc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Huntsville-AL/DevOps-Engineer_JR2745-1) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Tsc was posted on 2026-08-26.
+This devops engineer position at Tsc was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

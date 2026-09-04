@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Control---Automation-Engineer_RQ111995-1) |
 
 ## About This Role
 
-This industrial automation position at BP was posted on 2026-08-26.
+This devops engineer position at BP was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

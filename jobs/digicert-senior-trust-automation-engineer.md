@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DigiCert](https://scoutify.ai/companies/digicert?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
+| Category | Cybersecurity Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://www.digicert.com/careers/?gh_jid=8697963002) |
 
 ## About This Role
 
-This industrial automation position at DigiCert was posted on 2026-08-27.
+This cybersecurity engineer position at DigiCert was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

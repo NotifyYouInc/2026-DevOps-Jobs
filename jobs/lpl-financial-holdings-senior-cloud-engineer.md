@@ -5,12 +5,12 @@
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Cloud-Engineer_R-052166-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Austin-TX/Senior-Cloud-Engineer_R-052164-1) |
 
 ## About This Role
 
-This devops engineer position at LPL Financial Holdings was posted on 2026-07-24.
+This devops engineer position at LPL Financial Holdings was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

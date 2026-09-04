@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Industrial Automation |
+| Location | Mexico |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Clinton-MA/Automation-Engineer-II_J2462530-1) |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Automation-Engineer-II_J2457080-1) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-08-26.
+This devops engineer position at Jabil was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

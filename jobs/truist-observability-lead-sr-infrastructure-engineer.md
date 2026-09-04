@@ -5,12 +5,12 @@
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Observability-Lead-Sr-Infrastructure-Engineer_R0115897-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Observability-Lead-Sr-Infrastructure-Engineer_R0118447) |
 
 ## About This Role
 
-This devops engineer position at Truist was posted on 2026-06-18.
+This devops engineer position at Truist was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

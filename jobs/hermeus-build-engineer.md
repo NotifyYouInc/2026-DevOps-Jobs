@@ -5,12 +5,12 @@
 | Company | [Hermeus](https://scoutify.ai/companies/hermeus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.lever.co/hermeus/cc641245-38c3-4c44-8557-db3baf1498fe) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.lever.co/hermeus/ca83685d-3471-4d6e-aee5-5372e13e3b92) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Hermeus was posted on 2026-02-20.
+This electrical / hardware engineer position at Hermeus was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

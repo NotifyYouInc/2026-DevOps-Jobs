@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Pedro Garza García, Nuevo León, Mexico |
-| Category | DevOps Engineer |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/Oracle-DevOps-CPQ-Developer_WD30265957) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Software Engineer |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Oracle-DevOps-CPQ-Developer_WD30278464) |
 
 ## About This Role
 
-This devops engineer position at Johnson Controls was posted on 2026-04-21.
+This software engineer position at Johnson Controls was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

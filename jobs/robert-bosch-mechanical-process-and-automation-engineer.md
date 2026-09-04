@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ciudad Juárez, Chihuahua, Mexico |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145830554-mechanical-process-and-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Robert Bosch was posted on 2026-08-26.
+This devops engineer position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

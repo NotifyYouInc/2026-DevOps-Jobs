@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Raritan, New Jersey, United States |
+| Location | Limerick, Munster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Staff-Automation-Engineer_R-089543-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Limerick-Ireland/Staff-Automation-Engineer_R-095740-1) |
 
 ## About This Role
 
-This devops engineer position at Johnson & Johnson was posted on 2026-07-23.
+This devops engineer position at Johnson & Johnson was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

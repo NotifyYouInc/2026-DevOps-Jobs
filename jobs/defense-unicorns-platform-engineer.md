@@ -1,16 +1,16 @@
-# Platform Engineer  at Defense Unicorns
+# Platform Engineer at Defense Unicorns
 
 | Field | Details |
 |-------|---------|
 | Company | [Defense Unicorns](https://scoutify.ai/companies/defense-unicorns?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | San Antonio, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5175532007) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/defenseunicorns/jobs/5224430007) |
 
 ## About This Role
 
-This devops engineer position at Defense Unicorns was posted on 2026-06-26.
+This devops engineer position at Defense Unicorns was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

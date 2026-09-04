@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/Australia-WA-Bunbury/Mechanical-Reliability-Engineer---Bunbury-Port-and-Kwinana-Port--12-month-fixed-term-_Req-38899) |
 
 ## About This Role
 
-This industrial automation position at Alcoa Warrick Operations was posted on 2026-08-27.
+This devops engineer position at Alcoa Warrick Operations was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

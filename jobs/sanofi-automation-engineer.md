@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pennsylvania, US |
+| Location | Framingham, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Swiftwater-PA/Automation-Engineer_R2867496) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Framingham-MA/Automation-Engineer_R2869285-1) |
 
 ## About This Role
 
-This devops engineer position at Sanofi was posted on 2026-08-18.
+This devops engineer position at Sanofi was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | La Jolla, California, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--La-Jolla--Torrey-Pines-Science-Park/Manager-Automation-Engineer_35000239-1) |
 
 ## About This Role
 
-This industrial automation position at Abbott was posted on 2026-08-27.
+This devops engineer position at Abbott was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

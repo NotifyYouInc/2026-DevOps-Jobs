@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | East Peoria, Illinois, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Logistics-Automation-Engineer_R0000390728) |
 
 ## About This Role
 
-This industrial automation position at Caterpillar was posted on 2026-08-26.
+This devops engineer position at Caterpillar was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

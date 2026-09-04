@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axle Informatics](https://scoutify.ai/companies/axle-informatics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Frederick, Maryland, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-08 |
+| Category | Software Engineer |
+| Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5099305007) |
 
 ## About This Role
 
-This it & systems administration position at Axle Informatics was posted on 2026-04-08.
+This software engineer position at Axle Informatics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

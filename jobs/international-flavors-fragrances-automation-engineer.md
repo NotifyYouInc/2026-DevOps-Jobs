@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tilburg, North Brabant, The Netherlands |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Tilburg-Plant-Netherlands/Engineer-II--Manufacturing-Technology_R17961) |
 
 ## About This Role
 
-This industrial automation position at International Flavors & Fragrances was posted on 2026-08-27.
+This devops engineer position at International Flavors & Fragrances was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
