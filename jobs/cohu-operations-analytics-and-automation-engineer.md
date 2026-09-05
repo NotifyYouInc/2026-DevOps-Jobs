@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cohu](https://scoutify.ai/companies/us2-cx-oj23824?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Malaysia |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://hcbo.fa.us2.oraclecloud.com/jobs/#302413) |
 
 ## About This Role
 
-This software engineer position at Cohu was posted on 2026-08-28.
+This devops engineer position at Cohu was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

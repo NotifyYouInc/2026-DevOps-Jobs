@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Braga, Braga, Portugal |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146134179-embedded-software-release-engineer-fmdiv) |
 
 ## About This Role
 
-This software engineer position at Robert Bosch was posted on 2026-08-28.
+This devops engineer position at Robert Bosch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

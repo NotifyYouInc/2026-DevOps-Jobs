@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Spring, Texas, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Ft-Collins-Colorado-United-States-of-America/Telco-Infrastructure-Engineer_1212326) |
 
 ## About This Role
 
-This software engineer position at Hewlett Packard Enterprise was posted on 2026-08-27.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

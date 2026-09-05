@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New Jersey, US |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Egg-Harbor-Township-NJ/Software-Developer_R-00190790) |
 
 ## About This Role
 
-This software engineer position at Leidos was posted on 2026-08-27.
+This devops engineer position at Leidos was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

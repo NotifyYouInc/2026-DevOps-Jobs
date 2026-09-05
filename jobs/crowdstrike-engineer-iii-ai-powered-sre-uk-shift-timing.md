@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/India---Bangalore/Engineer-III---AI-Powered-SRE--UK-Shift-Timing-_R29953) |
 
 ## About This Role
 
-This software engineer position at CrowdStrike was posted on 2026-08-27.
+This devops engineer position at CrowdStrike was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

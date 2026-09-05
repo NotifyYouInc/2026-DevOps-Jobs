@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140015649-ingenieur-devsecops-cloud-cdi-hf) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146214809-ingenieur-devsecops-cloud-cdi-hf) |
 
 ## About This Role
 
-This devops engineer position at Talan was posted on 2026-07-27.
+This devops engineer position at Talan was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

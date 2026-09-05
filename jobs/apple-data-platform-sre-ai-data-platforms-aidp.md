@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200667035/data-platform-sre-ai-data-platforms-aidp) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680281/data-platform-sre-ai-data-platforms-aidp) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-06-05.
+This devops engineer position at Apple was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

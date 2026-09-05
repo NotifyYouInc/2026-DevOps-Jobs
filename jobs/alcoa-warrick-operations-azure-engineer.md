@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
-| Category | Technical Writer |
-| Posted | 2026-02-24 |
+| Category | DevOps Engineer |
+| Posted | 2026-08-28 |
 | Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/United-States-PA-Pittsburgh/Azure-Engineer_Req-36127) |
 
 ## About This Role
 
-This technical writer position at Alcoa Warrick Operations was posted on 2026-02-24.
+This devops engineer position at Alcoa Warrick Operations was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

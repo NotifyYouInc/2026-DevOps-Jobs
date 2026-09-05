@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://www.amazon.jobs/en/jobs/10517859/systems-development-engineer-video-infrastructure) |
 
 ## About This Role
 
-This software engineer position at Amazon was posted on 2026-08-28.
+This devops engineer position at Amazon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

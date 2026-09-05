@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Badger Meter](https://scoutify.ai/companies/badgermeter?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Senior-Engineer--System-Integration_4550) |
 
 ## About This Role
 
-This software engineer position at Badger Meter was posted on 2026-08-27.
+This devops engineer position at Badger Meter was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

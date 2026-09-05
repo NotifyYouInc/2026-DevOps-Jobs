@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Senior-Cloud-Platform-Engineer_JR25041212-3) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/USA-Georgia-Atlanta-1170-Peachtree-St/Senior-Cloud-Platform-Engineer_JR26051049-3) |
 
 ## About This Role
 
-This devops engineer position at Manulife was posted on 2026-04-17.
+This devops engineer position at Manulife was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

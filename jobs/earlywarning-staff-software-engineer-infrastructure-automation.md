@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Earlywarning](https://scoutify.ai/companies/earlywarning?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Staff-Software-Engineer---Infrastructure-Automation_REQ2026835) |
 
 ## About This Role
 
-This software engineer position at Earlywarning was posted on 2026-08-27.
+This devops engineer position at Earlywarning was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

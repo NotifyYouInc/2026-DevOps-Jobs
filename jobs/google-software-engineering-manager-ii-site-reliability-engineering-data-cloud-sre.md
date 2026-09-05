@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sunnyvale, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckRC_eCO-vZWpM1QEL1gUOhaqaL4qSFzfqvKNRpu6RK9gEjsA1Ny_iw7I89gQyzg9cUBvvyEEU7yp-K-H5jxNenNP_QgQ0jxGlMnRnHEutAxpRqQGbDvoUCH8SCXrmw%3D%3D_V2&loc=US&title=Software+Engineering+Manager+II) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-08-27.
+This devops engineer position at Google was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

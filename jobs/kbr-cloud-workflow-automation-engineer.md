@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Cloud---Workflow-Automation-Engineer_R2128989) |
 
 ## About This Role
 
-This software engineer position at KBR was posted on 2026-08-27.
+This devops engineer position at KBR was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

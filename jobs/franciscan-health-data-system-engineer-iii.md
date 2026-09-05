@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Franciscan Health](https://scoutify.ai/companies/franciscan-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Indiana, US |
 | Category | DevOps Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://franciscanalliance.wd5.myworkdayjobs.com/fa_external_career_site/job/Work-From-Home/Data-System-Engineer-III_R-128014) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://franciscanalliance.wd5.myworkdayjobs.com/fa_external_career_site/job/Work-From-Home/Data-System-Engineer-III_R-131395-1) |
 
 ## About This Role
 
-This devops engineer position at Franciscan Health was posted on 2026-06-02.
+This devops engineer position at Franciscan Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

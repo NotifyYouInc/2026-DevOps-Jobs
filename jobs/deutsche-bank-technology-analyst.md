@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Technology-Analyst_R0445995-1) |
 
 ## About This Role
 
-This software engineer position at Deutsche Bank was posted on 2026-08-27.
+This devops engineer position at Deutsche Bank was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

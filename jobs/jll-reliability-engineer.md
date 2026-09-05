@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Boston-MA/Reliability-Engineer_REQ519703) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Spring-TX/Reliability-Engineer_REQ531529) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-07-07.
+This devops engineer position at JLL was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

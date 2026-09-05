@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | São Carlos, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138889400-devops-pleno) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000146172969-devops-pleno) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-07-21.
+This devops engineer position at Experian was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

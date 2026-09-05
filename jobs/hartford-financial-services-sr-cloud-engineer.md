@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Cloud-Engineer_R2625035) |
+| Category | Database Administration |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Sr-Cloud-Engineer_R2626631) |
 
 ## About This Role
 
-This devops engineer position at Hartford Financial Services was posted on 2026-04-24.
+This database administration position at Hartford Financial Services was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Nashville, Tennessee, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://careers.oracle.com/jobs/#343182) |
 
 ## About This Role
 
-This software engineer position at Oracle was posted on 2026-08-28.
+This devops engineer position at Oracle was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

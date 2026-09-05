@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Saxobank](https://scoutify.ai/companies/saxobank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denmark |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Headquarters/Senior-Observability-Engineer_R-19255-1) |
 
 ## About This Role
 
-This software engineer position at Saxobank was posted on 2026-08-28.
+This devops engineer position at Saxobank was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

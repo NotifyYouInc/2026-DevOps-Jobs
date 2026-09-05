@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixfold](https://scoutify.ai/companies/sixfold?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/sixfold/jobs/5407777008) |
 
 ## About This Role
 
-This software engineer position at Sixfold was posted on 2026-08-27.
+This devops engineer position at Sixfold was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

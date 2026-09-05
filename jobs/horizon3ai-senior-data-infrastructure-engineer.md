@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizon3Ai](https://scoutify.ai/companies/horizon3ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Data Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/horizon3ai/4651e6b3-a8b5-484f-ac87-5b6ca04581d1) |
 
 ## About This Role
 
-This data engineer position at Horizon3Ai was posted on 2026-08-27.
+This devops engineer position at Horizon3Ai was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

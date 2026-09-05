@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Mountain View, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYMiaGkCBPiS9ggXKE_gc6IsEq7ag3MFg2BYEeUYu-aUEjsA1Ny_i4q18tE5bwFVFRkV_KzB3X4VM-4a-Ia56jkRpu6UUyIqubWEC5UtTzNs_cjWiFWG6laYD5eaTw%3D%3D_V2&loc=US&title=Senior+Staff+Site+Reliability+Engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTgC4rSdXAJgyHXWUs-FQaKL1vJHsnzwWQyiCuFC_2zwEjsA1Ny_izbas-ToIS1kRlZdWu-siEWQse2ZTxvTg--5nadUj8skqgXnE_XINNMypLukA6p2fEknoqE4GA%3D%3D_V2&loc=US&title=Senior+Staff+Site+Reliability+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-07-01.
+This devops engineer position at Google was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

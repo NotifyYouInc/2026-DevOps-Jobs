@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/DevOps-Engineer_R0073618) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/DevOps-Engineer_R0074638) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-08-07.
+This cybersecurity engineer position at Global Payments was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

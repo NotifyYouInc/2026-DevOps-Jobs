@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Orleans, Louisiana, United States |
+| Location | Beloit, Wisconsin, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-Orleans-LA/Automation-Engineer_REQ531676) |
+| Posted | 2026-08-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Beloit-WI/Automation-Engineer_REQ531743) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-08-26.
+This devops engineer position at JLL was posted on 2026-08-29.
 
 ## Get Real-Time Alerts
 

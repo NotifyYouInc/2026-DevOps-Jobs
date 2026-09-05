@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145923360-senior-backend-platform-engineer-iot-architect-all-gender) |
 
 ## About This Role
 
-This software engineer position at ALTEN was posted on 2026-08-27.
+This devops engineer position at ALTEN was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

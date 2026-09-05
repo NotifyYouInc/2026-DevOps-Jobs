@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Worcester, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014483696-automation-engineer) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014923636-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-08-06.
+This devops engineer position at AbbVie was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

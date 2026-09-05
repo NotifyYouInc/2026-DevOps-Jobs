@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal-Sr-Principal-Dedicated-Cloud-Engineer_R10248207) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-08-27.
+This devops engineer position at Northrop Grumman was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

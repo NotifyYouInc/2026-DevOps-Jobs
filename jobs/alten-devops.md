@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145459530-devops) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146204259-devops) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-08-25.
+This devops engineer position at ALTEN was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
