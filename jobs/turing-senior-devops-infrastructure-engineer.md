@@ -1,16 +1,16 @@
-# DevOps Engineer at Devoteam
+# Senior DevOps & Infrastructure Engineer at Turing
 
 | Field | Details |
 |-------|---------|
-| Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Company | [Turing](https://scoutify.ai/companies/turing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-08-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146341189-devops-engineer) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/turing/jobs/6174327004) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-08-30.
+This devops engineer position at Turing was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

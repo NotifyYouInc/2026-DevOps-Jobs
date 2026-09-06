@@ -1,12 +1,12 @@
-# Senior DevOps Engineer, Infrastructure at City of New York
+# CLOUD DEVOPS AND APPLICATION MIGRATION ENGINEER at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brooklyn, New York, United States |
+| Location | New York City, New York, United States |
 | Category | DevOps Engineer |
 | Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937316-senior-devops-engineer-infrastructure) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937706-cloud-devops-and-application-migration-engineer) |
 
 ## About This Role
 

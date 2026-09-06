@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Markham/Senior-Reliability-Engineer---Embedded-Products_R5051380-2) |
 
 ## About This Role
 
-This electrical / hardware engineer position at GE Vernova was posted on 2026-08-27.
+This embedded / firmware engineer position at GE Vernova was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

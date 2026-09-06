@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Embedded / Firmware Engineer |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/iLO-Firmware-Validation-and-Automation-Engineer_1212370) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-08-27.
+This embedded / firmware engineer position at Hewlett Packard Enterprise was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

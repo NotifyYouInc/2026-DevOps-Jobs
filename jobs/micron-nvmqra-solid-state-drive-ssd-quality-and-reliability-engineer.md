@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sānand, Gujarat, India |
-| Category | DevOps Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Sanand---303A---ATSSDMOD-India/NVMQRA-Solid-State-Drive--SSD--Quality-and-Reliability-Engineer_JR106971) |
 
 ## About This Role
 
-This devops engineer position at Micron was posted on 2026-08-27.
+This semiconductor / chip design position at Micron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
