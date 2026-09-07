@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000141430449-levelup-ingenieur-infrastructure-plm-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000146418906-levelup-ingenieur-infrastructure-plm-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-08-04.
+This devops engineer position at ALTEN Canada was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

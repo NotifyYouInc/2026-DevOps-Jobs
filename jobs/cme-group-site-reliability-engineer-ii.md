@@ -5,12 +5,12 @@
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-II_34275-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Site-Reliability-Engineer-I_33940-1) |
 
 ## About This Role
 
-This devops engineer position at CME Group was posted on 2026-06-01.
+This devops engineer position at CME Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

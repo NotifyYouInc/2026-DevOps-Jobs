@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142848909-ingenieure-cybersecurite-devsecops-spatial-toulouse) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000146418533-ingenieure-cybersecurite-devsecops-spatial-toulouse) |
 
 ## About This Role
 
-This cybersecurity engineer position at Sopra Steria was posted on 2026-08-11.
+This cybersecurity engineer position at Sopra Steria was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

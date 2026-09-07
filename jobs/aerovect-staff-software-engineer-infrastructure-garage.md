@@ -5,12 +5,12 @@
 | Company | [Aerovect](https://scoutify.ai/companies/aerovect?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/5135a4db-b4d8-4e33-8c55-68107833f59a) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/aerovect/ef2a53ad-5e03-432b-af51-ebbf8ec3a4e6) |
 
 ## About This Role
 
-This devops engineer position at Aerovect was posted on 2026-08-05.
+This devops engineer position at Aerovect was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

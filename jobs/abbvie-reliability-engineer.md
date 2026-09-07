@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Westport, Connecticut, United States |
-| Category | Industrial Automation |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012547387-reliability-engineer) |
+| Location | Westport, Connacht, Ireland |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014941866-reliability-engineer) |
 
 ## About This Role
 
-This industrial automation position at AbbVie was posted on 2026-04-10.
+This devops engineer position at AbbVie was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014531255-engineer-technology-ii-platform-full-stack-engineering-all-genders-fulltime-regular) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014943785-engineer-technology-ii-platform-full-stack-engineering-all-genders-fulltime-regular) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-08-11.
+This devops engineer position at AbbVie was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

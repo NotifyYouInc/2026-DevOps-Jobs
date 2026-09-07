@@ -5,12 +5,12 @@
 | Company | [8X8Inc](https://scoutify.ai/companies/8x8inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://8x8inc.wd5.myworkdayjobs.com/8x8_external_careers/job/Manila-8x8-Asia/Senior-Site-Reliability-Engineer_R2642) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://8x8inc.wd5.myworkdayjobs.com/8x8_external_careers/job/Manila-8x8-Asia/Senior-Site-Reliability-Engineer_R2644) |
 
 ## About This Role
 
-This devops engineer position at 8X8Inc was posted on 2026-07-02.
+This devops engineer position at 8X8Inc was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
