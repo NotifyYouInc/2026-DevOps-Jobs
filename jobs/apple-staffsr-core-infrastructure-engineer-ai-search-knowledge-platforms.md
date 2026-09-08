@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Seattle, Washington, United States |
 | Category | DevOps Engineer |
-| Posted | 2025-10-23 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200627849/staff-sr-core-infrastructure-engineer-ai-search-knowledge-platforms) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200679317/staff-sr-core-infrastructure-engineer-ai-search-knowledge-platforms) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2025-10-23.
+This devops engineer position at Apple was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

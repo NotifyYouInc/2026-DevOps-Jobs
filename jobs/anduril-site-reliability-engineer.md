@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Waltham, Massachusetts, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5196517007?gh_jid=5196517007) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5226926007?gh_jid=5226926007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-07-27.
+This devops engineer position at Anduril was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

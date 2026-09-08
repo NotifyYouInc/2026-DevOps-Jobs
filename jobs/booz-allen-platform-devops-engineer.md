@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Platform-DevOps-Engineer_R0247881) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Platform-DevOps-Engineer_R0238777) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-26.
+This devops engineer position at Booz Allen was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

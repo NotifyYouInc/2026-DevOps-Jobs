@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Vantage Data Centers](https://scoutify.ai/companies/vantage-data-centers?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://vantagedc.wd1.myworkdayjobs.com/vantage/job/Frankfurt-Germany/IT-Infrastructure-Engineer--Global_R24501) |
 
 ## About This Role
 
-This it & systems administration position at Vantage Data Centers was posted on 2026-08-28.
+This devops engineer position at Vantage Data Centers was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

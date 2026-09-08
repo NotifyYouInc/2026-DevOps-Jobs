@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/DevOps-Engineer--Enterprise-Automation_R0663342-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/PUNE-ITEC/DevOps-Engineer--Enterprise-Automation_R0663341-1) |
 
 ## About This Role
 
-This devops engineer position at Kone was posted on 2026-08-10.
+This devops engineer position at Kone was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

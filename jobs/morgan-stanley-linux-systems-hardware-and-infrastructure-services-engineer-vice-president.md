@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Linux-Systems--Hardware-and-Infrastructure-Services-Engineer---Vice-President_PT-JR042525) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Morgan Stanley was posted on 2026-08-28.
+This devops engineer position at Morgan Stanley was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

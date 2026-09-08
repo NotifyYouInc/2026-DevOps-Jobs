@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Coimbatore, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141868181-software-factory-architect-lead-developer-vehicle-motion-vm) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146629618-software-factory-architect-lead-developer-vehicle-motion-vm) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-08-06.
+This devops engineer position at Robert Bosch was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

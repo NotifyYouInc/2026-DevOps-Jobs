@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Quito, Pichincha, Ecuador |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000144630889-senior-staff-engineer-devops-engineer) |
+| Location | 2 locations |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000146558267-senior-staff-engineer-devops-engineer) |
 
 ## About This Role
 
-This ai / llm engineer position at Nagarro was posted on 2026-08-20.
+This devops engineer position at Nagarro was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

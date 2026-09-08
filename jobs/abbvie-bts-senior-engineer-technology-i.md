@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014111326-bts-senior-engineer-technology-i) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014953546-bts-senior-engineer-technology-i) |
 
 ## About This Role
 
-This devops engineer position at AbbVie was posted on 2026-07-15.
+This devops engineer position at AbbVie was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

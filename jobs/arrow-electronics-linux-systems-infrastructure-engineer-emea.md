@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Courbevoie, Île-de-France, France |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/FR-Courbevoie-France-Rue-du-Gnral-Audran/Linux-Systems---Infrastructure-Engineer---EMEA_R246838) |
 
 ## About This Role
 
-This it & systems administration position at Arrow Electronics was posted on 2026-08-31.
+This devops engineer position at Arrow Electronics was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

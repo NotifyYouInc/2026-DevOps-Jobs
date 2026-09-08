@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Vilnius/Senior-Azure-DevOps-Engineer_R00333942) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Senior-Azure-DevOps-Engineer_R00348980-1) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-08-05.
+This devops engineer position at Accenture was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

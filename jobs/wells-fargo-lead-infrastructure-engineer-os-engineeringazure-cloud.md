@@ -1,16 +1,16 @@
-# Lead Infrastructure Engineer -OS engineering/Azure Cloud at Wells Fargo
+# Lead Infrastructure Engineer –OS engineering/Azure Cloud at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Infrastructure-Engineer--OS-engineering-Azure-Cloud_R-532526) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Infrastructure-Engineer--OS-engineering-Azure-Cloud_R-532440) |
 
 ## About This Role
 
-This it & systems administration position at Wells Fargo was posted on 2026-04-01.
+This devops engineer position at Wells Fargo was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Astreya](https://scoutify.ai/companies/astreya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0016949-1) |
 
 ## About This Role
 
-This it & systems administration position at Astreya was posted on 2026-08-28.
+This devops engineer position at Astreya was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

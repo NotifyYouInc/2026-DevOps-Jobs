@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fora Financial](https://scoutify.ai/companies/fora-financial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/forafinancial/jobs/4383438009) |
 
 ## About This Role
 
-This it & systems administration position at Fora Financial was posted on 2026-08-28.
+This devops engineer position at Fora Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

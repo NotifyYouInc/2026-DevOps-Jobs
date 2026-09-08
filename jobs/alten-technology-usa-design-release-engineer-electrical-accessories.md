@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Technology USA](https://scoutify.ai/companies/alten-technology-usa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Troy, Michigan, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5225329007) |
 
 ## About This Role
 
-This electrical / hardware engineer position at ALTEN Technology USA was posted on 2026-08-28.
+This devops engineer position at ALTEN Technology USA was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

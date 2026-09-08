@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | SOC & Incident Response |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckdivmgivRQOSCMVA7ellHwccDR_jE19-8elVNDI-FL4iEjsA1Ny_i_W-PEGqifd2y9jlJIortpGsYivRSyKyEp300Ma-ggrQ2rHq4qN8-ol7whdHI7DUbROitzSjxw%3D%3D_V2&loc=GB&title=Incident+Response+Engineer) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckTTciWXQeur6KlpdfVyFD-_ye_zJ8zEOG3qd3erskJcPEjsA1Ny_i7uQY2DeRIPvzBjMEL8A3kNMWDqPvuq4wdJjAuPAB8Nvc2ZnI9zScXjD6Zg4fgIIzlh_pSX4EQ%3D%3D_V2&loc=GB&title=Incident+Response+Engineer) |
 
 ## About This Role
 
-This soc & incident response position at Google was posted on 2026-07-31.
+This cybersecurity engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

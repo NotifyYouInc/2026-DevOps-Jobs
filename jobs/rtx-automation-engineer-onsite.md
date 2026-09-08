@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | East Hartford, Connecticut, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-L--400-Main-St--BLDG-L/Automation-Engineer--Onsite-_01849301) |
+| Location | Holt, Michigan, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MI-HOLT-PLANT-5--1781-Holloway-Dr--PLANT-5/Automation-Engineer--Onsite-_01866929) |
 
 ## About This Role
 
-This industrial automation position at RTX was posted on 2026-06-03.
+This devops engineer position at RTX was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

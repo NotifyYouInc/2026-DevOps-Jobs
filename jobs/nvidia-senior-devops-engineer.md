@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Israel |
+| Location | Switzerland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-DevOps-Engineer_JR2021329) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Senior-DevOps-Engineer_JR2024256) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-07-16.
+This devops engineer position at Nvidia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

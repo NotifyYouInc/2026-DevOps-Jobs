@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mosaic](https://scoutify.ai/companies/mosaic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Bartow-FL/Electrical-Engineer-Senior_63653) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Mosaic was posted on 2026-08-28.
+This devops engineer position at Mosaic was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

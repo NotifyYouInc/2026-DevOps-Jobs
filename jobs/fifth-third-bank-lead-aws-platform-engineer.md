@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fifth Third Bank](https://scoutify.ai/companies/fifth-third-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cincinnati, Ohio, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-05-29 |
+| Category | AI / LLM Engineer |
+| Posted | 2026-08-31 |
 | Apply | [View on company site](https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Lead-AWS-Platform-Engineer_R68231-1) |
 
 ## About This Role
 
-This devops engineer position at Fifth Third Bank was posted on 2026-05-29.
+This ai / llm engineer position at Fifth Third Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

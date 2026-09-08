@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckcKXFjVEwsDp5GB1gKT-oJgJOOyzhCiB-f-_-pghTiOcEjsA1Ny_i-9SCgNfYrIS9CK06OhSHf-Jgiou9mGZ3LUrfXHkV0G_GDkTNqkYSkMDRaqPz4JKNeuVLSZj0g%3D%3D_V2&loc=IN&title=Software+Engineer) |
+| Location | New York City, New York, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckeQhqZeKkvEe-jR9ifkrAH5CuzmoKS2d2LzmiI2QytJVEjsA1Ny_i3CwazdV9KSDpPkb3f7kq_p-mQ7KfF_QwfpHhAEg5pW5A_3KtkmYorho6lRhN9j75cEX5-TemQ%3D%3D_V2&loc=US&title=Software+Engineer) |
 
 ## About This Role
 
-This software engineer position at Google was posted on 2026-07-20.
+This devops engineer position at Google was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
