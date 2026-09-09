@@ -5,12 +5,12 @@
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pristina, Pristina, Kosovo |
 | Category | DevOps Engineer |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000123186480-cloud-services-engineer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000146695024-cloud-services-engineer) |
 
 ## About This Role
 
-This devops engineer position at Babble Cloud was posted on 2026-04-27.
+This devops engineer position at Babble Cloud was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

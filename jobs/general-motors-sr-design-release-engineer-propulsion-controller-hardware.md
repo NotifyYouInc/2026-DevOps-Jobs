@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Accounting |
+| Category | Electrical / Hardware Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/Sr-Design-Release-Engineer---Propulsion-Controller-Hardware_JR-202616042) |
 
 ## About This Role
 
-This accounting position at General Motors was posted on 2026-08-31.
+This electrical / hardware engineer position at General Motors was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

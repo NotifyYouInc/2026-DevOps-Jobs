@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Shepherdsville, Kentucky, United States |
+| Location | Alessandria, Piedmont, Italy |
 | Category | Industrial Automation |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408163/automation-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10525609/automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Amazon was posted on 2026-04-30.
+This industrial automation position at Amazon was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

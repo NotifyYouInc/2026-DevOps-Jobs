@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Automation-Engineer-5---IN-A_2026-0025018) |
 
 ## About This Role
 
-This devops engineer position at U.S. Bancorp was posted on 2026-09-01.
+This industrial automation position at U.S. Bancorp was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

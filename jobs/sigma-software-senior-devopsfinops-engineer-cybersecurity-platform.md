@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Albania |
 | Category | DevOps Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146136996-senior-devopsfinops-engineer-cybersecurity-platform) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146745024-senior-devopsfinops-engineer-cybersecurity-platform) |
 
 ## About This Role
 
-This devops engineer position at Sigma Software was posted on 2026-08-28.
+This devops engineer position at Sigma Software was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

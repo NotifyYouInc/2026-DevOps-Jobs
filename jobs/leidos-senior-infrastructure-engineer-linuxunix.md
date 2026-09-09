@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Senior-Infrastructure-Engineer---Linux-Unix_R-00191082) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-09-01.
+This it & systems administration position at Leidos was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

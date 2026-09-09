@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nelnet](https://scoutify.ai/companies/nelnet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/CAN---MISSISSAUGA/IT-Infrastructure-Engineer---Network_R22968-1) |
 
 ## About This Role
 
-This devops engineer position at Nelnet was posted on 2026-08-31.
+This it & systems administration position at Nelnet was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

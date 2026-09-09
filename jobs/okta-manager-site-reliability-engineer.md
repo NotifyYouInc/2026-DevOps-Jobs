@@ -1,16 +1,16 @@
-# Manager Site Reliability Engineer at Okta
+# Manager- Site Reliability Engineer at Okta
 
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-29 |
+| Category | DevOps Engineer |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://www.okta.com/company/careers/opportunity/7247309?gh_jid=7247309) |
 
 ## About This Role
 
-This engineering manager position at Okta was posted on 2026-05-29.
+This devops engineer position at Okta was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

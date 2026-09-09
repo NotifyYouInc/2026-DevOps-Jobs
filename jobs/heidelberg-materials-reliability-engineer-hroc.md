@@ -1,16 +1,16 @@
-# Reliability Engineer – HROC at Heidelberg Materials
+# Reliability Engineer HROC at Heidelberg Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Heidelberg Materials](https://scoutify.ai/companies/heidelbergmaterials?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cairo, Cairo, Egypt |
-| Category | DevOps Engineer |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Cairo/Reliability-Engineer---HROC_JR10017859) |
+| Location | Irving, Texas, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Reliability-Engineer-HROC_JR10018439) |
 
 ## About This Role
 
-This devops engineer position at Heidelberg Materials was posted on 2026-08-09.
+This industrial automation position at Heidelberg Materials was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Singapore/Senior-Infrastructure-SRE--Object-Storage_R0136805) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Singapore-Singapore/Senior-Infrastructure-SRE--Object-Storage_R0143346) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-08-28.
+This devops engineer position at Hitachi was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

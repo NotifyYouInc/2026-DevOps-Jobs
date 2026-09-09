@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wood](https://scoutify.ai/companies/em2-cx-oj121386?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Milan, Lombardy, Italy |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ehif.fa.em2.oraclecloud.com/jobs/#31855) |
 
 ## About This Role
 
-This devops engineer position at Wood was posted on 2026-09-01.
+This industrial automation position at Wood was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

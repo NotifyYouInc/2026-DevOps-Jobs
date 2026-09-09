@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/L3-Splunk-Admin---IT-Operations-Lead--RTM_JR10437598-1) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-09-01.
+This it & systems administration position at Airbus was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zone 5 Technologies](https://scoutify.ai/companies/zone-5-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/zone5technologies/jobs/5411433008) |
 
 ## About This Role
 
-This devops engineer position at Zone 5 Technologies was posted on 2026-08-31.
+This it & systems administration position at Zone 5 Technologies was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

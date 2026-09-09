@@ -1,16 +1,16 @@
-# Senior DevOps Engineer at PAR Technology Corporation
+# Senior Devops Engineer at PAR Technology Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [PAR Technology Corporation](https://scoutify.ai/companies/par-technology-corporation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Florida, US |
+| Location | Gurugram, Haryana, India |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/b83823c8-c142-4925-838e-8bd0882ba55e) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/par%20technology/d2875f19-54e9-4460-a2c0-01312340e286) |
 
 ## About This Role
 
-This cybersecurity engineer position at PAR Technology Corporation was posted on 2026-08-28.
+This cybersecurity engineer position at PAR Technology Corporation was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

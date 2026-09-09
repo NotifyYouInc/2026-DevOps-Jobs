@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000141200479-ingenieur-observabilite-plateforme-kubernetes-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000146940829-ingenieur-observabilite-plateforme-kubernetes-hf) |
 
 ## About This Role
 
-This devops engineer position at Meritis was posted on 2026-08-03.
+This devops engineer position at Meritis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

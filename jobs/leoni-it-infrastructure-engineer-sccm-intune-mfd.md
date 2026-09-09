@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000146486269-it-infrastructure-engineer-sccm-intune-mfd) |
 
 ## About This Role
 
-This devops engineer position at LEONI was posted on 2026-08-31.
+This it & systems administration position at LEONI was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

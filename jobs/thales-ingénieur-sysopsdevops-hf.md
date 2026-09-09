@@ -5,12 +5,12 @@
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Élancourt, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Ingnieur-SysOps-DevOps--H-F-_R0338272-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Elancourt/Ingnieur-SysOps-DevOps--H-F-_R0338292-1) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-08-31.
+This devops engineer position at Thales was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

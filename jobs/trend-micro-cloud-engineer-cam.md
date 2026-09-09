@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trend Micro](https://scoutify.ai/companies/trendmicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Security Engineer |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Cloud-Engineer--CAM-_R0009256) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://trendmicro.wd3.myworkdayjobs.com/External/job/Taipei/Cloud-Engineer--CAM-_R0010168) |
 
 ## About This Role
 
-This security engineer position at Trend Micro was posted on 2026-03-09.
+This devops engineer position at Trend Micro was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mountain View, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckS-arnDS8O5paOxXnv5pF6AVX0GujiydvGTtryRdOMISEjsACxwdTPJSNjbmviSlWVuZXJT380UfJuCr3xGQPYVSuaZ4W9talr-0Gr7eafWZ0CVez-vH_J9fMSdD8w%3D%3D_V2&loc=US&title=Hardware+Reliability+Engineer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckb8VYC7eRMLpKR8wATvqVigYfEEfC3Eeg68XNMujuhLBEjsA1Ny_i6331Zboi6NXYzWxHaImc_YzNpk6BwFBg5QPU4KUEdJKGruLzORmUA0slbKt1CsBd2JH_Y-DEw%3D%3D_V2&loc=US&title=Hardware+Reliability+Engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Google was posted on 2026-04-13.
+This electrical / hardware engineer position at Google was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

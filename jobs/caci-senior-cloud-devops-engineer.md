@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Senior-Cloud-DevOps-Engineer_331290) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-08-31.
+This data engineer position at CACI was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

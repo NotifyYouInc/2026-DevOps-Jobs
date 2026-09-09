@@ -5,12 +5,12 @@
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/IND-Pune-Smartworks/Senior-Site-Reliability-Engineer_R0054649) |
 
 ## About This Role
 
-This devops engineer position at Wolters Kluwer was posted on 2026-06-10.
+This devops engineer position at Wolters Kluwer was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

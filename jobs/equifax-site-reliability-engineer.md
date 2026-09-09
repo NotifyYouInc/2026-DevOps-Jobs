@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Kerala, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/CAN---Ontario---Toronto/Site-Reliability-Engineer_J00177787) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/IND-Trivandrum-Equifax-Analytics-PEC/Site-Reliability-Engineer_J00178666) |
 
 ## About This Role
 
-This devops engineer position at Equifax was posted on 2026-06-25.
+This devops engineer position at Equifax was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Devops Engineer -Assistant Vice President at Citigroup
+# Senior DevOps Engineer - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | New Castle, Pennsylvania, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Senior-Devops-Engineer--Assistant-Vice-President_26980464) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Senior-DevOps-Engineer---Assistant-Vice-President_26991217) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-08-12.
+This devops engineer position at Citigroup was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

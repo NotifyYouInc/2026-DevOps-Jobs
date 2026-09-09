@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Jakarta, Jakarta, Indonesia |
 | Category | Industrial Automation |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/India---Pune/Automation-Engineer_R-144968) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/Indonesia---Jakarta/Automation-Engineer_R-145762) |
 
 ## About This Role
 
-This industrial automation position at Coca-Cola was posted on 2026-08-19.
+This industrial automation position at Coca-Cola was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

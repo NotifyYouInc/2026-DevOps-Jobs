@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Novanta](https://scoutify.ai/companies/novanta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Irvine-CA/Automation-Engineer-I_R009631) |
 
 ## About This Role
 
-This devops engineer position at Novanta was posted on 2026-08-31.
+This industrial automation position at Novanta was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

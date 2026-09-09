@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Bordeaux, Nouvelle-Aquitaine, France |
 | Category | Project Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000139309559-release-manager-hf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000146730952-release-manager-hf) |
 
 ## About This Role
 
-This project manager position at Nexton was posted on 2026-07-23.
+This project manager position at Nexton was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

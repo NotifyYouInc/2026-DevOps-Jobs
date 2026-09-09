@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Florence, Alabama, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Automation-Engineer-I_J2448652) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Automation-Engineer-I_J2463376) |
 
 ## About This Role
 
-This industrial automation position at Jabil was posted on 2026-05-13.
+This industrial automation position at Jabil was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

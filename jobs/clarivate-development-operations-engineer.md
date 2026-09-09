@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Spain---Barcelona/Development-Operations-Engineer_JREQ135158-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R155-Belgrade/Development-Operations-Engineer_JREQ136433-1) |
 
 ## About This Role
 
-This devops engineer position at Clarivate was posted on 2026-03-30.
+This devops engineer position at Clarivate was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

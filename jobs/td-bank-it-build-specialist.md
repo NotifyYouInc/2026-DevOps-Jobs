@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Bank](https://scoutify.ai/companies/td-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | DevOps Engineer |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Build-Specialist_R_1473813) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/IT-Build-Specialist_R_1508647) |
 
 ## About This Role
 
-This devops engineer position at TD Bank was posted on 2026-02-18.
+This cybersecurity engineer position at TD Bank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

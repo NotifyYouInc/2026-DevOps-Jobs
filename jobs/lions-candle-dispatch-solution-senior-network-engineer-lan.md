@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Delhi, Delhi, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000143870131-senior-network-engineer-lan) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000146945690-senior-network-engineer-lan) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-08-17.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

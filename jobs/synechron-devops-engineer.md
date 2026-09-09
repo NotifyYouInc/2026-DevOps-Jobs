@@ -5,12 +5,12 @@
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Novi-Sad/DevOps-Engineer_JR1036849) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Belgrade/DevOps-Engineer_JR1043735) |
 
 ## About This Role
 
-This devops engineer position at Synechron was posted on 2026-02-23.
+This devops engineer position at Synechron was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kolkata, West Bengal, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=129541) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131479) |
 
 ## About This Role
 
-This devops engineer position at IBM was posted on 2026-08-27.
+This devops engineer position at IBM was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

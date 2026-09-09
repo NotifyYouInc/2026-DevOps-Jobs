@@ -5,12 +5,12 @@
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000145926639-digital-site-reliability-engineer) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000146745372-digital-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Radisson Hotel Group was posted on 2026-08-27.
+This devops engineer position at Radisson Hotel Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

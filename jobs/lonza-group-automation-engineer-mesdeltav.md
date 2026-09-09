@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Visp, Valais, Switzerland |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Visp/Automation-Engineer-MES-DeltaV_R79188-1) |
 
 ## About This Role
 
-This devops engineer position at Lonza Group was posted on 2026-09-01.
+This industrial automation position at Lonza Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

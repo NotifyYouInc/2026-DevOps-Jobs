@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Systems-Operations-Engineer_R-564834-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Lead-Systems-Operations-Engineer_R-571136) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-08-28.
+This devops engineer position at Wells Fargo was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

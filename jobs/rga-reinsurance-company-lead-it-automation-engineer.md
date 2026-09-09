@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Creve Coeur, Missouri, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/United-States-Creve-Coeur-MO-CityPlace/Lead-IT-Automation-Engineer_J28552) |
 
 ## About This Role
 
-This devops engineer position at RGA Reinsurance Company was posted on 2026-08-31.
+This industrial automation position at RGA Reinsurance Company was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

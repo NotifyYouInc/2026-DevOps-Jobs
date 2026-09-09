@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Quincy, Massachusetts, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Quincy-Michigan/Automation-Engineer---2nd-Shift_Req-039217) |
 
 ## About This Role
 
-This devops engineer position at Conagra Brands was posted on 2026-08-31.
+This industrial automation position at Conagra Brands was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

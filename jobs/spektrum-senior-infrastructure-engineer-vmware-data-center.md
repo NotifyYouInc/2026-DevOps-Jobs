@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | The Hague, South Holland, The Netherlands |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-31 |
 | Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4964155101) |
 
 ## About This Role
 
-This devops engineer position at Spektrum was posted on 2026-08-31.
+This it & systems administration position at Spektrum was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

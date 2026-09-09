@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bristol, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Airframe-Automation-Engineer_JR10428292) |
 
 ## About This Role
 
-This devops engineer position at Airbus was posted on 2026-09-01.
+This industrial automation position at Airbus was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
