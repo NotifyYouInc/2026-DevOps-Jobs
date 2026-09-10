@@ -5,12 +5,12 @@
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000146046039-senior-devops-engineer-data-ai-platform) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000147052193-senior-devops-engineer-data-ai-platform) |
 
 ## About This Role
 
-This devops engineer position at Assent was posted on 2026-08-27.
+This devops engineer position at Assent was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

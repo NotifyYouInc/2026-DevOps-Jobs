@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toulouse, Occitanie, France |
-| Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000145206680-ingenieur-administrateur-systemes-et-reseaux-hf) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147163619-ingenieur-administrateur-systemes-et-reseaux-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-08-24.
+This it & systems administration position at ALTEN Canada was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

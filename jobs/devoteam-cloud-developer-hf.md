@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Nantes, Pays de la Loire, France |
-| Category | Software Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000134447864-cloud-developer-hf) |
+| Location | Toulouse, Occitanie, France |
+| Category | DevOps Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147166189-cloud-developer-hf) |
 
 ## About This Role
 
-This software engineer position at Devoteam was posted on 2026-06-26.
+This devops engineer position at Devoteam was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131694463-devops-engineer-fmdiv) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147172709-devops-engineer-fmdiv) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-06-11.
+This devops engineer position at Robert Bosch was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-05-05 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Principal-Software-Engineer_R-276737) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-05.
+This devops engineer position at Mastercard was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

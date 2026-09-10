@@ -1,16 +1,16 @@
-# Technical Project Manager / IT Infrastructure Engineer  at Nebius
+# Technical Project Manager / IT Infrastructure Engineer at Nebius
 
 | Field | Details |
 |-------|---------|
 | Company | [Nebius](https://scoutify.ai/companies/nebius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Oklahoma, US |
-| Category | IT & Systems Administration |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4866018101) |
+| Location | Béthune, Hauts-de-France, France |
+| Category | Project Manager |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://careers.nebius.com/?gh_jid=4965102101) |
 
 ## About This Role
 
-This it & systems administration position at Nebius was posted on 2026-05-29.
+This project manager position at Nebius was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

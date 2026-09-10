@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 4 locations |
+| Location | 6 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Principal-System-Engineering_R-114239) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USAGAAtlanta--1057-Lenox-Park-Blvd-Ne---Adm1057-Lenox-Park-Blvd-Ne/Principal-System-Engineering_R-117418-1) |
 
 ## About This Role
 
-This devops engineer position at AT&T was posted on 2026-07-02.
+This devops engineer position at AT&T was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

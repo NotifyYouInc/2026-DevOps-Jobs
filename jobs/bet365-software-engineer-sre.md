@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Software Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000145536354-software-engineer-sre) |
+| Location | Stoke-on-Trent, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000147026129-software-engineer-sre) |
 
 ## About This Role
 
-This software engineer position at bet365 was posted on 2026-08-25.
+This devops engineer position at bet365 was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | DevOps Engineer |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137115489-reliability-engineer-for-mobility-electronics) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147037460-reliability-engineer-for-mobility-electronics) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-07-10.
+This electrical / hardware engineer position at Robert Bosch was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

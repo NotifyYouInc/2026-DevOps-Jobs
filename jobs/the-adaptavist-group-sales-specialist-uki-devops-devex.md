@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Adaptavist Group](https://scoutify.ai/companies/theadaptavistgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Sales |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000146722429-sales-specialist-uki-devops-devex) |
+| Location | United Kingdom |
+| Category | Account Executive |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000146973231-sales-specialist-uki-devops-devex) |
 
 ## About This Role
 
-This sales position at The Adaptavist Group was posted on 2026-09-01.
+This account executive position at The Adaptavist Group was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

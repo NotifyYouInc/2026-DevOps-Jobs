@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | New Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/DevOps-Engineer_R1511345) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Cairo-Egypt/DevOps-Engineer_R1561189) |
 
 ## About This Role
 
-This devops engineer position at IQVIA was posted on 2026-04-16.
+This devops engineer position at IQVIA was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

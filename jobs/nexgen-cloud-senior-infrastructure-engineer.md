@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NexGen Cloud](https://scoutify.ai/companies/nexgen-cloud?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Australia |
+| Location | Quebec, CA |
 | Category | DevOps Engineer |
-| Posted | 2026-04-25 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4834834101) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/nexgencloud/jobs/4958463101) |
 
 ## About This Role
 
-This devops engineer position at NexGen Cloud was posted on 2026-04-25.
+This devops engineer position at NexGen Cloud was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

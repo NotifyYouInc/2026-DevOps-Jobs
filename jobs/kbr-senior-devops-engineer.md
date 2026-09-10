@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-DevOps-Engineer_R2125672) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Senior-DevOps-Engineer_R2129297) |
 
 ## About This Role
 
-This devops engineer position at KBR was posted on 2026-06-26.
+This devops engineer position at KBR was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

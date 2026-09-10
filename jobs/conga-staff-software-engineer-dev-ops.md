@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Conga](https://scoutify.ai/companies/conga?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5182920007) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/conga/jobs/5182922007) |
 
 ## About This Role
 
-This software engineer position at Conga was posted on 2026-07-09.
+This devops engineer position at Conga was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

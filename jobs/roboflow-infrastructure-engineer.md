@@ -5,12 +5,12 @@
 | Company | [Roboflow](https://scoutify.ai/companies/roboflow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/roboflow/6aca5391-3bbc-4d49-a8ff-952903d3cc3c) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/roboflow/13df0a39-1845-4634-846d-d01f2a573b54) |
 
 ## About This Role
 
-This devops engineer position at Roboflow was posted on 2026-05-15.
+This devops engineer position at Roboflow was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 6 locations |
-| Category | Software Engineer |
-| Posted | 2026-07-25 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Lead---Site-Reliability-Engineering-Center_R229798-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Lead---Site-Reliability-Engineering-Center_R230850-1) |
 
 ## About This Role
 
-This software engineer position at PNC Financial was posted on 2026-07-25.
+This devops engineer position at PNC Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

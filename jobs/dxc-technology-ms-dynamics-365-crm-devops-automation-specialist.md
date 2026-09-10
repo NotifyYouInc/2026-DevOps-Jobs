@@ -6,7 +6,7 @@
 | Location | Giza, Giza, Egypt |
 | Category | DevOps Engineer |
 | Posted | 2026-09-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/EGY---GZ---GIZA/MS-DYNAMICS-365-CRM---DevOps---Automation-Specialist_51588298) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/EGY---GZ---GIZA/MS-DYNAMICS-365-CRM---DevOps---Automation-Specialist_51588303) |
 
 ## About This Role
 

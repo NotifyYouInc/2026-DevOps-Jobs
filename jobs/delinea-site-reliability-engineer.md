@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delinea](https://scoutify.ai/companies/delinea?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Philippines |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/3e728e5b-4600-40e3-9dda-fe6eba7a44e9) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/delinea/803dc58b-79c2-4d77-810d-61970b1852ca) |
 
 ## About This Role
 
-This devops engineer position at Delinea was posted on 2026-08-18.
+This devops engineer position at Delinea was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

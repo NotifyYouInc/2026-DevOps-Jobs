@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Platform-Engineer_R-00185871) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Platform-Engineer_R-00191210) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-06-22.
+This devops engineer position at Leidos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

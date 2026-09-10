@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS International](https://scoutify.ai/companies/sgs-international?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Not specified |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/sgs1000sgsi/JobBoard/97ca74c0-a912-49a2-94d9-461835a67db8/OpportunityDetail?opportunityId=92bd345a-f1e8-4eb9-91ee-59b6ef928cfe) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/sgs1000sgsi/JobBoard/97ca74c0-a912-49a2-94d9-461835a67db8/OpportunityDetail?opportunityId=6b049e40-7c4d-4560-a401-faeb0d54ba39) |
 
 ## About This Role
 
-This devops engineer position at SGS International was posted on 2026-02-13.
+This devops engineer position at SGS International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

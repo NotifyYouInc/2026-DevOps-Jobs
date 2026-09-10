@@ -1,16 +1,16 @@
-# Sr. DevOps Engineer at METRO/MAKRO
+# Sr. Devops Engineer  at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000128232444-sr-devops-engineer) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000146999449-sr-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at METRO/MAKRO was posted on 2026-05-25.
+This devops engineer position at METRO/MAKRO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

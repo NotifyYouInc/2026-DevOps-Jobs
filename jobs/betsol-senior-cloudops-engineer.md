@@ -5,12 +5,12 @@
 | Company | [BETSOL](https://scoutify.ai/companies/betsol?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000143056785-senior-cloudops-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/betsol/744000147221419-senior-cloudops-engineer) |
 
 ## About This Role
 
-This devops engineer position at BETSOL was posted on 2026-08-12.
+This devops engineer position at BETSOL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Specialist--Public-Cloud-Networking_R391245-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Specialist--Public-Cloud-Networking_R391245-1) |
 
 ## About This Role
 
-This devops engineer position at Merck was posted on 2026-04-23.
+This devops engineer position at Merck was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

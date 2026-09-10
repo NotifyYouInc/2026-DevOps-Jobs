@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200657604/operations-reliability-engineer) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200681478/operations-reliability-engineer) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-04-13.
+This electrical / hardware engineer position at Apple was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

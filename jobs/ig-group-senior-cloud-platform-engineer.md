@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IG Group](https://scoutify.ai/companies/ig-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Cannon-Street-London/Senior-Cloud-Platform-Engineer_R_17210-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://ig.wd103.myworkdayjobs.com/ext_ig/job/Bangalore-India/Senior-Cloud-Platform-Engineer_R_17779) |
 
 ## About This Role
 
-This devops engineer position at IG Group was posted on 2026-06-16.
+This devops engineer position at IG Group was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
