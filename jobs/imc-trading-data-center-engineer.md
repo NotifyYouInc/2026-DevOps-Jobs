@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IMC Trading](https://scoutify.ai/companies/imc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Hong Kong, Hong Kong |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4954088101) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/imc/jobs/4694604101) |
 
 ## About This Role
 
-This it & systems administration position at IMC Trading was posted on 2026-08-17.
+This it & systems administration position at IMC Trading was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

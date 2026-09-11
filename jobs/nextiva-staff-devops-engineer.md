@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8584626002) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8736446002) |
 
 ## About This Role
 
-This devops engineer position at Nextiva was posted on 2026-06-15.
+This devops engineer position at Nextiva was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

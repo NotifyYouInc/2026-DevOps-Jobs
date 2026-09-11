@@ -5,12 +5,12 @@
 | Company | [RATP Group](https://scoutify.ai/companies/ratp-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://ratp.wd3.myworkdayjobs.com/ratp_externe/job/Ingnieur-DevOps-Expert-Conteneurisation-F-H--DSI-FAB-_R0019816) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ratp.wd3.myworkdayjobs.com/ratp_externe/job/Ingnieur-DevOps-Expert-Conteneurisation-F-H--DSI-FAB-_R0020062) |
 
 ## About This Role
 
-This devops engineer position at RATP Group was posted on 2026-07-31.
+This devops engineer position at RATP Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

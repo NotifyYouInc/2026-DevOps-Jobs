@@ -5,12 +5,12 @@
 | Company | [Toss](https://scoutify.ai/companies/toss?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7984081003) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://toss.im/career/job-detail?gh_jid=7985105003) |
 
 ## About This Role
 
-This devops engineer position at Toss was posted on 2026-09-02.
+This devops engineer position at Toss was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

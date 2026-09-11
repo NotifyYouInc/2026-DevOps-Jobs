@@ -5,12 +5,12 @@
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | California, US |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---California/Senior-Cloud-Engineer_JR-88563-2) |
 
 ## About This Role
 
-This devops engineer position at Live Nation was posted on 2026-03-24.
+This devops engineer position at Live Nation was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

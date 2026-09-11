@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000146423439-cloudops-engineer-azure-hf) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000147277469-cloudops-engineer-azure-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-08-31.
+This devops engineer position at Devoteam was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

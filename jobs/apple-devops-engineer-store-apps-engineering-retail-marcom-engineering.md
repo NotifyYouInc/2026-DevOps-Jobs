@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Sunnyvale, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680254/devops-engineer-store-apps-engineering-retail-marcom-engineering) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200680747/devops-engineer-store-apps-engineering-retail-marcom-engineering) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-09-01.
+This devops engineer position at Apple was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

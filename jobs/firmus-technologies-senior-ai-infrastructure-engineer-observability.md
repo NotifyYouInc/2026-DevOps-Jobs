@@ -1,0 +1,22 @@
+# Senior AI Infrastructure Engineer, Observability  at Firmus Technologies
+
+| Field | Details |
+|-------|---------|
+| Company | [Firmus Technologies](https://scoutify.ai/companies/firmus-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Singapore, Singapore |
+| Category | DevOps Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/firmus/jobs/5407469008) |
+
+## About This Role
+
+This devops engineer position at Firmus Technologies was posted on 2026-09-04.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

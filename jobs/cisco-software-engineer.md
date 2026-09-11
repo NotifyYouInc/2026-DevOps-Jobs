@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Galway, Connacht, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Software-Engineer_2022756-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Galway-Ireland/Software-Engineer_2024057) |
 
 ## About This Role
 
-This devops engineer position at Cisco was posted on 2026-09-02.
+This devops engineer position at Cisco was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

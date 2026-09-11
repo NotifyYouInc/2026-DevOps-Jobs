@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000138159704-consultant-ia-ops-ia-sre-kubernetes-cloud-agentique-fhn) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000147296129-consultant-ia-ops-ia-sre-kubernetes-cloud-agentique-fhn) |
 
 ## About This Role
 
-This devops engineer position at OCTO Technology was posted on 2026-07-16.
+This devops engineer position at OCTO Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

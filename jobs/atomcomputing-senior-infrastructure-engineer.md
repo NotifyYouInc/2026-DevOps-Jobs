@@ -5,12 +5,12 @@
 | Company | [Atomcomputing](https://scoutify.ai/companies/atomcomputing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Boulder, Colorado, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://jobs.lever.co/atomcomputing/163f6c41-d684-4b64-ab08-f93789a989ce) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/atomcomputing/2d47d93b-339e-4801-af9a-82a387f0eb85) |
 
 ## About This Role
 
-This devops engineer position at Atomcomputing was posted on 2026-05-31.
+This devops engineer position at Atomcomputing was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

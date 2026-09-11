@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lunar Energy](https://scoutify.ai/companies/lunarenergy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lunarenergy/jobs/6130132004) |
+| Category | Electrical / Hardware Engineer |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lunarenergy/jobs/6181851004) |
 
 ## About This Role
 
-This devops engineer position at Lunar Energy was posted on 2026-07-29.
+This electrical / hardware engineer position at Lunar Energy was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [KPN](https://scoutify.ai/companies/kpn?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amersfoort, Utrecht, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000144040149-site-reliability-engineer-cloud-native-platform-openshift) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPN/744000147422475-site-reliability-engineer-cloud-native-platform-openshift) |
 
 ## About This Role
 
-This devops engineer position at KPN was posted on 2026-08-18.
+This devops engineer position at KPN was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

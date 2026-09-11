@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Stockton, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---UT---Salt-Lake-City---777-N-5600-W/Senior-Automation-Engineer_R334467) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Stockton---3923-S-B-Street/Senior-Automation-Engineer_R335214) |
 
 ## About This Role
 
-This industrial automation position at Cushman & Wakefield was posted on 2026-09-01.
+This industrial automation position at Cushman & Wakefield was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

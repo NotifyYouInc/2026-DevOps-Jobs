@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
-| Category | DevOps Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000144270886-data-engineer-consultant) |
+| Category | Data Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000147440060-data-engineer-consultant) |
 
 ## About This Role
 
-This devops engineer position at SIA was posted on 2026-08-19.
+This data engineer position at SIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

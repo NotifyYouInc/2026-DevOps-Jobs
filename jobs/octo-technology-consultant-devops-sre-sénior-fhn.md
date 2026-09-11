@@ -5,12 +5,12 @@
 | Company | [OCTO Technology](https://scoutify.ai/companies/octotechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000142127500-consultant-devops-sre-senior-fhn) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OCTOTechnology/744000147298119-consultant-devops-sre-senior-fhn) |
 
 ## About This Role
 
-This devops engineer position at OCTO Technology was posted on 2026-08-07.
+This devops engineer position at OCTO Technology was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

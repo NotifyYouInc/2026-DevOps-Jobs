@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fayetteville, North Carolina, United States |
+| Location | McLean, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/DevSecOps-Platform-Engineer_R0245768) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/DevSecOps-Platform-Engineer_R0248610) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-07-31.
+This devops engineer position at Booz Allen was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

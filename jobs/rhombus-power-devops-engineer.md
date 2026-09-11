@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rhombus Power](https://scoutify.ai/companies/rhombuspower?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New Delhi, Delhi, India |
+| Location | Palo Alto, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/rhombuspower/jobs/7599809003) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/rhombuspower/jobs/7985744003) |
 
 ## About This Role
 
-This devops engineer position at Rhombus Power was posted on 2026-05-06.
+This devops engineer position at Rhombus Power was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -2,15 +2,15 @@
 
 | Field | Details |
 |-------|---------|
-| Company | [Motive](https://scoutify.ai/companies/gomotive?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Company | [Motive](https://scoutify.ai/companies/motive?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-13 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/gomotive/jobs/8504963002) |
 
 ## About This Role
 
-This devops engineer position at Motive was posted on 2026-04-13.
+This devops engineer position at Motive was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

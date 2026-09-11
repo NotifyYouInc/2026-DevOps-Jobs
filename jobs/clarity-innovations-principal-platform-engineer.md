@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarity Innovations](https://scoutify.ai/companies/clarityinnovates?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Fort Meade, Maryland, United States |
+| Location | Herndon, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5139519007) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clarityinnovates/jobs/5229829007) |
 
 ## About This Role
 
-This devops engineer position at Clarity Innovations was posted on 2026-08-20.
+This devops engineer position at Clarity Innovations was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

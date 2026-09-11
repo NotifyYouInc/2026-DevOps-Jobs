@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/DevSecOps-Engineer--Secret-clearance-_R-00181888-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/DevSecOps-Engineer--Secret-clearance-_R-00191329) |
 
 ## About This Role
 
-This cybersecurity engineer position at Leidos was posted on 2026-08-26.
+This cybersecurity engineer position at Leidos was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/DevOps-Engineer-Band-D--85490-_135117-3) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/DevOps-Engineer_162930-1) |
 
 ## About This Role
 
-This devops engineer position at Lloyds Bank was posted on 2026-02-25.
+This devops engineer position at Lloyds Bank was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

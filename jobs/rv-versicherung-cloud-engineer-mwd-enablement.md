@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000146947399-cloud-engineer-mwd-enablement) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000147425298-cloud-engineer-mwd-enablement) |
 
 ## About This Role
 
-This devops engineer position at R+V Versicherung was posted on 2026-09-02.
+This devops engineer position at R+V Versicherung was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

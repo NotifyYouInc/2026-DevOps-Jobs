@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nextiva](https://scoutify.ai/companies/nextiva?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8621899002) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://www.nextiva.com/company/careers-listing?gh_jid=8736466002) |
 
 ## About This Role
 
-This devops engineer position at Nextiva was posted on 2026-08-14.
+This devops engineer position at Nextiva was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#149399) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#150491) |
 
 ## About This Role
 
-This devops engineer position at Zensar was posted on 2026-08-13.
+This devops engineer position at Zensar was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

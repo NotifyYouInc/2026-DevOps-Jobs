@@ -5,12 +5,12 @@
 | Company | [Sfeir](https://scoutify.ai/companies/sfeir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Belgium |
 | Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.lever.co/sfeir/53eb36e7-9933-4966-8c6b-54349efcba9e) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.lever.co/sfeir/0606366a-67e0-4226-b5f9-ae92e3a66e75) |
 
 ## About This Role
 
-This devops engineer position at Sfeir was posted on 2026-06-23.
+This devops engineer position at Sfeir was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

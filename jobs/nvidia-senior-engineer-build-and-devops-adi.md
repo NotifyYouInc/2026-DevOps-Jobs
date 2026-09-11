@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Carolina, US |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-NY-Remote/Senior-Engineer--Build-and-DevOps---ADI_JR2021994) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Senior-Engineer--Build-and-DevOps---ADI_JR2025066) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-07-24.
+This devops engineer position at Nvidia was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

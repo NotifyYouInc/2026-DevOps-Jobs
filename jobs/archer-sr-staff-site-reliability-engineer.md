@@ -5,12 +5,12 @@
 | Company | [Archer](https://scoutify.ai/companies/archer56?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-28 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/archer56/jobs/7666316003) |
 
 ## About This Role
 
-This devops engineer position at Archer was posted on 2026-05-28.
+This devops engineer position at Archer was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Auto-Owners Insurance](https://scoutify.ai/companies/aoins?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lansing, Michigan, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Application-Infrastructure-Developer_R_14080) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Application-Infrastructure-Developer_R_14211) |
 
 ## About This Role
 
-This devops engineer position at Auto-Owners Insurance was posted on 2026-09-01.
+This devops engineer position at Auto-Owners Insurance was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Data Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000146650600-data-platform-lead) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000147254508-data-platform-lead) |
 
 ## About This Role
 
-This data engineer position at REXEL was posted on 2026-09-01.
+This data engineer position at REXEL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

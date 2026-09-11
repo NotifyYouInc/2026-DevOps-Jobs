@@ -1,16 +1,16 @@
-# Senior Operations Reliability Engineer – IAM at Genesys
+# Senior Operations Reliability Engineer - IAM at Genesys
 
 | Field | Details |
 |-------|---------|
 | Company | [Genesys](https://scoutify.ai/companies/genesys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico |
+| Location | Alberta, CA |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Virtual-Office-Mexico/Senior-Operations-Reliability-Engineer---IAM_JR111747-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://genesys.wd1.myworkdayjobs.com/Genesys/job/Ontario-Canada/Senior-Operations-Reliability-Engineer---IAM_JR112245-1) |
 
 ## About This Role
 
-This devops engineer position at Genesys was posted on 2026-07-23.
+This devops engineer position at Genesys was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

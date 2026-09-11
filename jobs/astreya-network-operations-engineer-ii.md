@@ -6,7 +6,7 @@
 | Location | Denver, Colorado, United States |
 | Category | IT & Systems Administration |
 | Posted | 2026-09-02 |
-| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0017254) |
+| Apply | [View on company site](https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Denver-CO/Network-Operations-Engineer-II_R0017258) |
 
 ## About This Role
 

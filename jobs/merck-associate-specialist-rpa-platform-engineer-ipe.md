@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Venture Capital / Private Equity |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Associate-Specialist--RPA-Platform-Engineer--I-PE_R387556-1) |
 
 ## About This Role
 
-This venture capital / private equity position at Merck was posted on 2026-03-12.
+This devops engineer position at Merck was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
