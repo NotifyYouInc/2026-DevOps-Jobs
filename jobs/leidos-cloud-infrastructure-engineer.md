@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Glasgow-Lanarkshire-Scotland/Cloud-Infrastructure-Engineer_R-00187302) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Remote-United-Kingdom/Cloud-Infrastructure-Engineer_R-00191537-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-15.
+This devops engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

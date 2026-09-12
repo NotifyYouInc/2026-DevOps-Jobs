@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Wright-Patterson AFB, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal---Sr-Principal-Cloud---DevSecOps-Engineer---Azure-AWS--TS-SCI-_R10246459-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Principal---Sr-Principal-Cloud---DevSecOps-Engineer---Azure-AWS--TS-SCI-_R10249517) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-19.
+This devops engineer position at Northrop Grumman was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

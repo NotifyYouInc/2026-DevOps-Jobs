@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000147470934-ingenieur-api-management-api-gateway-nodejs-aws-hf) |
 
 ## About This Role
 
-This devops engineer position at CITECH was posted on 2026-09-04.
+This software engineer position at CITECH was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dahlgren, Virginia, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Dahlgren/Infrastructure-Engineer_R0169709-1) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-09-03.
+This software engineer position at Amentum was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Berkeley, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Lead-Site-Reliability-Engineer_JR2026517447-1) |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Lead-Site-Reliability-Engineer_JR2026523823-1) |
 
 ## About This Role
 
-This devops engineer position at Boeing was posted on 2026-07-21.
+This devops engineer position at Boeing was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

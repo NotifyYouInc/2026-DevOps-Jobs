@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Systems-Engineer---HPC---GPU-Infrastructure_R-00187120-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Systems-Engineer---HPC---GPU-Infrastructure_R-00191588-1) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-07-13.
+This devops engineer position at Leidos was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

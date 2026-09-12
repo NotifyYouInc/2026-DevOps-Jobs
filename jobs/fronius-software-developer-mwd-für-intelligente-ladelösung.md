@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fronius](https://scoutify.ai/companies/fronius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Thalheim bei Wels, Upper Austria, Austria |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://fronius.wd3.myworkdayjobs.com/job_board/job/Thalheim-bei-Wels/Software-Developer--m-w-d--fr-intelligente-Ladelsung_REQ-10009542) |
 
 ## About This Role
 
-This devops engineer position at Fronius was posted on 2026-09-03.
+This software engineer position at Fronius was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

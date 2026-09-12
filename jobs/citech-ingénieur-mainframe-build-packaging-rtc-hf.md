@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Cergy, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000116332520-ingenieur-mainframe-build-packaging-rtc-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000147500519-ingenieur-mainframe-build-packaging-rtc-hf) |
 
 ## About This Role
 
-This devops engineer position at CITECH was posted on 2026-03-24.
+This devops engineer position at CITECH was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

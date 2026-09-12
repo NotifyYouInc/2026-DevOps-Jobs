@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-09-03.
+This software engineer position at Google was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

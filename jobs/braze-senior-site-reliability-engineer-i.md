@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Braze](https://scoutify.ai/companies/braze?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vancouver, British Columbia, Canada |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8161897) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/braze/jobs/8114074) |
 
 ## About This Role
 
-This devops engineer position at Braze was posted on 2026-08-27.
+This devops engineer position at Braze was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

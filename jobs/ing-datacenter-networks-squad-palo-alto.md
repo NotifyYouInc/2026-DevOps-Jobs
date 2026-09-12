@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Madrid-Hubs-Spain/Datacenter-Networks-Squad--Palo-Alto-_REQ-10114459) |
 
 ## About This Role
 
-This devops engineer position at ING was posted on 2026-05-11.
+This devops engineer position at ING was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

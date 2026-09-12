@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Colorado-Springs-CO/Cloud-Engineer_R0247510) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Cloud-Engineer_R0248767) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-20.
+This devops engineer position at Booz Allen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

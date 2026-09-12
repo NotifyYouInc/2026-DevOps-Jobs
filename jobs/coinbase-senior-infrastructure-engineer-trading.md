@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114) |
 
 ## About This Role
 
-This devops engineer position at Coinbase was posted on 2026-09-04.
+This software engineer position at Coinbase was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

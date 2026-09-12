@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Site-Reliability-Engineer--VP_R-00281615) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Site-Reliability-Engineer--VP_R-00283022-1) |
 
 ## About This Role
 
-This devops engineer position at NatWest Group was posted on 2026-07-09.
+This devops engineer position at NatWest Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

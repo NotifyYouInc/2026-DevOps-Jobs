@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3003997) |
+| Apply | [View on company site](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3004016) |
 
 ## About This Role
 

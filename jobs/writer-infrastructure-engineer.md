@@ -5,12 +5,12 @@
 | Company | [Writer](https://scoutify.ai/companies/writer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/writer/09fca4e9-ecdc-4061-b8ac-767f039db19e) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/writer/97d2b656-e084-4910-85a9-ca8d55cd302c) |
 
 ## About This Role
 
-This devops engineer position at Writer was posted on 2026-05-11.
+This devops engineer position at Writer was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

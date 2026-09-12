@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Middleware-Engineer_R-00191224) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-09-03.
+This software engineer position at Leidos was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

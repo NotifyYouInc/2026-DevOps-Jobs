@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Austin, Texas, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-TX-Austin/Systems-Integration-Engineer_324788) |
+| Category | Software Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Systems-Integration-Engineer_331636) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-04-15.
+This software engineer position at CACI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

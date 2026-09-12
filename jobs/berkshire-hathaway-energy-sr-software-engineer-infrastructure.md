@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Berkshire Hathaway Energy](https://scoutify.ai/companies/ocs-cx-oj16881?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Des Moines, Iowa, United States |
-| Category | DevOps Engineer |
+| Category | Software Engineer |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#10004761) |
 
 ## About This Role
 
-This devops engineer position at Berkshire Hathaway Energy was posted on 2026-09-03.
+This software engineer position at Berkshire Hathaway Energy was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

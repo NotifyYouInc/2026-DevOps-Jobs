@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Columbia, South Carolina, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Platform-Engineer_329998) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Columbia-MD-US/Platform-Engineer_331658) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-08-05.
+This devops engineer position at CACI was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
