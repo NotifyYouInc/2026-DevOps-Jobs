@@ -1,16 +1,16 @@
-# Senior Software Engineer - DevOps at Zeiss
+# Tech Lead, IT Services Management at Fiserv
 
 | Field | Details |
 |-------|---------|
-| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Software Engineer |
 | Posted | 2026-09-05 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Software-Engineer---DevOps_JR_1052896-1) |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/FTS-EUC---Endpoint-Operations-Lead_R-10401581) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-09-05.
+This software engineer position at Fiserv was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
