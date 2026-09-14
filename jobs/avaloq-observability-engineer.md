@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Makati City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000137845654-observability-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000147833150-observability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Avaloq was posted on 2026-07-15.
+This devops engineer position at Avaloq was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

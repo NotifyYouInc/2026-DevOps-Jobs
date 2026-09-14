@@ -5,12 +5,12 @@
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001335177-cloud-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001381894-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at NCS was posted on 2026-08-20.
+This devops engineer position at NCS was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

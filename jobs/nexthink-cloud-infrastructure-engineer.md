@@ -5,12 +5,12 @@
 | Company | [Nexthink](https://scoutify.ai/companies/nexthink?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000146761419-cloud-infrastructure-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/nexthink/744000147899419-cloud-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Nexthink was posted on 2026-09-01.
+This devops engineer position at Nexthink was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rennes, Brittany, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000111335725-ingenieur-infrastructure-stockage-netapp-pure-storage-hf-rennes) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147887199-ingenieur-infrastructure-stockage-netapp-pure-storage-hf-rennes) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-25.
+This devops engineer position at Inetum was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

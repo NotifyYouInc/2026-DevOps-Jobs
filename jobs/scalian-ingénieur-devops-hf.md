@@ -1,16 +1,16 @@
-# Ingénieur DevOps - H/F at Scalian
+# Ingénieur DevOps H/F at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Le Haillan, Nouvelle-Aquitaine, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000143119345-ingenieur-devops-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000147870609-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-08-12.
+This devops engineer position at Scalian was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

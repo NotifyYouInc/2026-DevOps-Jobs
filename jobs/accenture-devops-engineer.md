@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | DevOps Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/DevOps-Engineer_ATCI-5750005-S2067691) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Santiago/DevOps-Engineer_14699675) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-09-03.
+This devops engineer position at Accenture was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

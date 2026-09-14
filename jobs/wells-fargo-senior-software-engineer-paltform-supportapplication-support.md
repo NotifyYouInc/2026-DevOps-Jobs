@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | DevOps Engineer |
-| Posted | 2026-05-20 |
+| Category | Software Engineer |
+| Posted | 2026-09-07 |
 | Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Software-Engineer-Paltform-support-Application-support_R-541347) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-05-20.
+This software engineer position at Wells Fargo was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

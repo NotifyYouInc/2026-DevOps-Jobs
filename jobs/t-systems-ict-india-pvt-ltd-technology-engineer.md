@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems ICT India Pvt. Ltd.](https://scoutify.ai/companies/t-systems-ict-india-pvt-ltd?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000145671540-technology-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/t-systemsictindiapvtltd1/744000147852358-technology-engineer) |
 
 ## About This Role
 
-This devops engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-08-26.
+This devops engineer position at T-Systems ICT India Pvt. Ltd. was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

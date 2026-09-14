@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zendesk](https://scoutify.ai/companies/zendesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kraków, Lesser Poland, Poland |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Krakow-Poland/Information-Technology-Lead_R34171) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://zendesk.wd1.myworkdayjobs.com/zendesk/job/Pune-India/Information-Technology-Lead_R35432-1) |
 
 ## About This Role
 
-This devops engineer position at Zendesk was posted on 2026-03-19.
+This devops engineer position at Zendesk was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 
