@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Basel, Basel-City, Switzerland |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/CH---Basel/Automation-Engineer-80-100-_R79046) |
 
 ## About This Role
 
-This industrial automation position at Lonza Group was posted on 2026-09-04.
+This devops engineer position at Lonza Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

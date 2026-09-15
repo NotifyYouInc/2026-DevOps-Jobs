@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zuehlke](https://scoutify.ai/companies/zuehlke?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Schlieren, Zurich, Switzerland |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://zuehlke.wd3.myworkdayjobs.com/zuhlke-careers/job/Schlieren/DevOps-Engineer_JR100558) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://zuehlke.wd3.myworkdayjobs.com/zuhlke-careers/job/Schlieren/DevOps-Engineer_JR100943) |
 
 ## About This Role
 
-This devops engineer position at Zuehlke was posted on 2026-05-19.
+This devops engineer position at Zuehlke was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

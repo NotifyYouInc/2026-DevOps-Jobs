@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lloyds Bank](https://scoutify.ai/companies/lbg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Frontend Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/London/Lead-Software-Engineer_152896-2) |
+| Location | Manchester, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Public-Cloud-Software-Engineer_150855-1) |
 
 ## About This Role
 
-This frontend engineer position at Lloyds Bank was posted on 2026-04-02.
+This devops engineer position at Lloyds Bank was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IntegriChain](https://scoutify.ai/companies/integrichain1?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IntegriChain1/744000147839370-sr-software-quality-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at IntegriChain was posted on 2026-09-07.
+This devops engineer position at IntegriChain was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Texas City, Texas, United States |
-| Category | Customer Success |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000147842969-amazon-connect-support-engineer) |
 
 ## About This Role
 
-This customer success position at Lions Candle-Dispatch Solution was posted on 2026-09-07.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

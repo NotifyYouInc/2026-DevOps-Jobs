@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Florence, Tuscany, Italy |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IT-FI-FLORENCE-VIA-FELICE-MATTEUCCI-2/Lead-Digital-Infrastructure-Engineer--m-f-d-_R167786-1) |
 
 ## About This Role
 
-This software engineer position at Baker Hughes was posted on 2026-09-07.
+This devops engineer position at Baker Hughes was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

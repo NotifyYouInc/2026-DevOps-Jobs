@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hillsboro, Oregon, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286595) |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757) |
 
 ## About This Role
 
-This industrial automation position at Intel was posted on 2026-09-04.
+This devops engineer position at Intel was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

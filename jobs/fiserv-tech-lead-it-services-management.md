@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/FTS-EUC---Endpoint-Operations-Lead_R-10401581) |
 
 ## About This Role
 
-This software engineer position at Fiserv was posted on 2026-09-05.
+This devops engineer position at Fiserv was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

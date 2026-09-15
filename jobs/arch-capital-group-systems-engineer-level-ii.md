@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arch Capital Group](https://scoutify.ai/companies/archgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://archgroup.wd1.myworkdayjobs.com/careers/job/PHL-Manila/Systems-Engineer---Level-II_R26_939) |
 
 ## About This Role
 
-This it & systems administration position at Arch Capital Group was posted on 2026-09-04.
+This devops engineer position at Arch Capital Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

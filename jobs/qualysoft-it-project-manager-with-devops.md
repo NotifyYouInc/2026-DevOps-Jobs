@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Qualysoft](https://scoutify.ai/companies/qualysoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Project Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.lever.co/qualysoft/26b15aff-efcf-4960-906d-bafcbf1a3f98) |
 
 ## About This Role
 
-This project manager position at Qualysoft was posted on 2026-09-07.
+This devops engineer position at Qualysoft was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Altruist](https://scoutify.ai/companies/altruist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://altruist.com/join-altruist/6183630004?gh_jid=6183630004) |
 
 ## About This Role
 
-This software engineer position at Altruist was posted on 2026-09-04.
+This devops engineer position at Altruist was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

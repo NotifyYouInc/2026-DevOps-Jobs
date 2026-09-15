@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Staff-Automation-Engineer_R4045943-1) |
 
 ## About This Role
 
-This industrial automation position at GE HealthCare was posted on 2026-09-07.
+This devops engineer position at GE HealthCare was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

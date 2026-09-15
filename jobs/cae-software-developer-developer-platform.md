@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer---Developer-Platform_123046) |
 
 ## About This Role
 
-This software engineer position at CAE was posted on 2026-09-04.
+This devops engineer position at CAE was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

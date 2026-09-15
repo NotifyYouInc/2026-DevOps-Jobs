@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Commure](https://scoutify.ai/companies/commure?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/commure/489bba93-eb55-4da9-b65f-8109afdef7ee) |
 
 ## About This Role
 
-This software engineer position at Commure was posted on 2026-09-04.
+This devops engineer position at Commure was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

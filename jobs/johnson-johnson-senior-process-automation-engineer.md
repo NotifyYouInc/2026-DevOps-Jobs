@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Limerick, Munster, Ireland |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Limerick-Ireland/Senior-Process-Automation-Engineer_R-097747) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-09-04.
+This devops engineer position at Johnson & Johnson was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

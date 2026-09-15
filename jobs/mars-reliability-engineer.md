@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Reno, Nevada, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Nevada-Reno/Reliability-Engineer_R165098) |
 
 ## About This Role
 
-This industrial automation position at Mars was posted on 2026-09-04.
+This devops engineer position at Mars was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

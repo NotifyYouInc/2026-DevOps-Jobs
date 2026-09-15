@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Southern Nuclear](https://scoutify.ai/companies/us6-cx-oj101219?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://emje.fa.us6.oraclecloud.com/jobs/#21180) |
 
 ## About This Role
 
-This it & systems administration position at Southern Nuclear was posted on 2026-09-04.
+This devops engineer position at Southern Nuclear was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

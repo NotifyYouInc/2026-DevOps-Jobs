@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Redmond, Washington, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556988036) |
 
 ## About This Role
 
-This software engineer position at Microsoft was posted on 2026-09-04.
+This devops engineer position at Microsoft was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

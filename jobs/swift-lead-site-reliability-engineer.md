@@ -5,12 +5,12 @@
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Lead-Site-Reliability-Engineer_2026-16328) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Kuala-Lumpur-Malaysia/Lead-Site-Reliability-Engineer_2025-15262) |
 
 ## About This Role
 
-This devops engineer position at Swift was posted on 2026-07-21.
+This devops engineer position at Swift was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7107816003) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7511610003) |
 
 ## About This Role
 
-This devops engineer position at HighRadius was posted on 2026-08-03.
+This devops engineer position at HighRadius was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

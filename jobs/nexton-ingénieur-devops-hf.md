@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000137937345-ingenieur-devops-hf) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000147939459-ingenieur-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Nexton was posted on 2026-07-15.
+This devops engineer position at Nexton was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maynard, Massachusetts, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Digital-Solutions-and-Platform-Engineer_2022135-1) |
 
 ## About This Role
 
-This it & systems administration position at Cisco was posted on 2026-09-07.
+This devops engineer position at Cisco was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

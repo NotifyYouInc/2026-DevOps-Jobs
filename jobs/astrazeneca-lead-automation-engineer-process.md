@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rockville, Maryland, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Rockville---MD/Lead-Automation-Engineer---Process_R-259506-1) |
 
 ## About This Role
 
-This industrial automation position at AstraZeneca was posted on 2026-09-04.
+This devops engineer position at AstraZeneca was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

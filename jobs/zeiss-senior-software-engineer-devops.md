@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Senior-Software-Engineer---DevOps_JR_1052896-1) |
 
 ## About This Role
 
-This software engineer position at Zeiss was posted on 2026-09-05.
+This devops engineer position at Zeiss was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

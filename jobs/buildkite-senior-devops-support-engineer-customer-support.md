@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Buildkite](https://scoutify.ai/companies/buildkite?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Western Australia, AU |
-| Category | Customer Success |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/buildkite/jobs/5417553008) |
 
 ## About This Role
 
-This customer success position at Buildkite was posted on 2026-09-07.
+This devops engineer position at Buildkite was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

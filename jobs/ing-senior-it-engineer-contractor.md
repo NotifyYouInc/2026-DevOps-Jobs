@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | IT & Systems Administration |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Senior-IT-Engineer---CONTRACTOR_REQ-10121065) |
 
 ## About This Role
 
-This it & systems administration position at ING was posted on 2026-09-04.
+This devops engineer position at ING was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

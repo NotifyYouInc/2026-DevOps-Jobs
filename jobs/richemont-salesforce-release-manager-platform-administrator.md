@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
-| Category | Project Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MOSCAVIDE/Salesforce-Release-Manager---Platform-Administrator_JR133202-1) |
 
 ## About This Role
 
-This project manager position at Richemont was posted on 2026-09-07.
+This devops engineer position at Richemont was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

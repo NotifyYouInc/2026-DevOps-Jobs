@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lake Charles, Louisiana, United States |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/United-States-LA-Lake-Charles/Electrical-Reliability-Engineer_Req-39006) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Alcoa Warrick Operations was posted on 2026-09-04.
+This devops engineer position at Alcoa Warrick Operations was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

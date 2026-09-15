@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Perry, Georgia, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000147577787-equipment-reliability-engineer) |
 
 ## About This Role
 
-This industrial automation position at Link Snacks was posted on 2026-09-04.
+This devops engineer position at Link Snacks was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

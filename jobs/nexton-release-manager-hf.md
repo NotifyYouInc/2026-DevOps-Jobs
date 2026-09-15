@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Project Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000147536555-release-manager-hf) |
 
 ## About This Role
 
-This project manager position at Nexton was posted on 2026-09-04.
+This devops engineer position at Nexton was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

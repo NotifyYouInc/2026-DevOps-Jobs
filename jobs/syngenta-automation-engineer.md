@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Surabaya, East Java, Indonesia |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000147842939-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at Syngenta was posted on 2026-09-07.
+This devops engineer position at Syngenta was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

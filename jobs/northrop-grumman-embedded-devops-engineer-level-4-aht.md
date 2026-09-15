@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Northridge, California, United States |
-| Category | Embedded / Firmware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Embedded-DevOps-Engineer-Level-4--AHT-_R10249670) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Northrop Grumman was posted on 2026-09-04.
+This devops engineer position at Northrop Grumman was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Langchain](https://scoutify.ai/companies/langchain?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Go To Market Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-06 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f) |
 
 ## About This Role
 
-This go to market engineer position at Langchain was posted on 2026-09-06.
+This devops engineer position at Langchain was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

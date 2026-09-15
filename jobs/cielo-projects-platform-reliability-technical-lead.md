@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cielo Projects](https://scoutify.ai/companies/cielo-projects?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/cieloprojects/744000147487519-platform-reliability-technical-lead) |
 
 ## About This Role
 
-This software engineer position at Cielo Projects was posted on 2026-09-04.
+This devops engineer position at Cielo Projects was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

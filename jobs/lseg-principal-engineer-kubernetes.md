@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/London-United-Kingdom/Principal-Engineer---Kubernetes_R0122298) |
 
 ## About This Role
 
-This software engineer position at LSEG was posted on 2026-09-04.
+This devops engineer position at LSEG was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

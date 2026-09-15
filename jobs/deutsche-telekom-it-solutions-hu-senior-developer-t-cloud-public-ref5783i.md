@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions HU](https://scoutify.ai/companies/deutschetelekomitsolutionshu?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000147868049-senior-developer-t-cloud-public-ref5783i) |
 
 ## About This Role
 
-This software engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-09-07.
+This devops engineer position at Deutsche Telekom IT Solutions HU was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

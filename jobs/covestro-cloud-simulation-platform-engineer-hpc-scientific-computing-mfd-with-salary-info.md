@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Covestro](https://scoutify.ai/companies/covestro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Leverkusen, North Rhine-Westphalia, Germany |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://covestro.wd3.myworkdayjobs.com/cov_external/job/Leverkusen/Cloud-Simulation-Platform-Engineer---HPC---Scientific-Computing--m-w-d----mit-Gehaltsangabe_JR-2026-01950) |
 
 ## About This Role
 
-This software engineer position at Covestro was posted on 2026-09-07.
+This devops engineer position at Covestro was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

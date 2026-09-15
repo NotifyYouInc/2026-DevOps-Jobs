@@ -1,0 +1,22 @@
+# Technical Consultant/Architect - Identity Access Management (IAM), OAuth 2.0, API Gateway Support, Python/Java,  L2/L3 Support at Blue Yonder
+
+| Field | Details |
+|-------|---------|
+| Company | [Blue Yonder](https://scoutify.ai/companies/jda?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jda.wd5.myworkdayjobs.com/JDA_Careers/job/Bangalore/IN-Technical-Architect---Cloud_261909) |
+
+## About This Role
+
+This cybersecurity engineer position at Blue Yonder was posted on 2026-09-07.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

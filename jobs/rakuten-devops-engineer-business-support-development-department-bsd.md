@@ -5,12 +5,12 @@
 | Company | [Rakuten](https://scoutify.ai/companies/rakuten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-03-02 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://rakuten.wd1.myworkdayjobs.com/RakutenInc/job/Tokyo-Japan/DevOps-Engineer---Business-Support-Development-Department--BSD-_1032074-156) |
 
 ## About This Role
 
-This devops engineer position at Rakuten was posted on 2026-03-02.
+This devops engineer position at Rakuten was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

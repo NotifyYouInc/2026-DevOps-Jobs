@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/85540021393597126-site-reliability-engineer?sort_by=date&page=1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckemOV8_bTYx5nmXQzAUdu1F-T2sdNYcIFAoPVOngpBIkEjsA1Ny_i0wZBytAJvwDbRHlR3SfnRAynLHZWqkVSbEZEWcfZx6h74uuR_lBSGlMiC9rl4yxhZoq-pzfGQ%3D%3D_V2&loc=IN&title=Site+Reliability+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-03-25.
+This devops engineer position at Google was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Portland, Victoria, Australia |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-06 |
 | Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/AU-PTL-Portland/Senior-Electrical-Reliability-Engineer_Req-38456-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Alcoa Warrick Operations was posted on 2026-09-06.
+This devops engineer position at Alcoa Warrick Operations was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

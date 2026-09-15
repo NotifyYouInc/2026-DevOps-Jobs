@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ajax Systems](https://scoutify.ai/companies/ajax-systems?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kyiv, Kyiv City, Ukraine |
-| Category | Embedded / Firmware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.lever.co/ajax/2f427940-d9aa-410c-b287-cd8fdd5e2b9d) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Ajax Systems was posted on 2026-09-04.
+This devops engineer position at Ajax Systems was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

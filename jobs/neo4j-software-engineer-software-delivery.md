@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Neo4j](https://scoutify.ai/companies/neo4j?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://boards.greenhouse.io/neo4j/jobs/4711494006?gh_jid=4711494006) |
 
 ## About This Role
 
-This software engineer position at Neo4j was posted on 2026-09-07.
+This devops engineer position at Neo4j was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

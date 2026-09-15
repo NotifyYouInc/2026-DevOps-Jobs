@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/Senior-Network-Automation-and-Tools-Integration-Engineer_R0118853) |
 
 ## About This Role
 
-This software engineer position at Truist was posted on 2026-09-04.
+This devops engineer position at Truist was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

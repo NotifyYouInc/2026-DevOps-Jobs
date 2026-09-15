@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Swift](https://scoutify.ai/companies/swift?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Leiden, South Holland, The Netherlands |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://swift.wd3.myworkdayjobs.com/join-swift/job/Leiden-area-Netherlands/Senior-Networking-Engineer_2026-16345-1) |
 
 ## About This Role
 
-This software engineer position at Swift was posted on 2026-09-04.
+This devops engineer position at Swift was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

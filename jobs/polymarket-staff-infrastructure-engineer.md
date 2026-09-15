@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Polymarket](https://scoutify.ai/companies/polymarket?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/polymarket/68e515c2-72c8-48f2-8626-fd9842188e99) |
 
 ## About This Role
 
-This software engineer position at Polymarket was posted on 2026-09-04.
+This devops engineer position at Polymarket was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

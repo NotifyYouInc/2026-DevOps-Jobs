@@ -5,12 +5,12 @@
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Texas City, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000144747489-cloud-infrastructure-engineer-kubernetes-kubevirt-ref1242m) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000147964981-cloud-infrastructure-engineer-kubernetes-kubevirt-ref1242m) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-08-21.
+This devops engineer position at Mirantis was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

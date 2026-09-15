@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AES](https://scoutify.ai/companies/aes?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 6 locations |
-| Category | Electrical / Hardware Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Louisville-CO/Senior-Reliability-Engineer_R1064835-1) |
 
 ## About This Role
 
-This electrical / hardware engineer position at AES was posted on 2026-09-04.
+This devops engineer position at AES was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IDnow](https://scoutify.ai/companies/idnow?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/idnow/jobs/4969138101) |
 
 ## About This Role
 
-This software engineer position at IDnow was posted on 2026-09-04.
+This devops engineer position at IDnow was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Automation-Engineer_NX-4605) |
 
 ## About This Role
 
-This industrial automation position at Nextracker was posted on 2026-09-07.
+This devops engineer position at Nextracker was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

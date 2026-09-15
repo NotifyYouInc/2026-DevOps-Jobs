@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cambridge, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000147315984-staff-devops-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148178199-staff-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-09-03.
+This devops engineer position at Renesas Electronics was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Firmus Technologies](https://scoutify.ai/companies/firmus-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/firmus/jobs/5406406008) |
 
 ## About This Role
 
-This software engineer position at Firmus Technologies was posted on 2026-09-04.
+This devops engineer position at Firmus Technologies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Software Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8783829002) |
 
 ## About This Role
 
-This software engineer position at Wayve was posted on 2026-09-07.
+This devops engineer position at Wayve was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

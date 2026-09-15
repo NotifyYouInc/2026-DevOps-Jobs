@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CERN](https://scoutify.ai/companies/cern?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Switzerland |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CERN/744000147474649-controls-and-automation-engineer-en-cv-cl-2026-205-grae) |
 
 ## About This Role
 
-This industrial automation position at CERN was posted on 2026-09-04.
+This devops engineer position at CERN was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Regeneron](https://scoutify.ai/companies/regeneron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Rensselaer, New York, United States |
-| Category | Industrial Automation |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---GLOBAL-VIEW/Senior-Automation-Engineer_R49722-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSS---GLOBAL-VIEW/Sr-Automation-Engineer_R49618) |
 
 ## About This Role
 
-This industrial automation position at Regeneron was posted on 2026-09-03.
+This devops engineer position at Regeneron was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

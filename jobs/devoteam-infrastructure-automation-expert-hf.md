@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levallois-Perret, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000133270929-infrastructure-automation-expert-hf) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148144809-infrastructure-automation-expert-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-06-22.
+This devops engineer position at Devoteam was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

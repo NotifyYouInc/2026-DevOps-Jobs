@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | Industrial Automation |
+| Category | DevOps Engineer |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Massachusetts---Cambridge/Undergrad-Co-op---Automation-Engineer--Drug-Product-Assembly---Packaging_R-254530) |
 
 ## About This Role
 
-This industrial automation position at Amgen was posted on 2026-09-04.
+This devops engineer position at Amgen was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
