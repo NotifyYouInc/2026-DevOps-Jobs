@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126903489-senior-site-reliability-engineer) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000148410300-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Grab was posted on 2026-05-18.
+This devops engineer position at Grab was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

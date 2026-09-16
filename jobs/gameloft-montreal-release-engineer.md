@@ -5,12 +5,12 @@
 | Company | [Gameloft Montreal](https://scoutify.ai/companies/gameloft-montreal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000147431435-release-engineer) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/gameloft/744000148232709-release-engineer) |
 
 ## About This Role
 
-This devops engineer position at Gameloft Montreal was posted on 2026-09-04.
+This devops engineer position at Gameloft Montreal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

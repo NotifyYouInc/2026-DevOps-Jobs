@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Axonius](https://scoutify.ai/companies/axonius?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.axonius.com/company/careers/open-jobs?gh_jid=7761248003) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.axonius.com/company/careers/open-jobs?gh_jid=7988159003) |
 
 ## About This Role
 
-This engineering manager position at Axonius was posted on 2026-06-02.
+This devops engineer position at Axonius was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

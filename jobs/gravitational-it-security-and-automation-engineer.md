@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gravitational](https://scoutify.ai/companies/gravitational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Security Engineer |
-| Posted | 2026-06-16 |
+| Category | DevOps Engineer |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/goteleport/62176999-281a-4975-8464-e8217582caf4) |
 
 ## About This Role
 
-This security engineer position at Gravitational was posted on 2026-06-16.
+This devops engineer position at Gravitational was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TwinStream](https://scoutify.ai/companies/twinstream?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | Cheltenham, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/twinstream/jobs/4706277101) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/twinstream/jobs/4971546101) |
 
 ## About This Role
 
-This devops engineer position at TwinStream was posted on 2026-08-26.
+This devops engineer position at TwinStream was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

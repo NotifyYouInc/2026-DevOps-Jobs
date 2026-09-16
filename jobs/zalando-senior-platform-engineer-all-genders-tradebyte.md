@@ -5,12 +5,12 @@
 | Company | [Zalando](https://scoutify.ai/companies/zalando?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ansbach, Bavaria, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://zalando.wd3.myworkdayjobs.com/zalandositewd/job/Ansbach/Senior-Platform-Engineer--all-genders----Tradebyte_2724326) |
 
 ## About This Role
 
-This devops engineer position at Zalando was posted on 2026-06-05.
+This devops engineer position at Zalando was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

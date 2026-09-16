@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Rayong, Rayong, Thailand |
 | Category | DevOps Engineer |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Automation-Engineer_R0000383921) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Automation-Engineer_R0000392877) |
 
 ## About This Role
 
-This devops engineer position at Caterpillar was posted on 2026-07-23.
+This devops engineer position at Caterpillar was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

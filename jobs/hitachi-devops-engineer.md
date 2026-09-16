@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Bucharest-Ilfov-Romania/DevOps-Engineer_R1012993) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Vaesteras-Vastmanland-County-Sweden/DevOps-Engineer_R0139142) |
 
 ## About This Role
 
-This devops engineer position at Hitachi was posted on 2026-08-13.
+This devops engineer position at Hitachi was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 25 locations |
+| Location | 9 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-DevOps-Developer_JR2026513826-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Senior-DevOps-Developer_JR2026523327) |
 
 ## About This Role
 
-This devops engineer position at Boeing was posted on 2026-07-02.
+This devops engineer position at Boeing was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

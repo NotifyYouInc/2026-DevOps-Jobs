@@ -5,12 +5,12 @@
 | Company | [Catawiki](https://scoutify.ai/companies/catawiki?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8121488) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/catawiki/jobs/8186269) |
 
 ## About This Role
 
-This devops engineer position at Catawiki was posted on 2026-08-11.
+This devops engineer position at Catawiki was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

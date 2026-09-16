@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Richardson, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/EDA-Computing---HPC-Infrastructure-MTS_JR-2603330) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/EDA-Computing---HPC-Infrastructure-MTS_JR-2604955) |
 
 ## About This Role
 
-This devops engineer position at GlobalFoundries was posted on 2026-07-24.
+This devops engineer position at GlobalFoundries was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Motorway](https://scoutify.ai/companies/motorway?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-03 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/motorway/54ef48a0-087d-47ae-b3f4-3c696d0e3d06) |
 
 ## About This Role
 
-This devops engineer position at Motorway was posted on 2026-02-03.
+This devops engineer position at Motorway was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

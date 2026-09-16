@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-02-17 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Assoc-Dir-DDIT-IES---HPC-Infrastructure-Sr-Engineer_REQ-10050665) |
 
 ## About This Role
 
-This devops engineer position at Novartis was posted on 2026-02-17.
+This devops engineer position at Novartis was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

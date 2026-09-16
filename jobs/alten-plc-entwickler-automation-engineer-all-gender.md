@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Roßdorf, Hesse, Germany |
-| Category | Industrial Automation |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000130746050-plc-entwickler-automation-engineer-all-gender) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148465229-plc-entwickler-automation-engineer-all-gender) |
 
 ## About This Role
 
-This industrial automation position at ALTEN was posted on 2026-06-08.
+This devops engineer position at ALTEN was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

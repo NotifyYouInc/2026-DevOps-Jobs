@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Administrateur-ou-administratrice-de-plateformes--Azure_R2610803) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Administrateur-ou-administratrice--Plateforme-de-donnes--Azure_R2610889-1) |
 
 ## About This Role
 
-This devops engineer position at Desjardins was posted on 2026-08-31.
+This devops engineer position at Desjardins was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

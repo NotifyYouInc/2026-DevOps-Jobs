@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Levi Strauss & Co.](https://scoutify.ai/companies/levistraussandco?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/Senior-Engineer---Observability-Engineering_R-0152393) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://levistraussandco.wd5.myworkdayjobs.com/external/job/Office-Mexico-DF-Mexico/Senior-Engineer---Observability-Engineering_R-0152016) |
 
 ## About This Role
 
-This devops engineer position at Levi Strauss & Co. was posted on 2026-06-05.
+This devops engineer position at Levi Strauss & Co. was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

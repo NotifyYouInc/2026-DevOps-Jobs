@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Uppsala/DevOps-Engineer_62829-3) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Vilnius/DevOps-Engineer_62878) |
 
 ## About This Role
 
-This devops engineer position at Teliacompany was posted on 2026-09-04.
+This devops engineer position at Teliacompany was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tochigi, Tochigi, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147431356-bd-itot-itot-infrastructure-engineer) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000147863679-bd-itot-itot-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-09-04.
+This devops engineer position at Robert Bosch was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

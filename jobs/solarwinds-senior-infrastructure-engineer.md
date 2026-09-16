@@ -5,12 +5,12 @@
 | Company | [SolarWinds](https://scoutify.ai/companies/solarwinds?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4704232005&gh_jid=4704232005) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.solarwinds.com/job-detail/?gh_jid=4726431005&gh_jid=4726431005) |
 
 ## About This Role
 
-This devops engineer position at SolarWinds was posted on 2026-06-19.
+This devops engineer position at SolarWinds was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

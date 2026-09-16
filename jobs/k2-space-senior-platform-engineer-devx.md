@@ -5,12 +5,12 @@
 | Company | [K2 Space](https://scoutify.ai/companies/k2-space?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5407432008) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5419041008) |
 
 ## About This Role
 
-This devops engineer position at K2 Space was posted on 2026-08-27.
+This devops engineer position at K2 Space was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

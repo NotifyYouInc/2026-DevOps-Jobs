@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gallup](https://scoutify.ai/companies/gallup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Omaha, Nebraska, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4394640009) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gallup/jobs/4398458009) |
 
 ## About This Role
 
-This devops engineer position at Gallup was posted on 2026-09-03.
+This devops engineer position at Gallup was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

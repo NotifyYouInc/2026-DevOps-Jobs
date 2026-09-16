@@ -5,12 +5,12 @@
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Albania |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000146745024-senior-devopsfinops-engineer-cybersecurity-platform) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000148266444-senior-devopsfinops-engineer-cybersecurity-platform) |
 
 ## About This Role
 
-This devops engineer position at Sigma Software was posted on 2026-09-01.
+This devops engineer position at Sigma Software was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

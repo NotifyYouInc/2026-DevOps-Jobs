@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Jose, California, United States |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/San-Jose-California-United-States-of-America/DevOps-Engineer_1207704-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/HPC-Cluster-Senior-Administrator-in-US-time-zone_1198815) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-07-16.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

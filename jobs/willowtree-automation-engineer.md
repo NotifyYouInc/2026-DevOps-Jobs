@@ -1,16 +1,16 @@
-# Automation Engineer at WillowTree
+# Automation Engineer  at WillowTree
 
 | Field | Details |
 |-------|---------|
 | Company | [WillowTree](https://scoutify.ai/companies/willowtree?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Guatemala City, Guatemala, Guatemala |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/a0fb2a9f-1212-408e-89b3-355af12dcfca) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/telus-digital/824f277e-7f35-4c9a-a4c9-ebd94f59bbc5) |
 
 ## About This Role
 
-This devops engineer position at WillowTree was posted on 2026-07-31.
+This devops engineer position at WillowTree was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

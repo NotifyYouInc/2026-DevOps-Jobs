@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veeam Software](https://scoutify.ai/companies/veeamsoftware?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Prague, Prague, Czechia |
+| Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4821502101) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4970978101) |
 
 ## About This Role
 
-This devops engineer position at Veeam Software was posted on 2026-03-24.
+This devops engineer position at Veeam Software was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

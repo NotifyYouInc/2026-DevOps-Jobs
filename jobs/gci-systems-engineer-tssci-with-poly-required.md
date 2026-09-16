@@ -5,12 +5,12 @@
 | Company | [GCI](https://scoutify.ai/companies/gci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warrenton, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=7732d4f8-e25b-4301-8753-1f687cf1b9b8) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://recruiting.ultipro.com/gci1000gci/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=97ed072a-a41e-4770-901d-a81fe9a35d64) |
 
 ## About This Role
 
-This devops engineer position at GCI was posted on 2026-07-28.
+This devops engineer position at GCI was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT Monitoring Specialist, TS/SCI with Polygraph at General Dynamics Information Technology
+# IT Monitoring Specialist - TS/SCI with Polygraph at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Virginia, US |
-| Category | Devops Engineer |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Belvoir/IT-Monitoring-Specialist--TS-SCI-with-Polygraph_RQ214321) |
+| Location | Fort Belvoir, Virginia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Fort-Belvoir/IT-Monitoring-Specialist---TS-SCI-with-Polygraph_RQ227403) |
 
 ## About This Role
 
-This devops engineer position at General Dynamics Information Technology was posted on 2026-02-04.
+This cybersecurity engineer position at General Dynamics Information Technology was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

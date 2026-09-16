@@ -1,16 +1,16 @@
-# Principal Software Engineer – DevSecOps at Northrop Grumman
+# Principal Software Engineer - DevSecOps at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Diego, California, United States |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Software-Engineer---DevSecOps_R10234271) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Software-Engineer---DevSecOps_R10248887) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-06-01.
+This devops engineer position at Northrop Grumman was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 
