@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kalamazoo, Michigan, United States |
+| Location | Andover, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Michigan---Kalamazoo/Senior-Automation-Engineer_4960078-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/United-States---Massachusetts---Andover/Senior-Automation-Engineer_4958931-2) |
 
 ## About This Role
 
-This devops engineer position at Pfizer was posted on 2026-07-21.
+This devops engineer position at Pfizer was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

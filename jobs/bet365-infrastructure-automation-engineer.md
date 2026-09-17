@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Manchester, England, United Kingdom |
-| Category | Industrial Automation |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000143114357-infrastructure-automation-engineer) |
+| Location | Stoke-on-Trent, England, United Kingdom |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000148493349-infrastructure-automation-engineer) |
 
 ## About This Role
 
-This industrial automation position at bet365 was posted on 2026-08-12.
+This devops engineer position at bet365 was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

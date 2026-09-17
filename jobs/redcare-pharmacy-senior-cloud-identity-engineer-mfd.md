@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Rhine-Westphalia, DE |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Cybersecurity Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000144299109-senior-cloud-identity-engineer-mfd) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148562800-senior-cloud-identity-engineer-mfd) |
 
 ## About This Role
 
-This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-08-19.
+This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

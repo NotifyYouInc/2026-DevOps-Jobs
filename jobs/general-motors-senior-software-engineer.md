@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Limerick, Munster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_JR-202603688-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Limerick-Ireland/Senior-Software-Engineer_JR-202619741) |
 
 ## About This Role
 
-This devops engineer position at General Motors was posted on 2026-03-05.
+This devops engineer position at General Motors was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

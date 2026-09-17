@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP](https://scoutify.ai/companies/wpp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Security Engineer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8469473002) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wpp/jobs/8785111002) |
 
 ## About This Role
 
-This security engineer position at WPP was posted on 2026-03-26.
+This cybersecurity engineer position at WPP was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

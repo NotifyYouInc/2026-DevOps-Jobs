@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SingleStore](https://scoutify.ai/companies/singlestore?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/7533846) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/singlestore/jobs/8185122) |
 
 ## About This Role
 
-This devops engineer position at SingleStore was posted on 2026-05-25.
+This devops engineer position at SingleStore was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

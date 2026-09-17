@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000134988410-senior-devsecops-engineering-mfd) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000148505219-senior-devsecops-engineering-mfd) |
 
 ## About This Role
 
-This devops engineer position at Redcare Pharmacy was posted on 2026-06-30.
+This cybersecurity engineer position at Redcare Pharmacy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

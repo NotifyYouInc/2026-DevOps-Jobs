@@ -5,12 +5,12 @@
 | Company | [Lantern](https://scoutify.ai/companies/employerdirecthealthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5111708007) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/employerdirecthealthcare/jobs/5228942007) |
 
 ## About This Role
 
-This devops engineer position at Lantern was posted on 2026-06-30.
+This devops engineer position at Lantern was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

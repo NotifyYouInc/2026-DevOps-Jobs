@@ -5,12 +5,12 @@
 | Company | [Wyetech](https://scoutify.ai/companies/wyetech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maryland, US |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/wyetechllc/ba9e9b66-098e-4ed1-9883-580d308ae451) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.lever.co/wyetechllc/b29f544c-141a-461c-bb58-3110612189fb) |
 
 ## About This Role
 
-This devops engineer position at Wyetech was posted on 2026-06-01.
+This devops engineer position at Wyetech was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

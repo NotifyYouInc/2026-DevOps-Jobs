@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Budapest-Millennium-Gardens/DevOps---Cloud-Engineer_R00330623) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Melbourne-161-Collins-Street-Level-5/DevOps---Cloud-Engineer_R00326440) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-14.
+This devops engineer position at Accenture was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Director, Platform Engineering- SDLC & Cloud Native Foundations at Experian
+# Senior Director, Platform Engineering - SDLC & Cloud Native Foundations at Experian
 
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000142551419-senior-director-platform-engineering-sdlc-cloud-native-foundations) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000148685469-senior-director-platform-engineering-sdlc-cloud-native-foundations) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-08-10.
+This devops engineer position at Experian was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

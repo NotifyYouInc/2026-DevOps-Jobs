@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8110730) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8171556) |
 
 ## About This Role
 
-This devops engineer position at Coupang was posted on 2026-08-06.
+This devops engineer position at Coupang was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

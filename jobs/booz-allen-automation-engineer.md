@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 7 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Automation-Engineer_R0244198) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Automation-Engineer_R0249000-1) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-07-15.
+This devops engineer position at Booz Allen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

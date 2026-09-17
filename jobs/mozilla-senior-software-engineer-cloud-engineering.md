@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mozilla](https://scoutify.ai/companies/mozilla?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
-| Category | Software Engineer |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8035891) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mozilla/jobs/8031378) |
 
 ## About This Role
 
-This software engineer position at Mozilla was posted on 2026-07-01.
+This devops engineer position at Mozilla was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

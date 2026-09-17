@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cape Canaveral, Florida, United States |
-| Category | Engineering Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8530158002?gh_jid=8530158002) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8788058002?gh_jid=8788058002) |
 
 ## About This Role
 
-This engineering manager position at SpaceX was posted on 2026-04-29.
+This devops engineer position at SpaceX was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

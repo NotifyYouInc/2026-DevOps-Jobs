@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148165980-ingenieur-devops-aws-gcp-hf) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000148454195-ingenieur-devops-aws-gcp-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-09-08.
+This devops engineer position at Devoteam was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

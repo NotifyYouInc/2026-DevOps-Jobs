@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Singapore-Singapore/Linux-Cloud-Engineer--Associate_R260235) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Singapore-Singapore/Linux-Cloud-Engineer--Associate_R260236) |
 
 ## About This Role
 
-This devops engineer position at Blackrock was posted on 2026-06-24.
+This devops engineer position at Blackrock was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

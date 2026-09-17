@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Mobile Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Bangalore-Karnataka/Platform-Engineer--IT---DevOps-and-Emerging-Tech_JR-194441) |
+| Location | Deerfield, Illinois, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Deerfield-Illinois/Platform-Engineer--IT---DevOps-and-Emerging-Tech_JR-197396) |
 
 ## About This Role
 
-This mobile engineer position at Vantive was posted on 2026-05-27.
+This devops engineer position at Vantive was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

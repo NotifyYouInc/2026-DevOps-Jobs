@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Database Administration |
-| Posted | 2026-06-16 |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/London-10-Upper-Bank-Street/Oracle-Cloud---Database-Engineer_R0409173-1) |
 
 ## About This Role
 
-This database administration position at Deutsche Bank was posted on 2026-06-16.
+This devops engineer position at Deutsche Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

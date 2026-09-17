@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/California-MD/Data-Center-Engineer_R0245923) |
+| Location | Lorton, Virginia, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lorton-VA/Data-Center-Engineer_R0249280-1) |
 
 ## About This Role
 
-This it & systems administration position at Booz Allen was posted on 2026-08-04.
+This devops engineer position at Booz Allen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

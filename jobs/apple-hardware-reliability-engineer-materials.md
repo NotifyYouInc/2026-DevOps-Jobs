@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | Electrical / Hardware Engineer |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200652159/hardware-reliability-engineer-materials) |
+| Location | Cupertino, California, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200682092/hardware-reliability-engineer-materials) |
 
 ## About This Role
 
-This electrical / hardware engineer position at Apple was posted on 2026-03-18.
+This devops engineer position at Apple was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/DevSecOps-Engineer_331669) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/DevSecOps-Engineer_331800) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-09-04.
+This devops engineer position at CACI was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
