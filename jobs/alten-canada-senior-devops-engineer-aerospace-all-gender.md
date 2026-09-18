@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bremen, City state Bremen, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000141179159-senior-devops-engineer-aerospace-all-gender) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148937012-senior-devops-engineer-aerospace-all-gender) |
 
 ## About This Role
 
-This devops engineer position at ALTEN Canada was posted on 2026-08-03.
+This devops engineer position at ALTEN Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

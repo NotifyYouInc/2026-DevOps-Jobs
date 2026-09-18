@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Texas, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-REMOTE/Application-Engineer---DevOps---Engineering-Tools_01862474) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-REMOTE/Application-Engineer---DevOps---Engineering-Tools_01873885) |
 
 ## About This Role
 
-This devops engineer position at RTX was posted on 2026-07-28.
+This devops engineer position at RTX was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

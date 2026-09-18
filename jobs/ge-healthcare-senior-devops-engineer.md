@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/FIN03-01-Helsinki-Kuortaneenkatu-2/Senior-DevOps-Engineer_R4045368-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bengaluru/Senior-DevOps-Engineer_R4046200-1) |
 
 ## About This Role
 
-This devops engineer position at GE HealthCare was posted on 2026-09-01.
+This devops engineer position at GE HealthCare was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

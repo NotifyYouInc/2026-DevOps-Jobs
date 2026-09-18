@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Woking, England, United Kingdom |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Woking-United-Kingdom/Senior-DevOps-Engineer_R1306814) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Krakow-Poland/Senior-DevOps-Engineer_R1318776) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-03-17.
+This devops engineer position at Danaher was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Cloud-Platform-Engineer_ATCI-5764342-S2068996) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Cloud-Platform-Engineer_ATCI-5764351-S2068984) |
 
 ## About This Role
 

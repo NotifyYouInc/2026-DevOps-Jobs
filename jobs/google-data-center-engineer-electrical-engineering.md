@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denmark |
+| Location | Kajaani, Kainuu, Finland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckfEV8ZiNdYuzY7pbtBM0no4yy9U2CToX_q7oX8MFAdw9EjoA1Ny_iwosQu0S1D5VMGOpXidL_xKzGa2NjDrEMk6gxahcPSW-Y5IRxbWeGKSc8fRKm5AukHtP-kMn_V2&loc=DK&title=Data+Center+Engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQ2DhMEWyZI9LptTthv9HrYQv-bCSoDn_aGdnMLsVGofEjsA1Ny_i2AQZkDY92lzqaRv6nYq58uMOTMtUTzBo2g55DvkUUsXeZ1aX8XIfnEuEOoOEXZxvGT2c_72cQ%3D%3D_V2&loc=FI&title=Data+Center+Engineer) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-07-20.
+This devops engineer position at Google was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

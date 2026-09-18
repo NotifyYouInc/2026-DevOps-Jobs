@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cluj-Napoca, Cluj County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141442874-senior-cloud-engineer) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148780389-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Robert Bosch was posted on 2026-08-04.
+This devops engineer position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SeatGeek](https://scoutify.ai/companies/seatgeek?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | Software Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://seatgeek.com/jobs/7575992?gh_jid=7575992) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://seatgeek.com/jobs/8191878?gh_jid=8191878) |
 
 ## About This Role
 
-This software engineer position at SeatGeek was posted on 2026-02-03.
+This devops engineer position at SeatGeek was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

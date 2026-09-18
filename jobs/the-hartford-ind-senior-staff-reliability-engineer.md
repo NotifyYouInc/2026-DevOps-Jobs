@@ -5,12 +5,12 @@
 | Company | [The Hartford](https://scoutify.ai/companies/the-hartford?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Staff-Reliability-Engineer_R2626481) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Senior-Staff-Reliability-Engineer_R2626518) |
 
 ## About This Role
 
-This devops engineer position at The Hartford was posted on 2026-09-02.
+This devops engineer position at The Hartford was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

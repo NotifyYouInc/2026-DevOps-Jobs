@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Infrastructure-Engineer_JR-0000052430-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Bengaluru-Maruthi-Onyx---TESCO-TSA/Infrastructure-Engineer_JR-0000052430-1) |
 
 ## About This Role
 
-This devops engineer position at Barclays was posted on 2026-03-30.
+This devops engineer position at Barclays was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

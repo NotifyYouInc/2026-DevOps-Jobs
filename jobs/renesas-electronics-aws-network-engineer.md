@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000108446447-aws-network-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000148982019-aws-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-02-10.
+This devops engineer position at Renesas Electronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

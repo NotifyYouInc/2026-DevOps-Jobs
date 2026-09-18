@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Dayton, Ohio, United States |
+| Location | San Antonio, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/Cloud-Operations-Engineer_R0247252) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/Cloud-Operations-Engineer_R0249151) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-18.
+This devops engineer position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Thndr](https://scoutify.ai/companies/thndr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | DevOps Engineer |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/2cd6c3b5-fd44-450b-8c81-3ffaf10b2bf2) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/thndr/7415b26c-a8aa-460a-8caf-9baed7602290) |
 
 ## About This Role
 
-This devops engineer position at Thndr was posted on 2026-02-11.
+This devops engineer position at Thndr was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

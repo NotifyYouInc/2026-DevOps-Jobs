@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Docebo](https://scoutify.ai/companies/docebo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/49c98468-07f4-45b4-8559-10c8e5a9f911) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/docebo/8dfb2faa-7b16-4da0-9208-803271d661bc) |
 
 ## About This Role
 
-This devops engineer position at Docebo was posted on 2026-08-06.
+This devops engineer position at Docebo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

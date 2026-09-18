@@ -5,12 +5,12 @@
 | Company | [Teledyne](https://scoutify.ai/companies/flir?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Platform-Engineer_REQ36227) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Platform-Engineer_REQ36495) |
 
 ## About This Role
 
-This devops engineer position at Teledyne was posted on 2026-08-17.
+This devops engineer position at Teledyne was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# DevOps Engineer at Accenture
+# DevOps Engineer at Accenture
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Amsterdam, North Holland, The Netherlands |
 | Category | DevOps Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/DevOps-Engineer_ATCI-5765107-S2068991-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/DevOps-Engineer_R00355543) |
 
 ## About This Role
 

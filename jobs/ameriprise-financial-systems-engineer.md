@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Systems-Engineer_R26_2245) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Systems-Engineer_R26_3429-2) |
 
 ## About This Role
 
-This devops engineer position at Ameriprise Financial was posted on 2026-06-09.
+This devops engineer position at Ameriprise Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

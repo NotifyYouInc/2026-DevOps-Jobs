@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Adaptavist Group](https://scoutify.ai/companies/theadaptavistgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United Kingdom |
-| Category | Account Executive |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000146973231-sales-specialist-uki-devops-devex) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000148770732-sales-specialist-uki-devops-devex) |
 
 ## About This Role
 
-This account executive position at The Adaptavist Group was posted on 2026-09-02.
+This devops engineer position at The Adaptavist Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

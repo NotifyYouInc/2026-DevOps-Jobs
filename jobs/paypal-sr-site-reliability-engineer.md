@@ -1,16 +1,16 @@
-# Sr Site Reliability Engineer at PayPal
+# Sr. Site Reliability Engineer at PayPal
 
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Scottsdale, Arizona, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Scottsdale-Arizona-United-States-of-America/Sr-Site-Reliability-Engineer_R0136253) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Chennai-Tamil-Nadu-India/Sr-Site-Reliability-Engineer_R0137470-1) |
 
 ## About This Role
 
-This devops engineer position at PayPal was posted on 2026-04-07.
+This devops engineer position at PayPal was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Site-Reliability-Engineer_R-287255) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Site-Reliability-Engineer_R-289950) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-08-24.
+This devops engineer position at Mastercard was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

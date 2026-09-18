@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Akamai](https://scoutify.ai/companies/ocs-cx-oj3301?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Costa Rica |
+| Location | Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3358) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#3818) |
 
 ## About This Role
 
-This devops engineer position at Akamai was posted on 2026-06-25.
+This devops engineer position at Akamai was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/PCAI-And-AI-Factory-Expert_1192155-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/PCAI-And-AI-Factory-Expert_1192155-1) |
 
 ## About This Role
 
-This devops engineer position at Hewlett Packard Enterprise was posted on 2026-03-23.
+This devops engineer position at Hewlett Packard Enterprise was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | San Antonio, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0248501) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249157) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-09-02.
+This devops engineer position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Adaptavist Group](https://scoutify.ai/companies/theadaptavistgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Germany |
-| Category | Account Executive |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000146983303-sales-specialist-dach-devops-devex-fmd) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000148771209-sales-specialist-dach-devops-devex-fmd) |
 
 ## About This Role
 
-This account executive position at The Adaptavist Group was posted on 2026-09-02.
+This devops engineer position at The Adaptavist Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Checkatrade](https://scoutify.ai/companies/checkatrade?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | IT & Systems Administration |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/checkatrade/47d66075-f0f0-4322-914f-ea3b7d9813e5) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/checkatrade/9f68093a-60e5-4889-8d30-0f94cde10c21) |
 
 ## About This Role
 
-This it & systems administration position at Checkatrade was posted on 2026-08-17.
+This devops engineer position at Checkatrade was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

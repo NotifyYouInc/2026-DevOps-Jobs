@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Together AI](https://scoutify.ai/companies/together-ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/togetherai/jobs/5155722007) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/togetherai/jobs/5226095007) |
 
 ## About This Role
 
-This devops engineer position at Together AI was posted on 2026-06-04.
+This devops engineer position at Together AI was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

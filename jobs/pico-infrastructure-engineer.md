@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pico](https://scoutify.ai/companies/pico?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-30 |
+| Category | DevOps Engineer |
+| Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/picoquantitativetrading/jobs/4677844006) |
 
 ## About This Role
 
-This it & systems administration position at Pico was posted on 2026-04-30.
+This devops engineer position at Pico was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

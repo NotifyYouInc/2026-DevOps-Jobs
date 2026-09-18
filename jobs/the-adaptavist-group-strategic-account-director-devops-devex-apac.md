@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Adaptavist Group](https://scoutify.ai/companies/theadaptavistgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Malaysia |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000147943639-strategic-account-director-devops-devex-apac) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheAdaptavistGroup/744000148770769-strategic-account-director-devops-devex-apac) |
 
 ## About This Role
 
-This devops engineer position at The Adaptavist Group was posted on 2026-09-07.
+This devops engineer position at The Adaptavist Group was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [EarnIn](https://scoutify.ai/companies/earnin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mountain View, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/7944568) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/earnin/jobs/8193516) |
 
 ## About This Role
 
-This devops engineer position at EarnIn was posted on 2026-05-22.
+This devops engineer position at EarnIn was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

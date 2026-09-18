@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | DevOps Engineer |
+| Category | Project Manager |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148710729-salesforce-release-manager-copado-specialist) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-09-10.
+This project manager position at Inetum was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

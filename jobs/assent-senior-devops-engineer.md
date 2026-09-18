@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assent](https://scoutify.ai/companies/assent?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ottawa, Ontario, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000144598229-senior-devops-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Assent/744000148962809-senior-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Assent was posted on 2026-08-20.
+This devops engineer position at Assent was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

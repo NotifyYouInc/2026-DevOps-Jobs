@@ -5,12 +5,12 @@
 | Company | [Medfar](https://scoutify.ai/companies/medfar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000146244399-senior-azure-cloud-specialist-saas-healthcare) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/medfar/744000148867059-senior-azure-cloud-specialist-saas-healthcare) |
 
 ## About This Role
 
-This devops engineer position at Medfar was posted on 2026-08-28.
+This devops engineer position at Medfar was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

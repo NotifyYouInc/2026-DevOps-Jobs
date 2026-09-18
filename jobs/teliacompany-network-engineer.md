@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Teliacompany](https://scoutify.ai/companies/teliacompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Helsinki, Uusimaa, Finland |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Helsinki/Network-Engineer_62917-3) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://teliacompany.wd3.myworkdayjobs.com/telia_careers/job/Solna/Network-Engineer_62717-2) |
 
 ## About This Role
 
-This devops engineer position at Teliacompany was posted on 2026-09-08.
+This devops engineer position at Teliacompany was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

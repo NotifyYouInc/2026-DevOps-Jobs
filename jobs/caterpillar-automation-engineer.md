@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Rayong, Rayong, Thailand |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-09-09 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Automation-Engineer_R0000392877) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Automation-Engineer_R0000374145) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Planet](https://scoutify.ai/companies/planet?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Canada |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8106198) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/planetlabs/jobs/8185816) |
 
 ## About This Role
 
-This devops engineer position at Planet was posted on 2026-08-26.
+This devops engineer position at Planet was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

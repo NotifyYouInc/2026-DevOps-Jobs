@@ -1,16 +1,16 @@
-# DevOps Engineer  at Accenture Federal Services
+# DevOps Engineer at Accenture Federal Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | McLean, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4708393006?gh_jid=4708393006) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4712587006?gh_jid=4712587006) |
 
 ## About This Role
 
-This devops engineer position at Accenture Federal Services was posted on 2026-09-04.
+This devops engineer position at Accenture Federal Services was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
