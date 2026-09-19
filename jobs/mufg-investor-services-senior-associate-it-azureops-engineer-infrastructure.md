@@ -5,12 +5,12 @@
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000142662445-senior-associate-it-azureops-engineer-infrastructure) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000149036709-senior-associate-it-azureops-engineer-infrastructure) |
 
 ## About This Role
 
-This devops engineer position at MUFG Investor Services was posted on 2026-08-10.
+This devops engineer position at MUFG Investor Services was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

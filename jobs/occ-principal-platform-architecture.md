@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Software Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Principal--Platform-Architecture_REQ-4781-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Principal--Platform-Architecture_REQ-4822) |
 
 ## About This Role
 
-This software engineer position at OCC was posted on 2026-08-17.
+This devops engineer position at OCC was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

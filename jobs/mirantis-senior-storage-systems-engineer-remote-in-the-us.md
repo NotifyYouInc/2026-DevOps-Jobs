@@ -1,16 +1,16 @@
-# Senior Storage Systems Engineer  - remote in the US  at Mirantis
+# Senior Storage Systems Engineer - remote in the US  at Mirantis
 
 | Field | Details |
 |-------|---------|
 | Company | [Mirantis](https://scoutify.ai/companies/mirantis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000147498905-senior-storage-systems-engineer-remote-in-the-us) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mirantis/744000149059109-senior-storage-systems-engineer-remote-in-the-us) |
 
 ## About This Role
 
-This devops engineer position at Mirantis was posted on 2026-09-04.
+This devops engineer position at Mirantis was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

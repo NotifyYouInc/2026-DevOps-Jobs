@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000141231499-devops-engineer-python) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000149017012-devops-engineer-python) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-08-03.
+This devops engineer position at Netcompany was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

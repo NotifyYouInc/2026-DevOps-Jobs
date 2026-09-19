@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sumaré, São Paulo, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-03-12 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/BR-So-Paulo-Sumare/Sr-Cloud-Engineering-Specialist_R01162548) |
 
 ## About This Role
 
-This devops engineer position at 3M Company was posted on 2026-03-12.
+This devops engineer position at 3M Company was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

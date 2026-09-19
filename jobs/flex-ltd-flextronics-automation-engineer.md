@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Industrial Automation |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Automation-Engineer_WD228774) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | DevOps Engineer |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Automation-Engineer_WD229122-1) |
 
 ## About This Role
 
-This industrial automation position at FLEX LTD. Flextronics was posted on 2026-09-01.
+This devops engineer position at FLEX LTD. Flextronics was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

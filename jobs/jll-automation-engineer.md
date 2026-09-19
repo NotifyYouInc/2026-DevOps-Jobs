@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Channahon, Illinois, United States |
-| Category | Industrial Automation |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Channahon-IL/Automation-Engineer_REQ532333) |
+| Location | Fort Myers, Florida, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Fort-Myers-FL/Automation-Engineer_REQ534743) |
 
 ## About This Role
 
-This industrial automation position at JLL was posted on 2026-09-01.
+This devops engineer position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

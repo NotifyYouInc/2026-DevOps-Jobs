@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000147407349-cloud-engineer-6-months-contract) |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000149147049-cloud-engineer-6-months-contract) |
 
 ## About This Role
 
-This devops engineer position at Experian was posted on 2026-09-04.
+This devops engineer position at Experian was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

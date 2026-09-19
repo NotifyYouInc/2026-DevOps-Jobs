@@ -5,12 +5,12 @@
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000133861440-lead-devops-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000149044279-lead-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-06-24.
+This devops engineer position at Playtech was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

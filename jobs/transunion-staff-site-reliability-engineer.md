@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Staff-Site-Reliability-Engineer_19040199) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Chicago-Illinois/Staff-Site-Reliability-Engineer_19042363) |
 
 ## About This Role
 
-This devops engineer position at TransUnion was posted on 2026-04-18.
+This devops engineer position at TransUnion was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

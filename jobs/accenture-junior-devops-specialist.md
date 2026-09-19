@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Riga, Riga, Latvia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Junior-DevOps-specialist_R00342984) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Junior-DevOps-specialist_R00356467) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-07-13.
+This devops engineer position at Accenture was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Devops Engineer at Lions Candle-Dispatch Solution
+# DevOps Engineer at Lions Candle-Dispatch Solution
 
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000146706399-devops-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149011519-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-01.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Systems Engineer – Senior at Amentum
+# Systems Engineer - Senior at Amentum
 
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Vienna/Systems-Engineer---Senior_R0168255-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Vienna/Systems-Engineer---Senior_R0170544) |
 
 ## About This Role
 
-This devops engineer position at Amentum was posted on 2026-08-13.
+This devops engineer position at Amentum was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

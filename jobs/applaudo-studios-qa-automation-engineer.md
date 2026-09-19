@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Salvador, San Salvador Department, El Salvador |
+| Location | Irvine, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000146219878-qa-automation-engineer) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000149104229-qa-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Applaudo Studios was posted on 2026-08-28.
+This devops engineer position at Applaudo Studios was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

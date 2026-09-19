@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Oakland, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7723267003) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7990752003) |
 
 ## About This Role
 
-This devops engineer position at Fivetran was posted on 2026-05-14.
+This devops engineer position at Fivetran was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

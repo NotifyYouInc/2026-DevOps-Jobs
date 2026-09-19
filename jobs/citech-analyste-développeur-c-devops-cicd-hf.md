@@ -6,7 +6,7 @@
 | Location | Strasbourg, Grand Est, France |
 | Category | DevOps Engineer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000148689641-analyste-developpeur-c-devops-cicd-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000148807740-analyste-developpeur-c-devops-cicd-hf) |
 
 ## About This Role
 

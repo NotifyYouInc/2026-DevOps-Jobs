@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cloudera](https://scoutify.ai/companies/cloudera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ireland |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/Ireland-Remote/Network---Infrastructure-Operations-Engineer_261158-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://cloudera.wd5.myworkdayjobs.com/External_Career/job/India-Bangalore/Network---Infrastructure-Operations-Engineer_261324) |
 
 ## About This Role
 
-This devops engineer position at Cloudera was posted on 2026-07-30.
+This devops engineer position at Cloudera was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

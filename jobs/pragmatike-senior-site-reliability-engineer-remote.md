@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pragmatike](https://scoutify.ai/companies/pragmatike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Armenia |
+| Location | Armenia, Quindío Department, Colombia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-29 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/eb7b6f20-9562-4fd8-97bf-0f8377bcd688) |
 
 ## About This Role
 
-This devops engineer position at Pragmatike was posted on 2026-06-29.
+This devops engineer position at Pragmatike was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

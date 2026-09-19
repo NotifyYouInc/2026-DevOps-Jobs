@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Cybersecurity Engineer |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ALPHARETTA-GEORGIA/DevOps-Engineer_R0074638) |
+| Location | Jacksonville, Florida, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/JACKSONVILLE-FLORIDA/DevOps-Engineer_R0074357) |
 
 ## About This Role
 
-This cybersecurity engineer position at Global Payments was posted on 2026-08-28.
+This devops engineer position at Global Payments was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

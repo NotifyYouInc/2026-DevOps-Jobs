@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHAOS Industries](https://scoutify.ai/companies/chaos-industries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | El Segundo, California, United States |
-| Category | Security Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5167319007) |
+| Location | Washington, District of Columbia, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chaosindustries/jobs/5235510007) |
 
 ## About This Role
 
-This security engineer position at CHAOS Industries was posted on 2026-06-17.
+This cybersecurity engineer position at CHAOS Industries was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

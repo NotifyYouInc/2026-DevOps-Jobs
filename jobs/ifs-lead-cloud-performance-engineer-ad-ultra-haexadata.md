@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IFS](https://scoutify.ai/companies/ifs?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
-| Category | DevOps Engineer |
+| Category | Database Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/IFS1/744000148919429-lead-cloud-performance-engineer-ad-ultra-haexadata) |
 
 ## About This Role
 
-This devops engineer position at IFS was posted on 2026-09-11.
+This database administration position at IFS was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

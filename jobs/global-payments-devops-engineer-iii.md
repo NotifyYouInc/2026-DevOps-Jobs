@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Chile |
 | Category | DevOps Engineer |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHENGDU-SICHAUN-CHINA/DevOps-Engineer-III_R0074230) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/Chile---Remote/DevOps-Engineer-III_R0073933) |
 
 ## About This Role
 
-This devops engineer position at Global Payments was posted on 2026-09-07.
+This devops engineer position at Global Payments was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

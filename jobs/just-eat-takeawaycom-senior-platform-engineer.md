@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Fleet, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Berlin-Office/Senior-Platform-Engineer_R_048177-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Fleet-Place-Office/Senior-Platform-Engineer_R_052945) |
 
 ## About This Role
 
-This devops engineer position at Just Eat Takeaway.com was posted on 2026-02-13.
+This devops engineer position at Just Eat Takeaway.com was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

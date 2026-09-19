@@ -1,16 +1,16 @@
-# DevOps Engineer - Info Apps at Apple
+# DevOps Engineer, Info Apps at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | Cupertino, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2025-12-12 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200636370/devops-engineer-info-apps) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683230/devops-engineer-info-apps) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2025-12-12.
+This devops engineer position at Apple was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
