@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000148734939-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at ARHS Developments was posted on 2026-09-10.
+This industrial automation position at ARHS Developments was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

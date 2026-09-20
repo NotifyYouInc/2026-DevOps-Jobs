@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Muon Space](https://scoutify.ai/companies/muonspace?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/muonspace/jobs/5234848007) |
 
 ## About This Role
 
-This devops engineer position at Muon Space was posted on 2026-09-10.
+This industrial automation position at Muon Space was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

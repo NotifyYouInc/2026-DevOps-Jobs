@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EZCORP](https://scoutify.ai/companies/ezcorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Guatemala |
+| Location | El Salvador |
 | Category | DevOps Engineer |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-Guatemala/Sr-Platform-Engineer_JR127157) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ezcorp.wd12.myworkdayjobs.com/ezcorp/job/Corporate-Remote-El-Salvador/Sr-Platform-Engineer_JR127157) |
 
 ## About This Role
 
-This devops engineer position at EZCORP was posted on 2026-04-28.
+This devops engineer position at EZCORP was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

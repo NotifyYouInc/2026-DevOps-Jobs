@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Playtech](https://scoutify.ai/companies/playtech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Playtech/744000148730709-site-reliability-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Playtech was posted on 2026-09-10.
+This industrial automation position at Playtech was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

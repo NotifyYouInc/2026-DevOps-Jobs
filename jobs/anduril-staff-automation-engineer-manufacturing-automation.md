@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Costa Mesa, California, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5234626007?gh_jid=5234626007) |
 
 ## About This Role
 
-This devops engineer position at Anduril was posted on 2026-09-10.
+This industrial automation position at Anduril was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

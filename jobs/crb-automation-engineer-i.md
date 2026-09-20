@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000148849776-automation-engineer-i) |
 
 ## About This Role
 
-This devops engineer position at CRB was posted on 2026-09-10.
+This industrial automation position at CRB was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

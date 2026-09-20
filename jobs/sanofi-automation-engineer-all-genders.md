@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Automation-Engineer-All-Genders_R2870627) |
 
 ## About This Role
 
-This devops engineer position at Sanofi was posted on 2026-09-11.
+This industrial automation position at Sanofi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

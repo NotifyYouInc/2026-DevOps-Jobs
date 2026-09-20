@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Michelin](https://scoutify.ai/companies/michelinhr?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Not specified |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EGF-EXPORT-GREEN-FACILITY/Automation-Engineer--2-Years-FTC-_R-2026034459) |
 
 ## About This Role
 
-This devops engineer position at Michelin was posted on 2026-09-11.
+This industrial automation position at Michelin was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

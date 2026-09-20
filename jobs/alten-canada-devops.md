@@ -6,7 +6,7 @@
 | Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148707139-devops) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148811484-devops) |
 
 ## About This Role
 

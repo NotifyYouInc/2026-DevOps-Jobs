@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/USA-Remote/Integration-and-Automation-Engineer_JR2026001375-1) |
 
 ## About This Role
 
-This devops engineer position at Appliedis was posted on 2026-09-10.
+This industrial automation position at Appliedis was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

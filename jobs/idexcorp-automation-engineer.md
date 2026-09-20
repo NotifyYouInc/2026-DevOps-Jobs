@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Idexcorp](https://scoutify.ai/companies/idexcorp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Denver-Colorado/Automation-Engineer_R-09829) |
 
 ## About This Role
 
-This devops engineer position at Idexcorp was posted on 2026-09-10.
+This industrial automation position at Idexcorp was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

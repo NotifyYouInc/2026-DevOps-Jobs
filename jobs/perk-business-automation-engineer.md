@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Perk](https://scoutify.ai/companies/perk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/perk/223339a0-0920-4f0d-bcae-1bf0b5945000) |
 
 ## About This Role
 
-This devops engineer position at Perk was posted on 2026-09-11.
+This industrial automation position at Perk was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

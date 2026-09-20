@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mksinst](https://scoutify.ai/companies/mksinst-mkscareersameri?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Methuen-MA/Automation-Engineer--Mechanical-Systems---Integration-_R21695) |
 
 ## About This Role
 
-This devops engineer position at Mksinst was posted on 2026-09-11.
+This industrial automation position at Mksinst was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

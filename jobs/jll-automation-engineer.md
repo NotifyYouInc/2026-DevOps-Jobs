@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Fort Myers, Florida, United States |
-| Category | DevOps Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Fort-Myers-FL/Automation-Engineer_REQ534743) |
 
 ## About This Role
 
-This devops engineer position at JLL was posted on 2026-09-11.
+This industrial automation position at JLL was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
