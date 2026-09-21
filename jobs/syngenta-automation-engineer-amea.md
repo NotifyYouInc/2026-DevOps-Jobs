@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Surabaya, East Java, Indonesia |
 | Category | Industrial Automation |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000146903279-automation-engineer-amea) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000149228789-automation-engineer-amea) |
 
 ## About This Role
 
-This industrial automation position at Syngenta was posted on 2026-09-02.
+This industrial automation position at Syngenta was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

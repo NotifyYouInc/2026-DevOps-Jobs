@@ -5,12 +5,12 @@
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Timişoara, Timiș County, Romania |
 | Category | DevOps Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000146442077-cloud-platform-engineer-tires) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000149262460-cloud-platform-engineer-tires) |
 
 ## About This Role
 
-This devops engineer position at Continental was posted on 2026-08-31.
+This devops engineer position at Continental was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

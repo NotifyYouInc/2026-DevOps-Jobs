@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tallinn, Harjumaa, Estonia |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000148793805-it-infrastructure-engineer-windows-active-directory-vmware) |
 
 ## About This Role
 
-This devops engineer position at Psi Cro was posted on 2026-09-10.
+This it & systems administration position at Psi Cro was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

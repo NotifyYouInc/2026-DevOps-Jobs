@@ -1,16 +1,16 @@
-# Smart Factory & Automation Engineer at Renesas Electronics
+# Smart Factory Automation Engineer at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bayan Lepas, Penang, Malaysia |
-| Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000142064424-smart-factory-automation-engineer) |
+| Location | Kulim, Kedah, Malaysia |
+| Category | Industrial Automation |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000149267667-smart-factory-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-08-07.
+This industrial automation position at Renesas Electronics was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

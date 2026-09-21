@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-Engineer--Site-Reliability-Engineering_R-273846) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Lead-Network-Engineer--Site-Reliability-Engineering_R-272566-1) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-05-18.
+This devops engineer position at Mastercard was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Cambridge, Massachusetts, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990015178376-voip-engineer) |
 
 ## About This Role
 
-This devops engineer position at Harvard University was posted on 2026-09-10.
+This it & systems administration position at Harvard University was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bowling Green, Kentucky, United States |
+| Location | Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1685872255913876) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1417900827102583) |
 
 ## About This Role
 
-This devops engineer position at Meta was posted on 2026-06-30.
+This devops engineer position at Meta was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

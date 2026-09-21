@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Missouri, US |
-| Category | Project Manager |
+| Category | DevOps Engineer |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Missouri-United-States/Technical-Delivery-Manager_R0144030-1) |
 
 ## About This Role
 
-This project manager position at Hitachi was posted on 2026-09-10.
+This devops engineer position at Hitachi was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

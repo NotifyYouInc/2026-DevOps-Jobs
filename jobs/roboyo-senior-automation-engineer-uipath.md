@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Roboyo](https://scoutify.ai/companies/roboyo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4934337101) |
+| Category | Industrial Automation |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4967517101) |
 
 ## About This Role
 
-This devops engineer position at Roboyo was posted on 2026-07-22.
+This industrial automation position at Roboyo was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

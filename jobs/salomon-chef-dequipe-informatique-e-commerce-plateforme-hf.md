@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000141876270-chef-dequipe-informatique-e-commerce-plateforme-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000149283199-chef-dequipe-informatique-e-commerce-plateforme-hf) |
 
 ## About This Role
 
-This devops engineer position at Salomon was posted on 2026-08-06.
+This devops engineer position at Salomon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

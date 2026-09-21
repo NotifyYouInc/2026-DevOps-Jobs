@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Senior-Analyst_JR115829) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Senior-Analyst_JR121032-3) |
 
 ## About This Role
 
-This devops engineer position at National Australia Bank (NAB) was posted on 2026-07-21.
+This devops engineer position at National Australia Bank (NAB) was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

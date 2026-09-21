@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Cobblebank, Victoria, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | DevOps Engineer |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435197/technical-operations-engineer-data-center-engineering-operations) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10538343/technical-operations-engineer-data-center-engineering-operations) |
 
 ## About This Role
 
-This devops engineer position at Amazon was posted on 2026-06-01.
+This devops engineer position at Amazon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

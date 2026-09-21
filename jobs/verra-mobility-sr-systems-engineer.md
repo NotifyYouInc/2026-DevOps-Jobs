@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verra Mobility](https://scoutify.ai/companies/verra-mobility?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/verramobility/jobs/4674385006) |
 
 ## About This Role
 
-This devops engineer position at Verra Mobility was posted on 2026-09-10.
+This it & systems administration position at Verra Mobility was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

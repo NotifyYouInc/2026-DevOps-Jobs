@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000145978289-devops-cdi-hf) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000149328359-devops-cdi-hf) |
 
 ## About This Role
 
-This devops engineer position at ALTEN was posted on 2026-08-27.
+This devops engineer position at ALTEN was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

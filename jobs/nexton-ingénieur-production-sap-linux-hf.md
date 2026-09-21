@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-10 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000148801949-ingenieur-production-sap-linux-hf) |
 
 ## About This Role
 
-This devops engineer position at Nexton was posted on 2026-09-10.
+This it & systems administration position at Nexton was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

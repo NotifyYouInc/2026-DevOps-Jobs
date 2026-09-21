@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
-| Category | DevOps Engineer |
+| Category | IT & Systems Administration |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990015219836-temporary-devopssystem-engineer-srstaff) |
 
 ## About This Role
 
-This devops engineer position at SBT Global, Inc. was posted on 2026-09-11.
+This it & systems administration position at SBT Global, Inc. was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

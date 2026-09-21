@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | AI / LLM Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/AI-Infrastructure-and-Data-Associate_JR-0022707) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/AI-Infrastructure-and-Data-Associate_JR-0022686) |
 
 ## About This Role
 
-This ai / llm engineer position at Apex Fund Services was posted on 2026-08-25.
+This devops engineer position at Apex Fund Services was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

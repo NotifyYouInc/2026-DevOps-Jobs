@@ -5,12 +5,12 @@
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Guararema, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/BRA-Sao-Paulo-Guararema/Cloud-Architecture_R158263-1) |
 
 ## About This Role
 
-This devops engineer position at Mars was posted on 2026-07-03.
+This devops engineer position at Mars was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

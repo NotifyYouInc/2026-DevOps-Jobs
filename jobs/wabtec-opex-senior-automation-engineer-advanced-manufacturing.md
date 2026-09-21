@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United States |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Industrial Automation |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015022006-opex-senior-automation-engineer-advanced-manufacturing) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015231857-opex-senior-automation-engineer-advanced-manufacturing) |
 
 ## About This Role
 
-This industrial automation position at Wabtec was posted on 2026-09-02.
+This industrial automation position at Wabtec was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
