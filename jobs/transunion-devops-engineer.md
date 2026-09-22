@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TransUnion](https://scoutify.ai/companies/transunion?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Bengaluru/DevOps-Engineer_19041785) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://transunion.wd5.myworkdayjobs.com/TransUnion/job/Pune/DevOps-Engineer_19042018) |
 
 ## About This Role
 
-This devops engineer position at TransUnion was posted on 2026-09-02.
+This devops engineer position at TransUnion was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

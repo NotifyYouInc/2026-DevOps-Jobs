@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colorado, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Range-Engineer_R0245481) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Schriever-AFB-CO/Cyber-Range-Engineer_R0249396) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-07-28.
+This devops engineer position at Booz Allen was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

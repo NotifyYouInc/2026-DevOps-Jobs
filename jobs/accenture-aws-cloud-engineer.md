@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Dalian, Liaoning, China |
 | Category | DevOps Engineer |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bucharest/AWS-Cloud-Engineer_R00315189) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/AWS-Cloud-Engineer_14644614) |
 
 ## About This Role
 
-This devops engineer position at Accenture was posted on 2026-05-12.
+This devops engineer position at Accenture was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

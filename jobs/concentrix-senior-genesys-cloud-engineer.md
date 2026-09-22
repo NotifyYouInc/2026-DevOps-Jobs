@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombia |
-| Category | DevOps Engineer |
+| Category | Customer Success |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/COL-Work-at-Home/Senior-Genesys-Cloud-Engineer_R1762221) |
 
 ## About This Role
 
-This devops engineer position at Concentrix was posted on 2026-09-11.
+This customer success position at Concentrix was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

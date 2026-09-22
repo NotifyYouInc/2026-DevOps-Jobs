@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | DevOps Engineer |
+| Category | Data Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000149085339-data-ai-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Veolia was posted on 2026-09-11.
+This data engineer position at Veolia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

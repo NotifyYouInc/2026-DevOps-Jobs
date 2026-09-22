@@ -5,12 +5,12 @@
 | Company | [Roblox](https://scoutify.ai/companies/roblox?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Mateo, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://careers.roblox.com/jobs/8148679?gh_jid=8148679) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://careers.roblox.com/jobs/8197586?gh_jid=8197586) |
 
 ## About This Role
 
-This devops engineer position at Roblox was posted on 2026-09-09.
+This devops engineer position at Roblox was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

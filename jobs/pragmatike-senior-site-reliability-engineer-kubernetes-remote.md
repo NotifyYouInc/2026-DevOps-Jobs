@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pragmatike](https://scoutify.ai/companies/pragmatike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Latvia |
+| Location | Estonia |
 | Category | DevOps Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/d20a69b9-345e-482a-9a1e-df4f969756d6) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/pragmatike/4cc505dc-2b19-4278-97d5-49c2e532068c) |
 
 ## About This Role
 

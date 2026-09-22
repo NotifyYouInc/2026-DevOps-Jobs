@@ -5,12 +5,12 @@
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Košice, Košice Region, Slovakia |
 | Category | DevOps Engineer |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000135650162-technology-architect-for-fci-mfd) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000149389609-technology-architect-for-fci-mfd) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-07-03.
+This devops engineer position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

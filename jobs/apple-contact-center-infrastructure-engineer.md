@@ -5,12 +5,12 @@
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200678066/contact-center-infrastructure-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200683184/contact-center-infrastructure-engineer) |
 
 ## About This Role
 
-This it & systems administration position at Apple was posted on 2026-08-15.
+This it & systems administration position at Apple was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

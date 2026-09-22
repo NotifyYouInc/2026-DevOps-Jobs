@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Añasco, Añasco, Puerto Rico |
 | Category | Industrial Automation |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Staff-Automation-Engineer--CSV_R-071685-2) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Anasco-Puerto-Rico-United-States-of-America/Staff-Automation-Engineer--CSV_R-099044-1) |
 
 ## About This Role
 
-This industrial automation position at Johnson & Johnson was posted on 2026-05-07.
+This industrial automation position at Johnson & Johnson was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Braga, Braga, Portugal |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000107705125-network-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149548159-network-engineer) |
 
 ## About This Role
 
-This devops engineer position at Inetum was posted on 2026-02-06.
+This devops engineer position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Kyiv, Kyiv City, Ukraine |
+| Location | Brasília, Federal District, Brazil |
 | Category | DevOps Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149011519-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149095149-devops-engineer) |
 
 ## About This Role
 

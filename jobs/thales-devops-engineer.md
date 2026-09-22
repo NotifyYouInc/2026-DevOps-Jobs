@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Bucharest/DevOps-Engineer_R0337481) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Singapore/Senior-DevOps-Engineer_R0340231) |
 
 ## About This Role
 
-This devops engineer position at Thales was posted on 2026-09-08.
+This devops engineer position at Thales was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

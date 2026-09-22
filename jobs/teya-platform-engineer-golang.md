@@ -5,12 +5,12 @@
 | Company | [Teya](https://scoutify.ai/companies/teya?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Porto, Porto, Portugal |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/teya/6245d3ae-be86-4d3d-94e8-0a20fec22df1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/teya/83641486-622d-4616-af1d-2399b8c6ab97) |
 
 ## About This Role
 
-This devops engineer position at Teya was posted on 2026-02-24.
+This devops engineer position at Teya was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

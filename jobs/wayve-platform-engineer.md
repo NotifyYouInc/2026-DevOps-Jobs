@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayve](https://scoutify.ai/companies/wayve?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Tokyo, Tokyo, Japan |
 | Category | DevOps Engineer |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8564314002) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://wayve.firststage.co/jobs?gh_jid=8805659002) |
 
 ## About This Role
 
-This devops engineer position at Wayve was posted on 2026-05-27.
+This devops engineer position at Wayve was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

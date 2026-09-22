@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pilar, Buenos Aires, Argentina |
-| Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Parque-Industrial-Pilar/Automation-Engineer_R2869830) |
+| Location | Waterford, Munster, Ireland |
+| Category | Industrial Automation |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Automation-Engineer_R2871109) |
 
 ## About This Role
 
-This devops engineer position at Sanofi was posted on 2026-09-04.
+This industrial automation position at Sanofi was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

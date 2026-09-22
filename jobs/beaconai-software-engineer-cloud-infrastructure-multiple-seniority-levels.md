@@ -5,12 +5,12 @@
 | Company | [Beaconai](https://scoutify.ai/companies/beaconai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Carlos, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/656e2083-8898-434f-8918-becadfe8e64b) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/beaconai/936216d0-27bf-4982-92d5-ca9be254e558) |
 
 ## About This Role
 
-This devops engineer position at Beaconai was posted on 2026-08-27.
+This devops engineer position at Beaconai was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

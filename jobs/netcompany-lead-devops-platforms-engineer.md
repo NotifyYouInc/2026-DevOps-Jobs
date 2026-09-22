@@ -6,7 +6,7 @@
 | Location | Leeds, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000148952736-lead-devops-platforms-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000149062780-lead-devops-platforms-engineer) |
 
 ## About This Role
 

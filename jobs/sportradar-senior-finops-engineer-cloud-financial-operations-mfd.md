@@ -5,12 +5,12 @@
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vienna, Vienna, Austria |
 | Category | DevOps Engineer |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000142909569-senior-finops-engineer-cloud-financial-operations-mfd) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000149551131-senior-finops-engineer-cloud-financial-operations-mfd) |
 
 ## About This Role
 
-This devops engineer position at Sportradar was posted on 2026-08-11.
+This devops engineer position at Sportradar was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

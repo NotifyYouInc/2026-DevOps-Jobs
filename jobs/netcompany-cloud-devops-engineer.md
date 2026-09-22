@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Vietnam |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000148936209-cloud-devops-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000149255214-cloud-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Netcompany was posted on 2026-09-11.
+This devops engineer position at Netcompany was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | DevOps Engineer |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/114107687662166726-technical-program-manager-infrastructure-sre?sort_by=date&page=1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWsine-MpE-pZ1wMOrKD0_vUPa5jB7d6tdEhKYiZmhGWEjsA9yzvgtdXRDBnCMqhZh4i5Uv_nUTCJvFI4chcxxhCFSUTtOlxPMX5CLoCCFt74pisJtyNT_OD-fH0Ng%3D%3D_V2&loc=PL&title=Technical+Program+Manager) |
 
 ## About This Role
 
-This devops engineer position at Google was posted on 2026-02-23.
+This devops engineer position at Google was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

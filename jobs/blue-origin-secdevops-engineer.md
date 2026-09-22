@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blue Origin](https://scoutify.ai/companies/blueorigin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/SecDevOps-Engineer_R69289) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Denver-CO/SecDevOps-Engineer_R71137) |
 
 ## About This Role
 
-This devops engineer position at Blue Origin was posted on 2026-08-03.
+This cybersecurity engineer position at Blue Origin was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

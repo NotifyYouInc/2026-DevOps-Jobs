@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cint](https://scoutify.ai/companies/cint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Spain |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000138080144-senior-cloud-infrastructure-engineer) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cint/744000149425529-senior-cloud-infrastructure-engineer) |
 
 ## About This Role
 
-This devops engineer position at Cint was posted on 2026-07-16.
+This devops engineer position at Cint was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

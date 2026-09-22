@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Redstone Arsenal, Alabama, United States |
+| Location | Beavercreek, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Redstone-Arsenal-AL/DevOps-Engineer--Mid_R0246269-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer--Mid_R0249382) |
 
 ## About This Role
 
-This devops engineer position at Booz Allen was posted on 2026-08-07.
+This devops engineer position at Booz Allen was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

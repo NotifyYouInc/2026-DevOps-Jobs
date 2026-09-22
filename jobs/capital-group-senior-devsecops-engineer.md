@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
-| Category | Security Engineer |
-| Posted | 2026-04-28 |
+| Location | 3 locations |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/New-York/Senior-DevSecOps-Engineer_JR6459) |
 
 ## About This Role
 
-This security engineer position at Capital Group was posted on 2026-04-28.
+This cybersecurity engineer position at Capital Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

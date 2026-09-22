@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | San Jose, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Virtualization---Cloud-Platform-Engineer_R02625) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Virtualization---Cloud-Platform-Engineer_R03163) |
 
 ## About This Role
 
-This devops engineer position at Altera Corporation was posted on 2026-06-08.
+This devops engineer position at Altera Corporation was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

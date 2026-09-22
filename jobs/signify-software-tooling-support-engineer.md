@@ -5,12 +5,12 @@
 | Company | [Signify](https://scoutify.ai/companies/lighting?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Tooling-Support-Engineer_365684-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Bangalore/Software-Tooling-Support-Engineer_365679-1) |
 
 ## About This Role
 
-This devops engineer position at Signify was posted on 2026-08-31.
+This devops engineer position at Signify was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

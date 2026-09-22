@@ -6,7 +6,7 @@
 | Location | Kyiv, Kyiv City, Ukraine |
 | Category | DevOps Engineer |
 | Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000148994509-senior-observability-devops-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149036563-senior-observability-devops-engineer) |
 
 ## About This Role
 

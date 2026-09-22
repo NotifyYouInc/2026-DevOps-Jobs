@@ -5,12 +5,12 @@
 | Company | [Lely](https://scoutify.ai/companies/lely?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Maassluis, South Holland, The Netherlands |
 | Category | DevOps Engineer |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000140858659-senior-cloud-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Lely1/744000149535785-senior-cloud-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lely was posted on 2026-07-31.
+This devops engineer position at Lely was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

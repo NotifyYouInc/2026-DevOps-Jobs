@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | San Diego, California, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-03-09 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200647673/devops-engineer-claris) |
 
 ## About This Role
 
-This devops engineer position at Apple was posted on 2026-03-09.
+This devops engineer position at Apple was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
