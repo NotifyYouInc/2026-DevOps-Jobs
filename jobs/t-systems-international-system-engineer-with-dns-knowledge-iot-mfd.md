@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000141444542-system-engineer-with-dns-knowledge-iot-mfd) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149789524-system-engineer-with-dns-knowledge-iot-mfd) |
 
 ## About This Role
 
-This embedded / firmware engineer position at T-Systems International was posted on 2026-08-04.
+This devops engineer position at T-Systems International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

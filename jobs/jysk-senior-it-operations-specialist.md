@@ -5,12 +5,12 @@
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gdańsk, Pomerania, Poland |
 | Category | IT & Systems Administration |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000140017790-senior-it-operations-specialist) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000149828179-senior-it-operations-specialist) |
 
 ## About This Role
 
-This it & systems administration position at JYSK was posted on 2026-07-27.
+This it & systems administration position at JYSK was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

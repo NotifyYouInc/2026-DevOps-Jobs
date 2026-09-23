@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colomiers, Occitanie, France |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140040747-ingenieure-de-production-informatique-toulouse) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149657324-ingenieure-de-production-informatique-toulouse) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-07-27.
+This devops engineer position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

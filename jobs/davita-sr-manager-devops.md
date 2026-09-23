@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Sr-Manager--DevOps_R0477416) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09500---Florida-Remote/Sr-Manager--DevOps_R0477528) |
 
 ## About This Role
 
-This devops engineer position at DaVita was posted on 2026-09-11.
+This devops engineer position at DaVita was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

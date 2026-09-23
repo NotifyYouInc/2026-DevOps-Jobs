@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10392201) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Pune---Trion-Business-Park-India/Tech-Lead--Systems-Engineering_R-10401600) |
 
 ## About This Role
 
-This devops engineer position at Fiserv was posted on 2026-06-09.
+This devops engineer position at Fiserv was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

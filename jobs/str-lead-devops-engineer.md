@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STR](https://scoutify.ai/companies/systemstechnologyresearch?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Dayton, Ohio, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4697251006) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4713436006) |
 
 ## About This Role
 
-This devops engineer position at STR was posted on 2026-07-16.
+This devops engineer position at STR was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

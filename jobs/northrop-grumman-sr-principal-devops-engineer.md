@@ -1,16 +1,16 @@
-# Sr Principal DevOps Engineer at Northrop Grumman
+# Sr. Principal DevOps Engineer at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Albuquerque, New Mexico, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Sr-Principal-DevOps-Engineer_R10241735) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-Mexico-Albuquerque/Sr-Principal-DevOps-Engineer_R10250824-1) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-07-22.
+This devops engineer position at Northrop Grumman was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

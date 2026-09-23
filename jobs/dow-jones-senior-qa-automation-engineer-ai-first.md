@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | QA Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/Dublin/Senior-QA-Automation-Engineer--AI-First-_Job_Req_52727) |
 
 ## About This Role
 
-This qa engineer position at Dow Jones was posted on 2026-09-14.
+This devops engineer position at Dow Jones was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pessac, Nouvelle-Aquitaine, France |
-| Category | QA Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149523311-responsable-qualite-ia-devops-hf) |
 
 ## About This Role
 
-This qa engineer position at Inetum was posted on 2026-09-15.
+This devops engineer position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

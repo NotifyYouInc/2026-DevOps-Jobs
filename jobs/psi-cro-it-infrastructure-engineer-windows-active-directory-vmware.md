@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | Saint-Maur-des-Fossés, Île-de-France, France |
 | Category | IT & Systems Administration |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000148793805-it-infrastructure-engineer-windows-active-directory-vmware) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000149597099-it-infrastructure-engineer-windows-active-directory-vmware) |
 
 ## About This Role
 
-This it & systems administration position at Psi Cro was posted on 2026-09-10.
+This it & systems administration position at Psi Cro was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

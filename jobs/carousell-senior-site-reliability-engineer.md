@@ -5,12 +5,12 @@
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | DevOps Engineer |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000149326976-senior-site-reliability-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000149465369-senior-site-reliability-engineer) |
 
 ## About This Role
 
-This devops engineer position at Carousell was posted on 2026-09-14.
+This devops engineer position at Carousell was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Cloud-DevOps-Engineer_R-2026-69087-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Cloud-DevOps-Engineer_R-2026-72080) |
 
 ## About This Role
 
-This devops engineer position at Southwest Airlines was posted on 2026-07-17.
+This devops engineer position at Southwest Airlines was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

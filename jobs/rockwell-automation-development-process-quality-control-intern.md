@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Singapore, Singapore |
 | Category | DevOps Engineer |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Development-Process-Quality-Control-Intern_R26-2389) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Singapore-Singapore/Development-Process-Quality-Control-Intern_R26-6839) |
 
 ## About This Role
 
-This devops engineer position at Rockwell Automation was posted on 2026-04-02.
+This devops engineer position at Rockwell Automation was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

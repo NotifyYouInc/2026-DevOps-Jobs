@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Technical Writer |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000118099002-ingenieur-de-production) |
+| Location | Montrouge, Île-de-France, France |
+| Category | DevOps Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000149620980-ingenieur-de-production) |
 
 ## About This Role
 
-This technical writer position at Everience was posted on 2026-04-01.
+This devops engineer position at Everience was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

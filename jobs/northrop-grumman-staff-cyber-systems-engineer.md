@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Chantilly, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Staff-Cyber-Systems-Engineer_R10244315) |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Staff-Cyber-Systems-Engineer_R10250815) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-08-06.
+This cybersecurity engineer position at Northrop Grumman was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

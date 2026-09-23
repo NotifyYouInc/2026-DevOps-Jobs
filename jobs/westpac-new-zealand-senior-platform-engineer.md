@@ -5,12 +5,12 @@
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | DevOps Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Platform-Engineer_JR107393-2) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Westpac-on-Takutai-Square/Senior-Platform-Engineer_JR107885-1) |
 
 ## About This Role
 
-This devops engineer position at Westpac New Zealand was posted on 2026-06-21.
+This devops engineer position at Westpac New Zealand was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

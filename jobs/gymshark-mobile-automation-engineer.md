@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gymshark](https://scoutify.ai/companies/gymshark?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Solihull, England, United Kingdom |
-| Category | QA Engineer |
+| Category | Industrial Automation |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/gymshark/jobs/4975830101) |
 
 ## About This Role
 
-This qa engineer position at Gymshark was posted on 2026-09-14.
+This industrial automation position at Gymshark was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

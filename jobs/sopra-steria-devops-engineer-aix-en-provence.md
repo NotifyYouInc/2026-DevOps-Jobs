@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000130547474-devops-engineer-aix-en-provence) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149661102-devops-engineer-aix-en-provence) |
 
 ## About This Role
 
-This devops engineer position at Sopra Steria was posted on 2026-06-05.
+This devops engineer position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

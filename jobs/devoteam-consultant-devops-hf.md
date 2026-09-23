@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | DevOps Engineer |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000111091030-consultant-devops-hf) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000149804729-consultant-devops-hf) |
 
 ## About This Role
 
-This devops engineer position at Devoteam was posted on 2026-02-24.
+This devops engineer position at Devoteam was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

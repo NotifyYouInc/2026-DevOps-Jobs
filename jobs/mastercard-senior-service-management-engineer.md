@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | O'Fallon, Missouri, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Service-Management-Engineer_R-278409) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Senior-Service-Management-Engineer_R-289142) |
 
 ## About This Role
 
-This devops engineer position at Mastercard was posted on 2026-06-17.
+This devops engineer position at Mastercard was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

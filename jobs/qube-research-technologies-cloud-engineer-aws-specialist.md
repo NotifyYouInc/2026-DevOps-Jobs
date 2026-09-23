@@ -1,12 +1,12 @@
-# Cloud Engineer – AWS Specialist at Qube Research & Technologies
+# Cloud Engineer - AWS Specialist  at Qube Research & Technologies
 
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
 | Posted | 2026-09-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8570681002) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8066915002) |
 
 ## About This Role
 

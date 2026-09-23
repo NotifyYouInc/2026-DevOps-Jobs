@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Telangana, IN |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Galway-County-Galway-Ireland/Software-Dev-Ops-Engineer-I_R73474-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Software-Dev-Ops-Engineer-I_R76945-1) |
 
 ## About This Role
 
-This devops engineer position at Medtronic was posted on 2026-08-14.
+This devops engineer position at Medtronic was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

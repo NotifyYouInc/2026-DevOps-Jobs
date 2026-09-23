@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sezzle](https://scoutify.ai/companies/sezzle?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brazil |
+| Location | France |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7993258003) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sezzle/jobs/7994204003) |
 
 ## About This Role
 
-This devops engineer position at Sezzle was posted on 2026-09-11.
+This devops engineer position at Sezzle was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

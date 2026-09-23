@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Seoul, KR |
-| Category | DevOps Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Anyang-Seoul-Republic-of-Korea/Automation-Engineer_JR00046363) |
+| Location | 2 locations |
+| Category | Industrial Automation |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pune-Maharashtra-India/Automation-Engineer_JR00046881) |
 
 ## About This Role
 
-This devops engineer position at ABB was posted on 2026-09-09.
+This industrial automation position at ABB was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

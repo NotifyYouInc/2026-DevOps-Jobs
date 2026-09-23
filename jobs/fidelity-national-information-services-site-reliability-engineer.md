@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/AUS-SYDN-55/Site-Reliability-Engineer_JR0308253) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Site-Reliability-Engineer_JR0309416) |
 
 ## About This Role
 
-This devops engineer position at Fidelity National Information Services was posted on 2026-08-10.
+This devops engineer position at Fidelity National Information Services was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

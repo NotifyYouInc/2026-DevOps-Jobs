@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | United Kingdom |
-| Category | Industrial Automation |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R29474) |
+| Location | United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Automation-Engineer-II--Falcon-Complete--Remote-_R29988) |
 
 ## About This Role
 
-This industrial automation position at CrowdStrike was posted on 2026-07-29.
+This cybersecurity engineer position at CrowdStrike was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

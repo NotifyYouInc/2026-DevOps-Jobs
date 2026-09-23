@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zocdoc](https://scoutify.ai/companies/zocdoc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zocdoc/jobs/7824775) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zocdoc/jobs/8159837) |
 
 ## About This Role
 
-This devops engineer position at Zocdoc was posted on 2026-04-23.
+This devops engineer position at Zocdoc was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

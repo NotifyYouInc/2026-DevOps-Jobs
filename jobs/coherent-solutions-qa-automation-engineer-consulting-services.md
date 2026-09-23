@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coherent Solutions](https://scoutify.ai/companies/coherentsolutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Poland |
-| Category | QA Engineer |
+| Category | DevOps Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4973264101) |
 
 ## About This Role
 
-This qa engineer position at Coherent Solutions was posted on 2026-09-15.
+This devops engineer position at Coherent Solutions was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Fresher DevOps Engineer at KMS Technology
+# Fresher DevOps Engineer  at KMS Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [KMS Technology](https://scoutify.ai/companies/kms-technology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000116344407-fresher-devops-engineer) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/kmstechnology1/744000149652971-fresher-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at KMS Technology was posted on 2026-03-24.
+This devops engineer position at KMS Technology was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

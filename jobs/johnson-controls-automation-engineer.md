@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Gilbert, Arizona, United States |
+| Location | York, Pennsylvania, United States |
 | Category | Industrial Automation |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Gilbert-Arizona-United-States-of-America/Automation-Engineer_WD30277202-2) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/York-Pennsylvania-United-States-of-America/Automation-Engineer_WD30279950) |
 
 ## About This Role
 
-This industrial automation position at Johnson Controls was posted on 2026-08-25.
+This industrial automation position at Johnson Controls was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

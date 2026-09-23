@@ -5,12 +5,12 @@
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Cloud-Infrastructure---Automation-Engineer_37772-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Cloud-Infrastructure---Automation-Engineer_43373) |
 
 ## About This Role
 
-This industrial automation position at Guidehouse was posted on 2026-04-08.
+This industrial automation position at Guidehouse was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

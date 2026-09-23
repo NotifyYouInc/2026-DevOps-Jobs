@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Two Six Technologies](https://scoutify.ai/companies/twosixtechnologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6146704004) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6192036004) |
 
 ## About This Role
 
-This devops engineer position at Two Six Technologies was posted on 2026-08-19.
+This devops engineer position at Two Six Technologies was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

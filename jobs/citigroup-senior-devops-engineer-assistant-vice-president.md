@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26992042-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26994114) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-09-09.
+This devops engineer position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

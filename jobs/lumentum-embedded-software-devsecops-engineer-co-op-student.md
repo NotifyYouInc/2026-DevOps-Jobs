@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lumentum](https://scoutify.ai/companies/lumentum?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ottawa, Ontario, Canada |
-| Category | Embedded / Firmware Engineer |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_2026536) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://lumentum.wd5.myworkdayjobs.com/lite/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-DevSecOps-Engineer--Co-op-Student-_20261356) |
 
 ## About This Role
 
-This embedded / firmware engineer position at Lumentum was posted on 2026-05-01.
+This devops engineer position at Lumentum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

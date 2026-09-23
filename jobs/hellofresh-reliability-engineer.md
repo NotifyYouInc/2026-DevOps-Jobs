@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Derby, England, United Kingdom |
-| Category | DevOps Engineer |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8022973?gh_jid=8022973) |
+| Category | Industrial Automation |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8190649?gh_jid=8190649) |
 
 ## About This Role
 
-This devops engineer position at HelloFresh was posted on 2026-07-09.
+This industrial automation position at HelloFresh was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

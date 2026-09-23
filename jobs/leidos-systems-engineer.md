@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Clovis, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Clovis-NM/Systems-Engineer_R-00189769) |
+| Location | Reston, Virginia, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Systems-Engineer_R-00192262) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-17.
+This it & systems administration position at Leidos was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

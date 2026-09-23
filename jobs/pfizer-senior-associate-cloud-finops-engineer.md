@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pfizer](https://scoutify.ai/companies/pfizer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Greece |
+| Location | Thessaloníki, Central Macedonia, Greece |
 | Category | DevOps Engineer |
-| Posted | 2026-06-10 |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Greece-Thessaloniki-Chortiatis/Senior-Associate--Cloud-FinOps-Engineer_4959132) |
 
 ## About This Role
 
-This devops engineer position at Pfizer was posted on 2026-06-10.
+This devops engineer position at Pfizer was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
