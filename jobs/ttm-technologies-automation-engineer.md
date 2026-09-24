@@ -5,12 +5,12 @@
 | Company | [TTM Technologies](https://scoutify.ai/companies/ttm-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Stafford, Texas, United States |
 | Category | Industrial Automation |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Stafford-CT/Automation-Engineer_R17556-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ttmtech.wd5.myworkdayjobs.com/jobs/job/Stafford-CT/Automation-Engineer_R17553-1) |
 
 ## About This Role
 
-This industrial automation position at TTM Technologies was posted on 2026-09-15.
+This industrial automation position at TTM Technologies was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

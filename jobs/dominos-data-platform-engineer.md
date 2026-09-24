@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Data Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000147070530-data-platform-engineer) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000149988963-data-platform-engineer) |
 
 ## About This Role
 
-This data engineer position at Domino's was posted on 2026-09-02.
+This data engineer position at Domino's was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

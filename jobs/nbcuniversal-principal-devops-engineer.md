@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135060721-principal-devops-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000149898219-principal-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at NBCUniversal was posted on 2026-06-30.
+This devops engineer position at NBCUniversal was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

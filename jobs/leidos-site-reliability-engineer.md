@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 4 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Chantilly-VA/Site-Reliability-Engineer_R-00189616) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Canberra-Australian-Capital-Territory-Australia/Field-Service-Engineer_R-00175292) |
 
 ## About This Role
 
-This devops engineer position at Leidos was posted on 2026-08-14.
+This devops engineer position at Leidos was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

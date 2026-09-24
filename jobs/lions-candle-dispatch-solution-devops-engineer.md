@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149095149-devops-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000149884804-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-11.
+This devops engineer position at Lions Candle-Dispatch Solution was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

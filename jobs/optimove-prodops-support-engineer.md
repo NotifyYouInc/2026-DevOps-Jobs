@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Optimove](https://scoutify.ai/companies/optimove?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Estonia |
-| Category | Technical Support Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/optimove/jobs/4865066101) |
+| Location | Dundee, Scotland, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/optimove/jobs/4978622101) |
 
 ## About This Role
 
-This technical support engineer position at Optimove was posted on 2026-05-18.
+This customer success position at Optimove was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

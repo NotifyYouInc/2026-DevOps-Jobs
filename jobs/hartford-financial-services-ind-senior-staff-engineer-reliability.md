@@ -5,12 +5,12 @@
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Senior-Staff-Engineer--Reliability_R2624903) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND---Senior-Staff-Engineer--Reliability_R2626539) |
 
 ## About This Role
 
-This devops engineer position at Hartford Financial Services was posted on 2026-04-19.
+This devops engineer position at Hartford Financial Services was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

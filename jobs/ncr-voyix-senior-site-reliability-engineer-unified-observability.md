@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCR Voyix](https://scoutify.ai/companies/ncr-voyix?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/HYDERABAD-IND/Senior-Site-Reliability-Engineer---Unified-Observability_R0157788) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ncr.wd1.myworkdayjobs.com/ext_apac/job/CHENNAI-IND/Senior-Site-Reliability-Engineer---Unified-Observability_R0157788) |
 
 ## About This Role
 
-This devops engineer position at NCR Voyix was posted on 2026-07-22.
+This devops engineer position at NCR Voyix was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

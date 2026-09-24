@@ -5,12 +5,12 @@
 | Company | [Genomics England](https://scoutify.ai/companies/genomicsengland?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000149040870-platform-engineer-aws-we-have-office-locations-in-cambridge-leeds-and-london) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GenomicsEngland/744000150040959-platform-engineer-aws-we-have-office-locations-in-cambridge-leeds-and-london) |
 
 ## About This Role
 
-This devops engineer position at Genomics England was posted on 2026-09-11.
+This devops engineer position at Genomics England was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

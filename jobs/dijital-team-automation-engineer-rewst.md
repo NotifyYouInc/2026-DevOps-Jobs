@@ -1,16 +1,16 @@
-# Automation Engineer (Rewst) at Dijital Team
+# Automation Engineer - Rewst at Dijital Team
 
 | Field | Details |
 |-------|---------|
 | Company | [Dijital Team](https://scoutify.ai/companies/dijital-team?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colombo, Western Province, Sri Lanka |
 | Category | Industrial Automation |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/6dcee97e-7881-4f5d-b4c7-c92a6701e81f) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.lever.co/dijital-team-pty-ltd/c6a1d6eb-e89c-4495-90fd-3f70ce6578ef) |
 
 ## About This Role
 
-This industrial automation position at Dijital Team was posted on 2026-03-09.
+This industrial automation position at Dijital Team was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

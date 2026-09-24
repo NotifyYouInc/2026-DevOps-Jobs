@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Livermore, California, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Livermore---400-Longfellow-Court/Automation-Engineer_R333241) |
+| Location | Budd Lake, New Jersey, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---NJ---Budd-Lake---81-International-Drive-S/Automation-Engineer_R335377-1) |
 
 ## About This Role
 
-This devops engineer position at Cushman & Wakefield was posted on 2026-08-21.
+This industrial automation position at Cushman & Wakefield was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

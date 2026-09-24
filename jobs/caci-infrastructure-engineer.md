@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | King George, Virginia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/King-George-VA-US/Infrastructure-Engineer_331023) |
+| Location | 3 locations |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Infrastructure-Engineer_332238) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-08-25.
+This it & systems administration position at CACI was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

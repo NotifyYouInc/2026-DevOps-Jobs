@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/San-Francisco-CA/Head-of-Infrastructure-Development_REQ485618) |
+| Location | Chicago, Illinois, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Head-of-Infrastructure-Development_REQ533994) |
 
 ## About This Role
 
-This engineering manager position at JLL was posted on 2026-02-20.
+This devops engineer position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

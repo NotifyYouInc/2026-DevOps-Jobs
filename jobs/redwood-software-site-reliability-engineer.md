@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redwood Software](https://scoutify.ai/companies/redwood-software?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/redwoodsoftware/jobs/4207392009) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/redwoodsoftware/jobs/4403353009) |
 
 ## About This Role
 
-This devops engineer position at Redwood Software was posted on 2026-06-30.
+This devops engineer position at Redwood Software was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

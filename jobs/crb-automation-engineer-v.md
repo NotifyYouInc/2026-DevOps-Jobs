@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CRB](https://scoutify.ai/companies/crb?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | St. Louis, Missouri, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000142215360-automation-engineer-v) |
+| Location | Dallas, Texas, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CRB/744000149946609-automation-engineer-v) |
 
 ## About This Role
 
-This devops engineer position at CRB was posted on 2026-08-07.
+This industrial automation position at CRB was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

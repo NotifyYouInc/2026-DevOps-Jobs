@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | New Castle, Pennsylvania, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/DevOps-Engineer_26978989) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/DevOps-Engineer_26991829) |
 
 ## About This Role
 
-This devops engineer position at Citigroup was posted on 2026-09-11.
+This devops engineer position at Citigroup was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

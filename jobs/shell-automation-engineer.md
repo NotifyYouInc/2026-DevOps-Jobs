@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Shell](https://scoutify.ai/companies/shell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Queensland, AU |
+| Location | Carson, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/Curtis-Island/Automation-Engineer_R201563) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://shell.wd3.myworkdayjobs.com/shellcareers/job/California---Carson--Mormon-Island-Terminal/Automation-Engineer_R209130-1) |
 
 ## About This Role
 
-This industrial automation position at Shell was posted on 2026-04-14.
+This industrial automation position at Shell was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

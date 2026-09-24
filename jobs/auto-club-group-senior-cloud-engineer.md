@@ -5,12 +5,12 @@
 | Company | [Auto Club Group](https://scoutify.ai/companies/acg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Michigan, US |
 | Category | DevOps Engineer |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Senior-Cloud-Engineer_JR17421) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Senior-Cloud-Engineer_JR17663) |
 
 ## About This Role
 
-This devops engineer position at Auto Club Group was posted on 2026-08-26.
+This devops engineer position at Auto Club Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

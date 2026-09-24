@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [FalconX](https://scoutify.ai/companies/falconx?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
-| Posted | 2026-06-23 |
+| Category | Quant Developer |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/falconx/jobs/4680827005) |
 
 ## About This Role
 
-This devops engineer position at FalconX was posted on 2026-06-23.
+This quant developer position at FalconX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

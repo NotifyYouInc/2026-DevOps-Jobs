@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Arcueil, Île-de-France, France |
 | Category | DevOps Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000149533928-ingenieur-devsecops-hf) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000149886158-ingenieur-devsecops-hf) |
 
 ## About This Role
 
-This devops engineer position at Scalian was posted on 2026-09-15.
+This devops engineer position at Scalian was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

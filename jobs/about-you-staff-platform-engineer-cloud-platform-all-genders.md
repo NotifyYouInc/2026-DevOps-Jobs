@@ -5,12 +5,12 @@
 | Company | [About You](https://scoutify.ai/companies/aboutyou?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000147234209-staff-platform-engineer-cloud-platform-all-genders) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000150051209-staff-platform-engineer-cloud-platform-all-genders) |
 
 ## About This Role
 
-This devops engineer position at About You was posted on 2026-09-03.
+This devops engineer position at About You was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

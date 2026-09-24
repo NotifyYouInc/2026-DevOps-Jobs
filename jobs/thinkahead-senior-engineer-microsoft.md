@@ -1,16 +1,16 @@
-# Senior Engineer - Microsoft at Thinkahead
+# Senior Engineer, Microsoft at Thinkahead
 
 | Field | Details |
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Hyderabad, Telangana, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/f23e74f2-65c1-4413-973d-6f9e1716abc0) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/8337a1d7-5820-408d-8f5c-f0405991e2ac) |
 
 ## About This Role
 
-This devops engineer position at Thinkahead was posted on 2026-05-08.
+This devops engineer position at Thinkahead was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

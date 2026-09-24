@@ -5,12 +5,12 @@
 | Company | [Fivetran](https://scoutify.ai/companies/fivetran?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7799116003) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://www.fivetran.com/careers/job?gh_jid=7992270003) |
 
 ## About This Role
 
-This devops engineer position at Fivetran was posted on 2026-07-16.
+This devops engineer position at Fivetran was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

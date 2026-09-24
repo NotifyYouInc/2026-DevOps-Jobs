@@ -5,12 +5,12 @@
 | Company | [K Health](https://scoutify.ai/companies/k-health?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/khealthcareers/jobs/5993839004) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/khealthcareers/jobs/6194444004) |
 
 ## About This Role
 
-This devops engineer position at K Health was posted on 2026-05-11.
+This devops engineer position at K Health was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

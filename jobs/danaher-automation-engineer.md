@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Uppsala, Uppsala, Sweden |
+| Location | Bad Kreuznach, Rheinland-Pfalz, Germany |
 | Category | Industrial Automation |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Automation-Engineer_R1313911) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bad-Kreuznah-Germany/Automation-Engineer_R1317024) |
 
 ## About This Role
 
-This industrial automation position at Danaher was posted on 2026-08-12.
+This industrial automation position at Danaher was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

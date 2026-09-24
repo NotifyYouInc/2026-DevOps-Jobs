@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arclin](https://scoutify.ai/companies/arclin?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
-| Category | DevOps Engineer |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/new1036nauh/JobBoard/9e4ff5c7-b0b3-4663-bb4d-feefeea038d6/OpportunityDetail?opportunityId=b04f7ecd-aa64-4d06-a7ac-33befe3595bb) |
+| Location | Alpharetta, Georgia, United States |
+| Category | Industrial Automation |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://recruiting.ultipro.com/new1036nauh/JobBoard/9e4ff5c7-b0b3-4663-bb4d-feefeea038d6/OpportunityDetail?opportunityId=d6b6cff3-7646-4581-a578-5dc2c66031ca) |
 
 ## About This Role
 
-This devops engineer position at Arclin was posted on 2026-07-22.
+This industrial automation position at Arclin was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

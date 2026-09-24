@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
-| Category | Database Administration |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Expert-Systems-Engineer_R0039439) |
+| Location | New Jersey, US |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/New-Jersey-United-States/Expert-Systems-Engineer_R0045715) |
 
 ## About This Role
 
-This database administration position at Harris Computer was posted on 2026-03-04.
+This it & systems administration position at Harris Computer was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

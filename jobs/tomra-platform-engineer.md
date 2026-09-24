@@ -5,12 +5,12 @@
 | Company | [TOMRA](https://scoutify.ai/companies/tomra?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mülheim-Kärlich, Rheinland-Pfalz, Germany |
 | Category | DevOps Engineer |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000141639636-platform-engineer) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tomra/744000149865909-platform-engineer) |
 
 ## About This Role
 
-This devops engineer position at TOMRA was posted on 2026-08-05.
+This devops engineer position at TOMRA was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

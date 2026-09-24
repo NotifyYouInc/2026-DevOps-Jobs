@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | DevOps Engineer |
+| Category | Project Manager |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Bangalore-Karnataka-India/Release-Manager_R1318968) |
 
 ## About This Role
 
-This devops engineer position at Danaher was posted on 2026-09-16.
+This project manager position at Danaher was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

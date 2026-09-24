@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marvell](https://scoutify.ai/companies/marvell?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
-| Category | DevOps Engineer |
+| Category | Semiconductor / Chip Design |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Principal-Reliability-Engineer_2604318) |
 
 ## About This Role
 
-This devops engineer position at Marvell was posted on 2026-09-16.
+This semiconductor / chip design position at Marvell was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
