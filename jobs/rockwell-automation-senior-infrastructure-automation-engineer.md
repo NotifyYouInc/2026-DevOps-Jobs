@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | DevOps Engineer |
-| Posted | 2026-06-18 |
+| Category | Industrial Automation |
+| Posted | 2026-09-17 |
 | Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mexico-City-Mexico/Senior-Infrastructure-Automation-Engineer_R26-4694) |
 
 ## About This Role
 
-This devops engineer position at Rockwell Automation was posted on 2026-06-18.
+This industrial automation position at Rockwell Automation was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

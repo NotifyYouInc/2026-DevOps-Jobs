@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Industrial Automation |
 | Posted | 2026-09-16 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4975854101) |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/roboyo/jobs/4975851101) |
 
 ## About This Role
 

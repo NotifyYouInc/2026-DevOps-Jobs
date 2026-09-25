@@ -5,12 +5,12 @@
 | Company | [Checkr - Chile](https://scoutify.ai/companies/checkr-chile?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | DevOps Engineer |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/chile/jobs/7376944) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/chile/jobs/8202760) |
 
 ## About This Role
 
-This devops engineer position at Checkr - Chile was posted on 2026-02-20.
+This devops engineer position at Checkr - Chile was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

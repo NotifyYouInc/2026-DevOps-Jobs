@@ -5,12 +5,12 @@
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000147470369-applications-management-senior-devops-engineer-ense) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000150282819-applications-management-senior-devops-engineer-ense) |
 
 ## About This Role
 
-This devops engineer position at Endava was posted on 2026-09-04.
+This devops engineer position at Endava was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

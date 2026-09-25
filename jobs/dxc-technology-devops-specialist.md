@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | DevOps Engineer |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---HID---ANY-CITY/DevOps-Specialist_51586929) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/DevOps-Specialist_51586433) |
 
 ## About This Role
 
-This devops engineer position at DXC Technology was posted on 2026-09-02.
+This devops engineer position at DXC Technology was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

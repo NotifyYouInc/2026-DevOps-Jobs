@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Cambridge, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000145480619-cloud-devops-engineer-aws-terraform-k8s-automation) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000150143626-cloud-devops-engineer-aws-terraform-k8s-automation) |
 
 ## About This Role
 
-This devops engineer position at Renesas Electronics was posted on 2026-08-25.
+This devops engineer position at Renesas Electronics was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

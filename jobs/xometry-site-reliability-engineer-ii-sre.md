@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xometry](https://scoutify.ai/companies/xometry?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | North Bethesda, Maryland, United States |
+| Location | Lexington, Kentucky, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5227597007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/xometry/jobs/5241087007) |
 
 ## About This Role
 
-This devops engineer position at Xometry was posted on 2026-09-01.
+This devops engineer position at Xometry was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

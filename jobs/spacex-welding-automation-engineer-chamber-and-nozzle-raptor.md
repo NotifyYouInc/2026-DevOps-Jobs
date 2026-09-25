@@ -1,16 +1,16 @@
-# Welding Automation Engineer, Chamber and Nozzle (Raptor)  at SpaceX
+# Welding Automation Engineer, Chamber and Nozzle (Raptor) at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Hawthorne, California, United States |
 | Category | Industrial Automation |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8544608002?gh_jid=8544608002) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8817992002?gh_jid=8817992002) |
 
 ## About This Role
 
-This industrial automation position at SpaceX was posted on 2026-05-11.
+This industrial automation position at SpaceX was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

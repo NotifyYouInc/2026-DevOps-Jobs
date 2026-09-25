@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Replit](https://scoutify.ai/companies/replit?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/replit/f35042a1-b016-4811-9597-b98facf5eb4d) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/replit/f508992f-5b26-4ab1-816d-d17f121d208b) |
 
 ## About This Role
 
-This devops engineer position at Replit was posted on 2026-05-20.
+This devops engineer position at Replit was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

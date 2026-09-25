@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Octus](https://scoutify.ai/companies/octus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | New York City, New York, United States |
+| Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/octus/jobs/5165056007) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/octus/jobs/5239997007) |
 
 ## About This Role
 
-This devops engineer position at Octus was posted on 2026-06-18.
+This devops engineer position at Octus was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

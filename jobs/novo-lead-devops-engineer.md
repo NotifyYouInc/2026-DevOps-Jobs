@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novo](https://scoutify.ai/companies/novo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/novo/d8ff4962-8377-4fa6-bb6b-c00e1c10164d) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/novo/88224188-5663-4bd5-93f4-9a996cf6d37a) |
 
 ## About This Role
 
-This devops engineer position at Novo was posted on 2026-04-16.
+This devops engineer position at Novo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

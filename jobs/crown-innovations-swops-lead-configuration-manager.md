@@ -5,12 +5,12 @@
 | Company | [Crown Innovations](https://scoutify.ai/companies/crowninnovationsinc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | United States |
 | Category | DevOps Engineer |
-| Posted | 2026-09-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000149677759-swops-lead-configuration-manager) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CrownInnovationsInc/744000150219769-swops-lead-configuration-manager) |
 
 ## About This Role
 
-This devops engineer position at Crown Innovations was posted on 2026-09-15.
+This devops engineer position at Crown Innovations was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

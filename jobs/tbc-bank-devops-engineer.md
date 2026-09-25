@@ -5,12 +5,12 @@
 | Company | [TBC Bank](https://scoutify.ai/companies/tbcbank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tbilisi, Tbilisi, Georgia |
 | Category | DevOps Engineer |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000116549518-devops-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TBCBANK/744000150290419-devops-engineer) |
 
 ## About This Role
 
-This devops engineer position at TBC Bank was posted on 2026-03-25.
+This devops engineer position at TBC Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applaudo Studios](https://scoutify.ai/companies/applaudo-studios?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Irvine, California, United States |
-| Category | QA Engineer |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000149104229-qa-automation-engineer) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applaudostudios/744000150182107-qa-automation-engineer) |
 
 ## About This Role
 
-This qa engineer position at Applaudo Studios was posted on 2026-09-11.
+This devops engineer position at Applaudo Studios was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ChoicePoint](https://scoutify.ai/companies/choicepoint?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 3 locations |
-| Category | Engineering Manager |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Franklin-TN/Site-Reliability-Engineering-Lead_R113915) |
+| Location | United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://relx.wd3.myworkdayjobs.com/risksolutions/job/Remote---USA---Nationwide/Site-Reliability-Engineering-Lead_R111139) |
 
 ## About This Role
 
-This engineering manager position at ChoicePoint was posted on 2026-06-01.
+This devops engineer position at ChoicePoint was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

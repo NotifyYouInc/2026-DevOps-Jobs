@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Levice, Nitra Region, Slovakia |
-| Category | DevOps Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000148140999-automation-engineer) |
+| Category | Industrial Automation |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000150306399-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Kanadevia Inova was posted on 2026-09-08.
+This industrial automation position at Kanadevia Inova was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

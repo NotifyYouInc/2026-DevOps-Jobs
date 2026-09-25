@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Washington, District of Columbia, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Washington-DC-US/Senior-Network-Operations-Engineer---Tier-3_330958-1) |
+| Location | Colorado Springs, Colorado, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Senior-Network-Operations-Engineer---Tier-3_332245) |
 
 ## About This Role
 
-This devops engineer position at CACI was posted on 2026-08-21.
+This it & systems administration position at CACI was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# DevOps Engineer, Cloud Infra at Binance
+
+| Field | Details |
+|-------|---------|
+| Company | [Binance](https://scoutify.ai/companies/binance?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
+| Location | Asia, Western Visayas, Philippines |
+| Category | DevOps Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.lever.co/binance/809e84a4-0d1e-4159-8d45-6f6f4518158e) |
+
+## About This Role
+
+This devops engineer position at Binance was posted on 2026-09-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

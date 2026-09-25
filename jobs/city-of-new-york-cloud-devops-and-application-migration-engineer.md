@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | New York City, New York, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-08-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014937706-cloud-devops-and-application-migration-engineer) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990015371182-cloud-devops-and-application-migration-engineer) |
 
 ## About This Role
 
-This devops engineer position at City of New York was posted on 2026-08-29.
+This devops engineer position at City of New York was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

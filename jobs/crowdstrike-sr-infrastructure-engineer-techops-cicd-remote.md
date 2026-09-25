@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | California, US |
 | Category | DevOps Engineer |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Infrastructure-Engineer--TechOps-CICD--Remote-_R29465) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-CA/Sr-Infrastructure-Engineer--TechOps-CICD--Remote-_R30075) |
 
 ## About This Role
 
-This devops engineer position at CrowdStrike was posted on 2026-07-27.
+This devops engineer position at CrowdStrike was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

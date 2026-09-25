@@ -1,16 +1,16 @@
-# Senior Cloud DevOps Engineer at LSEG
+# Senior Cloud Devops Engineer at LSEG
 
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Senior-Cloud-DevOps-Engineer_R0117299-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Hyderabad-CapitaLand/Senior-Cloud-Devops-Engineer_R0122672) |
 
 ## About This Role
 
-This devops engineer position at LSEG was posted on 2026-05-11.
+This devops engineer position at LSEG was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

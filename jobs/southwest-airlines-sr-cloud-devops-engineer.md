@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Cloud-DevOps-Engineer_R-2026-69694) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Cloud-DevOps-Engineer_R-2026-71598) |
 
 ## About This Role
 
-This devops engineer position at Southwest Airlines was posted on 2026-07-06.
+This devops engineer position at Southwest Airlines was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

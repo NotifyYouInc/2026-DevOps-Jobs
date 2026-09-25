@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dark Wolf Solutions](https://scoutify.ai/companies/dark-wolf-solutions?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | DevOps Engineer |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7986712003) |
+| Location | San Antonio, Texas, United States |
+| Category | Cybersecurity Engineer |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7997468003) |
 
 ## About This Role
 
-This devops engineer position at Dark Wolf Solutions was posted on 2026-09-04.
+This cybersecurity engineer position at Dark Wolf Solutions was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

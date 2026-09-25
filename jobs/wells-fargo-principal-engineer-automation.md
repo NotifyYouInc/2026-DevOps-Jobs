@@ -1,16 +1,16 @@
-# Principal Engineer – Automation at Wells Fargo
+# Principal Engineer Automation at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 3 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Principal-Engineer---Automation_R-542433) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Principal-Engineer-Automation_R-564887) |
 
 ## About This Role
 
-This devops engineer position at Wells Fargo was posted on 2026-05-20.
+This devops engineer position at Wells Fargo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
