@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | DevOps Engineer |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Site-Reliability-Engineer_R000071999) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Site-Reliability-Engineer_R000073729) |
 
 ## About This Role
 
-This devops engineer position at Chevron was posted on 2026-06-23.
+This devops engineer position at Chevron was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

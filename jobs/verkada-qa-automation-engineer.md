@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Verkada](https://scoutify.ai/companies/verkada?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Poland |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/verkada/jobs/5237420007) |
 
 ## About This Role
 
-This devops engineer position at Verkada was posted on 2026-09-17.
+This qa engineer position at Verkada was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

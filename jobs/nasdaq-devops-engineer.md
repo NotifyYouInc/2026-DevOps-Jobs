@@ -5,12 +5,12 @@
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | DevOps Engineer |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/DevOps-Engineer_R0026588-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/DevOps-Engineer_R0026953-1) |
 
 ## About This Role
 
-This devops engineer position at Nasdaq was posted on 2026-07-28.
+This devops engineer position at Nasdaq was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tsc](https://scoutify.ai/companies/tsc?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 3 locations |
-| Category | DevOps Engineer |
+| Category | Learning & Development |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://tsc.wd12.myworkdayjobs.com/tsc-careers/job/Aurora-CO/Developer-Experience---AI-Enablement-Lead_JR2788) |
 
 ## About This Role
 
-This devops engineer position at Tsc was posted on 2026-09-17.
+This learning & development position at Tsc was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

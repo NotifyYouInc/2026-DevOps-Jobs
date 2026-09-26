@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | India |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-09-18 |
 | Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Cloud-DevOps-Engineer---Data-QA_R-2026-71597) |
 
 ## About This Role
 
-This devops engineer position at Southwest Airlines was posted on 2026-09-18.
+This qa engineer position at Southwest Airlines was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

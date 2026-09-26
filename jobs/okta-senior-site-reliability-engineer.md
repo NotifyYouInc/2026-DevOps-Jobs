@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | DevOps Engineer |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8078730?gh_jid=8078730) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8184824?gh_jid=8184824) |
 
 ## About This Role
 
-This devops engineer position at Okta was posted on 2026-09-08.
+This devops engineer position at Okta was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

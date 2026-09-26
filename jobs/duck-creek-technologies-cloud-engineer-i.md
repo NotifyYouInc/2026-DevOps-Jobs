@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duck Creek Technologies](https://scoutify.ai/companies/duck-creek-technologies?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Massachusetts, US |
+| Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers/job/Remote-MA/Cloud-Engineer-I_REQID55105-1) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://duckcreek.wd1.myworkdayjobs.com/duckcreekcareers/job/Mumbai-India/Cloud-Engineer-I_REQID55174-1) |
 
 ## About This Role
 
-This devops engineer position at Duck Creek Technologies was posted on 2026-06-25.
+This devops engineer position at Duck Creek Technologies was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

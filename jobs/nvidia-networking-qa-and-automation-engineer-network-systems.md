@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Israel-Yokneam/Networking-QA-and-Automation-Engineer--Network-Systems_JR2025751) |
 
 ## About This Role
 
-This devops engineer position at Nvidia was posted on 2026-09-17.
+This qa engineer position at Nvidia was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

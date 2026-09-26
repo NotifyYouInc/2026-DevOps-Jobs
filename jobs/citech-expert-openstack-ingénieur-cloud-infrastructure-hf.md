@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CITECH](https://scoutify.ai/companies/citech?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000148857090-expert-openstack-ingenieur-cloud-infrastructure-hf) |
+| Category | DevOps Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CITECH/744000150403087-expert-openstack-ingenieur-cloud-infrastructure-hf) |
 
 ## About This Role
 
-This it & systems administration position at CITECH was posted on 2026-09-10.
+This devops engineer position at CITECH was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

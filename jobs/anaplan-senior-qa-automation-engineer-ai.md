@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anaplan](https://scoutify.ai/companies/anaplan?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
-| Category | DevOps Engineer |
+| Category | QA Engineer |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anaplan/jobs/8816494002) |
 
 ## About This Role
 
-This devops engineer position at Anaplan was posted on 2026-09-17.
+This qa engineer position at Anaplan was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

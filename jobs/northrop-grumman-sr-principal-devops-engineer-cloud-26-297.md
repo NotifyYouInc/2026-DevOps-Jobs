@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Colorado, US |
 | Category | DevOps Engineer |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sr-Principal-DevOps-Engineer--Cloud---26-297-_R10236173) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/Sr-Principal-DevOps-Engineer--Cloud---26-297-_R10251602) |
 
 ## About This Role
 
-This devops engineer position at Northrop Grumman was posted on 2026-06-12.
+This devops engineer position at Northrop Grumman was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

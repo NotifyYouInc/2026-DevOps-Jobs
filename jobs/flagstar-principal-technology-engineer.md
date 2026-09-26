@@ -5,12 +5,12 @@
 | Company | [Flagstar](https://scoutify.ai/companies/flagstar?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | 2 locations |
 | Category | DevOps Engineer |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Troy5151-Corporate-Drive112300/Principal-Technology-Engineer_19891) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://flagstar.wd5.myworkdayjobs.com/flagstar/job/Troy5151-Corporate-Drive112300/Principal-Technology-Engineer_21398) |
 
 ## About This Role
 
-This devops engineer position at Flagstar was posted on 2026-05-15.
+This devops engineer position at Flagstar was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

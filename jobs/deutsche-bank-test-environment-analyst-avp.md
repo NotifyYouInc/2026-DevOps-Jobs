@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Test-Environment-Analyst---AVP_R0427427) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Test-Environment-Analyst---AVP_R0447581) |
 
 ## About This Role
 
-This devops engineer position at Deutsche Bank was posted on 2026-03-08.
+This devops engineer position at Deutsche Bank was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

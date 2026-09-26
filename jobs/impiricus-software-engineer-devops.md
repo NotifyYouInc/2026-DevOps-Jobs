@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Impiricus](https://scoutify.ai/companies/impiricus?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | DevOps Engineer |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/impiricus/jobs/5199972008) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/impiricus/jobs/5428945008) |
 
 ## About This Role
 
-This devops engineer position at Impiricus was posted on 2026-04-24.
+This devops engineer position at Impiricus was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

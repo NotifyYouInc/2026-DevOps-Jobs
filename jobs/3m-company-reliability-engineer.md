@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Maplewood, Minnesota, United States |
-| Category | Industrial Automation |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Reliability-Engineer_R01166328) |
+| Location | Austin, Texas, United States |
+| Category | DevOps Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Texas-Austin/Reliability-Engineer_R01170982) |
 
 ## About This Role
 
-This industrial automation position at 3M Company was posted on 2026-06-15.
+This devops engineer position at 3M Company was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

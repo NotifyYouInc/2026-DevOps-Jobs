@@ -1,16 +1,16 @@
-# Site Reliability Engineer  at Point72
+# Site Reliability Engineer at Point72
 
 | Field | Details |
 |-------|---------|
 | Company | [Point72](https://scoutify.ai/companies/point72?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | DevOps Engineer |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8464116002?gh_jid=8464116002) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://boards.greenhouse.io/point72/jobs/8525045002?gh_jid=8525045002) |
 
 ## About This Role
 
-This devops engineer position at Point72 was posted on 2026-03-27.
+This devops engineer position at Point72 was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

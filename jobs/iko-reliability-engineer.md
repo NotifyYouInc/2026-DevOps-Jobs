@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IKO](https://scoutify.ai/companies/iko?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Ashcroft, British Columbia, Canada |
+| Location | Sumas, Washington, United States |
 | Category | Industrial Automation |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Ashcroft-BC/Reliability-Engineer_REQ-13742) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Sumas-WA/Reliability-Engineer_REQ-11826) |
 
 ## About This Role
 
-This industrial automation position at IKO was posted on 2026-08-26.
+This industrial automation position at IKO was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

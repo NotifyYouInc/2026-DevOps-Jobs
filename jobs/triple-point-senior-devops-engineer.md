@@ -5,12 +5,12 @@
 | Company | [Triple Point](https://scoutify.ai/companies/triplepointllp?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | London, England, United Kingdom |
 | Category | DevOps Engineer |
-| Posted | 2026-07-06 |
+| Posted | 2026-09-18 |
 | Apply | [View on company site](https://job-boards.eu.greenhouse.io/triplepointllp/jobs/4919771101) |
 
 ## About This Role
 
-This devops engineer position at Triple Point was posted on 2026-07-06.
+This devops engineer position at Triple Point was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

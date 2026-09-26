@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | DevOps Engineer |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000141429535-qa-automation-engineer) |
+| Category | QA Engineer |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000150371774-qa-automation-engineer) |
 
 ## About This Role
 
-This devops engineer position at Evolution Gaming Group was posted on 2026-08-04.
+This qa engineer position at Evolution Gaming Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

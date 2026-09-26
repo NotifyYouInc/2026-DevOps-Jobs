@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Autodesk](https://scoutify.ai/companies/autodesk?utm_source=github&utm_medium=repo&utm_campaign=devops-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Pune, Maharashtra, India |
 | Category | DevOps Engineer |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Atlanta-GA-USA/Site-Reliability-Engineer_26WD98046) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://autodesk.wd1.myworkdayjobs.com/Ext/job/APAC---India---Pune---ABIL-Boulevard/Site-Reliability-Engineer_26WD98218-1) |
 
 ## About This Role
 
-This devops engineer position at Autodesk was posted on 2026-05-21.
+This devops engineer position at Autodesk was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 
